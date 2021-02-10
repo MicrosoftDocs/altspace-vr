@@ -39,13 +39,13 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/windows/mixed-reality/altspace-vr/breadcrumb/toc.json",
+      "breadcrumb_path": "/windows/mixed-reality/docs/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "altspace-vr",
+    "dest": "docs",
     "markdownEngineName": "markdig"
   }
 }
