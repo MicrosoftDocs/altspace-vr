@@ -1,2 +1,12 @@
-- name: Index
-  href: index.md
+- name: Welcome to AltspaceVR
+  href: index.yml
+- name: Getting started
+  href: getting-started/toc.yml
+- name: Tutorials
+  href: tutorials/toc.yml
+- name: World-building
+  href: world-building/toc.yml
+- name: Community information
+  href: community/toc.yml
+- name: FAQs
+  href: faqs/toc.yml

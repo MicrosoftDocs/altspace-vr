@@ -1,0 +1,38 @@
+- name: What is the Early Access Program?
+  href: early-access.md
+- name: Getting started with the World Editor
+  href: world-editor-getting-started
+- name: Introducing the World Building Toolkit 
+  href: world-building-toolkit-getting-started.md
+- name: Creating your first AltspaceVR world
+  href: world-building-getting-started.md
+- name: Improving world performance
+  href: improving-performance.md
+- name: Managing your worlds
+  href: managing-worlds.md
+- name: Using a Mixed Reality Extension
+  href: using-mixed-reality-extensions.md
+- name: Importing glTF models
+  href: importing-models.md
+- name: Adding welcome messages 
+  href: adding-welcome-messages.md
+- name: Adding custom spawn points 
+  href: adding-custom-spawn-points.md
+- name: Adding user abilities
+  href: adding-user-abilities.md
+- name: Uploading custom Skyboxes
+  href: uploading-custom-skyboxes.md
+- name: Uploading custom kits
+  href: uploading-custom-kits.md
+- name: Backing up your worlds 
+  href: backing-up-worlds.md
+- name: Granting world roles 
+  href: granting-roles.md
+- name: FAQs
+  items:
+    - name: Where can I get help?
+      href: getting-help.md
+    - name: World-building help
+      href: world-building-faq.md
+    - name: Unity Uploader help
+      href: unity-uploader-faq.md
