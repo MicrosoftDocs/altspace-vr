@@ -50,7 +50,7 @@ Once you have completed the account-linking process, you will see that your acco
 
 ![AltspaceVR app open with account panel showing activation pin]()
 
-5. Here you will need to switch over to your computer's browser screen and go to [microsoft.com/devicelogin](microsoft.com/devicelogin)
+5. Here you will need to switch over to your computer's browser screen and go to [microsoft.com/devicelogin](https://login.microsoftonline.com/common/oauth2/deviceauth)
     * Enter your unique code and select **NEXT** - the code isn't case sensitive
     * Follow the login instructions presented
 
@@ -109,7 +109,7 @@ Don't worry, you have some time to make the update. We'll be rolling our Microso
 
 **What about my privacy and data?**
 
-There is no change to our [Terms of Service](../faqs/terms-of-service.md) or our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy and ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft's core principles around privacy [here](https://privacy.microsoft.com). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, remember, if you have an active AltspaceVR account, you can request a copy of your data and/or even request to have your data deleted at anytime.
+There is no change to our [Terms of Service](../community/terms-of-service.md) or our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy and ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft's core principles around privacy [here](https://privacy.microsoft.com). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, remember, if you have an active AltspaceVR account, you can request a copy of your data and/or even request to have your data deleted at anytime.
 
 ## See also
 

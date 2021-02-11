@@ -5,7 +5,7 @@
 - name: How do nametags work?
   href: nametags.md
 - name: How do I update my email address?
-  href: updating-email-addresses.md
+  href: updating-email-address.md
 - name: Does my VR headsets have a built-in mic?
   href: vr-headset-mic.md
 - name: Is there a push-to-talk button?
@@ -21,4 +21,4 @@
 - name: How do I upload my client logs?
   href: uploading-client-logs.md
 - name: I can't launch AltspaceVR
-  href: uanble-to-launch.md
+  href: unable-to-launch.md
