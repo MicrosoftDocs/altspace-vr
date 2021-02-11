@@ -23,6 +23,7 @@ You'll want to make sure you are in your Homespace, in an Event or World that yo
 
 It will also help to 1. create the Events (eg Event A and B) or Worlds first, then 2. go to where you want to spawn the Teleporter, so your Events / Worlds will populate in the Teleporter Destination panel and make it faster/easier for you to connect them.
 
+Another trick to help you navigate around with Teleporters in 2D Mode is to use Ctrl + Spacebar. It'll bring up the Command Prompt and you can type in: back -That will take you back to the last space you were in! 
 
 Now move to the location where you'd like to spawn a Teleporter and click on World Editor / Editor Panel / Basics / Teleporter.
 
