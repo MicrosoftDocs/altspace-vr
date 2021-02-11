@@ -27,6 +27,7 @@ To turn your object into an interactable object:
 
 On the settings page you’ll find a new checkbox **“Object spawner“**, which is used to make it an interactable object.
 
+1. Check the box and click **confirm**.
 2. While in edit mode you’ll be able to move around the object’s spawn location in the space.
 3. **Exit edit mode** to enable item interaction.
 
