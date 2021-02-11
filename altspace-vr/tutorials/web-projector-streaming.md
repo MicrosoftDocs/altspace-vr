@@ -22,6 +22,7 @@ The AltspaceVR Web Projector is a robust media-sharing solution that allows you 
 > [!NOTE]
 > This feature is primarily intended to stream a browser tab of your choice. If you're attempting to instead stream your Desktop Application, the Web Projector will stream all computer audio (including AltspaceVR) which may result in echo/feedback. You'll need to mute AltspaceVR in order to prevent this from happening. Alternatively, you can also use a separate device to run AltspaceVR while you stream from your PC.
 
+## Getting started
 
 1. To begin, you will need to download and install the browser extension which can be found [HERE](https://account.altvr.com/web_projector).
 2. Next, [sideload your extension in your Edge browser](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
