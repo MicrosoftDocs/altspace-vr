@@ -23,6 +23,7 @@ Admin
 - All event management tools via the website. You can Edit, End Event, Set to Draft, Re-Import World, Duplicate Event, Delete Event and Add as Main Event (Public events only).
 - Enables World Editor in your event: Environment Clipping, Toggle Flight, Toggle Environment, Edit Mode and Editor Panel.
 Presenter - Enables Host Tools in your event: Toggle Mute-All, Message All, Amplify My Voice, Go On-Air (FrontRow events only), Toggle Stage Blocker and Host Panel.
+Moderator - Enables you to Mute, Message or Kick users from your event by either using the buttons on that avatar’s nametag or by using the Host Tools/Host Panel/Guests/Select Guest to do the same.
 
 ### Contextual Roles - Available when you edit your event:
 
