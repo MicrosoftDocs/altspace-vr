@@ -33,7 +33,7 @@ There are several reasons why AltspaceVR may not launch for you. Try out the fol
 ## If the program was working, but ceased to launch after update:
 
 * Perform a 'Clean Reinstall' of the software. This requires you to uninstall or remove existing versions of the Application. Once fully removed from your system, install Altspace via Steam, Oculus, or Microsoft Store.
-* If you do have a problem launching AltspaceVR, please let us know via a [support ticket](https://help.altvr.com/hc/requests/new). Please include a [log file](https://help.altvr.com/hc/search?utf8=%E2%9C%93&query=log&commit=Search) from your session.
+* If you do have a problem launching AltspaceVR, please let us know via a [support ticket](https://help.altvr.com/hc/requests/new). Please include a [log file](uploading-client-logs.md) from your session.
 
 ## If AltspaceVR fails to launch after customizing your home space:
 
