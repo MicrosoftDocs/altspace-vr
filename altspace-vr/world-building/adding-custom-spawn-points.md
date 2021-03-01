@@ -23,6 +23,7 @@ People entering your World will "spawn" or appear at the origin, position (0,0,0
 
 3. Reenter your World via Menu > Settings > General > Re-enter Space > Re-Enter
 4. You should spawn at your new Spawn Point!
+5. If you want people to face a different direction, click on the settings for the Spawn Point and set **Rotation > Y** only. Try setting Y to 180 and both X and Z to 0 (Warning: X and Z are advanced may make people sick). Then click "Confirm" and re-enter the World. That should spawn you facing the opposite direction. 
 
 ## Troubleshooting
 
