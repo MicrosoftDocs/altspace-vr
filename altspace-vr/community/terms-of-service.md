@@ -20,6 +20,7 @@ IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PL
 
 This End User License Agreement and Terms of Service (this **“EULA”**) is a binding contract between you, an individual user (**“you”**) and Microsoft Corporation (**“AltVR**,” **“we**,” **“us”** or **“our”**) governing your use of any websites, mobile applications or other software (including without limitation, any software development kits) and/or other online services or properties owned or controlled by AltVR (collectively, the **“Service”**).  **BY INSTALLING OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS EULA.  IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, THEN YOU MAY NOT USE THE SERVICE**.   
 
+Material Terms and Notices:  As provided in greater detail in this EULA (and without limiting the express language of this EULA), you acknowledge the following:
 
 * the Service is licensed to you, not sold to you, and you may use the Service only as set forth in this EULA;
 * the use of the Service may be subject to separate third party terms of service and fees, including, without limitation, such terms of service and fees imposed by your mobile network operator (the “Carrier”), including fees charged for data usage and overage, which are your sole responsibility;
