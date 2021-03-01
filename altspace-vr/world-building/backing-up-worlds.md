@@ -25,6 +25,7 @@ A Backup currently includes most things you can spawn with the World Editor:
 * Native Apps (e.g. Holograms Against Reality)
 
 The following isn’t included:
+
 * Layout overrides
 * Skyboxes and ambient sound
 * Templates

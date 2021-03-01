@@ -1,7 +1,7 @@
-- name: What is the Early Access Program?
-  href: early-access.md
 - name: Getting started with the World Editor
   href: world-editor-getting-started.md
+- name: What is the Early Access Program?
+  href: early-access.md
 - name: Introducing the World Building Toolkit 
   href: world-building-toolkit-getting-started.md
 - name: Creating your first AltspaceVR world
