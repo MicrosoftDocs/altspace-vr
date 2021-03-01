@@ -26,6 +26,7 @@ The Early Access program gives you access to the latest features that are still 
 
 1. Edit your Altspace [profile](https://account.altvr.com/users/sign_in)
 2. Check the "Early Access" circle and press "Update":
+
 ![Altspace profile open with early access option highlighted]()
 
 3. If you're already in Altspace, please restart
