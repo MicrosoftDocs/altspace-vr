@@ -22,6 +22,7 @@ Make sure you give permissions to use your Mic audio when you are installing Alt
 ## Windows Mixed Reality, Oculus Rift, HTC Vive, or 2D Mode
 
 Make sure you have the correct microphone settings in AltspaceVR: Menu / Settings / Audio / Audio Input Selection. Then using the arrow buttons to select the Mic you'd like to use.
+
 Before starting AltspaceVR ensure that the proper microphone is set as your default recording device in Windows. The Oculus Rift and HTC Vive both have a built in microphone, if you have another microphone plugged in AltspaceVR may be trying to use that device.
  
 To change your default recording device in Windows:
