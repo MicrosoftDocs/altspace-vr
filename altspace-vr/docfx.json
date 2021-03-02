@@ -41,7 +41,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/windows/mixed-reality/altspace-vr/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "ms.prod": "mixed-reality",
+      "keywords": "altspace, altspacevr, mixed reality, virtual reality, mre, mixed reality extensions, developers, visual studio code"
     },
     "fileMetadata": {},
     "template": [],
