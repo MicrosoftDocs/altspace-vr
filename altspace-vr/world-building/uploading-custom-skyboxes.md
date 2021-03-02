@@ -25,6 +25,7 @@ You can also use the [Unity Uploader](world-building-toolkit-getting-started.md)
 
 ![]()
 
+3. You can optionally upload a "preview" image so you can easily identify this skybox. In addition, you can upload ambient audio in WAV format. We recommend you upload preview images and ambient audio separately, after you upload the 360 image. If you upload them together the file sizes can be large enough to stall the process. [Jetsons World](https://account.altvr.com/worlds/1004174988393054363/spaces/1084431533181240311) is a great example of how to use a Skybox with ambient audio. Notice how the World-Builder kept the audio volume very low and sounds you hear are sporadic so people don't get annoyed. 
 4. Enter your World and open the World Editor. Under Skyboxes, click your new Skybox. In a few seconds the sky will literally change. Others in your World will also see the sky change. To switch back, click the "default" skybox in that same list. 
 
 ## Troubleshooting
