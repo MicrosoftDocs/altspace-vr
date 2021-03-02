@@ -11,7 +11,7 @@ keywords:
 
 # Using a Gamepad in AltspaceVR
 
-AltspaceVR has gamepad support for Windows. All in-VR controls are mapped to the Xbox 360 gamepad, including the teleport system, mouse cursor control and page scrolling. Xbox 360 controllers are automatically recognized by AltspaceVR.
+AltspaceVR has built-in gamepad support for Windows, and Xbox 360 controllers are automatically recognized. All in-VR controls are mapped to the Xbox 360 gamepad, including the teleport system, mouse cursor control, and page scrolling. You'll find a full list of controls and action mapping below.
 
 ## Gamepad controls
 
