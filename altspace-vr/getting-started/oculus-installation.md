@@ -12,25 +12,25 @@ keywords:
 # Oculus Quest/Quest 2 installation
 
 > [!IMPORTANT]
-> Make sure you've set up your Oculus Quest before installing AltspaceVR. [See Oculus Support - How do I set up my Oculus Quest headset?](https://support.oculus.com/855551644803876/#faq_525406631321134) for more details.
+> Make sure you've set up your Oculus Quest before installing AltspaceVR. **[See Oculus Support - How do I set up my Oculus Quest headset?](https://support.oculus.com/855551644803876/#faq_525406631321134)** for more details.
 
 ## Oculus Store (from the mobile app)
 
 1. Open the Oculus app.
 2. [Open AltspaceVR on the Oculus Store](https://www.oculus.com/experiences/quest/2133027990157329/).
-3. Click the Free button to add AltspaceVR to your library.
-    * The Free button will transition to say Install on Oculus Quest. Click this button to queue the app for installation on your device.
-4. Once complete, the Install on Oculus Quest button will transition to Start.    
-    * Click this button to launch the application, and then put on your headset to begin!
+3. Click the Free button to add AltspaceVR to your library. 
+4. When the Free button transitions to **Install on Oculus Quest**, select it to queue the app for installation on your device.
+5. Once complete, the Install on Oculus Quest button will transition to **Start**. 
+6. Select **Start** to launch the application, and then put on your headset to begin!
 
 ## Oculus Store (from the Oculus Quest)
 
-1. Open the toolbar by pressing the Oculus button on the right Touch controller. This button is labelled with the Oculus icon and is below the thumbstick.
-2. Select the Navigate button on the toolbar. This will open another toolbar -- select Store on this toolbar.
-3. Navigate to the AltspaceVR app in the store. You can do this by browsing the store, or by clicking Search in the top-right of the store and entering 'Altspace' in the search box.
-4. On the AltspaceVR Store page, click the blue Free button to get and begin installing the app.
-    * If the install doesn't begin immediately, look for an Install button on the page and click it to begin the installation.
-5. Once the app is installed, you can click Open from the store page to launch it. You can also launch it anytime from your library.
+1. Open the toolbar by pressing the **Oculus button** on the **right Touch controller** labelled with the Oculus icon.
+2. Select **Navigate** from the toolbar, which will open another toolbar -- select **Store** on the second toolbar.
+3. Navigate to the AltspaceVR app in the store. You can do this by browsing the store, or by clicking **Search** in the top-right of the store and entering 'Altspace' in the search box.
+4. On the AltspaceVR Store page, click the blue **Free** button to get and begin installing the app.
+5. If the install doesn't begin immediately, look for an Install button on the page and click it to begin the installation.
+6. Once the app is installed, you can click Open from the store page to launch it. You can also launch it anytime from your library.
 
 ## Troubleshooting
 
