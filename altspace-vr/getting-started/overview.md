@@ -11,7 +11,7 @@ keywords: world editor, unity uploader, forums
 
 # Getting started with AltspaceVR
 
-Welcome to the AltspaceVR developer forums. There are multiple ways to add content to AltspaceVR. Here is an overview for them:
+Welcome to the AltspaceVR developer forums! Explore the different ways you can add content to AltspaceVR in the following sections.
 
 ## Mixed Reality Extension (MRE) SDK
 

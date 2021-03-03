@@ -11,7 +11,7 @@ keywords: microsoft, 2D mode, VR mode
 
 # Linking your Microsoft account
 
-AltspaceVR now supports [Microsoft Account integration]((https://account.microsoft.com/account)). Having a Microsoft Account let you access your favorite Microsoft products and services with a single login. From Office and Windows to Xbox and Minecraft, your Microsoft Account connects you to the files, photos, people, and content you care about most. 
+AltspaceVR now supports [Microsoft Account integration](https://account.microsoft.com/account). Having a Microsoft Account let you access your favorite Microsoft products and services with a single login. From Office and Windows to Xbox and Minecraft, your Microsoft Account connects you to the files, photos, people, and content you care about most. 
 
 Microsoft Account integration in AltspaceVR will roll out in phases and is currently optionally available for all AltspaceVR account holders. You can learn more about the roadmap and Microsoft Account integration on our [blog](https://altvr.com/microsoft-account-integration). 
 

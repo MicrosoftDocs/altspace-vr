@@ -1,12 +1,12 @@
 ---
 title: Avatar controls with mouse/keyboard in 2D PC mode
-description: 
+description: Learn how to switch between new and classic control schemes to move your avatars with the mouse and keyboard in 2D PC mode. 
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: avatar, mouse, keyboard, 2d, pc mode, controls
 ---
 
 # Avatar controls with mouse/keyboard in 2D PC mode
