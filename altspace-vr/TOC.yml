@@ -29,7 +29,7 @@
     - name: Advanced events
       items:
         - name: Scaling audiences with FrontRow
-          href: faq/scaling-audiences.md
+          href: faqs/scaling-audiences.md
         - name: Web projector 
           href: tutorials/web-projector-streaming.md
         - name: Multimedia console
@@ -103,35 +103,35 @@
         - name: Audio 
           items: 
             - name: Does my VR Headset have a Built In Microphone?
-              href: faq/vr-headset-mic.md
+              href: faqs/vr-headset-mic.md
             - name: Is there a push-to-talk button?
-              href: faq/push-to-talk.md
+              href: faqs/push-to-talk.md
             - name: My audio is choppy
-              href: faq/choppy-audio.md
+              href: faqs/choppy-audio.md
             - name: Other users can't hear me 
-              href: faq/other-users-cant-hear-me.md
+              href: faqs/other-users-cant-hear-me.md
         - name: Account & avator 
           items: 
             - name: How do nametages work?
-              href: faq/nametags.md
+              href: faqs/nametags.md
             - name: How do I change my account information?
-              href: faq/updating-email-address.md
+              href: faqs/updating-email-address.md
         - name: AltspaceVR application
           items:
             - name: How do I find the AltspaceVR app version?
-              href: faq/app-version.md
+              href: faqs/app-version.md
             - name: How do I upload client logs?
-              href: faq/uploading-client-logs.md
+              href: faqs/uploading-client-logs.md
             - name: I'm unable to launch AltspaceVR 
-              href: faq/unable-to-launch.md
+              href: faqs/unable-to-launch.md
         - name: Health & safety
           items:
             - name: Will AltspaceVR cause motion sickness?
-              href: faq/motion-sickness.md
+              href: faqs/motion-sickness.md
         - name: Events 
           items: 
             - name: What are FrontRow events?
-              href: faq/front-row-events.md
+              href: faqs/front-row-events.md
 - name: Contact us 
   items: 
     - name: Feedback 
