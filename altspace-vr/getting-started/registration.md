@@ -1,27 +1,28 @@
 ---
 title: Registering for AltspaceVR
-description: 
+description: Get step-by-step instructions on how to create and register a new AltspaceVR account and answers to commonly asked questions.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: registration, account, faqs, troubleshooting
 ---
 
 # Registering for AltspaceVR
 
 You can register for AltspaceVR from within the AltspaceVR app itself.
 
-Start by downloading AltspaceVR from your preferred app store or library. Download details can be found [HERE](https://altvr.com/getaltspacevr).
+1. Start by [downloading AltspaceVR](https://altvr.com/getaltspacevr) from your preferred app store or library. 
+2. Once you've downloaded and entered AltspaceVR, go ahead and create your account in by clicking on **Sign Up**.
+3. After signing up, you'll receive a confirmation email titled "Confirmation instructions" from "AltspaceVR@altvr.com". 
 
-Once you've downloaded and entered AltspaceVR, go ahead and create your account in by clicking on Sign Up.
+> [!NOTE]
+> Gmail has been known to stick these messages in the "Promotions" tab, so if you don't see it in your inbox, be sure to check in there.
 
-After signing up you will receive a confirmation email titled "Confirmation instructions" from "AltspaceVR@altvr.com". (Gmail has been known to stick these messages in the "Promotions" tab, so if you don't see it in your inbox, be sure to check in there.) 
+4. Click the link provided in the confirmation email to connect your email to your account. Before you do this, you won't be able to log back into your account if you accidentally get logged off, log on from another device, or access your account on our website.
 
-Clicking the link provided in the confirmation email is what actually affixes your email to your account. Before you do this, you won't be able to log back into your account if you accidentally get logged off, log on from another device, or access your account on our website.
-
-If you have any issues signing in make sure you have [confirmed your email address](https://account.altvr.com/users/confirmation/new) and that ]your password is correct](https://account.altvr.com/users/password/new).
+If you have any issues signing in make sure you have [confirmed your email address](https://account.altvr.com/users/confirmation/new) and that [your password is correct](https://account.altvr.com/users/password/new).
 
 ## Commonly Asked Questions
 

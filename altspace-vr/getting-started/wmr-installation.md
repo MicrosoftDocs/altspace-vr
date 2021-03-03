@@ -1,12 +1,12 @@
 ---
 title: Windows Mixed Reality installation
-description: 
+description: Get step-by-step instructions for installing AltspaceVR on a Windows Mixed Reality device.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: installation, microsoft store, steam
 ---
 
 # Windows Mixed Reality installation
@@ -21,7 +21,7 @@ Set up Windows Mixed Reality:
 
 Run AltspaceVR:
 1. [Get AltspaceVR on the Microsoft Store](https://www.microsoft.com/p/altspacevr/9nvr7mn2fchq).
-2. Open the Start Menu and type ‘AltspaceVR’ in the search box.
+2. Open the Start Menu and type **AltspaceVR** in the search box.
 3. Identify the AltspaceVR app in the search results and click to launch.
 
 ## Steam

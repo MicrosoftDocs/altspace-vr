@@ -1,12 +1,12 @@
 ---
 title: Windows Mixed Reality controls
-description: 
+description: Learn about the basic control scheme for running AltspaceVR in Windows Mixed Reality.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: windows mixed reality, controls
 ---
 
 # Windows Mixed Reality controls
