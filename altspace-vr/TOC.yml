@@ -1,18 +1,141 @@
 - name: Welcome to AltspaceVR
   href: index.yml
-- name: Consumers
-  expanded: true
+- name: Getting started
+  href: getting-started/toc.yml
+- name: Discover content & people
   items: 
-    - name: Getting started
-      href: getting-started/toc.yml
-    - name: Tutorials
-      href: tutorials/toc.yml
-    - name: Community information
-      href: community/toc.yml
-    - name: FAQs
-      href: faqs/toc.yml
-- name: Developers
-  expanded: true 
-  items:  
-    - name: World-building
-      href: world-building/toc.yml
+    - name: Subscribe to our newsletter
+      href: community/newsletter-subscriptions.md
+    - name: Community involvement
+      items:
+        - name: Community helper program
+          href: community/community-helper-program.md
+        - name: Community helper guide
+          href: community/community-helper-guide.md
+- name: Creating & hosting events
+  items:
+    - name: Basic events
+      items:
+        - name: Setting up an event
+          href: tutorials/creating-an-event.md
+        - name: Roles in events, worlds, groups, and AltspaceVR
+          href: getting-started/roles.md
+        - name: Main event requirements
+          href: tutorials/main-events.md
+        - name: Using group features
+          href: tutorials/group-features.md
+        - name: Recovering deleted events 
+          href: tutorials/recovering-deleted-events.md
+    - name: Advanced events
+      items:
+        - name: Scaling audiences with FrontRow
+          href: faq/scaling-audiences.md
+        - name: Web projector 
+          href: tutorials/web-projector-streaming.md
+        - name: Multimedia console
+          href: tutorials/multimedia-console.md
+        - name: Interactables spawner
+          href: tutorials/interactable-spawner.md
+        - name: Teleporters
+          href: tutorials/teleporting.md
+        - name: Recoding and live streaming 
+          href: tutorials/recording-and-live-streaming.md
+    - name: Hosting tools
+      items:
+        - name: Overview
+          href: tutorials/host-tools-overview.md
+        - name: FrontRow events 
+          href: tutorials/host-tools-for-events.md
+- name: Controls & customizations
+  items:
+      - name: Early access
+        href: world-building/early-access.md
+      - name: Worlds Beta program 
+        items:
+          - name: Basic world building
+            items: 
+              - name: Creating content 
+                href: community/creating-content.md
+              - name: Getting started with the World Editor
+                href: world-building/world-editor-getting-started.md
+              - name: Improving performance 
+                href: world-building/improving-performance.md
+              - name: Managing your worlds 
+                href: world-building/managing-worlds.md
+              - name: Adding a welcome message 
+                href: world-building/adding-welcome-messages.md
+              - name: Adding spawn points 
+                href: world-building/adding-custom-spawn-points.md
+              - name: Backing up your worlds 
+                href: world-building/backing-up-worlds.md
+              - name: Managing worlds with friends
+                href: world-building/granting-roles.md
+              - name: Giving abilities to friends 
+                href: world-building/adding-user-abilities.md
+          - name: Advanced world building 
+            items:
+              - name: World Building Toolkit (Unity Uploader)
+                href: world-building/world-building-toolkit-getting-started.md
+              - name: Using Mixed Reality Extensions
+                href: world-building/using-mixed-reality-extensions.md
+              - name: Uploading kits
+                href: world-building/uploading-custom-kits.md
+              - name: Importing glTF models
+                href: world-building/importing-models.md
+              - name: Uploading skyboxes
+                href: world-building/uploading-custom-skyboxes.md
+          - name: FAQ
+            items: 
+              - name: Getting started with world building 
+                href: world-building/world-building-getting-started.md
+              - name: Getting help with world building
+                href: world-building/getting-help.md
+- name: Rules & standards 
+  items:
+    - name: Terms of service
+      href: community/terms-of-service.md
+    - name: Community standards 
+      href: community/community-standards.md
+- name: Troubleshooting & support 
+  items:
+    - name: Frequently asked questions
+      items:
+        - name: Audio 
+          items: 
+            - name: Does my VR Headset have a Built In Microphone?
+              href: faq/vr-headset-mic.md
+            - name: Is there a push-to-talk button?
+              href: faq/push-to-talk.md
+            - name: My audio is choppy
+              href: faq/choppy-audio.md
+            - name: Other users can't hear me 
+              href: faq/other-users-cant-hear-me.md
+        - name: Account & avator 
+          items: 
+            - name: How do nametages work?
+              href: faq/nametags.md
+            - name: How do I change my account information?
+              href: faq/updating-email-address.md
+        - name: AltspaceVR application
+          items:
+            - name: How do I find the AltspaceVR app version?
+              href: faq/app-version.md
+            - name: How do I upload client logs?
+              href: faq/uploading-client-logs.md
+            - name: I'm unable to launch AltspaceVR 
+              href: faq/unable-to-launch.md
+        - name: Health & safety
+          items:
+            - name: Will AltspaceVR cause motion sickness?
+              href: faq/motion-sickness.md
+        - name: Events 
+          items: 
+            - name: What are FrontRow events?
+              href: faq/front-row-events.md
+- name: Contact us 
+  items: 
+    - name: Feedback 
+      href: community/feature-requests.md
+    - name: Filing abuse reports 
+      href: community/filing-abuse-reports.md
+            

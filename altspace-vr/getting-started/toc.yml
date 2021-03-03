@@ -2,17 +2,13 @@
   href: overview.md
 - name: Minimum system requirements
   href: system-requirements.md
-- name: Linking your Microsoft account
-  href: linking-microsoft-account.md
-- name: Registering for AltspaceVR
-  href: registration.md
 - name: Installation
   items:
-  - name: Windows Mixed Reality
-    href: wmr-installation.md
-  - name: Oculus Quest/Quest 2
-    href: oculus-installation.md
-- name: Basic controls
+    - name: Windows Mixed Reality
+      href: wmr-installation.md
+    - name: Oculus Quest/Quest 2
+      href: oculus-installation.md
+- name: Input controls
   items:
     - name: Windows Mixed Reality 
       href: wmr-controls.md
@@ -24,5 +20,9 @@
       href: gamepad-controls.md
     - name: Keyboard shortcuts
       href: keyboard-shortcuts.md
-- name: Roles in events, worlds, groups, and AltspaceVR
-  href: roles.md
+- name: Creating an account
+  items:
+    - name: Registering for AltspaceVR
+    href: registration.md
+    - name: Linking your Microsoft account
+    href: linking-microsoft-account.md
