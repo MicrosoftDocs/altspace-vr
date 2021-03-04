@@ -1,7 +1,31 @@
 - name: Welcome to AltspaceVR
   href: index.yml
 - name: Getting started
-  href: getting-started/toc.yml
+  items:
+    - name: System requirements 
+      href: getting-started/system-requirements.md
+    - name: Windows Mixed Reality installation
+      href: getting-started/wmr-installation.md
+    - name: Oculus Quest/Quest 2 installation 
+      href: getting-started/oculus-installation.md
+    - name: Input controls 
+      items: 
+        - name: Windows Mixed Reality controls 
+          href: getting-started/wrm-controls.md
+        - name: Oculus Quest/Quest 2 controls 
+          href: getting-started/oculus-controls.md
+        - name: Keyboard shortcuts
+          href: getting-started/keyboard-shortcuts.md
+        - name: Controlling avatars with Mouse/Keyboard in 2D PC Mode
+          href: getting-started/avatar-controls.md
+        - name: Using gamepad controls 
+          href: getting-started/gamepad-controls.md
+    - name: Account creation 
+      items:
+        - name: Registering an account 
+          href: getting-started/registration.md
+        - name: Linking Microsoft accounts 
+          href: getting-started/linking-microsoft-account.md
 - name: Discover content & people
   items: 
     - name: Subscribe to our newsletter
