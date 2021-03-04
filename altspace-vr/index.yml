@@ -153,6 +153,6 @@ additionalContent:
         - title: Contact us
           links:
             - text: Feedback
-              url: community/feature-reqquests.md
+              url: community/feature-requests.md
             - text: Filing abuse reports
               url: community/filing-abuse-reports.md

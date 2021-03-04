@@ -11,7 +11,7 @@
     - name: Input controls 
       items: 
         - name: Windows Mixed Reality controls 
-          href: getting-started/wrm-controls.md
+          href: getting-started/wmr-controls.md
         - name: Oculus Quest/Quest 2 controls 
           href: getting-started/oculus-controls.md
         - name: Keyboard shortcuts

@@ -43,7 +43,7 @@ The following are terms you will need to be familiar with for creating your even
 
 ## Understanding events
 
-AltspaceVR makes it easy to create a world in which you may use a pre-made template space to use or customize for your specific needs, or create a world from scratch. This article will cover using a pre-made template to create your event. The sections below on [Branding Your Event with Images](#branding-your-events-with-images) and [Adding 3D Objects using World Editor and Kits](#adding-3d-objects-using-world-editor-and-kits) include tips for further customization. For information on building a custom world from scratch, attend the World Building Tour meetups in AltspaceVR and [check out the World Building support documentation](../world-building/world-editor-getting-started.md).
+AltspaceVR makes it easy to create a world in which you may use a pre-made template space to use or customize for your specific needs, or create a world from scratch. This article will cover using a pre-made template to create your event. The sections below on [Branding Your Event with Images](#branding-your-event-with-images) and [Adding 3D Objects using World Editor and Kits](#adding-3d-objects-using-world-editor-and-kits) include tips for further customization. For information on building a custom world from scratch, attend the World Building Tour meetups in AltspaceVR and [check out the World Building support documentation](../world-building/world-editor-getting-started.md).
 
 AltspaceVR offers two ways to create a space for your event.
 
@@ -157,7 +157,7 @@ For more information on customizing your event space or creating an original eve
 
 ## Using the Multimedia Console for a slide presentation
 
-The Multimedia Console is a great way to organize your content for a presentation including images, audio or video. Follow the instructions here to get that setup for your event: [altvr.com/slides](altvr.com/slides)
+The Multimedia Console is a great way to organize your content for a presentation including images, audio or video. Follow the [Multimedia console instructions](multimedia-console.md) to get that setup for your event.
 
 ## Branding Your Event with Images
 
@@ -212,7 +212,7 @@ To add an existing 3D object from the World Building Kits into your event world,
 
 For more information on the World Editor Kits and adding 3D objects to AltspaceVR:
 
-* [What is the Early Access Program?](early-access.md)
+* [What is the Early Access Program?](../world-building/early-access.md)
 * [How to import glTF models into my Worlds?](../world-building/importing-models.md)
 * [How do I use an MRE in my World?](../world-building/using-mixed-reality-extensions.md)
 
