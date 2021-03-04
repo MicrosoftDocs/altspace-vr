@@ -1,6 +1,7 @@
 - name: Welcome to AltspaceVR
   href: index.yml
 - name: Getting started
+  expanded: true 
   items:
     - name: System requirements 
       href: getting-started/system-requirements.md
