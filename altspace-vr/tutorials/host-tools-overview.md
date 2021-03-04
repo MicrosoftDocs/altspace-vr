@@ -1,12 +1,12 @@
 ---
 title: Host tools overview
-description: 
+description: Learn how to leverage your host tools for non-FrontRow events, including muting, messaging, and moderating.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: host tools, mute, message, stage blocking, audience participation
 ---
 
 # Host tools overview
@@ -24,15 +24,19 @@ The host tools appear on the bottom right-hand side of your field-of-view. It is
 By muting your attendees, you can limit distracting sounds and keep things nice and quiet in your space. The mute function will last for as long as a host allows, or when the host leaves the space. When an attendee enters the space or tries to unmute, attendees will receive an on-screen message letting them know they’ve been muted by the host. When the host unmutes, the attendees will receive a message letting them know that they are unmuted as well.
 
 ### Message All
+
 Hosts can send a message to all the attendees present. Use any of our quick-notes or write an original one. Once sent, everyone will receive the message as a pop up.
 
 ### Amplify My Voice
+
 Hosts can amplify their microphones to ensure that everyone in your event will hear what you are saying regardless of distance.
 
 ### Stage Blocking (On/Off)
+
 Decide when and where attendees can stand. Choose to hog the spotlight, take turns presenting, or invite everyone on stage for a group dance party.
 
-Disclaimer: Not all worlds contain a stage blocker, so pick your event templates wisely. Make yourself familiar with our event templates on test events prior to creating your official event.
+> [!IMPORTANT]
+> Not all worlds contain a stage blocker, so pick your event templates wisely. Make yourself familiar with our event templates on test events prior to creating your official event.
 
 ![Host tools menu expanded to show available options with toggle stage blocker highlighted]()
 
@@ -54,7 +58,9 @@ As an Event Host you are responsible for managing the experience of others. To d
 
 ## Audience Participation Panel
 
-The Participation Panel is designed to help you manage interaction and participation from your audience. Here you can toggle on the “Allow Hand Raises” option in order to unlock audience participation. In FrontRow events you'll need to be On-Air to activate this, otherwise this button will appear as greyed-out. When the “Allow Hand Raises” function is on, a “Raise Hand” button appears in the bottom right-hand section of your guests’ field-of-view. When a guest clicks this button, their First Name and Username pop up in your Participation Panel. From here you can call on them, megaphone them, mute them, dismiss them, and—if your event is a Front Row event — put them “On Air” to mirror them across multiple rooms. To help you keep track, the participation panel will even light up red when you have guests waiting to be called on, and it will let you know how long each of your guests have been waiting, too.
+The Participation Panel is designed to help you manage interaction and participation from your audience. Here you can toggle on the “Allow Hand Raises” option in order to unlock audience participation. In FrontRow events you'll need to be On-Air to activate this, otherwise this button will appear as greyed-out. When the “Allow Hand Raises” function is on, a “Raise Hand” button appears in the bottom right-hand section of your guests’ field-of-view. When a guest clicks this button, their First Name and Username pop up in your Participation Panel. 
+
+From here you can call on them, megaphone them, mute them, dismiss them, and—if your event is a Front Row event — put them “On Air” to mirror them across multiple rooms. To help you keep track, the participation panel will even light up red when you have guests waiting to be called on, and it will let you know how long each of your guests have been waiting, too.
  
 ![Audience participation panel open with raise hand highlighted]()
 

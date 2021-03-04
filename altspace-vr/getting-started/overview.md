@@ -41,7 +41,7 @@ There is also a [wonderful video by Karnivore23](https://www.youtube.com/watch?v
 
 ## Unity Uploader
 
-We offer a Unity uploader for both worlds and custom kits. This feature is very early in development. To learn more, please join the [World Builders Discord channel](https://discord.com/invite/Kp59Frb) to chat, or read about it on the [World Building help pages](../world-building/get-help.md).
+We offer a Unity uploader for both worlds and custom kits. This feature is very early in development. To learn more, please join the [World Builders Discord channel](https://discord.com/invite/Kp59Frb) to chat, or read about it on the [World Building help pages](../world-building/getting-help.md).
 
 If you have legacy Unity 2018 kits or templates to update to Unity 2019.2, check out the [Upgrade Guide](https://developer.altvr.com/upgrade-2019-2/).
 

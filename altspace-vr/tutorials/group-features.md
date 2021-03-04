@@ -1,12 +1,12 @@
 ---
 title: Using the Groups Feature to Create Private Events
-description: 
+description: Learn how to create private VR spaces that are open to approved guest lists using our group events feature.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: groups, private events, patreon, eventbrite, troubleshooting
 ---
 
 # Using the Groups Feature to Create Private Events
@@ -97,7 +97,8 @@ Platforms like Patreon and Eventbrite allow you to export a *.csv file (co
 
 ## FAQ 
 
-**Q: I’m having trouble filling out the fields in groups. What do they mean?** 
+### I’m having trouble filling out the fields in groups. What do they mean?
+
 (*You can hover over the green “?” to get additional information about the fields that have them.) 
 
 * **Name** – The name of the group that will be visible to all members.   
@@ -140,7 +141,8 @@ Platforms like Patreon and Eventbrite allow you to export a *.csv file (co
 * **Twitter Handle** – embed the latest tweets from a Twitter account onto your Group’s landing page on the website. Note, this is for the Group website only and does not appear inside AltspaceVR.
 * **Create Group** – The button at the bottom of the page. When you have completed the fields described above, click this button to create your Group.  
 
-**Q: I’m having trouble managing my groups. What do I do?**
+### I’m having trouble managing my groups. What do I do?
+
 If you are a Member or Administrator of a Group, you have extra tools to manage your events. To access these options, go to the Groups page on the [website](https://account.altvr.com/groups).  
 
 1. Select either Member or Admin from the top bar and select the Group you want to manage/update. 
@@ -188,7 +190,7 @@ The group page you see when you are an Admin of a group. Note that you
 
 This is a group page with an Event scheduled. Events created for the group will appear here.
 
-**Q: I want to use Eventbrite and Patreon but I don’t see where to get the email addresses for my groups** 
+### I want to use Eventbrite and Patreon but I don’t see where to get the email addresses for my groups
 
 **Patreon ** 
 

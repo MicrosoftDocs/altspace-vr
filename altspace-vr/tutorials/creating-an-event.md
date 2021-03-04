@@ -1,19 +1,17 @@
 ---
 title: Creating an event
-description: 
+description: Learn about AltspaceVR events, how to create them, and adding branding and 3D objects with the World Editor.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: events, terminology, console, multimedia, world editor, live stream
 ---
 
 # Creating an event
 
-The following is a step-by-step guide to creating events in AltspaceVR.
-
-It is highly recommended that you attend several events in AltspaceVR to get a feel for how they work. Check the [AltspaceVR Events Calendar](https://account.altvr.com/events) for a list of all our events.
+The following is a step-by-step guide to creating events in AltspaceVR. It's highly recommended that you attend several events in AltspaceVR to get a feel for how they work. Check the [AltspaceVR Events Calendar](https://account.altvr.com/events) for a list of all our events.
 
 ## Objectives
 
@@ -28,6 +26,8 @@ It is highly recommended that you attend several events in AltspaceVR to get a f
 
 The following are terms you will need to be familiar with for creating your event and event space:
 
+</br>
+
 | Term | Definition |
 |---|---|
 | World Building | AltspaceVR offers the ability to create and customize virtual worlds. AltspaceVR hosts support documentation, Discord channels, and in-world events to help you [learn more about how to get help and start building worlds](../world-building/world-building-faq.md). |
@@ -38,8 +38,7 @@ The following are terms you will need to be familiar with for creating your even
  |
 | Website | References to the "website" are to [AltspaceVR's website](https://altvr.com/). It is often easier to create and edit events through the [Events web page](https://account.altvr.com/events/my) on a computer or tablet rather than through your VR device. You will need to access the website for [world building](../world-building/managing-worlds.md) as well. |
 | Contextual roles | [Contextual Roles](../getting-started/roles.md) are assigned by the event creator or world builder to users in a world or event space adding features and capabilities. Currently, these consist of Host, Presenter, Moderator, Pilot (flight), Terraformer (world building), and Megaphone Only. These may be assigned individually or globally, allowing everyone to have the same roles in the event space or world. |
-| User Interface (UI)/Menu
- | When you are in AltspaceVR in-world, within the immersive environment, there are menus on the left and right of your screen. The circle or main menu with the AltspaceVR logo opens up the main user interface (UI) or menu to access a variety of screens for exploring AltspaceVR and customizing your experience. Optional UI items are found on the right size of the screen and typically include World Editor and Host Tools. These are opened and interacted with by clicking them with your cursor. |
+| User Interface (UI)/Menu | When you are in AltspaceVR in-world, within the immersive environment, there are menus on the left and right of your screen. The circle or main menu with the AltspaceVR logo opens up the main user interface (UI) or menu to access a variety of screens for exploring AltspaceVR and customizing your experience. Optional UI items are found on the right size of the screen and typically include World Editor and Host Tools. These are opened and interacted with by clicking them with your cursor. |
 | SDK/MRE | These are world building terms associated with the Software Development Kit and [Mixed Reality Extensions](../world-building/using-mixed-reality-extensions.md) used to add features and functionality to the world building experience. These are typically for more advanced users. |
 
 ## Understanding events
@@ -51,9 +50,9 @@ AltspaceVR offers two ways to create a space for your event.
 * **One-time use:** Create an event and select a template world.
 * **Repeated Use:** Create a world space and import it into the event.
 
-The process of creating an event is the same for both, with one exception: the [creation of a world and importing it](../world-building/managing-worlds.md) as a repeat-use event space.
+The process of creating an event is the same for both, with one exception: the [creation of a world and importing it](../world-building/managing-worlds.md) as a repeat-use event space. You also need to know:
 
-You also need to know:
+</br>
 
 | Term | Definition |
 |---|---|
@@ -71,7 +70,7 @@ The following are step-by-step instructions for creating an event for a one-time
 > [!NOTE]
 > The AltspaceVR events web page offers instructions on every aspect of the form through the use of green question mark buttons. Roll your cursor over them for specific instructions.
 
-On the [Events > My Events](https://account.altvr.com/events/my) web page on AltspaceVR's website, click Schedule an Event or go straight to the [Create Event in AltspaceVR web page](https://account.altvr.com/events/new).
+On the [Events > My Events](https://account.altvr.com/events/my) web page on AltspaceVR's website, click **Schedule an Event** or go straight to the [Create Event in AltspaceVR web page](https://account.altvr.com/events/new).
 
 1. **Event Title:** Type in the name of the event. Keep it specific and concise for viewing on the various calendar views in AltspaceVR's website and in-world interface. Try to keep your title under 23 characters including spaces between words.
 2. **Description:** Type in the description of the event.
@@ -79,6 +78,7 @@ On the [Events > My Events](https://account.altvr.com/events/my) web page on Alt
     * Add an empty space between paragraphs.
     * To add a link to your event's Facebook, Discord, website, or other resources, use the following format (this Markdown only works on your Event's Promotion Page on the website, this won't properly render in the AltspaceVR menus):
     `[Event Name](http://example.com/)`
+
 3. **Start Date / End Date:** Set the start time and make sure the end time is after the start time.
 4. **Category:** Choose the category that best describes your event type. 
 5. Set the event to **Private** or **Public**.
