@@ -11,7 +11,7 @@ keywords: avatar, mouse, keyboard, 2d, pc mode, controls
 
 # Avatar controls with mouse/keyboard in 2D PC mode
 
-There are 2 different control schemes for 2D PC Mode using a mouse and keyboard:
+There are two different control schemes for 2D PC Mode using a mouse and keyboard:
 * New PC Controls, which is the default for new accounts
 * Classic PC Controls
 
@@ -19,17 +19,17 @@ You can switch between New/Classic Controls by going to **Menu > Settings > Inpu
 
 ## New PC controls
 
-You have 2 different modes when using the New PC controls: Cursor Mode and Look Mode. Right-click on your laptop or mouse to use the **Cursor/Look Toggle** to toggle between the two modes.
+You have two different modes when using the New PC controls: Cursor Mode and Look Mode. Right-click on your laptop or mouse to use the **Cursor/Look Toggle** to toggle between the two modes.
 
-* **Cursor Mode** lets you interact with the menus and you’ll know you are in this mode when you see the AltspaceVR Logo/Menu button at the bottom left of your view:
+* **Cursor Mode** lets you interact with the menus. You’ll know you're in Cursor Mode when you see the AltspaceVR Logo/Menu button at the bottom left of your view:
 
 ![Cursor mode with menu]()
 
-* **Look Mode** lets you look around and is great if you are using a laptop trackpad. You can use Look Mode and the keyboard to look/move at the same time. You’ll know you are in Look Mode if you see this at the bottom left your view:
+* **Look Mode** lets you look around and is great if you're using a laptop trackpad. You can use Look Mode and the keyboard to look/move at the same time. You’ll know you're in Look Mode if the bottom left your view looks like the screenshot below:
 
 ![Look mode]()
 
-### New PC Controls for Keyboard / Mouse :
+### New PC Controls for Keyboard / Mouse
 
 ![Keyboard and mouse with input mappings]()
 
@@ -44,7 +44,7 @@ You have 2 different modes when using the New PC controls: Cursor Mode and Look 
 | Left click | Teleport to targeted location |
 | Hold left click | Preview targeted location |
 | Middle click | Move forward |
-| Right click + Move mouse | Rotate/Pan camera to look around |
+| Right-click + Move mouse | Rotate/Pan camera to look around |
 | Right click + Middle wheel scroll forward/back | Zoom camera in/out |
 
 **Menu options**
@@ -52,7 +52,7 @@ You have 2 different modes when using the New PC controls: Cursor Mode and Look 
 | Input | Action |
 |---|---|
 | Left click (over buttons) | Select button |
-| Hold left click + right click | Hide AltspaceVR menu |
+| Hold left click + right-click | Hide AltspaceVR menu |
 
 ### Keyboard controls
 
