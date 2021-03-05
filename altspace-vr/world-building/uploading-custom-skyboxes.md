@@ -13,17 +13,17 @@ keywords:
 
 A Skybox is a way to create a "background" for your World that makes the experience more immersive. There are different kind of Skyboxes but we currently support "equirectangular". Here's an example taken with a 360 camera (more example [here](http://moments.mankindforward.com/)): 
 
-![]()
+![360 equirectangular view of a living room](images/custom-skyboxes-img-01.jpeg)
 
 You can also use the [Unity Uploader](world-building-toolkit-getting-started.md) but this approach is simpler.
 
 1. Navigate to [Worlds > Skyboxes](https://account.altvr.com/skyboxes) and press the "Create" button on the right
 
-![]()
+![Worlds website page open to skyboxes panel](images/custom-skyboxes-img-02.png)
 
 2. Fill in a name and specify your 360 image (It doesn't have to be a photo. There are programs that can allow you to draw your own or you can search for some online). Then, click "Create". 
 
-![]()
+![Skybox creation form](images/custom-skyboxes-img-03.png)
 
 3. You can optionally upload a "preview" image so you can easily identify this skybox. In addition, you can upload ambient audio in WAV format. We recommend you upload preview images and ambient audio separately, after you upload the 360 image. If you upload them together the file sizes can be large enough to stall the process. [Jetsons World](https://account.altvr.com/worlds/1004174988393054363/spaces/1084431533181240311) is a great example of how to use a Skybox with ambient audio. Notice how the World-Builder kept the audio volume very low and sounds you hear are sporadic so people don't get annoyed. 
 4. Enter your World and open the World Editor. Under Skyboxes, click your new Skybox. In a few seconds the sky will literally change. Others in your World will also see the sky change. To switch back, click the "default" skybox in that same list. 

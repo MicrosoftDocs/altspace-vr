@@ -23,15 +23,15 @@ You have two different modes when using the New PC controls: Cursor Mode and Loo
 
 * **Cursor Mode** lets you interact with the menus. You’ll know you're in Cursor Mode when you see the AltspaceVR Logo/Menu button at the bottom left of your view:
 
-![Cursor mode with menu]()
+![Cursor mode with menu](images/avatar-controls-img-01.png)
 
 * **Look Mode** lets you look around and is great if you're using a laptop trackpad. You can use Look Mode and the keyboard to look/move at the same time. You’ll know you're in Look Mode if the bottom left your view looks like the screenshot below:
 
-![Look mode]()
+![Look mode](images/avatar-controls-img-02.png)
 
 ### New PC Controls for Keyboard / Mouse
 
-![Keyboard and mouse with input mappings]()
+![Keyboard and mouse with input mappings](images/avatar-controls-img-03.png)
 
 ## Classic PC controls 
 

@@ -15,7 +15,7 @@ Altspace has a Roles and Abilities system. Each person can have multiple roles a
 
 1. Edit your World and scroll down to the "In VR" section ([How to manage Worlds](managing-worlds.md))
 
-![Changing roles in VR section of worlds]()
+![Changing roles in VR section of worlds](images/granting-roles.png)
 
 2. Edit the "Roles" field if you want to grant specific roles to specific users just for this World. For example, if you want to give me "presenter" + "moderator" and give Calen "moderator", you would add the following and click "Save". The format is "{role},{username or email}" on each line. Username is case-insensitive. 
 

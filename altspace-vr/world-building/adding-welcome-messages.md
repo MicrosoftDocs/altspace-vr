@@ -13,14 +13,14 @@ keywords:
 
 When you enter a World you may see a welcome message like this:
 
-![New signin message for a world]()
+![New signin message for a world](images/welcome-img-01.png)
 
 World-Builders can add an optional message that is shown to every person when they enter your World. This can be helpful if your World has flying enabled and you want visitors to turn flying on. 
 
 1. On our website, navigate to [Worlds > Mine](https://account.altvr.com/users/sign_in), and edit your World
 2. Enter your message in the "Instructions" field and click "Update"
 
-![Editing world instructional message]()
+![Editing world instructional message](images/welcome-img-02.png)
 
 3. In Altspace, enter your World and then you should see the updated message
 

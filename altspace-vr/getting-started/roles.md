@@ -1,6 +1,6 @@
 ---
 title: Roles in events, worlds, groups, and in AltspaceVR
-description: Learn about the different roles available in AltspaceVR events, worlds and groups.
+description: Learn about the different roles available in AltspaceVR events, worlds, and groups.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
@@ -11,25 +11,25 @@ keywords: roles, events, worlds, groups, promotion
 
 # Roles in events, worlds, groups, and in AltspaceVR
 
-Roles are like the ‘Credits’ at the end of a movie. There’s the Executive Producer, the Director, the Actors and even crowd control. They are all in charge of something different, all with an important role to play.
+Roles are like the ‘Credits’ at the end of a movie. There’s the Executive Producer, the Director, the Actors, and even crowd control. They're all in charge of something different, all with an important role to play.
 
 ## Roles in events
 
-You’ll need to create your event first, then add the roles after. Once you’ve created your event on the website, click **EDIT** to open up the Contextual Roles **Add User** button. This is where you add AltspaceVR usernames to give out roles for your event.
+You’ll need to create your event first, then add the roles after. Once you’ve created your event on the website, select **EDIT** to open up the Contextual Roles **Add User** button. This is where you add AltspaceVR usernames to give out roles for your event.
 
 ### Event Creator Roles
 
-When you create an event you automatically get access to the admin, presenter, and moderator Roles:
+When you create an event, you automatically get access to the admin, presenter, and moderator Roles:
 
 * **Admin**
     - All event management tools via the website. You can Edit, End Event, Set to Draft, Re-Import World, Duplicate Event, Delete Event and Add as Main Event (Public events only).
-    - Enables World Editor in your event: Environment Clipping, Toggle Flight, Toggle Environment, Edit Mode and Editor Panel.
+    - Enables World Editor in your event: Environment Clipping, Toggle Flight, Toggle Environment, Edit Mode, and Editor Panel.
 
 * **Presenter**
-    - Enables Host Tools in your event: Toggle Mute-All, Message All, Amplify My Voice, Go On-Air (FrontRow events only), Toggle Stage Blocker and Host Panel.
+    - Enables Host Tools in your event: Toggle Mute-All, Message All, Amplify My Voice, Go On-Air (FrontRow events only), Toggle Stage Blocker, and Host Panel.
 
 * **Moderator** 
-    - Enables you to Mute, Message or Kick users from your event by either using the buttons on that avatar’s nametag or by using the Host Tools/Host Panel/Guests/Select Guest to do the same.
+    - Enables you to Mute, Message, or Kick users from your event by either using the buttons on that avatar’s nametag or by using the Host Tools/Host Panel/Guests/Select Guest to do the same.
 
 ### Contextual Roles
 
@@ -56,33 +56,33 @@ Anyone with the Presenter/Host Role can assign roles to users that are in your e
 
 ### Adding More Admins To Your Event
 
-You can add other users as Admins to help you manage your event. Perhaps you are already busy Hosting your event, they can help add roles, start/end times or descriptions of your event. Be careful as they can edit anything on your event web page, including Delete Event, so make sure you trust any Admins you’re adding.
+You can add other users as Admins to help you manage your event. Perhaps you're already busy Hosting your event, they can help add roles, start/end times, or descriptions of your event. Be careful as they can edit anything on your event web page, including Delete Event, so make sure you trust any Admins you’re adding.
 
-To add an Admin - Edit your event, click Advanced Options then look under the Advanced section for Admins, click Add User and add their username. 
+To add an Admin - Edit your event, select **Advanced Options** then look under the Advanced section for Admins, click **Add User** and add their username. 
 
 > [!NOTE] 
 > This only gives them the Admin role, if you want them to have any other roles (Host, Presenter, Moderator) these need to be added like normal under Contextual Roles.
 
 ### Giving Everyone In Your Event A Role
 
-Some events benefit when all users can have super powers! For example, if your event is in a large area you might want everyone to have the ability to Fly and Amplify My Voice so you can all hear each other from far away. To add this, edit your event, click Advanced Options and under the In VR section is Default Contextual Roles. Rollover the green circle for all the roles you can add. For the example above you’d add: megaphone_only, pilot.
+Some events benefit when all users can have super powers! For example, if your event is in a large area you might want everyone to have the ability to Fly and Amplify My Voice so you can all hear each other from far away. To add this, edit your event, click Advanced Options and under the In VR section is Default Contextual Roles. Roll over the green circle for all the roles you can add. For the example above you’d add: megaphone_only, pilot.
 
 > [!NOTE] 
 > Each person must enable this in Settings/Input/Fly.
 
 ## Roles in worlds
 
-You’ll need to create your World first, then add the roles after. Once you’ve created your World on the website, click the EDIT button, that’ll open up the Contextual Roles ‘Add User’ button. This is where you add AltspaceVR usernames to give out roles for your World.
+You’ll need to create your World first, then add the roles after. Once you’ve created your World on the website, click the EDIT button, that will open up the Contextual Roles ‘Add User’ button. This is where you add AltspaceVR usernames to give out roles for your World.
 
 ### World Creator Roles
 
-When you create a World you automatically get the following Roles:
+When you create a World, you automatically get the following Roles:
 
 * **Admin** 
-    - All World management tools via the website. You can Edit, View: Diagnostics – Objects – Template - Backups, Delete and Feature My World.
+    - All World management tools via the website. You can Edit, View: Diagnostics – Objects – Template - Backups, Delete, and Feature My World.
 
 * **Moderator** 
-    - Enables you to Mute, Message or Kick users from your World by either using the buttons on that avatar’s nametag or by using the Host Tools/Host Panel to do the same
+    - Enables you to Mute, Message, or Kick users from your World by either using the buttons on that avatar’s nametag or by using the Host Tools/Host Panel to do the same
 
 ### Contextual Roles
 
@@ -106,7 +106,7 @@ Edit your World, click Advanced Options then look under the Advanced section for
 
 ## Roles in groups
 
-You won’t be adding Presenter or Moderator roles to a Group but you are able to add Admins to help you organize your Group. Be careful as they can edit your Group, including Delete, so make sure you trust any Admins you’re adding.
+You won’t be adding Presenter or Moderator roles to a Group but you're able to add Admins to help you organize your Group. Be careful as they can edit your Group, including Delete, so make sure you trust any Admins you’re adding.
 
 ### Adding More Admins To Your Group
 
@@ -114,7 +114,7 @@ You’ll need to create your Group first, then add Admins after. Once you’ve c
 
 ## Roles in AltspaceVR
 
-* **Early Access Program**: The Early Access Program gives you access to the latest features that are still in development. Many World-Building, Moveable Menus and Groups features are only available to users who are in Early Access and so here's how you can opt-in: What is the Early Access Program?
+* **Early Access Program**: The Early Access Program gives you access to the latest features that are still in development. Many World-Building, Moveable Menus, and Groups features are only available to users who are in Early Access and so here's how you can opt in: What is the Early Access Program?
 
 * **Worlds Beta**: In the AltspaceVR app, open up Menu / Settings / Enable Worlds Beta to activate. This will enable the WORLDS (BETA) tab in your main menu to let you access your Worlds.
 

@@ -21,7 +21,7 @@ We've compiled a step-by-step guide for linking your AltspaceVR account and your
 
 To start, you'll need a Microsoft Account. You can [create a new Microsoft Account](https://signup.live.com/?lic=1) or use an existing one you already have. Next, opt into the Early Access Program by launching AltspaceVR and navigating to the **MAIN MENU> SETTINGS > GENERAL > Participate in Early Access Program**. You can opt in or out of the Early Access Program at any time.
 
-![AltspaceVR settings window open with general setting highlighted]()
+![AltspaceVR settings window open with general setting highlighted](images/linking-accounts-img-01.png)
 
 ## In 2D Mode on PC
 
@@ -29,16 +29,16 @@ To start, you'll need a Microsoft Account. You can [create a new Microsoft Accou
 2. Open your **MAIN MENU > ME > ACCOUNT**
 3. Select **LINK** when you're prompted to link your Microsoft Account
 
-![AltspaceVR app open with account panel highlighted]()
+![AltspaceVR app open with account panel highlighted](images/linking-accounts-img-02.png)
 
 4. A separate window will open, prompting you to select the Microsoft Account you want to link. 
     * Choose the one you wish to connect and select **CONTINUE**
 
-![Microsoft account sign in window open]()
+![Microsoft account sign in window open](images/linking-accounts-img-03.jpg)
 
 Once you've completed the account-linking process, you'll see that your account credentials have updated:
 
-![AltspaceVR app open with account panel and credentials highlighted]()
+![AltspaceVR app open with account panel and credentials highlighted](images/linking-accounts-img-04.png)
  
 ## In VR Mode on your headset
 
@@ -46,21 +46,21 @@ Once you've completed the account-linking process, you'll see that your account 
 2. Open your **MAIN MENU > ME > ACCOUNT**
 3. Select **LINK** when you're prompted to link your Microsoft Account
 
-![AltspaceVR open with account panel highlighted]()
+![AltspaceVR open with account panel highlighted](linking-accounts-img-02.png)
 
 4. A separate screen will appear prompting you to activate your device via a unique code, which you'll need to copy:
 
-![AltspaceVR app open with account panel showing activation pin]()
+![AltspaceVR app open with account panel showing activation pin](linking-accounts-img-05.png)
 
 5. Switch over to your computer's browser screen and go to [microsoft.com/devicelogin](https://login.microsoftonline.com/common/oauth2/deviceauth)
     * Enter your unique code and select **NEXT** - the code isn't case-sensitive
     * Follow the login instructions presented
 
-![Web browser with activation code textfield]()
+![Web browser with activation code textfield](images/linking-accounts-img-06.png)
 
 You can now navigate back to AltspaceVR and see your updated account credentials:
 
-![AltspaceVR open with account panel and credentials highlighted]()
+![AltspaceVR open with account panel and credentials highlighted](images/linking-accounts-img-04.png)
 
 ## Troubleshooting tips
 
@@ -69,7 +69,7 @@ You can now navigate back to AltspaceVR and see your updated account credentials
 * If you find yourself unable to reconnect with your Microsoft account, you can still get back into AltspaceVR using your username and password. Just select the "SIGN IN WITH ALTSPACEVR" button.
 * Submit your logs if you run into any issues by going to **MAIN MENU > SETTINGS > SUPPORT > Upload Logs**.
 
-![AltspaceVR app settings open with support panel highlighted]()
+![AltspaceVR app settings open with support panel highlighted](images/linking-accounts-img-07.png)
 
 ## Microsoft Account Integration FAQ
 

@@ -13,4 +13,4 @@ keywords: windows mixed reality, controls
 
 Listed below are the basic controls for Windows Mixed Reality.
 
-![Right and left windows mixed reality motion controllers with action callouts for each button and input mechanism]()
+![Right and left windows mixed reality motion controllers with action callouts for each button and input mechanism](images/windows-mixed-controls.jpg)

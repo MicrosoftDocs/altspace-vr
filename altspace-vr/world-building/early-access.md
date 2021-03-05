@@ -17,7 +17,7 @@ The Early Access program gives you access to the latest features that are still 
 
 1. Open your Menu to **Settings > General** and toggle on "Participate in Early Access Program":
 
-![Settings menu with early access option highlighted]()
+![Settings menu with early access option highlighted](images/early-access-img-01.png)
 
 2. Restart Altspace
 3. Explore your new abilities!
@@ -27,7 +27,7 @@ The Early Access program gives you access to the latest features that are still 
 1. Edit your Altspace [profile](https://account.altvr.com/users/sign_in)
 2. Check the "Early Access" circle and press "Update":
 
-![Altspace profile open with early access option highlighted]()
+![Altspace profile open with early access option highlighted](images/early-access-img-02.png)
 
 3. If you're already in Altspace, please restart
 4. Explore your new abilities!

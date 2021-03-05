@@ -58,7 +58,7 @@ In a FrontRow event, hosts will also see some additional tools and features like
 
 Check out the [Host Tools Overview for FrontRow Events](../tutorials/host-tools-for-events.md) article for a complete and in-depth look at each of the features and functions available to hosts in FrontRow events.
 
-![]()
+![Host panel tools overview](images/scaling-audiences.png)
 
 If you need a hand along the way, submit a ticket to our support team at [altvr.com/eventsupport](altvr.com/eventsupport)
 

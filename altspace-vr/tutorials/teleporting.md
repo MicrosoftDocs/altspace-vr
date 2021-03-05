@@ -15,7 +15,7 @@ Being able to travel from one Event to another or from one World to another is a
 
 ## The short version:
 
-![Teleporting steps from editor panel to setting a teleportation destination]()
+![Teleporting steps from editor panel to setting a teleportation destination](images/teleporter.png)
 
 ## The slightly longer version:
 

@@ -50,7 +50,7 @@ Once your extension is downloaded and installed, you're ready to use it!
 5. Remember to click "Broadcast" to begin sharing with all guests in the space.
 6. Don't forget to "Stop Streaming." Your session will timeout eventually, but until then it will continue to live-project your browser. It's best to end your session as soon as you're done.
 
-![Browser projected in AltspaceVR world]()
+![Browser projected in AltspaceVR world](images/web-project-img-01.png)
 
 **Video-Streaming Tip:** If video stutters, stop streaming, adjust video quality to 480p or 360p, then re-start your stream and broadcast. Higher resolutions may strain CPU and upload bandwidth.
 

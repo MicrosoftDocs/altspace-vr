@@ -13,7 +13,7 @@ keywords:
 
 You can’t fly in Events or in the Campfire because it would likely be disruptive. However, in your Worlds, you can let people take off like the Wicked Witch of the East. Here’s how you can grant special abilities.
 
-![World open in website with VR default contextual roles highlighted]()
+![World open in website with VR default contextual roles highlighted](images/contextual-roles.png)
 
 1. Edit your World on our website. See [How do I manage my Worlds?](managing-worlds.md) for help.
 2. Scroll down to the “In VR > Default Contextual Roles” field. You can hover over the green question mark to see more details. All the possible roles are listed.

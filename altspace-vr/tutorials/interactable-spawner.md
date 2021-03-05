@@ -1,5 +1,5 @@
 ---
-title: Using the interactable spawner
+title: Using the Interactables Spawner
 description: 
 author: hferrone
 ms.author: v-hferrone
@@ -9,7 +9,7 @@ ms.localizationpriority: high
 keywords: 
 ---
 
-# Using the interactable spawner
+# Using the Interactables Spawner
 
 The Interactables Spawner allows you to place interactable items in your event, world, or home-space. Please note, this feature is currently part of our [Early Access Program](../world-building/early-access.md) and will not be available unless you have opted in through your Main Menu.
 
@@ -23,7 +23,7 @@ To turn your object into an interactable object:
 1. Place the object in your space.
 2. Then, find the entry in the object list, and click the **gear icon** next to it to open its settings:
 
-![World editor open with object list highlighted]()
+![World editor open with object list highlighted](images/interactables-spawner-img-01.png)
 
 On the settings page you’ll find a new checkbox **“Object spawner“**, which is used to make it an interactable object.
 
@@ -31,7 +31,7 @@ On the settings page you’ll find a new checkbox **“Object spawner“**, whic
 2. While in edit mode you’ll be able to move around the object’s spawn location in the space.
 3. **Exit edit mode** to enable item interaction.
 
-![Update artifact window open in the AltspaceVR app]()
+![Update artifact window open in the AltspaceVR app](images/interactables-spawner-img-02.png)
 
 ## Additional customizations
 
@@ -44,4 +44,4 @@ Kit makers may have noticed that if you make changes to your Kit while AltspaceV
 
 Recently we’ve added a button under the **Moderate Settings** tab called **“Reload Worlds Kits“**. Clicking this button causes (just you) to re-enter the space, reloading all Kits again, which will download only new versions of the Kits that have been updated while you were in AltspaceVR.
 
-![Moderate settings panel open in the AltspaceVR app]()
+![Moderate settings panel open in the AltspaceVR app](images/interactables-spawner-img-03.png)

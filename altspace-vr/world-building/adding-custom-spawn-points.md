@@ -15,11 +15,11 @@ People entering your World will "spawn" or appear at the origin, position (0,0,0
 
 1. Go near the spot were you want people to spawn. Open **World Editor > Basics** and make sure "Lock Rotation" is checked. Click "Spawn Point" to create one. Move it to the exact position you want:
 
-![World editor basics window open]()
+![World editor basics window open](images/spawn-points-img-01.png)
 
 2. Click on the settings icon for the Spawn Point and make sure Rotation > X and Rotation > Z are both 0 (If they are really small numbers like "8.537777745E-07", that's fine too. That's a quirk of how floating point numbers are handled):
 
-![Update spawn points in world editor settings]()
+![Update spawn points in world editor settings](images/spawn-points-img-02.png)
 
 3. Reenter your World via Menu > Settings > General > Re-enter Space > Re-Enter
 4. You should spawn at your new Spawn Point!

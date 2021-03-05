@@ -40,11 +40,11 @@ To manage your Backups on our website:
 
 1. Navigate to [Worlds > Mine](https://account.altvr.com/users/sign_in), find your World, and press “Backups” in the Administrator Controls:
 
-![Administrator controls in the worlds website with backups panel open]()
+![Administrator controls in the worlds website with backups panel open](images/world-backup-img-01.png)
 
 2. You’ll be able to create, edit, and delete your Backups, check how many objects are inside, and even upload a preview image: 
 
-![Backups window with create, edit, and delete commands highlighted]()
+![Backups window with create, edit, and delete commands highlighted](images/world-backup-img-02.png)
 
 There is no limit to the number of Backups and having more Backups will not impact the performance of your World.
 

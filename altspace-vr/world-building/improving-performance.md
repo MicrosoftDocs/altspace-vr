@@ -17,7 +17,7 @@ We want people to have a good experience so performance, or how well your World 
 
 Administrator Diagnostics is an offline tool available on our website, altvr.com. If you navigate to [Worlds > My Worlds](https://account.altvr.com/users/sign_in), find your World, and click “Diagnostics”, you will see something like this:
 
-![]()
+![Administrator diagnostics window](images/performance.png)
 
 These are not requirements, merely guidelines, because performance depends not only on how many Objects you have but also how they are arranged. For example, if you have 500 objects but they are spread out over 2 kilometers, the performance will probably be fine. However, if you put the same 500 objects into a tightly packed area, you will likely see problems. That’s because performance depends on what's within a person's Field of View. The best way to test is to hop into Altspace and teleport around your World. If you notice any glitching or feel any discomfort, those are problem spots you'll want to investigate.
 
