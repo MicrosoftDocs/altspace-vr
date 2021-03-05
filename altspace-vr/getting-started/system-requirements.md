@@ -1,6 +1,6 @@
 ---
 title: Minimum system requirements
-description: Stay up to date with the latest system requirements for AltspaceVR on head mounted displays, Oculus Rift, and HTC Vive devices.
+description: Stay up to date with the latest system requirements for AltspaceVR on head-mounted displays, Oculus Rift, and HTC Vive devices.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
@@ -11,7 +11,7 @@ keywords: requirements, head mounted displays, oculus rift, htc vive, windows 2d
 
 # Minimum system requirements
 
-For the full AltspaceVR experience, we recommend the following minimum system profile for users utilizing a computer to access our service. 
+For the full AltspaceVR experience, we recommend the following minimum system profile. 
 
 ## Supported Head Mounted Displays 
 
@@ -24,7 +24,7 @@ For the full AltspaceVR experience, we recommend the following minimum system pr
 
 * NVIDIA GTX 960 or greater 
 * Intel i3-6100 / AMD FX4350 or greater 
-* 8GB+ RAM 
+* 8 GB+ RAM 
 * Compatible HDMI 1.3 video output 
 * Windows 8 or newer 
 
@@ -34,15 +34,15 @@ For the full AltspaceVR experience, we recommend the following minimum system pr
 * Intel® i5-4590, AMD FX 8350 equivalent or better   
 * 4 GB or more RAM
 * HDMI 1.4, DisplayPort 1.2 or newer
-* Windows 7 SP1, Windows 8.1 or Windows 10
+* Windows 7 SP1, Windows 8.1, or Windows 10
 
 ## Recommended Minimum System Requirements for Windows 2D Mode
 
 * Windows 10 64-bit, version 1809 or higher.
 * Intel i5
-* 4 GB RAM
-* DX9 compatible dedicated GPU, 1GB video memory
-* 500 MB available space 
+* 4-GB RAM
+* DX9 compatible dedicated GPU, 1-GB video memory
+* 500-MB available space 
 
 ## Recommended Minimum System Requirements for Windows Mixed Reality
 
