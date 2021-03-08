@@ -1,12 +1,12 @@
 ---
 title: Submitting feature requests
-description: 
+description: Learn how to submit feature requests to the AltspaceVR engineering team.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: feature request
 ---
 
 # Submitting feature requests

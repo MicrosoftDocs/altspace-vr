@@ -1,12 +1,12 @@
 ---
 title: Community helper program
-description: 
+description: Stay up to date on the latest answers to frequently asked questions about the AltspaceVR community.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: faq, community, helper program, frequently asked questions
 ---
 
 # Community helper program

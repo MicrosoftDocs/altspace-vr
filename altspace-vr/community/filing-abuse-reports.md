@@ -1,12 +1,12 @@
 ---
 title: Filing an abuse report
-description: 
+description: Get up-to-date instructions on filing abuse reports for AltspaceVR.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: reports, issues
 ---
 
 # Filing an abuse report

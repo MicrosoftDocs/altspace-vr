@@ -1,12 +1,12 @@
 ---
 title: Subscribing to our newsletter
-description: 
+description: Sign up for our weekly newsletter for upcoming events, new features, and community information.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: newsletter
 ---
 
 # Subscribing to our newsletter

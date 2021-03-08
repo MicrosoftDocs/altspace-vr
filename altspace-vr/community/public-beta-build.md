@@ -1,12 +1,12 @@
 ---
 title: Public beta build program
-description: 
+description: Get the latest news on installing and filing bugs for the newest AltspaceVR beta build program.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: beta, beta build, bugs
 ---
 
 # Public beta build programs
@@ -17,11 +17,11 @@ Welcome! This article outlines the Public Beta Build Program. This initiative gi
 * Look for regressions between builds. 
 * Help verify incoming fixes 
  
-## How It Works: 
+## How It Works
 
 The Public Beta Build Program is available through both the Oculus Rift/Rift S and Oculus Quest/Quest 2 stores, and the Steam Library. This makes switching between Live and Beta builds simple and easy to self-manage. It also means participating in the Public Beta Build Program is entirely optional and at the discretion of each individual. 
 
-## Step-by-Step Instructions:  
+## Step-by-Step Instructions  
 
 Steam library:
 
@@ -43,7 +43,7 @@ Oculus store:
 4. From the drop-down menu, select "RC: X.X.X.XXXXX"
 5. Launch the AltspaceVR program to enter the beta build
 
-## Notes: 
+## Notes
 
 In the Steam Library, you can switch back to the Live Build version by following the same steps, but instead selecting "NONE - Opt out of all beta programs" for step # 5. 
 
@@ -54,7 +54,7 @@ Remember that Beta opt-in is device-local through the Steam Library (will apply 
 WE ADVISE THAT YOU DO NOT USE EARLY BUILDS FOR REGULAR APP USE.  
 This can cause compatibility issues that may impact your AltspaceVR experience and that of other individuals as well. It's good practice to confirm your build number regularly to ensure that you don't confuse Beta and Live builds. 
 
-## Filing a Bug/Issue: 
+## Filing a Bug/Issue
 
 One of the goals of the Public Beta Build Program is to find and log any bugs or issues that may arise between releases, and identify any potential regressions between versions.  
 
@@ -64,11 +64,11 @@ Additionally, remember to send logs anytime you come across a possible bug, regr
 
 In general, logs are extremely useful in helping us reproduce and verify any potential issues. 
 
-## Getting Beta Builds: 
+## Getting Beta Builds
 
 Much like regular builds, beta builds will become available to you through the app store or library of your preference. Beta builds will auto-install if you're actively opted in through the store/library. 
 
-## Additional Information: 
+## Additional Information
 
 * The Public Beta Build Program is an entirely optional initiative. Testing early builds isn't a requirement to using AltspaceVR. 
 * You may choose to opt out at any time through your respective app store/library (Oculus or Steam).  

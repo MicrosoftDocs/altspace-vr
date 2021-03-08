@@ -1,12 +1,12 @@
 ---
 title: Creating AltspaceVR content
-description: 
+description: Learn how to create AltspaceVR content, use mixed reality extensions, and join the expanding community.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: mixed reality extensions, community, world building, resources
 ---
 
 # Creating AltspaceVR content
