@@ -42,14 +42,13 @@ The World Editor has Kits containing Artifacts that you can spawn into your Worl
 ![AltspaceVR interface in Unity with Kit folder name](images/custom-kits-img-03.png)
 
 2. For each Artifact or set of Artifacts:
+* Drag your source Prefab(s) into the Hierarchy tab
+* Select the ones you want to include in a set, say 5 types of barrels
+* Update the "Kit Asset Name" with "barrel"
+* Click "Convert GameObject(s) to Kit Prefab"
+* Verify that new Prefabs and Screenshots were created in the Assets/Prefabs folder
 
 ![AltspaceVR interface in Unity with artifacts selected](images/custom-kits-img-04.png)
-
-    * Drag your source Prefab(s) into the Hierarchy tab
-    * Select the ones you want to include in a set, say 5 types of barrels
-    * Update the "Kit Asset Name" with "barrel"
-    * Click "Convert GameObject(s) to Kit Prefab"
-    * Verify that new Prefabs and Screenshots were created in the Assets/Prefabs folder
 
 > [!NOTE]
 > If you want to make any modifications to a generated Prefab, drag it back into the Hierarchy, make changes, and then click "Apply" in the Inspector tab to update the Prefab. 

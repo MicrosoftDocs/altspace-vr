@@ -40,6 +40,6 @@ Use your **Environment Clipping** button to pass through objects with ease so yo
 
 Remember, practice makes perfect. So hop in-world and get building with the World Editor! 
 
-If you have additional questions or want to learn from the pros, check out the #world-building channel on our community [Discord server](altvr.com/discord). 
+If you have additional questions or want to learn from the pros, check out the #world-building channel on our community [Discord server](https://discord.com/invite/altspacevr). 
 
 Happy building!

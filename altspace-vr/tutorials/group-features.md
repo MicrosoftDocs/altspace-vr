@@ -126,7 +126,7 @@ Platforms like Patreon and Eventbrite allow you to export a *.csv file (co
 > [!NOTE]
 > This feature is in Beta. We encourage groups to utilize preexisting Worlds in the Environment selection dialog.
 
-    * The word “Commons” will always appear as a suffix to any group’s hangout world.  
+* The word “Commons” will always appear as a suffix to any group’s hangout world.  
 * **Member Emails** – This field allows you to list users by the e-mail associated with an AltspaceVR account. **Using this list overrides the “Users” list described above.** This is the recommended way to manage membership of a group especially those utilizing external Payment Platforms.  
     * When filling out this field, make sure your AltspaceVR account associated e-mail is listed in it, or you may lose access to the group.  
     * When pasting addresses into his field, make sure there is one e-mail per line.  

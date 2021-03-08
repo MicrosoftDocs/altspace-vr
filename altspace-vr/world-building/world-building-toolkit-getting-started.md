@@ -11,7 +11,7 @@ keywords:
 
 # Introducing the World Building Toolkit
 
-> [!NOTE]T
+> [!NOTE]
 > The World Building Toolkit is a community project run by our awesome friend, [Anthony Madden](https://twitter.com/chigamesstudio), with support from us. If you're interested, please join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. We currently have a Mac Trial Beta right now, [more details](https://altvr.com/altspacevr-mac)
 
 The Uploader allows you to use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).

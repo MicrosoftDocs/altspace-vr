@@ -9,7 +9,7 @@ ms.localizationpriority: high
 keywords: 
 ---
 
-# Adding welcome messages
+# Subscribing to our newsletter
 
 We're glad to hear that you are interested in receiving updates and news about AltspaceVR. Our weekly newsletter is the best place to hear about upcoming events and new features. Some of our live events include stand up comedy, Q&A sessions, and musical performances. See an event you'd like to attend? Just click the "Interested" button in our email and we'll make sure to send you a reminder before the event starts so you don't miss out!
 

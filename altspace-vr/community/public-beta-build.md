@@ -9,7 +9,7 @@ ms.localizationpriority: high
 keywords: 
 ---
 
-# Adding welcome messages
+# Public beta build program
 
 Welcome! This article outlines the Public Beta Build Program. This initiative gives individuals interested in helping find and track bugs in pre-released build versions, an opportunity to do so. Additionally, content creators (Event Hosts/World Builders) who would like to compatibility-check their creations (events/worlds) before new releases, may also use the Public Beta Build Program to access early versions of forthcoming builds. Overall, the goals of the Public Beta Build Program are to: 
 

@@ -46,11 +46,11 @@ Once you've completed the account-linking process, you'll see that your account 
 2. Open your **MAIN MENU > ME > ACCOUNT**
 3. Select **LINK** when you're prompted to link your Microsoft Account
 
-![AltspaceVR open with account panel highlighted](linking-accounts-img-02.png)
+![AltspaceVR open with account panel highlighted](images/linking-accounts-img-02.png)
 
 4. A separate screen will appear prompting you to activate your device via a unique code, which you'll need to copy:
 
-![AltspaceVR app open with account panel showing activation pin](linking-accounts-img-05.png)
+![AltspaceVR app open with account panel showing activation pin](images/linking-accounts-img-05.png)
 
 5. Switch over to your computer's browser screen and go to [microsoft.com/devicelogin](https://login.microsoftonline.com/common/oauth2/deviceauth)
     * Enter your unique code and select **NEXT** - the code isn't case-sensitive

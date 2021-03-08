@@ -116,10 +116,8 @@ Material Terms and Notices:  As provided in greater detail in this EULA (and wit
         representatives can’t resolve it, send a Notice of Dispute by U.S. Mail to Microsoft
         Corporation, ATTN: CELA Arbitration, One Microsoft Way, Redmond, WA 98052-6399,
         U.S.A. Tell us your name, address, how to contact you, what the problem is, and what
-        you want. A form is available at http://go.microsoft.com/fwlink/?LinkId=245499. We’ll do
-        the same if we have a dispute with you. After 60 days, you or we may start an arbitration
-         
-        if the dispute is unresolved.
+        you want. A form is available at https://go.microsoft.com/fwlink/?LinkId=245499. We’ll do
+        the same if we have a dispute with you. After 60 days, you or we may start an arbitration if the dispute is unresolved.
         •
         c. Small Claims Court Option. Instead of mailing a Notice of Dispute, you may sue us in
         small claims court in your county of residence (or if a business your principal place of

@@ -60,7 +60,7 @@ Check out the [Host Tools Overview for FrontRow Events](../tutorials/host-tools-
 
 ![Host panel tools overview](images/scaling-audiences.png)
 
-If you need a hand along the way, submit a ticket to our support team at [altvr.com/eventsupport](altvr.com/eventsupport)
+If you need a hand along the way, submit a ticket to our support team at [altvr.com/eventsupport](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001833313)
 
 * Please include your Event ID URL (ex: [https://account.altvr.com/events/1461193283454632537](https://account.altvr.com/events/1461193283454632537))
     * You can get this by logging into our website www.altvr.com and going to Events/My Events/*Your Event* and copying the URL in the address bar of your browser or clicking on the SHARE button to get your URL.

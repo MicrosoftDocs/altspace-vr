@@ -32,7 +32,7 @@ Presenters: jimmy
 Moderators: jimmy,calen
 ```
 
-    * In order for the change to take effect in Altspace, you should reset the world, forcing everyone to rejoing. There's a full list of roles below.
+* In order for the change to take effect in Altspace, you should reset the world, forcing everyone to rejoing. There's a full list of roles below.
 
 4. Edit the "Contextual Roles" field if you want to grant a role to every one that joins your World. For example, if you want to let people fly and use the megaphone so they can hear each other while far part, add the following:
 
