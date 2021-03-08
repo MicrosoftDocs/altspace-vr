@@ -15,7 +15,7 @@ AltspaceVR is a great community for those who want to create and share VR conten
 
 ## MRE (Mixed Reality Extension) SDK
 
-We want to support and grow our community of developers. To aid this we have created a number of resources that we hope will assist even novice developers with creating 3D multi-user web apps and experiences. 
+We want to support and grow our community of developers. We've created several resources that we hope will assist even novice developers with creating 3D multi-user web apps and experiences. 
 
 ## Start creating
 
