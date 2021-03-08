@@ -24,8 +24,8 @@ Qualifications:
 
 All Community Helpers must be a part of AltspaceVR for at least three months (90 days) before applying for the Community Helper role. To apply to be a Community Helper, you must meet a minimum of two out of three qualifications: 
 
-1. You’ve hosted at least three [Main Events](../world-building/main-events.md) in the past one month (30 days). 
-2. You’ve moderated at least five [Main Events](../world-building/main-events.md) in the past three months (90 days). 
+1. You’ve hosted at least three [Main Events](../tutorials/main-events.md) in the past one month (30 days). 
+2. You’ve moderated at least five [Main Events](../tutorials/main-events.md) in the past three months (90 days). 
 3. You’ve been recommended by a Community Support Team member for your awesome contributions to AltspaceVR (culture, content, community, and so on)
 
 ## What would I be expected to do as a Community Helper? 
@@ -37,7 +37,7 @@ As a Community Helper you MUST meet or exceed these expectations:
 3. Serve as a liaison between the community and the AltspaceVR team:
     * Teach others, be helpful where possible, answer questions from curious Altspacers in-world
     * Chime in with helpful and kind responses on our [Official Discord server](https://help.altvr.com/hc/articles/altvr.com/discord) or on social media
-    * Direct people to appropriate communication channels like [altvr.com/help](altvr.com/help) or [altvr.com/feedback](altvr.com/feedback)
+    * Direct people to appropriate communication channels like [altvr.com/help](altvr.com/help) or [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
     * Communicate and collaborate with AltspaceVR staff in a positive and helpful manner 
 4. Commit to positively champion AltspaceVR in all your interactions online, in-world, and in real life. 
 5. Participate in the AltspaceVR community:
