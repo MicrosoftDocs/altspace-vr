@@ -17,20 +17,20 @@ You’re in luck! See our [World-Building Getting Started Guide](world-building-
 
 1. Navigate to [Worlds > Mine](https://account.altvr.com/worlds/my)
 
-![]()
+![Worlds open in the AltspaceVR web view with Mine panel selected](images/manage-worlds-img-01.png)
 
 2. You should see your Home and your default Universe. A Universe is a collection of Worlds. It makes it easier to organize all the amazing Worlds you’re going to build. Click on your default Universe and then click “Create World”:
 
-![]()
+![Universe panel with world selected](images/manage-worlds-img-02.png)
 
 3. Your default Universe will have a default World.
 4. Choose a Template. You will start with a few basic ones. Check out the [Unity Uploader](world-building-toolkit-getting-started.md) if you’re interested in creating your own Templates. Fill in the details and make sure you upload an image. That will give people an idea of how your World looks. Click “Create” when you’re ready.
 
-![]()
+![Create world panel open with input fields](images/manage-worlds-img-03.png)
 
 5. Congrats on your brand new World! You can click “Enter Now” to launch Altspace or share the link to this page with your friends. In VR, you can find it under Worlds > My Worlds. There’s no limit to the number of Worlds you can create.
 
-![]()
+![Launched world running in VR](images/manage-worlds-img-04.png)
 
 ## Advanced Features
 

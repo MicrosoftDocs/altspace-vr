@@ -20,30 +20,30 @@ The World Editor has Kits containing Artifacts that you can spawn into your Worl
 
 ## Setup 
 
-![]()
+<!-- Need video uploaded to Channel9 -->
 
 1. Create a Kit on our website at [Worlds > Kits](https://account.altvr.com/kits)
 2. Copy the Kit ID from your browser's address bar to your clipboard (this step will be easier in Uploader versions 0.9+)
 3. Create a new Unity Project
 4. Import the Unity Uploader by double-clicking the package
 
-![]()
+![Imported unity uploader package](images/custom-kits-img-01.png)
 
 5. Sign in to the Uploader with your Altspace email and password
 
-![]()
+![AltspaceVR sign in interface in Unity](images/custom-kits-img-02.png)
 
 ## Generate and upload your kit
 
-![]()
+<!-- Need video uploaded to Channel9 -->
 
 1. Fill in "Kit Folder Name" with your Kit ID as the prefix and a theme (e.g. "1137484494681408069_pirates") and fill in "Kit Asset Name" with your Kit ID as the prefix. All the assets will need to have this prefix.
 
-![]()
+![AltspaceVR interface in Unity with Kit folder name](images/custom-kits-img-03.png)
 
 2. For each Artifact or set of Artifacts:
 
-![]()
+![AltspaceVR interface in Unity with artifacts selected](images/custom-kits-img-04.png)
 
     * Drag your source Prefab(s) into the Hierarchy tab
     * Select the ones you want to include in a set, say 5 types of barrels

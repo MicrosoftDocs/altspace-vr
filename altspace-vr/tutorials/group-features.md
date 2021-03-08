@@ -20,16 +20,16 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 2. Find the **“More”** pull-down menu.
 3. Select **“Groups”**
 
-![]()
+![AltspaceVR web view with more pull down menu highlighted](images/group-features-img-01.png)
 
 4. Once in the Groups page, you can see a list of groups that you are a part of or an admin of. 
 
-![]()
+![AltspaceVR web view groups page](images/group-features-img-02.png)
 
 5. Click on the **“Create”** button to make a new Group.
 6. Fill out fields to create group.
 
-![]()
+![New group creation page with input fields](images/group-features-img-03.png)
 
 > [!NOTE]
 > You can hover over the green “?” to get additional information about the fields that have them.
@@ -44,19 +44,19 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
     * This must be the AltspaceVR username for the user and not their account e-mail.  
 4. Click **“Create Event”** button.  
 
-![]()
+![Created event](images/group-features-img-04.png)
 
 ## How to attend a Group Event, as an Invitee 
 
 1. Open the Main Menu in the AltspaceVR app: 
 
-![]()
+![Main AltspaceVR app menu](images/group-features-img-05.png)
 
 2. Select the “Events” button at the bottom of the Menu.
 3. At the top, look for “My Events”
 4. Find the event by its “Name” provided by the Event creator in the main view with the tile images. Select it to enter the Event if it is live.
 
-![]()
+![AltspaceVR app with my events panel highlighted](images/group-features-img-06.png)
 
 ## How To find the Group World (Commons):  
 
@@ -65,7 +65,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 3. At the top, look for “My Worlds.”  
 4. Find the name of your group and select it to enter the Group World.
 
-![]()
+![AltspaceVR app with my worlds panel highlighted](images/group-features-img-07.png)
 
 ## How to use Patreon and Eventbrite to Host a Ticketed VR Event: 
 
@@ -148,11 +148,11 @@ If you are a Member or Administrator of a Group, you have extra tools to
 1. Select either Member or Admin from the top bar and select the Group you want to manage/update. 
 2. Once in the Member or Admin page, select the group you want to access by clicking on its tile image.
 
-![]()
+![Member or admin panel open](images/group-features-img-08.png)
 
 This is the main page to see all your group memberships either as a Member or Administrator. Select a group to see its specific options.
 
-![]()
+![Group membership screen](images/group-features-img-09.png)
 
 The Group page you see when you are a member of a group.
 
@@ -163,7 +163,7 @@ The Group page you see when you are a member of a group.
     * You will no longer see or be able to enter the Group “Commons” hangout World.  
     * You will no longer be able to see Group Events.
 
-![]()
+![Group events page](images/group-features-img-10.png)
 
 The group page you see when you are an Admin of a group. Note that you will see the admin options regardless of how you enter the group’s page.
 
@@ -186,7 +186,7 @@ The group page you see when you are an Admin of a group. Note that you
 * This is only available to the Group Owner, meaning the user who originally created the group.
 * It is not available to Admins of the Group.
 
-![]()
+![Deleting a group](images/group-features-img-11.png)
 
 This is a group page with an Event scheduled. Events created for the group will appear here.
 

@@ -16,7 +16,7 @@ keywords:
 
 The Uploader allows you to use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
-![]()
+![Example worlds](images/unity-uploader-img-01.png)
 
 ## Setup 
 
@@ -27,9 +27,11 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it "Hello World Template".
 6. [Create a World](https://help.altvr.com/hc/en-us/articles/360015529094-How-do-I-manage-my-Worlds) and name it "Hello World". Select "Hello World Template" as the Template.
 
+![Created world screen](images/unity-uploader-img-02.png)
+
 ## Upload your scene
 
-![]()
+<!-- Need video uploaded to Channel9 -->
 
 1. Open Unity Hub and create a new Unity 2019.4.2f1 project.
 2. With your project open, import the Uploader by double-clicking the the file you downloaded (it's a Unity package). You should now see a new tab called "AltspaceVR". Note that you will need to import the package for every Unity project you want to use with Altspace
@@ -56,7 +58,7 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).
 * On the Template page on the left side, we show you the latest uploads by platform. If it was successful you'd see "1-2mins ago".Screen_Shot_2019-01-11_at_1.21.04_AM.png
 
-![]()
+![Templates panel open with uploads highlighted](images/unity-uploader-img-03.png)
 
 * You can be in-World when you update. The moment the Uploader says "Upload Complete" you can reset the World to see the changes.
 * Building for PC-only with a simple scene should take less than 1 minute to see a change in Altspace
