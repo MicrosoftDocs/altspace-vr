@@ -11,7 +11,7 @@ keywords:
 
 # Granting world roles
 
-Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the "presenter" and "moderator" roles. With those two roles you can to kick unruly users, be on stage, and maybe release the confetti. 
+Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the "presenter" and "moderator" roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti. 
 
 1. Edit your World and scroll down to the "In VR" section ([How to manage Worlds](managing-worlds.md))
 
