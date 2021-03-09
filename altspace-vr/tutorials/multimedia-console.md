@@ -15,34 +15,34 @@ The Multimedia Console is a tool that enables media sharing in events and worlds
 
 ## Getting started
 
-Getting started with the Multimedia Console is a two part process.  First there is the web portal that you will use to generate and publish a configuration for the Multimedia Console session you place in you environment.  Second is the placement of the actual Multimedia Console app in your environment and setting the configuration code it should use.
+Getting started with the Multimedia Console is a two part process.  First there's the web portal that you'll use to generate and publish a configuration for the Multimedia Console session you place in your environment.  Second is the placement of the actual Multimedia Console app in your environment and setting the configuration code it should use.
 
 ### Configuring the Multimedia console with the web portal
 
 1. First, you'll need to make sure your content is hosted online because you'll need a URL. (You can upload photos to altvr.com, host a video .mp4 file online or use Twitch live stream link: https://www.twitch.tv/ninja) 
 2. Navigate to the web portal for the Multimedia Console at [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
-3. From the web portal you can generate and publish a configuration for the Multimedia Console.  (See below for details about the various properties).
-4. Once you have entered the media in to the media list and have configured the general settings, click the publish button in the top right part of the app.
+3. From the web portal, you can generate and publish a configuration for the Multimedia Console.  (See below for details about the various properties).
+4. Once you've entered the media into the media list and have configured the general settings, select the publish button in the top-right part of the app.
 5. Once the publish has completed, a dialog will pop up with a two word code for you to enter in to the Multimedia Console you placed.
   
 ### Placing the Multimedia console in your environment
 
-1. Click on World Editor->Editor Panel->SDK Apps->Multimedia Console. (Do not go to World Editor->Basics->SDK App-- that's for unregistered apps.)  
+1. Select on World Editor->Editor Panel->SDK Apps->Multimedia Console. (Don't go to World Editor->Basics->SDK App--that's for unregistered apps.)  
 2. Position the Multimedia Console to best suite your space and audience.
 3. Get out of Edit Mode by clicking the orange Edit Mode button.
-4. You will be prompted "Are you the media player owner?" If you're the person who should be the official owner of this Multimedia Console session, confirm and proceed. (Additional permissioned roles are available as well. See below for a detailed list.)
-5. Click Yes to confirm that you are the primary host.  
+4. You'll be prompted "Are you the media player owner?" If you're the person who should be the official owner of this Multimedia Console session, confirm and continue. (Other permissioned roles are available as well. See below for a detailed list.)
+5. Select Yes to confirm that you are the primary host.  
 6. A dialog should pop up that asks you to enter a code from the web portal or valid JSON.  Enter the two word code from the web portal including the dash and hit OK. (JSON is an advanced configuration described below)
 7. The Multimedia Console should load after a few seconds with the configuration you built in the web portal.
 
 ### Controlling the Multimedia console
 
-1. After you input your code and complete the configuration process, you will see control buttons appear below a media display. 
+1. After you input your code and complete the configuration process, you'll see control buttons appear below a media display. 
     * "Play" starts the media viewer (or restarts at current entry, if previously stopped) 
     * "Stop" stops the media viewer, and hides current media.  
     * "Next"/"Prev" skips to next or previous media 
     * "x/x" shows the current index into the media list, and allows you to jump to any point in the list
-    * "Config" allows re-entering a new code from the web portal to set a new configuration in the console. 
+    * "Config" allows reentering a new code from the web portal to set a new configuration in the console. 
 
 Now you're set to begin sharing via the Multimedia Console!  
  
@@ -70,18 +70,18 @@ Role assignments for controlling and configuring the Multimedia Console.    Thes
 * **Elevated Users** - Users that have moderator, host, or presenter roles in the space that the Multimedia Console is configured in originally
 * **All Users** - All users
 
-These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: "Elevated Users" includes the "Owner" even if they are not a moderator, host or presenter" in AltspaceVR. Features that are controlled by role assignments are as follows
+These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: "Elevated Users" includes the "Owner" even if they aren't a moderator, host, or presenter" in AltspaceVR. Features that are controlled by role assignments are as follows
 
 * **Can control media player** - Determines what roles can control the media playback buttons for the Multimedia Console
 * **Can configure the media player** - Determines what roles can configure the Multimedia Console by being granted access to the "Config" button
 
-### Adding photos and vidoes to the media list
+### Adding photos and videos to the media list
 
-Media is the heart of the Multimedia Console.  Images and video links are supported as media types within the Multimedia Console.  To add new media, click either the "Add Image" or "Add Video" icons to have a dialog pop up to enter the media information and settings.  Below is the break down of the media types and associated settings
+Media is the heart of the Multimedia Console.  Images and video links are supported as media types within the Multimedia Console.  To add new media, select either the "Add Image" or "Add Video" icons to have a dialog pop up to enter the media information and settings.  Below is the breakdown of the media types and associated settings
 
 **Image**
 
-Images should be a standard image type such as jpeg, png, etc.  They need to be hosted somewhere with a public link.
+Images should be a standard image type such as jpeg, png, and son on. They need to be hosted somewhere with a public link.
 
 * **Name** - (Required) Name that you wish to identify the image with.
 * **Image URL** - (Required) The public url of the image
@@ -89,7 +89,7 @@ Images should be a standard image type such as jpeg, png, etc.  They need to be 
 
 **Video**
 
-Videos can be hosted videos or live streams through Twitch and DLive.  (Other support may function with additional work to get the proper stream url, but are not fully supported within the Multimedia Console)
+Videos can be hosted videos or live streams through Twitch and DLive.  (Other support may function with extra work to get the proper stream url, but aren't fully supported within the Multimedia Console)
 
 * **Name** - (Required) Name that you wish to identify the video with.
 * **Video URL** - (Required) The public url that the video is hosted at or the live stream is served from.
@@ -104,7 +104,7 @@ Videos can be hosted videos or live streams through Twitch and DLive.  (Other su
 
 ## Working with JSON directly (advanced/optional)
 
-The Multimedia Console supports entering JSON directly in to the prompt of the console in AltspaceVR.  JSON is the internal mechanism with which we enable media player configurations. Exposing the ability to set JSON directly is something that allows for more advanced users to build their own workflows that suites their needs and familiarity with JSON.  The following is a brief description of the JSON structure as well as the schema by which the JSON is validated. For more detailed descriptions of the properties below, please see the above sections that talk about configuring the Multimedia Console.  This section is focused primarily on the schema examples and structuring for the JSON data.
+The Multimedia Console supports entering JSON directly in to the prompt of the console in AltspaceVR.  JSON is the internal mechanism with which we enable media player configurations. Exposing the ability to set JSON directly is something that allows for more advanced users to build their own workflows that suites their needs and familiarity with JSON.  The following is a brief description of the JSON structure and the schema by which the JSON is validated. For more detailed descriptions of the properties below, see the above sections that talk about configuring the Multimedia Console.  This section is focused primarily on the schema examples and structuring for the JSON data.
 
 ### Global media settings
 
@@ -120,7 +120,7 @@ The Multimedia Console supports entering JSON directly in to the prompt of the c
 
 ### Media list
 
-The media list is a property set at the root of the JSON structure like the Roles and Playback Settings.  It is a simple array that can contain one of the following media configuration structures. (See property descriptions above for details on what each does.)
+The media list is a property set at the root of the JSON structure like the Roles and Playback Settings.  It's a simple array that can contain one of the following media configuration structures. (See property descriptions above for details on what each does.)
 
 **Image example**
 
