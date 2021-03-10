@@ -31,7 +31,7 @@ Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set
 3. Install OBS
 
 ### Have AltspaceVR running in 2D mode BEFORE you run OBS:
-1. Download and install AltspaceVR from our Website: [altvr.com/get](altvr.com/get)
+1. Download and install AltspaceVR from our Website: [altvr.com/get](https://altvr.com/getaltspacevr)
 2. To make sure you launch AltspaceVR in 2D mode, either unplug your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
 
 Alt-Tab over to OBS

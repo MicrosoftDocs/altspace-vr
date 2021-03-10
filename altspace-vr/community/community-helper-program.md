@@ -37,7 +37,7 @@ As a Community Helper you MUST meet or exceed these expectations:
 3. Serve as a liaison between the community and the AltspaceVR team:
     * Teach others, be helpful where possible, answer questions from curious Altspacers in-world
     * Chime in with helpful and kind responses on our [Official Discord server](https://help.altvr.com/hc/articles/altvr.com/discord) or on social media
-    * Direct people to appropriate communication channels like [altvr.com/help](altvr.com/help) or [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
+    * Direct people to appropriate communication channels like [altvr.com/help](../world-building/getting-help.md) or [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
     * Communicate and collaborate with AltspaceVR staff in a positive and helpful manner 
 4. Commit to positively champion AltspaceVR in all your interactions online, in-world, and in real life. 
 5. Participate in the AltspaceVR community:
