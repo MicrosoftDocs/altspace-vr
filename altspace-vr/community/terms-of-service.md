@@ -125,13 +125,10 @@ Material Terms and Notices:  As provided in greater detail in this EULA (and wit
         •
         d. Arbitration Procedure. The AAA will conduct any arbitration under its Commercial
         Arbitration Rules (or if you are an individual and use the Services for personal or
-         
         household use, or if the value of the dispute is $75,000 or less whether or not you are an
         individual or how you use the Services, its Consumer Arbitration Rules). For more
         information, see www.adr.org or call 1-800-778-7879. To start an arbitration, submit the
         form available at http://go.microsoft.com/fwlink/?LinkId=245497 to the AAA and mail a
-         
-         
         copy to us. In a dispute involving $25,000 or less, any hearing will be telephonic unless
         the arbitrator finds good cause to hold an in-person hearing instead. Any in-person
         hearing will take place in your county of residence (or if a business your principal place
@@ -170,8 +167,6 @@ Material Terms and Notices:  As provided in greater detail in this EULA (and wit
         i. Severability. If the class action waiver is found to be illegal or unenforceable as to all or
         some parts of a dispute, then those parts won’t be arbitrated but will proceed in court,
         with the rest proceeding in arbitration. If any other provision of section 10 is found to be
-         
-         
         illegal or unenforceable, that provision will be severed but the rest of section 10 still
         applies.
     10. **Limitation of Liability and Disclaimer of Warranties.**  THE TERMS OF THIS SECTION 11 APPLY TO THE FULLEST EXTENT PERMITTED BY LAW:  
