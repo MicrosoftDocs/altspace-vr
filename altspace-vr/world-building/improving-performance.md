@@ -11,7 +11,7 @@ keywords:
 
 # Improving world performance
 
-We want people to have a good experience so performance, or how well your World runs on VR headsets, matters immensely. Our World Building system is designed for great performance for most common use cases. If you're looking to go the extra mile to maximize Presence, this guide is for you. Altspace aspires to support every hardware platform so while we encourage World Builders to push the limits, for public Worlds we recommend you target the Oculus Quest and any PC-based platform like Windows Mixed Reality, Oculus Rift/Rift S, or HTC Vive will be much more powerful than the Quest. To keep it simple, if your World runs well on a Quest, it's probably great for Altspace.
+We want people to have a good experience so performance, or how well your World runs on VR headsets, matters immensely. Our World Building system is designed for great performance for most common use cases. If you're looking to maximize Presence, this guide is for you. Altspace aspires to support every hardware platform. While we encourage World Builders to push the limits, for public Worlds we recommend you target the Oculus Quest and any PC-based platform like Windows Mixed Reality, Oculus Rift/Rift S, or HTC Vive. To keep it simple, if your World runs well on a Quest, it's probably great for Altspace.
 
 ## Tools and Measurement
 
@@ -19,7 +19,7 @@ Administrator Diagnostics is an offline tool available on our website, altvr.com
 
 ![Administrator diagnostics window](images/performance.png)
 
-These aren't requirements, merely guidelines, because performance depends not only on how many Objects you have but also how they're arranged. For example, if you have 500 objects but they're spread out over 2 kilometers, the performance will probably be fine. However, if you put the same 500 objects into a tightly packed area, you'll likely see problems. That’s because performance depends on what's within a person's Field of View. The best way to test is to hop into Altspace and teleport around your World. If you notice any glitching or feel any discomfort, those are problem spots you'll want to investigate.
+These are more guidelines than requirements. Performance depends on how many Objects you have and how they're arranged. For example, if you have 500 objects spread out over 2 kilometers, the performance will probably be fine. However, if you put the same 500 objects into a tightly packed area, you'll likely see problems. That’s because performance depends on what's within a person's Field of View. The best way to test is to hop into Altspace and teleport around your World. If you notice any glitching or feel any discomfort, those are problem spots you'll want to investigate.
 
 By sticking to these recommendations, you set yourself up for success. Let’s go over this sample diagnostic taken from an actual Featured World: 
 
@@ -39,7 +39,7 @@ Once again, these aren't requirements so we show green, yellow, red status icons
 
 ## Load Time
 
-When a person starts traveling to your world (attempts to enter), they'll first load the Template. They'll download the Template assets (files) for their platform and see “Loading Environment”. Then they'll download the Skybox and Kit assets. Finally, they'll load all the Objects while they see “Loading Objects”. Downloading all the assets can take upwards of a few minutes depending on their internet bandwidth—Object loading is fairly quick. While the assets are downloaded from fast servers all around the world, and Altspace uses caching techniques to avoid redownloading the same files repeatedly, and technically initial load time doesn't affect a person’s performance after they enter the World, it’s part of the overall experience so try not to make people wait too long when traveling to your World. We suggest you think carefully about what Kits to use and be imaginative by doing more with less.
+When a person starts traveling to your world (attempts to enter), they'll first load the Template. They'll download the Template assets (files) for their platform and see “Loading Environment”. Then they'll download the Skybox and Kit assets. Finally, they'll load all the Objects while they see “Loading Objects”. Downloading all the assets can take upwards of a few minutes depending on their internet bandwidth—Object loading is fairly quick. While the assets download from fast servers all around the world, Altspace uses caching techniques to avoid redownloading the same files repeatedly. Technically, initial load time doesn't affect a person’s performance after they enter the World, but it’s part of the overall experience so try not to make people wait too long when traveling to your World. We suggest you think carefully about what Kits to use and be imaginative by doing more with less.
 
 ## Troubleshooting and Tips
 
