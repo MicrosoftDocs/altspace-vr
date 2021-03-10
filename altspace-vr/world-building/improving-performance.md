@@ -15,27 +15,31 @@ We want people to have a good experience so performance, or how well your World 
 
 ## Tools and Measurement
 
-Administrator Diagnostics is an offline tool available on our website, altvr.com. If you navigate to [Worlds > My Worlds](https://account.altvr.com/users/sign_in), find your World, and click “Diagnostics”, you will see something like this:
+Administrator Diagnostics is an offline tool available on our website, altvr.com. If you navigate to [Worlds > My Worlds](https://account.altvr.com/users/sign_in), find your World, and select “Diagnostics”, you'll see something like this:
 
 ![Administrator diagnostics window](images/performance.png)
 
-These are not requirements, merely guidelines, because performance depends not only on how many Objects you have but also how they are arranged. For example, if you have 500 objects but they are spread out over 2 kilometers, the performance will probably be fine. However, if you put the same 500 objects into a tightly packed area, you will likely see problems. That’s because performance depends on what's within a person's Field of View. The best way to test is to hop into Altspace and teleport around your World. If you notice any glitching or feel any discomfort, those are problem spots you'll want to investigate.
+These aren't requirements, merely guidelines, because performance depends not only on how many Objects you have but also how they're arranged. For example, if you have 500 objects but they're spread out over 2 kilometers, the performance will probably be fine. However, if you put the same 500 objects into a tightly packed area, you'll likely see problems. That’s because performance depends on what's within a person's Field of View. The best way to test is to hop into Altspace and teleport around your World. If you notice any glitching or feel any discomfort, those are problem spots you'll want to investigate.
 
 By sticking to these recommendations, you set yourself up for success. Let’s go over this sample diagnostic taken from an actual Featured World: 
 
-* **Objects** - Total number of Objects in the World. Everything is an Object--Artifacts, Photos, Spawn Points, etc. We recommend you stay under a certain number but this is flexible. If you go over, we indicate our concern with a yellow exclamation mark, as shown here. However, in this case, there are two separate areas in this World so the density isn’t very high.
-* **Kits** - Total number of unique World-Building Kits used. This impacts initial download time when loading the World. Kits contain Artifacts, the menu of Objects you can spawn into the World. Note that if a single Artifact is used from a Kit, that Kit’s assets need to be downloaded. So it's awfully expensive to just use a few Artifacts from a single Kit. 
+* **Objects** - Total number of Objects in the World. Everything is an Object--Artifacts, Photos, Spawn Points, and so on. We recommend you stay under a certain number but this is flexible. If you go over, we indicate our concern with a yellow exclamation mark, as shown here. However, in this case, there are two separate areas in this World so the density isn’t high.
+* **Kits** - Total number of unique World-Building Kits used. This impacts initial download time when loading the World. Kits contain Artifacts, the menu of Objects you can spawn into the World. 
+
+> [!NOTE] 
+> If a single Artifact is used from a Kit, that Kit’s assets need to be downloaded. So it's awfully expensive to just use a few Artifacts from a single Kit. 
+
 * **Kits--Mobile** - Total size of all the Kit assets that a person on a Quest has to download before entering the World. Try not to make people wait 5 minutes to download everything they need for your World.
 * **Photos** - Total number of photos used, which tend to have a higher performance impact than Artifacts. Use sparingly.
 Template--Mobile - If you're using the Unity Uploader, keep the download size low.
 * **Skybox--Mobile** - If you're using custom Skyboxes, keep the file size small so people don’t get “black screen” (run out of video memory).
 * **Missing/Invalid Kits/Artifacts** - References to problematic Kits or Artifacts
 ... Have an idea for a metric? Let us know!
-Once again, these are not requirements so we show green, yellow, red status icons. Even a World with a bunch of red indicators may still be featured. We test in Altspace so you should too. [Reach out to us if you need help](getting-help.md). 
+Once again, these aren't requirements so we show green, yellow, red status icons. Even a World with a bunch of red indicators may still be featured. We test in Altspace so you should too. [Reach out to us if you need help](getting-help.md). 
 
 ## Load Time
 
-When a person starts traveling to your world (attempts to enter), they will first load the Template. They will download the Template assets (files) for their platform and see “Loading Environment”. Then they will download the Skybox and Kit assets. Finally, they will load all the Objects while they see “Loading Objects”. Downloading all the assets can take upwards of a few minutes depending on their internet bandwidth—Object loading is fairly quick. While the assets are downloaded from very fast servers all around the world, and Altspace uses caching techniques to avoid re-downloading the same files repeatedly, and technically initial load time doesn't affect a person’s performance after they enter the World, it’s part of the overall experience so try not to make people wait too long when traveling to your World. We suggest you think carefully about what Kits to use and be imaginative by doing more with less.
+When a person starts traveling to your world (attempts to enter), they'll first load the Template. They'll download the Template assets (files) for their platform and see “Loading Environment”. Then they'll download the Skybox and Kit assets. Finally, they'll load all the Objects while they see “Loading Objects”. Downloading all the assets can take upwards of a few minutes depending on their internet bandwidth—Object loading is fairly quick. While the assets are downloaded from fast servers all around the world, and Altspace uses caching techniques to avoid redownloading the same files repeatedly, and technically initial load time doesn't affect a person’s performance after they enter the World, it’s part of the overall experience so try not to make people wait too long when traveling to your World. We suggest you think carefully about what Kits to use and be imaginative by doing more with less.
 
 ## Troubleshooting and Tips
 
