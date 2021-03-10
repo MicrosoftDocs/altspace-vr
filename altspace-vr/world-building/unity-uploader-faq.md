@@ -52,7 +52,7 @@ Yes. We have to reload the Unity Asset Bundles every time.
 Yes, using the Uploader tool. However, people who are on Android won't see anything in your World until you upload the scene for their platform. 
 
 **12. Are scripts allowed?**
-No, for security reasons we can't allow scripts or script references. If your upload contains scripts or script references, it'll be rejected. Take a look at the new SDK if you World needs scripting. 
+No, for security reasons we can't allow scripts or script references. If your upload contains scripts or script references, it will be rejected. Take a look at the new SDK if you World needs scripting. 
 
 **13. How big of a scene can I upload?**
 We suggest you start small and be mindful of people in Altspace who don't have monster PCs. That said, we've had games bring in their maps for live streams (for example, Onward, a VR shooter game)
