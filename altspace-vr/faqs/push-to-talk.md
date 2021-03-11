@@ -1,6 +1,6 @@
 ---
 title: Is there a push-to-talk button?
-description: 
+description: Learn how to find and identify a push-to-talk button in your AltspaceVR view.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021

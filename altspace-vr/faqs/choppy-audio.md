@@ -1,12 +1,12 @@
 ---
 title: My audio is choppy
-description: 
+description: Learn how to diagnose and fix choppy audio in AltspaceVR events.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: faq
 ---
 
 # My audio is choppy

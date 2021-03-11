@@ -6,7 +6,7 @@ ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: spawner, interactions, customizations
 ---
 
 # Using the Interactables Spawner
