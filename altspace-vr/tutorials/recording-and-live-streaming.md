@@ -50,31 +50,12 @@ This should make AltspaceVR show up in OBS. Nice! Now in OBS, go to **File > Set
 |---|---|
 | General | Leave default |
 | Stream | Leave default |
-| Output mode: switch to Advanced | Streaming Tab
-Audio Track 1
-Encoder: x264
-Enforce streaming service encoder settings: tick
-Rescale Output: unticked
-Rate Control: CBR
-Bitrate: 6000 (6000 for 30 fps or 9000 for 60 fps)
-Keyframe Interval = 2
-CPU Usage Preset = veryfast |
-| Recording | Type: Standard
-Recording Path: D:/Video (Browse to where you'd like the video file saved to)
-Recording Format: mp4 (If you get some crashing while recording, try flv here instead of mp4, if you crash the video will still be usable with flv)
-Audio Track 1
-Encoder: Use stream encoder |
+| Output mode: switch to Advanced | Streaming Tab <br> Audio Track 1 <br> Encoder: x264 <br> Enforce streaming service encoder settings: tick <br> Rescale Output: unticked <br> Rate Control: CBR <br> Bitrate: 6000 (6000 for 30 fps or 9000 for 60 fps) <br> Keyframe Interval = 2 <br> CPU Usage Preset = veryfast |
+| Recording | Type: Standard <br> Recording Path: D:/Video (Browse to where you'd like the video file saved to) <br> Recording Format: mp4 (If you get some crashing while recording, try flv here instead of mp4, if you crash the video will still be usable with flv) <br> Audio Track 1 <br> Encoder: Use stream encoder |
 | Audio | Audio Bitrate: 160 (for all Tracks) |
 | Replay buffer | Leave default |
-| Audio | Sample Rate: 48khz
-Channels: Stereo
-Desktop Audio Device: Default
-Desktop Audio Device 2: Disable
-Mic/Aux Audio Device: Default |
-| Video | Base (Canvas) Resolution: 1920x1080
-Output (Scaled) Resolution: 1920x1080
-Downscale Filter: Bicubic (Sharpened scaling, 16 samples)
-Common FPS Values: 30 |
+| Audio | Sample Rate: 48khz <br> Channels: Stereo <br> Desktop Audio Device: Default <br> Desktop Audio Device 2: Disable <br> Mic/Aux Audio Device: Default |
+| Video | Base (Canvas) Resolution: 1920x1080 <br> Output (Scaled) Resolution: 1920x1080 <br> Downscale Filter: Bicubic (Sharpened scaling, 16 samples) <br> Common FPS Values: 30 |
 | Hotkeys | Leave default |
 | Advanced | Process Priority: Normal |
 
@@ -145,34 +126,13 @@ Now in OBS goes to File>Settings
 | Tab | Settings |
 |---|---|
 | General | Tick Automatically record when streaming (this records a video file to your computer in addition to live streaming) |
-| Stream | Stream Type: Streaming Services
-Service: YouTube / YouTube Gaming (Can also stream to Twitch, Mixer, Facebook Live, etc.)
-Server: Primary YouTube ingest server
-Stream key: Paste your Stream Key from YouTube*** (See ‘Setting up Live Streaming on YouTube’ below) |
+| Stream | Stream Type: Streaming Services <br> Service: YouTube / YouTube Gaming (Can also stream to Twitch, Mixer, Facebook Live, etc.)<br>Server: Primary YouTube ingest server <br>Stream key: Paste your Stream Key from YouTube*** (See ‘Setting up Live <br>Streaming on YouTube’ below) |
 | Output | Output Mode: switch to Advanced |
-| Streaming | Audio Track 1
-Encoder: x264
-tick Enforce streaming service encoder settings
-Rescale Output: unticked
-Rate Control: CBR
-Bitrate: 6000 (6000 for 30 fps or 9000 for 60 fps)
-Keyframe Interval = 2
-CPU Usage Preset = veryfast |
-| Recording | Type: Standard
-Recording Path: D:/Video (Browse to where you'd like the video file saved to if you selected 'Automatically record when streaming' earlier)
-Recording Format: mp4 (If you get some crashing while recording, try flv here instead of mp4, if you crash the video will still be usable with flv)
-Audio Track 1
-Encoder: Use stream encoder |
-| Audio | Audio Bitrate: 160 (for all Tracks) Sample Rate: 48khz
-Channels: Stereo
-Desktop Audio Device: Default
-Desktop Audio Device 2: Disable
-Mic/Aux Audio Device: Default |
+| Streaming | Audio Track 1 <br>Encoder: x264 <br>tick Enforce streaming service encoder settings <br>Rescale Output: unticked <br>Rate Control: CBR <br>Bitrate: 6000 (6000 for 30 fps or 9000 for 60 fps) <br>Keyframe Interval = 2 <br>CPU Usage Preset = veryfast |
+| Recording | Type: Standard <br>Recording Path: D:/Video (Browse to where you'd like the video file saved to if you selected 'Automatically record when streaming' earlier) <br>Recording Format: mp4 (If you get some crashing while recording, try flv here instead of mp4, if you crash the video will still be usable with flv) <br>Audio Track 1 <br>Encoder: Use stream encoder |
+| Audio | Audio Bitrate: 160 (for all Tracks) Sample Rate: 48khz <br>Channels: Stereo <br>Desktop Audio Device: Default <br>Desktop Audio Device 2: Disable <br>Mic/Aux Audio Device: Default |
 | Replay buffer | Leave default |
-| Video | Base (Canvas) Resolution: 1920x1080
-Output (Scaled) Resolution: 1920x1080
-Downscale Filter: Bicubic (Sharpened scaling, 16 samples)
-Common FPS Values: 30 |
+| Video | Base (Canvas) Resolution: 1920x1080 <br>Output (Scaled) Resolution: 1920x1080 <br>Downscale Filter: Bicubic (Sharpened scaling, 16 samples) <br>Common FPS Values: 30 |
 | Hotkeys | Leave default |
 | Advanced | Process Priority: Normal |
 
