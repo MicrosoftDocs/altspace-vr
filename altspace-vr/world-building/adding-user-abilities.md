@@ -1,12 +1,12 @@
 ---
 title: Adding user abilities
-description: 
+description: Learn how to give users special abilities in your AltspaceVR events.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: abilities, users, roles
 ---
 
 # Adding user abilities
@@ -22,11 +22,11 @@ You can’t fly in Events or in the Campfire because it would likely be disrupti
 
 ## Roles and Abilities
 
-* “pilot” - flying (they will need to activate this in VR by going to Settings > Input > Fly)
-* “megaphone_only” - everyone hears you in their ear if enabled
-* “musical_performer” - increased audio quality and bandwidth usage
-* “terraformer” - access to the World Editor
-* “showcase_new_sdk” - spawn new SDK apps
+* **Pilot** - flying (they will need to activate this in VR by going to Settings > Input > Fly)
+* **megaphone_only** - everyone hears you in their ear if enabled
+* **musical_performer** - increased audio quality and bandwidth usage
+* **Terraformer** - access to the World Editor
+* **showcase_new_sdk** - spawn new SDK apps
 * more…
 
 ## Tips

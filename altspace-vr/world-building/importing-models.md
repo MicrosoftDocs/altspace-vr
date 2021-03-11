@@ -1,12 +1,12 @@
 ---
 title: Importing glTF models
-description: 
+description: Learn how to properly import and troubleshoot 3D models into your AltspaceVR experiences.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: models, glTF, importing, sketchfab, troubleshooting
 ---
 
 # Importing glTF models
@@ -44,13 +44,13 @@ Congrats! You just spawned your first Model.
 
 ## Troubleshooting
 
-* When I clicked "Confirm" nothing happened
+* **When I clicked "Confirm" nothing happened**
     * We currently have a 100k polygon limit. If it fails, delete the Object to avoid potential problems with users joining your World
     * There may be other problems with the asset. Try to use assets with as few polygons as possible.
     * The model you're bringing in may be small or large. Try increasing/decreasing the Scale or move your avatar around, you might be standing inside the model!
-* It's slow to load
+* **It's slow to load**
     * How quickly other users in the World load it will depend on their connection speeds. It's also not cached like Kit assets. If you place one in your Home, you'll end up redownloading the same Model every time you join, which isn't great.
-* There's no collision
+* **There's no collision**
     * By default there's no collision on the objects that are brought in this way
-* When I spawn it, I lose my controls on six DOF or I'm inside so it's hard to manipulate it
+* **When I spawn it, I lose my controls on six DOF or I'm inside so it's hard to manipulate it**
     * Yes, we're aware of these issues and hope to address them soon.  

@@ -1,12 +1,12 @@
 ---
 title: Granting world roles
-description: 
+description: Get step-by-step instructions for giving users roles in your AltspaceVR worlds.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: roles
 ---
 
 # Granting world roles
@@ -44,16 +44,16 @@ After you select "Update", reset the World. This will only affect this World. If
 
 ## Roles 
 
-* presenter - abilities like being able to be on stage
-* moderator - abilities like "kick" to maintain decorum
-* terraformer - ability to use the World Editor
-* pilot - ability to toggle fly mode and spawn the 6DOF flight tool
-* megaphone_only - ability to speak into users' ears wherever they are in the World
-* showcase_new_sdk - ability to spawn MRE SDK apps
+* **Presenter** - abilities like being able to be on stage
+* **Moderator** - abilities like "kick" to maintain decorum
+* **Terraformer** - ability to use the World Editor
+* **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
+* **Megaphone_only** - ability to speak into users' ears wherever they are in the World
+* **Showcase_new_sdk** - ability to spawn MRE SDK apps
 
 ## Troubleshooting
 
-* Can I delete roles?
+* **Can I delete roles?**
     * Not from the form right now so file a Support request at help.altvr.com and we'll take care of it for you
-* Are roles copied when a World is importing from another?
+* **Are roles copied when a World is importing from another?**
     * No, roles aren't copied

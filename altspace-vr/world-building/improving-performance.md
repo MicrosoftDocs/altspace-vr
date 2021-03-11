@@ -1,12 +1,12 @@
 ---
 title: Improving world performance
-description: 
+description: Learn how to measure, troubleshoot, and improve the performance of your AltspaceVR worlds.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: performance, troubleshooting
 ---
 
 # Improving world performance
@@ -43,25 +43,25 @@ When a person starts traveling to your world (attempts to enter), they'll first 
 
 ## Troubleshooting and Tips
 
-* People are seeing a “black screen”
+* **People are seeing a “black screen”**
     * Typically, this is because the device ran out of video memory. Try to reduce the number of Objects in the problem area of the World and reduce the sizes of things like your Skybox or Template or the number of Photos. Those types tend to have the highest impact on video memory usage.
-* People are crashing
+* **People are crashing**
     * Sometimes a broken Kit or Artifact can cause this.
     * Crazy shaders or animations might cause this too.
     * Watch out for things in custom Templates and Kits.
     * Back up your World often, especially during early development. Use those backups to hone in on what you have added recently that is causing people to crash.
-* Leave “headroom”
+* **Leave “headroom”**
     * Remember that you may have 20-30 people in the World at the same time. What if all those people were huddled around a campfire. Would you still want to put 200 pebbles by the fire? Probably not a good idea. Leave some room for Avatars and Interactables (like basketballs).
     * Less is more.
-* Plan Ahead
+* **Plan Ahead**
     * Think about what you want to create and space things out. It's easy to get around in Altspace.
-* Use the Diagnostics Tool Early and Often
+* **Use the Diagnostics Tool Early and Often**
     * Bookmark it and refresh it once in a while. Eventually, similar tools will exist in VR that will be more accessible.
-* Make friends with Oculus Quest users
+* **Make friends with Oculus Quest users**
     * Invite them to come into your World to help you test. Test thoroughly and often! Test each others’ Worlds! Nothing beats testing on the real thing.
-* Add friends as "Admins" for your World
+* **Add friends as "Admins" for your World**
     * Edit your world and add your friends to the Admin list. This will let them see the Diagnostics tool for your World. Be careful though because they can also edit other aspects of your World. 
-* Performance optimization is hard so our community is eager to help
+* **Performance optimization is hard so our community is eager to help**
     * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) 
         *Visit the #world-building channel for general assistance with worlds.
         * Visit the MRE SDK channels for specific assistance with more technical and Unity Uploader related help (Templates and custom Kits)

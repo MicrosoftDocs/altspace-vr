@@ -1,12 +1,12 @@
 ---
 title: Getting started with the World Editor
-description: 
+description: Learn how to use the AltspaceVR World Editor for spawning, manipulating, and placing objects in your worlds.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: world editor
 ---
 
 # Getting started with the World Editor

@@ -1,12 +1,12 @@
 ---
 title: Recording and live streaming
-description: 
+description: Learn how to record and live stream your AltspaceVR events to promote and share with your users.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: streaming, recording
 ---
 
 # Recording and live streaming
@@ -24,13 +24,14 @@ Recording / Live Streaming your AltspaceVR experience to show others around the 
 
 Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
 
-### The slightly longer version:
+### The slightly longer version
 
 1. Visit [https://obsproject.com/](https://obsproject.com/)
 2. Select 'Windows' to download OBS (this post is using OBS v22.0.2)
 3. Install OBS
 
-### Have AltspaceVR running in 2D mode BEFORE you run OBS:
+### Have AltspaceVR running in 2D mode BEFORE you run OBS
+
 1. Download and install AltspaceVR from our Website: [altvr.com/get](https://altvr.com/getaltspacevr)
 2. To make sure you launch AltspaceVR in 2D mode, either unplug your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
 
@@ -114,11 +115,11 @@ That's the process of recording your experience in AltspaceVR!
 
 ## How to live stream to YouTube in AltspaceVR in 2D mode on PC
 
-### The short version:
+### The short version
 
 Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, either live stream or create a 'New Live Event' on YouTube, set up OBS with your YouTube Stream Key, start streaming in OBS, start streaming on YouTube and you're off to the races!
 
-### The slightly longer version:
+### The slightly longer version
 
 1. Visit [https://obsproject.com/](https://obsproject.com/)
 2. Click 'Windows' to download OBS (this post is using OBS v22.0.2)

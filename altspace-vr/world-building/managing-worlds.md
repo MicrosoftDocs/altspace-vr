@@ -1,12 +1,12 @@
 ---
 title: Managing worlds
-description: 
+description: Learn how to create and manage your AltspaceVR worlds.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: worlds, features
 ---
 
 # Managing worlds

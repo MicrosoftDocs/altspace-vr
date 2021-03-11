@@ -1,12 +1,12 @@
 ---
 title: Using a Mixed Reality Extension
-description: 
+description: Learn how to use Mixed Reality Extensions to extend and adapt your AltspaceVR worlds.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: mixed reality, extensions, troubleshooting
 ---
 
 # Using a Mixed Reality Extension
