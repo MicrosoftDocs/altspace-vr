@@ -3,7 +3,7 @@ title: Getting started with the World Editor
 description: Learn how to use the AltspaceVR World Editor for spawning, manipulating, and placing objects in your worlds.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: world editor
@@ -21,8 +21,24 @@ The primary button in your World Editor is your **Editor Panel**. This will open
 
 When you scroll over an object, a blue highlight boundary will appear. Click on the object to select it. The boundary will stay blue as long as it's selected. You can also lock an object in place to make sure it's positioned exactly where you'd like it to be. By locking the object, you'll see the highlight boundary color turn red. These colors and visual cues correspond in your Editor Panel, which makes it easy to see what you're working on and what state an object is in.
 
-| [Scroll to highlight item](images/world-editor-img-03.png) </br> *Scroll to highlight item*| [Click to select item](images/world-editor-img-04.png) </br> *Click to select* | [Scroll locked item](images/world-editor-img-05.png) </br> *Scroll locked item* | [Select locked item](images/world-editor-img-06.png) </br> *Select locked item* |
-|:---|:---|:---|:---|
+:::row:::
+    :::column:::
+       ![Scroll to highlight item](images/world-editor-img-03.png)
+        *Scroll to highlight item*
+    :::column-end:::
+    :::column:::
+       ![Click to select item](images/world-editor-img-04.png)
+        *Click to select*
+    :::column-end:::
+    :::column:::
+       ![Scroll locked item](images/world-editor-img-05.png)
+        *Scroll locked item*
+    :::column-end:::
+    :::column:::
+       ![Select locked item](images/world-editor-img-06.png)
+    *Select locked item*
+    :::column-end:::
+:::row-end:::
 
 The other buttons above the Editor Panel are quick short-cuts to helpful features and functions that make world-building a little smoother. 
 

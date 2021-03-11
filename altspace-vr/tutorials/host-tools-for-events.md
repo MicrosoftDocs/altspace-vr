@@ -101,7 +101,7 @@ The Participation Panel is designed to help you manage interaction and participa
 
 When the “Allow Hand Raises” function is activated, a “Raise Hand” button then appears for everyone in your FrontRow event, in the bottom right-hand section of their field-of-view:
 
-![Raise hand function highlighted in the participation panel](images/host-front-row-img-06.png))
+![Raise hand function highlighted in the participation panel](images/host-front-row-img-06.png)
 
 *Clicking 'Raise Hand' puts the guests in a queue that you control.*
 

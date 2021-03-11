@@ -3,7 +3,7 @@ title: Using the Groups Feature to Create Private Events
 description: Learn how to create private VR spaces that are open to approved guest lists using our group events feature.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: groups, private events, patreon, eventbrite, troubleshooting
@@ -17,8 +17,8 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 > Before you can access “Groups” you need to opt-in to Early Access features by logging into altvr.com, editing your User Profile on the website and selecting Early Access. Or inside the AltspaceVR app, Settings, General, Participate in Early Access Program.
 
 1. On your browser, go to [https://altvr.com](https://altvr.com) and log into your account. 
-2. Find the **“More”** pull-down menu.
-3. Select **“Groups”**
+2. Find the **More** pull-down menu.
+3. Select **Groups**
 
 ![AltspaceVR web view with more pull down menu highlighted](images/group-features-img-01.png)
 
@@ -26,7 +26,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 
 ![AltspaceVR web view groups page](images/group-features-img-02.png)
 
-5. Select on the **“Create”** button to make a new Group.
+5. Select on the **Create** button to make a new Group.
 6. Fill out fields to create group.
 
 ![New group creation page with input fields](images/group-features-img-03.png)
@@ -42,7 +42,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 2. **As an Administrator**, you can modify all the options you configured previously to create the Group. Go to the “Edit” button on the group’s page to access them.  
 3. **Adding Other Admins for a Group:** When editing, you can add other users as Admins to help manage the group.  
     * This must be the AltspaceVR username for the user and not their account e-mail.  
-4. Select **“Create Event”** button.  
+4. Select **Create Event**.  
 
 ![Created event](images/group-features-img-04.png)
 
@@ -52,17 +52,17 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 
 ![Main AltspaceVR app menu](images/group-features-img-05.png)
 
-2. Select the “Events” button at the bottom of the Menu.
-3. At the top, look for “My Events”
-4. Find the event by its “Name” provided by the Event creator in the main view with the tile images. Select it to enter the Event if it's live.
+2. Select **Events** at the bottom of the Menu.
+3. At the top, look for **My Events**
+4. Find the event by its **Name** provided by the Event creator in the main view with the tile images. Select it to enter the Event if it's live.
 
 ![AltspaceVR app with my events panel highlighted](images/group-features-img-06.png)
 
 ## How To find the Group World (Commons):  
 
 1. Open the Main Menu:  
-2. Select the “Worlds” button at the bottom of the Menu.   
-3. At the top, look for “My Worlds.”  
+2. Select **Worlds** at the bottom of the Menu.   
+3. At the top, look for **My Worlds**.
 4. Find the name of your group and select it to enter the Group World.
 
 ![AltspaceVR app with my worlds panel highlighted](images/group-features-img-07.png)
@@ -76,8 +76,8 @@ You can use Patreon, Eventbrite to create ticketed events in Altspace. You'l
 Use a spreadsheet program to create a single column with all the e-mail addresses. Once you've this, do the following:  
 
 1. Create or edit your group.  
-2. Find the “Member Emails” field.  
-3. Find the “Choose File” option to import your emails from a *.csv file.
+2. Find the **Member Emails** field.  
+3. Find the **Choose File** option to import your emails from a *.csv file.
 4. Your list should be imported with one email per line.
 
 > [!NOTE]
@@ -88,8 +88,8 @@ Use a spreadsheet program to create a single column with all the e-mail addr
 Platforms like Patreon and Eventbrite allow you to export a *.csv file (comma-separated value) that has a dedicated “e-mail” column. You can select this column for use. Once you've this available, the steps are mostly the same, they are:  
 
 1. Create or edit your group.  
-2. Find the “Member Emails” field.  
-3. Find the “Choose File” option to import your emails from a *.csv file.
+2. Find the **Member Emails** field.  
+3. Find the **Choose File** option to import your emails from a *.csv file.
 4. Your list should be imported with one email per line.
 
 > [!NOTE]

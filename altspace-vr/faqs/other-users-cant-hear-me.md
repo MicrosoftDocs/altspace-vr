@@ -3,7 +3,7 @@ title: Other users can't hear me
 description: Learn how to identify and fix issues related to other users not being able to hear me in AltspaceVR.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: faq
@@ -26,10 +26,10 @@ Make sure you have the correct microphone settings in AltspaceVR: Menu / Setting
 Before starting AltspaceVR ensure that the proper microphone is set as your default recording device in Windows. The Oculus Rift and HTC Vive both have a built-in microphone, if you have another microphone plugged in AltspaceVR may be trying to use that device.
  
 To change your default recording device in Windows:
-* Right-click on your Speaker Icon in Windows and select "Playback Devices"
-* Navigate to the "Recording" tab
-* Find the microphone you'd like to use. The HTC Vive microphone will be labeled "Microphone - USB Audio Device" and the Oculus Rift Microphone will be labeled "Microphone - Rift Audio".
-* Right-click on that microphone and select "Set as Default Device"
+* Right-click on your Speaker Icon in Windows and select **Playback Devices**
+* Navigate to the **Recording** tab
+* Find the microphone you'd like to use. The HTC Vive microphone will be labeled **Microphone - USB Audio Device** and the Oculus Rift Microphone will be labeled **Microphone - Rift Audio**.
+* Right-click on that microphone and select **Set as Default Device**
 * After restarting AltspaceVR your microphone will now be picked up
  
 If after following these steps you're still having issues there are a few other issues, which may be affecting you:

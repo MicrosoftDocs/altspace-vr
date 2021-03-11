@@ -3,7 +3,7 @@ title: Main events and maximizing event visibility
 description: Learn how to create and configure AltspaceVR main events while maximizing their visibility.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: events
@@ -15,9 +15,9 @@ Building up and attracting an audience for your event can be intimidating, but d
 
 With events you have three options when it comes to visibility on the calendar:
 
-* Private Events - No visibility. Not listed on the calendar.
-* Public Events - Low visibility. Discoverable only under the "All" tab on the calendar.
-* Main Events - High visibility. Discoverable in the default calendar view, on in-world billboards, and eligible for external promotion (ex: AltspaceVR's social media accounts, weekly newsletter, Oculus Events, and so on)
+* **Private Events** - No visibility. Not listed on the calendar.
+* **Public Events** - Low visibility. Discoverable only under the "All" tab on the calendar.
+* **Main Events** - High visibility. Discoverable in the default calendar view, on in-world billboards, and eligible for external promotion (ex: AltspaceVR's social media accounts, weekly newsletter, Oculus Events, and so on)
 
 ## What are Main Events?
 

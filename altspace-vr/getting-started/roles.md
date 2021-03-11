@@ -3,7 +3,7 @@ title: Roles in events, worlds, groups, and in AltspaceVR
 description: Learn about the different roles available in AltspaceVR events, worlds, and groups.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: roles, events, worlds, groups, promotion
@@ -58,7 +58,10 @@ Anyone with the Presenter/Host Role can assign roles to users that are in your e
 
 You can add other users as Admins to help you manage your event. Perhaps you're already busy Hosting your event, they can help add roles, start/end times, or descriptions of your event. Be careful as they can edit anything on your event web page, including Delete Event, so make sure you trust any Admins you’re adding.
 
-To add an Admin - Edit your event, select **Advanced Options** then look under the Advanced section for Admins, click **Add User** and add their username. 
+To add an Admin:
+1. Edit your event
+2. Select **Advanced Options**. then look under the Advanced section for Admins
+3. Click **Add User** and add their username. 
 
 > [!NOTE] 
 > This only gives them the Admin role, if you want them to have any other roles (Host, Presenter, Moderator) these need to be added like normal under Contextual Roles.

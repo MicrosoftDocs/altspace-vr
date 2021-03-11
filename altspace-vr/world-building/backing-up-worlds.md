@@ -3,7 +3,7 @@ title: Backing up your worlds
 description: Learn how to create and manage backup snapshots of your AltspaceVR worlds.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: saving
@@ -55,10 +55,11 @@ There's no limit to the number of Backups and having more Backups won't impact t
 
 ## Troubleshooting
 
-* Help! I accidentally restored a Backup and my work is gone
-    * Don’t worry. We automatically create a new Backup before restoring old one. Look for one with a name starting with "Auto" with the right timestamp and restore that one (for example, "Auto 2019-01-14T08:23:33-08:00").  If that doesn’t work submit a [Support request](https://help.altvr.com/hc/requests/new)
-* I restored a Backup and some objects are missing
-    * If any were photos, were those photos deleted? We can’t restore deleted photos for privacy reasons
-    * Submit a [Support request](https://help.altvr.com/hc/requests/new) so we can investigate
-* I don’t see any changes
-    * Backups are restored asynchronously meaning they can take a few minutes to restore depending on the number of objects. Remember to reset your World and if you don’t see anything after a few minutes try resetting again. In the future, we can provide more feedback on the status of the restoration process
+**Help! I accidentally restored a Backup and my work is gone**
+Don’t worry. We automatically create a new Backup before restoring old one. Look for one with a name starting with **Auto** with the right timestamp and restore that one (for example, **Auto 2019-01-14T08:23:33-08:00**).  If that doesn’t work submit a [Support request](https://help.altvr.com/hc/requests/new)
+
+**I restored a Backup and some objects are missing**
+If any were photos, were those photos deleted? We can’t restore deleted photos for privacy reasons. Submit a [Support request](https://help.altvr.com/hc/requests/new) so we can investigate
+
+**I don’t see any changes**
+Backups are restored asynchronously meaning they can take a few minutes to restore depending on the number of objects. Remember to reset your World and if you don’t see anything after a few minutes try resetting again. In the future, we can provide more feedback on the status of the restoration process

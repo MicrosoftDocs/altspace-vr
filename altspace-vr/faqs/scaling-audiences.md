@@ -3,7 +3,7 @@ title: Scaling your audiences with FrontRow feature
 description: Learn how to scale your AltspaceVR audiences with the FrontRow feature.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: scaling, front row
@@ -19,10 +19,10 @@ FrontRow is an AltspaceVR technology that allows your entire event to be ‘mirr
 
 FrontRow adds extra features and abilities to the Host experience, giving you maximum control over your event and your audience. 
 
-* The "On-Air" tool is added to your Host Panel.
-    * With "On-Air", you can choose who to 'mirror' (ex: presenters, performers, panelists, audience members, and so on) FrontRow also 'mirrors' content across all rooms. So if you have a panel of speakers and a slide presentation, you can 'mirror' your speakers and presentation across all your FrontRow rooms.
-* A "Rooms" tab opens up in your Guest Panel.
-    * This panel gives you an at-a-glance overview of how many rooms you have, how many guests are in each room, and who those guests are. From here, you can also choose to "Add Room" or "Delete Room" so you can manage the size of the setup that works best for your event.
+* The **On-Air** tool is added to your Host Panel.
+    * With **On-Air**, you can choose who to 'mirror' (ex: presenters, performers, panelists, audience members, and so on) FrontRow also 'mirrors' content across all rooms. So if you have a panel of speakers and a slide presentation, you can 'mirror' your speakers and presentation across all your FrontRow rooms.
+* A **Rooms** tab opens up in your Guest Panel.
+    * This panel gives you an at-a-glance overview of how many rooms you have, how many guests are in each room, and who those guests are. From here, you can also choose to **Add Room** or **Delete Room** so you can manage the size of the setup that works best for your event.
     * You can teleport from room-to-room, and easily distribute your moderators across the spaces.
 * Reactive audience distribution
     * As guests begin to enter your space, FrontRow will intuitively distribute them. It can be configured to fill up one room at a time, or to simultaneously fill several rooms for more even audience distribution.
@@ -38,23 +38,23 @@ Convert to FrontRow when you need to scale beyond your environment room-capacity
 
 1. [Create your event](https://account.altvr.com/events/new).
 2. Enter your event.
-3. Once inside your event, open the "Host Tools" in your lower right-hand corner.
-4. Select on the "Participation Panel" button.
-5. Navigate to the "Rooms" tab and from here you can "Add Room"
+3. Once inside your event, open the **Host Tools** in your lower right-hand corner.
+4. Select on the **Participation Panel** button.
+5. Navigate to the **Rooms** tab and from here you can **Add Room**
     * Note, it may take up to 30 seconds to generate another room. 
-6. Once your new room is open, you'll see it appear in the "Rooms" tab. 
+6. Once your new room is open, you'll see it appear in the **Rooms** tab. 
 
 ## How to use FrontRow
 
-Converting your event to a FrontRow event adds some extra tools and abilities to your Host Panel. Most notably, a "Rooms" tab will appear. From this tab, you can:
+Converting your event to a FrontRow event adds some extra tools and abilities to your Host Panel. Most notably, a **Rooms** tab will appear. From this tab, you can:
 
-* Add Room - Add an extra room to your event. 
-* Delete Room - Remove an entire room from your event.
-* Reset Space - Reset the room you've selected. This causes guests to reenter the same space.
-* Redistribute - Redistribute all guests currently in a room, into other rooms. (Good for crowding.)
-* Teleport - Go to another room.
+* **Add Room** - Add an extra room to your event. 
+* **Delete Room** - Remove an entire room from your event.
+* **Reset Space** - Reset the room you've selected. This causes guests to reenter the same space.
+* **Redistribute** - Redistribute all guests currently in a room, into other rooms. (Good for crowding.)
+* **Teleport** - Go to another room.
 
-In a FrontRow event, hosts will also see some other tools and features like "On-Air". This button, located next to "Host Tools", allows a host or moderator to mirror audience members and other participants so they can be visible across all spaces. (As a host, you probably want to be "On-Air" yourself, as well. (Pro Tip: [Use Host Zones](https://altvr.com/holiday2020/) to automatically enable On-Air for anyone inside the zone.)
+In a FrontRow event, hosts will also see some other tools and features like **On-Air**. This button, located next to **Host Tools**, allows a host or moderator to mirror audience members and other participants so they can be visible across all spaces. (As a host, you probably want to be **On-Air** yourself, as well. (Pro Tip: [Use Host Zones](https://altvr.com/holiday2020/) to automatically enable On-Air for anyone inside the zone.)
 
 Check out the [Host Tools Overview for FrontRow Events](../tutorials/host-tools-for-events.md) article for a complete and in-depth look at each of the features and functions available to hosts in FrontRow events.
 
@@ -68,11 +68,11 @@ If you need a hand along the way, submit a ticket to our support team at [altvr.
  
 ## How will I know when FrontRow is on?
 
-You’ll know your event has been converted once you begin to see other rooms added to your "Rooms" tab. If you want 
+You’ll know your event has been converted once you begin to see other rooms added to your **Rooms** tab. If you want 
  
 ## Can I turn off FrontRow?
 
-You sure can. You can "Delete Room" as easily as you can "Add Room." The "Delete Room" button is found next to each of the rooms in your "Rooms" tab. When you delete a room with people in it, FrontRow will notify them of the deletion and redistribute them into other, active rooms. By scaling your event all the way back down to one room, you effectively turn off FrontRow. 
+You sure can. You can **Delete Room** as easily as you can **Add Room.** The **Delete Room** button is found next to each of the rooms in your **Rooms** tab. When you delete a room with people in it, FrontRow will notify them of the deletion and redistribute them into other, active rooms. By scaling your event all the way back down to one room, you effectively turn off FrontRow. 
  
 ## Any pro tips or helpful hints to be aware of?
 

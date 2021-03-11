@@ -3,7 +3,7 @@ title: What is the Early Access Program?
 description: Stay up-to-date on the latest news and instructions for joining the AltspaceVR early access program.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: early access
@@ -15,7 +15,7 @@ The Early Access program gives you access to the latest features that are still 
 
 ## In VR
 
-1. Open your Menu to **Settings > General** and toggle on "Participate in Early Access Program":
+1. Open your Menu to **Settings > General** and toggle on **Participate in Early Access Program**:
 
 ![Settings menu with early access option highlighted](images/early-access-img-01.png)
 
@@ -25,7 +25,7 @@ The Early Access program gives you access to the latest features that are still 
 ## On the Web
 
 1. Edit your Altspace [profile](https://account.altvr.com/users/sign_in)
-2. Check the "Early Access" circle and press "Update":
+2. Check the **Early Access** circle and press **Update**:
 
 ![Altspace profile open with early access option highlighted](images/early-access-img-02.png)
 

@@ -3,7 +3,7 @@ title: Creating an event
 description: Learn about AltspaceVR events, how to create them, and adding branding and 3D objects with the World Editor.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: events, terminology, console, multimedia, world editor, live stream
@@ -13,7 +13,7 @@ keywords: events, terminology, console, multimedia, world editor, live stream
 
 This is a step-by-step guide for creating events in AltspaceVR. It's highly recommended that you attend several events in AltspaceVR to get a feel for how they work. Check the [AltspaceVR Events Calendar](https://account.altvr.com/events) for a list of all our events.
 
-## Objectives
+In this article, you'll learn:
 
 * AltspaceVR Event Terminology
 * Creating Your Event and Event Space or World
@@ -34,8 +34,7 @@ The following are terms you'll need to be familiar with for creating your event 
 | World | A world is a virtual space in AltspaceVR. It may be an office or a vast mountain range. It's a highly customizable environment. It sits within a Universe and there may be multiple worlds within that Universe. If you wish to have multiple event spaces for special events, training centers, and different meeting spaces to spice things up, add the worlds under the same Universe to keep them together as a group. |
 | Universe | A universe in AltspaceVR world building vernacular represents the categorization of your worlds. Each universe may hold multiple worlds. The worlds inherit the settings of the universe, making it easy to add people to the allow-list for multiple worlds and other control features. See [Managing Your Worlds](../world-building/managing-worlds.md) for more information. |
 | Template | A template (or Space Template) is a pre-made world or environment that may be used instead of creating one using the World Building features. AltspaceVR offers a wide range of templates for different experiences and events. |
-| Event space | An event space is a synonym for world in AltspaceVR. In general, it refers to a world used to host events.
- |
+| Event space | An event space is a synonym for world in AltspaceVR. In general, it refers to a world used to host events. |
 | Website | References to the "website" are to [AltspaceVR's website](https://altvr.com/). It's often easier to create and edit events through the [Events web page](https://account.altvr.com/events/my) on a computer or tablet rather than through your VR device. You'll need to access the website for [world building](../world-building/managing-worlds.md) as well. |
 | Contextual roles | [Contextual Roles](../getting-started/roles.md) are assigned by the event creator or world builder. These roles give users in a world or event space extra features and capabilities. Currently, these consist of Host, Presenter, Moderator, Pilot (flight), Terraformer (world building), and Megaphone Only. These may be assigned individually or globally, allowing everyone to have the same roles in the event space or world. |
 | User Interface (UI)/Menu | When you are in AltspaceVR in-world, within the immersive environment, there are menus on the left and right of your screen. The circle or main menu with the AltspaceVR logo opens up the main user interface (UI) or menu to access different screens for exploring AltspaceVR and customizing your experience. Optional UI items are found on the right size of the screen and typically include World Editor and Host Tools. These are opened and interacted with by clicking them with your cursor. |
@@ -59,9 +58,12 @@ The process of creating an event is the same for both, with one exception: the [
 | World copied | Using a world space for a repeated event permits persistent customization. Signs, images, spawn points, and other customizations are maintained from event to event rather than customizing the event space each time. |
 | Customize Event World | When an event is created, the template or imported world is copied and locked into that event. You may make changes to the event world and not impact the original world, and the other way around. Consider adding holiday decorations, pictures, or other decorative one-time use world editor elements to make the event space more enjoyable and appropriate to the event. |
 
-Modifications made to the original world won't be in the event world unless the event space is updated. Use the **RE-IMPORT WORLD** button on the event web page. Allow 2-3 minutes for the sync to complete. If the event space hasn't changed, go to **Settings > Moderate > Reset Space** to reset the event space. You'll Reset Space a lot as a world builder!
+Modifications made to the original world won't be in the event world unless the event space is updated:
+1. Use the **RE-IMPORT WORLD** button on the event web page.
+2. Allow 2-3 minutes for the sync to complete. 
+3. If the event space hasn't changed, go to **Settings > Moderate > Reset Space** to reset the event space. You'll Reset Space a lot as a world builder!
 
-If there are any technical issues, such as some elements not loading properly, go to your AltspaceVR menu, then **Settings > Moderate > Reset Space** to reset the event space to see the new changes. Windows PC users in 2D may use the keyboard shortcut: **CTRL + ALT + R** in AltspaceVR to quickly Reset Space.
+If you have technical issues, like elements not loading properly, go to your AltspaceVR menu and select **Settings > Moderate > Reset Space** to reset the event space and see the new changes. Windows PC users in 2D may use the keyboard shortcut: **CTRL + ALT + R** in AltspaceVR to quickly Reset Space.
 
 ## Creating Your Event and Event Space or World
 
@@ -88,7 +90,7 @@ On the [Events > My Events](https://account.altvr.com/events/my) web page on Alt
 6. **Select a Template:** Along the right side of the web page is a list of thumbnail images of the available templates in AltspaceVR. There are game rooms, offices, meeting spaces, presentation spaces, and fun meetup spaces. Select one that looks interesting. If you don't like it, go ahead and just create a new event with a new Template. If you wish to create your own custom event world, select the **Cool Sky** as your default template and following the instructions below for importing your world.
 7. Select **ADVANCED OPTIONS**
 
-For advanced options:
+### Advanced options
 
 1. **Promote:** Each event requires two branding images (these images appear on the AltspaceVR website and don't appear in your event inside AltspaceVR):
     * **Tile:** The tile image is required to be 1920x1080 pixels. This image will be scaled to various thumbnail sizes and shown on the AltspaceVR events calendar with other events. Ensure the image is clear and doesn't have much text on it. Don't use copyrighted images/logos that you don't own.
@@ -107,12 +109,12 @@ For advanced options:
     * **Import from World:** To use a created world event space for repeated use, this is the section of the form to use to import that world's layout and customization into your event. Be aware of the following considerations:
 
     **Import Your Own World:** To import a world, you created and own:
-    1. Select the dropdown arrow to see a list of worlds you created.
-    2. Select the world.
-    3. After completing the rest of the event form, wait at least 2 minutes before visiting the event space in AltspaceVR to ensure database information is updated and the world is generated.
+    * Select the dropdown arrow to see a list of worlds you created.
+    * Select the world.
+    * After completing the rest of the event form, wait at least 2 minutes before visiting the event space in AltspaceVR to ensure database information is updated and the world is generated.
     
     **Use Someone Else's World:**
-    1. Contact the world owner to request they use the **Share with Friends** feature on an individual world to share it with you.
+    * Contact the world owner to request they use the **Share with Friends** feature on an individual world to share it with you.
 
 3. **YouTube Video ID:** Visible on the event's web page, this adds YouTube event trailers or videos to the event web page, not in-world. You'll only need the video ID part of the URL: dQw4w9WgXcQ
 4. **Twitter Handle:** This adds your Twitter stream to the event's web page. If the Twitter account is personal and not related to the event or association, you may be over-sharing. You'll only need the handle: @elonmusk
@@ -134,15 +136,18 @@ Once the form is complete and triple checked, select **CREATE EVENT**.
 
 On the Event web page, you have the following actions and options:
 
-1. To make changes to the event settings, select **EDIT**.
-2. To end the event (if your event is over early for example), select **END EVENT**.
-3. To set your event to Draft instead of Active, select **SET TO DRAFT**.
+1. Select **EDIT** to make changes to the event settings.
+2. Select **END EVENT** to end the event (if your event is over early for example).
+3. Select **SET TO DRAFT** to set your event to Draft instead of Active.
 4. If you'd made an update to your imported world, you'll need to select **RE-IMPORT WORLD** for those changes to appear in your event, don't forget to Reset Space in the event :)
-5. To duplicate the event for future events, select **DUPLICATE EVENT**. This duplicate will then appear in My Events/My Draft Events, you'll need to update the new day/time and Activate it from there.
-6. To set your event onto the calendar listing, select **ADD AS MAIN EVENT**.
-7. If you wish to completely delete the event (you can't recover this), select **DELETE EVENT**.
+5. Select **DUPLICATE EVENT** to duplicate the event for future events. This duplicate will then appear in My Events/My Draft Events, you'll need to update the new day/time and Activate it from there.
+6. Select **ADD AS MAIN EVENT** to set your event onto the calendar listing.
+7. Select **DELETE EVENT** if you wish to completely delete the event (you can't recover this).
 
-When ready, go to the **Events > My Events** menu in the AltspaceVR in-world interface and enter the event space to Reset Space, inspect your changes and to continue customizing it. Remember, this is a copy and customizations to the event space are for this event only. If you're spending lots of time customizing your event's space, it might be better to create a world for your **Repeated Use Event**.
+When you're ready, go to the **Events > My Events** menu in the AltspaceVR in-world interface and enter the event space to Reset Space, inspect your changes, or continue customizing. 
+
+> [!IMPORTANT]
+> This is a copy and customizations to the event space are for this event only. If you're spending lots of time customizing your event's space, it might be better to create a world for your **Repeated Use Event**.
 
 For more information on customizing your event space or creating an original event space world to import:
 

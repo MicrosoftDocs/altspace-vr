@@ -3,7 +3,7 @@ title: Oculus Quest/Quest 2 installation
 description: Get step-by-step instructions on installing AltspaceVR on Oculus Quest devices from the mobile app or Oculus store.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support
@@ -16,6 +16,8 @@ keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support
 
 ## Oculus Store (from the mobile app)
 
+To install AltspaceVR from the Oculus Store mobile app:
+
 1. Open the Oculus app.
 2. [Open AltspaceVR on the Oculus Store](https://www.oculus.com/experiences/quest/2133027990157329/).
 3. Select **Free** to add AltspaceVR to your library. 
@@ -24,6 +26,8 @@ keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support
 6. Select **Start** to launch the application, and then put on your headset to begin!
 
 ## Oculus Store (from the Oculus Quest)
+
+If you're installing from the Oculus Store on the Oculus Quest:
 
 1. Open the toolbar by pressing the **Oculus button** on the **right Touch controller** labeled with the Oculus icon.
 2. Select **Navigate** from the toolbar, which will open another toolbar--select **Store** on the second toolbar.
@@ -34,7 +38,7 @@ keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support
 
 ## Troubleshooting
 
-### Microphone permission is toggled off**
+**Microphone permission is toggled off**
 
 AltspaceVR requires your microphone permission to be toggled in the "on" position for users to speak.  If your users have the permission toggled "off" they can still enter, but may experience the following issues:
 
@@ -43,15 +47,15 @@ AltspaceVR requires your microphone permission to be toggled in the "on" positio
 	
 * User can't speak in AltspaceVR.
 * User can speak in other applications.
-* Mute button is disabled in the 'muted' position in AltspaceVR, and
+* Mute button is disabled in the 'muted' position in AltspaceVR.
 
-### AltspaceVR won't launch upon first installation
+**AltspaceVR won't launch upon first installation**
 
 * If the AltspaceVR app is open but not launching correctly, exit the app and try again.
 * If launch errors continue, fully uninstall the app from the Oculus Quest and then reinstall it again.
 * If launch errors continue, open a support ticket with us so that we may assist you further.
 
-### AltspaceVR won't launch after previously sideloading the app
+**AltspaceVR won't launch after previously sideloading the app**
 
 * Fully uninstall your sideloaded app and attempt to reinstall from the store again.
 * If launch errors continue, open a support ticket with us so that we may assist you further.

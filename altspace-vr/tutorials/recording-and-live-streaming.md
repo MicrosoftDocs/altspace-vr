@@ -11,16 +11,16 @@ keywords: streaming, recording
 
 # Recording and live streaming
 
-Recording / Live Streaming your AltspaceVR experience to show others around the world is a great way to promote your event, AltspaceVR, and VR in general! Take a look below to see how to get started:
+Recording and Live Streaming your AltspaceVR experience to show others around the world is a great way to promote your event, AltspaceVR, and VR in general! Take a look below to see how to get started:
 
-## Objectives
+In this article, you'll learn how to:
 
 * [How to record AltspaceVR in 2D mode on PC](#how-to-record-altspacevr-in-2d-mode-on-pc)
 * [How to live stream to YouTube in AltspaceVR in 2D mode on PC](#how-to-live-stream-to-youtube-in-altspacevr-in-2d-mode-on-pc)
 
 ## How to record AltspaceVR in 2D mode on PC
 
-### The short version:
+### The short version
 
 Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
 
@@ -122,7 +122,7 @@ Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, eit
 ### The slightly longer version
 
 1. Visit [https://obsproject.com/](https://obsproject.com/)
-2. Click 'Windows' to download OBS (this post is using OBS v22.0.2)
+2. Click **Windows** to download OBS (this post is using OBS v22.0.2)
 3. Install OBS
 
 Have AltspaceVR running in 2D mode BEFORE you run OBS

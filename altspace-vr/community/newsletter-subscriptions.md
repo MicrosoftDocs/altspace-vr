@@ -3,7 +3,7 @@ title: Subscribing to our newsletter
 description: Sign up for our weekly newsletter for upcoming events, new features, and community information.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: newsletter
@@ -15,4 +15,5 @@ We're glad to hear you're interested in receiving updates and news about Altspac
 
 We're constantly updating AltspaceVR and scheduling events just for you. 
 
-[Click here to subscribe!](http://altvr.us7.list-manage.com/subscribe?u=ca3b0ab1f83e7c2123f094df6&id=519b6a1ca4)
+> [!div class="nextstepaction"] 
+> [Click here to subscribe!](http://altvr.us7.list-manage.com/subscribe?u=ca3b0ab1f83e7c2123f094df6&id=519b6a1ca4)

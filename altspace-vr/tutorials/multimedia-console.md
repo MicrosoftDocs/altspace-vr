@@ -3,7 +3,7 @@ title: Using the multimedia console
 description: Learn how to configure, publish, and control a multimedia console in your AltspaceVR experiences.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: console, multimedia
@@ -11,7 +11,7 @@ keywords: console, multimedia
 
 # Using the multimedia console
 
-The Multimedia Console is a tool that enables media sharing in events and worlds. You can use it to share things like images, presentation slides, livestreams, videos, playlists, and more. Below is a step-by-step instruction on how to use the Multimedia Console v0.5.0+: 
+The Multimedia Console is a tool that enables media sharing in events and worlds. You can use it to share things like images, presentation slides, livestreams, videos, playlists, and more. Below is a step-by-step instruction on how to use the Multimedia Console **v0.5.0+**. 
 
 ## Getting started
 
@@ -27,10 +27,10 @@ Getting started with the Multimedia Console is a two part process.  First there'
   
 ### Placing the Multimedia console in your environment
 
-1. Select on World Editor->Editor Panel->SDK Apps->Multimedia Console. (Don't go to World Editor->Basics->SDK App--that's for unregistered apps.)  
+1. Select on **World Editor > Editor Panel > SDK Apps > Multimedia Console**. (Don't go to **World Editor > Basics > SDK App**--that's for unregistered apps.)  
 2. Position the Multimedia Console to best suite your space and audience.
 3. Get out of Edit Mode by clicking the orange Edit Mode button.
-4. You'll be prompted "Are you the media player owner?" If you're the person who should be the official owner of this Multimedia Console session, confirm and continue. (Other permissioned roles are available as well. See below for a detailed list.)
+4. You'll be prompted **Are you the media player owner?** If you're the person who should be the official owner of this Multimedia Console session, confirm and continue. (Other permissioned roles are available as well. See below for a detailed list.)
 5. Select Yes to confirm that you are the primary host.  
 6. A dialog should pop up that asks you to enter a code from the web portal or valid JSON.  Enter the two word code from the web portal including the dash and hit OK. (JSON is an advanced configuration described below)
 7. The Multimedia Console should load after a few seconds with the configuration you built in the web portal.
@@ -38,11 +38,11 @@ Getting started with the Multimedia Console is a two part process.  First there'
 ### Controlling the Multimedia console
 
 1. After you input your code and complete the configuration process, you'll see control buttons appear below a media display. 
-    * "Play" starts the media viewer (or restarts at current entry, if previously stopped) 
-    * "Stop" stops the media viewer, and hides current media.  
-    * "Next"/"Prev" skips to next or previous media 
-    * "x/x" shows the current index into the media list, and allows you to jump to any point in the list
-    * "Config" allows reentering a new code from the web portal to set a new configuration in the console. 
+    * **Play** starts the media viewer (or restarts at current entry, if previously stopped) 
+    * **Stop** stops the media viewer, and hides current media.  
+    * **Next/Prev** skips to next or previous media 
+    * **x/x** shows the current index into the media list, and allows you to jump to any point in the list
+    * **Config** allows reentering a new code from the web portal to set a new configuration in the console. 
 
 Now you're set to begin sharing via the Multimedia Console!  
  
@@ -56,7 +56,7 @@ The web portal is a web app that enables configuring the various features of the
 
 General playback settings for the media list
 
-* **Loop Media List **- Determines whether the media list should loop around once you reach the end of the list.
+* **Loop Media List**- Determines whether the media list should loop around once you reach the end of the list.
 * **Start Method** - Selects the method by which the multimedia console should start.
     * Manual - Waits for the play button to be pressed before starting the media
     * Auto Start from Beginning - Auto start the media list from the beginning of the list
@@ -70,14 +70,14 @@ Role assignments for controlling and configuring the Multimedia Console.    Thes
 * **Elevated Users** - Users that have moderator, host, or presenter roles in the space that the Multimedia Console is configured in originally
 * **All Users** - All users
 
-These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: "Elevated Users" includes the "Owner" even if they aren't a moderator, host, or presenter" in AltspaceVR. Features that are controlled by role assignments are as follows
+These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: **Elevated Users** includes the **Owner** even if they aren't a moderator, host, or presenter** in AltspaceVR. Features that are controlled by role assignments are as follows
 
 * **Can control media player** - Determines what roles can control the media playback buttons for the Multimedia Console
-* **Can configure the media player** - Determines what roles can configure the Multimedia Console by being granted access to the "Config" button
+* **Can configure the media player** - Determines what roles can configure the Multimedia Console by being granted access to the **Config** button
 
 ### Adding photos and videos to the media list
 
-Media is the heart of the Multimedia Console.  Images and video links are supported as media types within the Multimedia Console.  To add new media, select either the "Add Image" or "Add Video" icons to have a dialog pop up to enter the media information and settings.  Below is the breakdown of the media types and associated settings
+Media is the heart of the Multimedia Console.  Images and video links are supported as media types within the Multimedia Console.  To add new media, select either the **Add Image** or **Add Video** icons to have a dialog pop up to enter the media information and settings.  Below is the breakdown of the media types and associated settings
 
 **Image**
 

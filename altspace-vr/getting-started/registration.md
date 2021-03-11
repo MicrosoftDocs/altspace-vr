@@ -3,7 +3,7 @@ title: Registering for AltspaceVR
 description: Get step-by-step instructions on how to create and register a new AltspaceVR account and answers to commonly asked questions.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: registration, account, faqs, troubleshooting

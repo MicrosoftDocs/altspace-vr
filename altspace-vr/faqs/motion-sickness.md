@@ -25,24 +25,24 @@ Contemporary VR hardware like the Oculus Rift and HTC Vive, reduces motion sickn
 
 In addition to hardware improvements and framerates, AltspaceVR has implemented several features that help people reduce and eliminate nausea:
 
-* Teleporting - Moving instantaneously from point-to-point doesn't communicate motion to the brain, thereby eliminating motion sickness.
-* Snap Turning - On all hardware, AltspaceVR provides means for "ratcheted" or "stepped" rotation of the view in VR. In other words when turning, your view will pivot about 20 degrees of rotation. Again, this doesn't trigger nausea in most people.
-* Snap Motion - On certain hardware, swiping forward on the touchpad will move the perspective forward in an increment that doesn't trigger motion sickness. 
+* **Teleporting** - Moving instantaneously from point-to-point doesn't communicate motion to the brain, thereby eliminating motion sickness.
+* **Snap Turning** - On all hardware, AltspaceVR provides means for "ratcheted" or "stepped" rotation of the view in VR. In other words when turning, your view will pivot about 20 degrees of rotation. Again, this doesn't trigger nausea in most people.
+* **Snap Motion** - On certain hardware, swiping forward on the touchpad will move the perspective forward in an increment that doesn't trigger motion sickness. 
  
 ## Suggestions for Eliminating Motion Sickness
 
-*Stand Still*
+**Stand Still**
 
 Try not to move around too much using the controllers, just rotate your head/or up/down to look around in VR.
 
-*Don't Use a Mouse/KB or Controller*
+**Don't Use a Mouse/KB or Controller**
 
 AltspaceVR offers users the option to use standard gaming peripherals such as Mouse/Keyboard and Game controllers to move in VR as you would in a video game. This includes multi-directional movement, strafing, and a turbo button. We recommend using these only after becoming accustomed to being in VR. Even then, take it slow.
 
-*You Can Always Bail Out*
+**You Can Always Bail Out**
 
 If you experience nausea, remove your HMD immediately. Regain your equilibrium, calm your stomach, and when ready return to the VR environment. Try to remember the movement that caused the sensation and refrain from repeating it.
 
-*Know When it's Time to Exit VR*
+**Know When it's Time to Exit VR**
 
 Most importantly, know when it's time to take a break. You know your body, and when it's giving you strong indication that something is wrong, listen. Take a break and get some air. Walk around and realign your equilibrium. Once you feel good again, come back, we're confident the party will still be going!

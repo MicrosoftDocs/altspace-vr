@@ -3,7 +3,7 @@ title: Creating your first AltspaceVR world
 description: Learn how to create and share your AltspaceVR worlds with the world.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
 keywords: world, sharing
@@ -18,7 +18,7 @@ This guide will help you create and share your first Altspace World!
 ## Creating
 
 1. Sign up (for free, if you haven't already) for your AltspaceVR account and complete the tutorial in the AltspaceVR app.
-2. Open your Menu and navigate to Worlds > My Worlds:
+2. Open your Menu and navigate to **Worlds > My Worlds**:
 
 ![My worlds open in the AltspaceVR menu](images/world-building-img-01.png)
 
@@ -35,11 +35,11 @@ Congratulations! You've created your first Altspace World, your own multiplayer 
 ## Sharing
 
 1. Go to the Campfire (or wherever the people you want to share with are)
-2. Open your Menu, find your World again, and select "Info":
+2. Open your Menu, find your World again, and select **Info**:
 
 ![My worlds open in the AltspaceVR menu with info button highlighted](images/world-building-img-03.png)
 
-3. Select "Portal" to spawn a portal:
+3. Select **Portal** to spawn a portal:
 
 ![My worlds info with portal button highlighted](images/world-building-img-04.png)
 ![New portal with avatar](images/world-building-img-05.png)
@@ -52,6 +52,5 @@ Congratulations! You've created your first Altspace World, your own multiplayer 
 
 You should be world-building in minutes; however, if you do run into issues check out these resources:
 * [Where can I get help with world-building?](getting-help.md)
-* more soon...
 
 Finally, join our [Early Access Program](early-access.md) (free) and submit your World to be Featured when you're ready. We're excited to see what you will make!
