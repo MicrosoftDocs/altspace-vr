@@ -44,7 +44,7 @@ Alt-Tab over to OBS
 5. Window Match Priority: Match title, otherwise find window of the same executable
 6. Scroll down to Capture Cursor: untick OK
 
-This should make AltspaceVR show up in OBS. Nice! Now in OBS goes to File>Settings
+This should make AltspaceVR show up in OBS. Nice! Now in OBS, go to **File > Settings**:
 
 | Tab | Settings |
 |---|---|
