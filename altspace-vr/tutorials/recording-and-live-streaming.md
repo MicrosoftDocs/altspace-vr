@@ -18,7 +18,7 @@ In this article, you'll learn how to:
 * [How to record AltspaceVR in 2D mode on PC](#how-to-record-altspacevr-in-2d-mode-on-pc)
 * [How to live stream to YouTube in AltspaceVR in 2D mode on PC](#how-to-live-stream-to-youtube-in-altspacevr-in-2d-mode-on-pc)
 
-## How to record AltspaceVR in 2D mode on PC
+## Recoding AltspaceVR in 2D mode on PC
 
 ### The short version
 
@@ -27,24 +27,26 @@ Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set
 ### The slightly longer version
 
 1. Visit [https://obsproject.com/](https://obsproject.com/)
-2. Select 'Windows' to download OBS (this post is using OBS v22.0.2)
+2. Select **Windows** to download OBS. This post is using **OBS v22.0.2**
 3. Install OBS
 
 ### Have AltspaceVR running in 2D mode BEFORE you run OBS
 
 1. Download and install AltspaceVR from our Website: [altvr.com/get](https://altvr.com/getaltspacevr)
-2. To make sure you launch AltspaceVR in 2D mode, either unplug your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
+2. Make sure you launch AltspaceVR in 2D mode by unplugging your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. 
+    * This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
 
-Alt-Tab over to OBS
+Alt-Tab over to OBS:
 
-1. Under Sources, select **+**, Select Game Capture, Create new, Edit text to 'AltspaceVR Capture', tick Make source visible, OK
-2. Double-click AltspaceVR Capture under Sources
-3. Mode: Capture specific window
-4. Window: [AltspaceVR.exe]: AltspaceVR
-5. Window Match Priority: Match title, otherwise find window of the same executable
-6. Scroll down to Capture Cursor: untick OK
+1. Under Sources, select **+ > Game Capture > Create New**
+2. Edit text to 'AltspaceVR Capture', tick **Make source visible**, and select OK
+3. Double-click **AltspaceVR Capture** under Sources
+4. Change **Mode** to **Capture specific window**
+5. Window: [AltspaceVR.exe]: AltspaceVR
+6. Window Match Priority: Match title, otherwise find window of the same executable
+7. Scroll down to Capture Cursor: untick OK
 
-This should make AltspaceVR show up in OBS. Nice! Now in OBS, go to **File > Settings**:
+This should make AltspaceVR show up in OBS. Now to set the following properties in OBS, go to **File > Settings**:
 
 | Tab | Settings |
 |---|---|
@@ -59,42 +61,34 @@ This should make AltspaceVR show up in OBS. Nice! Now in OBS, go to **File > Set
 | Hotkeys | Leave default |
 | Advanced | Process Priority: Normal |
 
-Alright, now make sure to select Apply, then OK, that will save your all your OBS settings. Looking good :)
+Alright, now make sure to select **Apply**, then **OK** to save all your OBS settings. 
 
 1. Alt-Tab over to AltspaceVR, get into the correct space/world/event and line up your camera (that is,, your Avatar) we're about to record a video!
-2. Alt-Tab over to OBS and when you're ready click Start Recording.
+2. Alt-Tab over to OBS and when you're ready click **Start Recording**.
 
-You'll see at the bottom right of OBS that REC: will start counting up, you're recording now!
+You'll see at the bottom right of OBS that REC: will start counting up, which means you're recording!
 
-Make a test recording out of this, in AltspaceVR open/close/rollover the menus to make UI sounds, say 'Sibilance, Sibilance', get another user to talk to you at a normal volume or watch a video on the 2D display.
-
-Look at the Desktop Audio and Mic/Aux levels as you do this to see if its working.
+Make a test recording out of this: 
+1. In AltspaceVR open/close/rollover the menus to make UI sounds
+2. Say 'Sibilance, Sibilance', and get another user to talk to you at a normal volume or watch a video on the 2D display.
+3. Look at the Desktop Audio and Mic/Aux levels as you do this to see if its working.
 
 We usually mute the Mic/Aux when recording. Go ahead and select the speaker icon for Mic/Aux and it will turn red with an X.
 
-It’s VERY difficult to match your audio and the other user’s audio so the Mic is best muted.
+* It’s VERY difficult to match your audio and the other user’s audio so the Mic is best muted.
+* Another issue with audio is the way OBS is set up. It captures ALL audio from your computer, so if you're watching YouTube it will record that audio, or Slack messages, or notification sounds.
+* To record just the audio from AltspaceVR, go into Volume Mixer (right-click on the Speaker icon on the bottom right of Windows) and Mute System Sounds, Browsers, and so on, but don't Mute OBS or AltspaceVR.
 
-Another issue with audio is the way OBS is set up. It captures ALL audio from your computer, so if you're watching YouTube it will record that audio, or Slack messages, or notification sounds.
+> [!IMPORTANT]
+> Don't forget to turn these Volume Mixer settings back on after recording.
 
-To record just the audio from AltspaceVR, go into Volume Mixer (right-click on the Speaker icon on the bottom right of Windows) and Mute System Sounds, Browsers, and so on, but don't Mute OBS or AltspaceVR.
-
-Don't forget to turn these Volume Mixer settings back on after recording ;)
-
-Now back to OBS and select Stop Recording
-
-File>Show Recordings
-
-This opens up the folder with your OBS video files, double-click the test video.
-
-Audio sound good? Video look awesome? Nice work, Spielberg!
+Now, navigate back to OBS and select **Stop Recording** from **File>Show Recordings**. This opens up the folder with your OBS video files, double-click the test video.
 
 Sometimes the recording is quite loud, so lower the slider for Desktop Audio and makes another recording to test.
 
-That's the process of recording your experience in AltspaceVR!
-
 <!-- Missing image -->
 
-## How to live stream to YouTube in AltspaceVR in 2D mode on PC
+## Live streaming to YouTube in AltspaceVR 2D mode on PC
 
 ### The short version
 
