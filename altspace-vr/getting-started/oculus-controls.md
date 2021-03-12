@@ -1,12 +1,12 @@
 ---
 title: Oculus Quest/Quest 2 controls and permissions
-description: 
+description: Learn the basic controls for Oculus Quest and Quest 2 devices, managing permissions, and using hand gestures.
 author: hferrone
 ms.author: v-hferrone
-ms.date: 02/10/2021
+ms.date: 03/11/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: oculus, oculus quest, controls, permissions, hand gestures
 ---
 
 # Oculus Quest/Quest 2 controls and permissions
@@ -38,10 +38,10 @@ keywords:
 
 <!-- Missing image -->
 
-On Oculus Quest, permissions can be managed on a per-app basis from your Oculus library by:
+To manage your permissions on the Oculus Quest on a per-app basis from your Oculus library:
 
-* Navigating to the app in your Oculus library.
-* Selecting the dotted icon to open the app's menu.
-* Selecting 'permissions' from the drop-down menu that appears.
+1. Navigate to the app in your Oculus library.
+2. Select the **three-dot icon** to open the app's menu.
+3. Select **permissions** from the drop-down menu that appears.
 
-This will load a 'Permissions' UI that will allow you to toggle on and toggle off permissions on a per-item basis for each app.
+A 'Permissions' UI will load, which you can toggle on and off for each app.

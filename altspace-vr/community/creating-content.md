@@ -1,12 +1,12 @@
 ---
 title: Creating AltspaceVR content
-description: 
+description: Learn how to create AltspaceVR content, use mixed reality extensions, and join the expanding community.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 ms.localizationpriority: high
-keywords: 
+keywords: mixed reality extensions, community, world building, resources
 ---
 
 # Creating AltspaceVR content
@@ -15,7 +15,7 @@ AltspaceVR is a great community for those who want to create and share VR conten
 
 ## MRE (Mixed Reality Extension) SDK
 
-We want to support and grow our community of developers. To aid this we have created a number of resources that we hope will assist even novice developers with creating 3D multi-user web apps and experiences. 
+We want to support and grow our community of developers. We've created several resources that we hope will assist even novice developers with creating 3D multi-user web apps and experiences. 
 
 ## Start creating
 

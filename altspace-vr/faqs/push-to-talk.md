@@ -1,6 +1,6 @@
 ---
 title: Is there a push-to-talk button?
-description: 
+description: Learn how to find and identify a push-to-talk button in your AltspaceVR view.
 author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
@@ -15,4 +15,7 @@ In the lower right of your view, there is a microphone button that can be used t
  
 If the icon blinks when you talk, your microphone is working!
  
-Questions or feedback? [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
+Questions or feedback? 
+
+> [!div class="nextstepaction"]
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
