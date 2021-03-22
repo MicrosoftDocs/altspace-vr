@@ -5,7 +5,6 @@ author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: requirements, head mounted displays, oculus rift, htc vive, windows 2d mode
 ---
 
