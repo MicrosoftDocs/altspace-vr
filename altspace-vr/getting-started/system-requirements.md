@@ -42,3 +42,10 @@ We recommend the minimum system profiles below to get the full AltspaceVR experi
 ## Windows Mixed Reality
 
 [Windows Mixed Reality PC hardware guidelines](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
+
+## Bandwidth Requirements
+
+* A minimum bandwidth of 5mbps is recommended.
+
+> [!NOTE]
+> Events with many video streams may require more bandwidth.
