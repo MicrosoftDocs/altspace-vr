@@ -33,7 +33,7 @@ Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set
 2. Make sure you launch AltspaceVR in 2D mode by unplugging your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. 
     * This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
 
-Alt-Tab over to OBS:
+Now, Alt-Tab over to OBS:
 
 1. Under Sources, select **+ > Game Capture > Create New**
 2. Edit text to 'AltspaceVR Capture', tick **Make source visible**, and select OK
