@@ -1,7 +1,6 @@
 ---
 title: Will AltspaceVR cause motion sickness?
 description: Stay up-to-date on the latest frequently asked questions and solutions to motion sickness.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: motion sickness, vr, nausea

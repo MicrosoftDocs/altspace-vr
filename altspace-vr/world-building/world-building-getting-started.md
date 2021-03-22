@@ -1,7 +1,6 @@
 ---
 title: Creating your first AltspaceVR world
 description: Learn how to create and share your AltspaceVR worlds with the world.
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
 keywords: world, sharing

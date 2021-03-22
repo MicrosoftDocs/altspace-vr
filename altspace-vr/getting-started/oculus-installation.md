@@ -1,7 +1,6 @@
 ---
 title: Oculus Quest/Quest 2 installation
 description: Get step-by-step instructions on installing AltspaceVR on Oculus Quest devices from the mobile app or Oculus store.
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support

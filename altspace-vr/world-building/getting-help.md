@@ -1,7 +1,6 @@
 ---
 title: Where can I get help?
 description: Stay up-to-date on the best channels for getting support and help with your AltpsaceVR experiences.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: help

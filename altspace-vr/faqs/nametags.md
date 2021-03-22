@@ -1,7 +1,6 @@
 ---
 title: How do nametags work?
 description: Learn about the different kinds of nametags and how they work in AltspaceVR.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq

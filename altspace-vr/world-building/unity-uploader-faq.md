@@ -1,7 +1,6 @@
 ---
 title: Unity Uploader help
 description: Stay up-to-date on the latest frequently asked questions and solutions for the AltspaceVR Unity Uploader.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: help, faq

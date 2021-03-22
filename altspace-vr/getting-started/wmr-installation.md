@@ -1,7 +1,6 @@
 ---
 title: Windows Mixed Reality installation
 description: Get step-by-step instructions for installing AltspaceVR on a Windows Mixed Reality device.
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
 keywords: installation, microsoft store, steam

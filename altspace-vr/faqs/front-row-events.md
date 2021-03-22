@@ -1,7 +1,6 @@
 ---
 title: What are FrontRow events?
 description: Learn about how front row events let your users get up close and personal in AltspaceVR events.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq 

@@ -1,7 +1,6 @@
 ---
 title: Recording and live streaming
 description: Learn how to record and live stream your AltspaceVR events to promote and share with your users.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: streaming, recording

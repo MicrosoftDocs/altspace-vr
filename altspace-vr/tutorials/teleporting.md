@@ -1,7 +1,6 @@
 ---
 title: Using the teleporter
 description: Learn how to travel from one event or world to another by teleporter in AltspaceVR.
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
 keywords: teleporter

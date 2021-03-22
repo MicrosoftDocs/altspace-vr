@@ -1,7 +1,6 @@
 ---
 title: Host tools for FrontRow events
 description: Learn how to leverage all your host tools for FrontRow events, including muting, messaging, and moderating your events.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: host tools, front row, event

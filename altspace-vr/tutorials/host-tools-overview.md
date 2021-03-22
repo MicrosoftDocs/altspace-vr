@@ -1,7 +1,6 @@
 ---
 title: Host tools overview
 description: Learn how to use your host tools for non-FrontRow events, including muting, messaging, and moderating.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: host tools, mute, message, stage blocking, audience participation

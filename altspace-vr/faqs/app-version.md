@@ -1,7 +1,6 @@
 ---
 title: Finding the AltspaceVR app version
 description: Learn how to find the version of AltspaceVR you're currently running.
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
 keywords: app version

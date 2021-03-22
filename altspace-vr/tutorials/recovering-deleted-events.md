@@ -1,7 +1,6 @@
 ---
 title: Recovering deleted events
 description: Learn how to recover deleted events in AltspaceVR.
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
 keywords: events
