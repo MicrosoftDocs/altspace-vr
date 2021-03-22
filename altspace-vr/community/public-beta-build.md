@@ -1,11 +1,8 @@
 ---
 title: Public beta build program
 description: Get the latest news on installing and filing bugs for the newest AltspaceVR beta build program.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: beta, beta build, bugs
 ---
 

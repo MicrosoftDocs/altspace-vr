@@ -1,8 +1,6 @@
 ---
 title: Exploring the Title Screen
 description: Learn how to navigate all the features and functions of the AltspaceVR Title Screen.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/19/2021
 ms.topic: article
 keywords: title screen, features, tutorials, login, account, event code, destinations

@@ -1,11 +1,8 @@
 ---
 title: Keyboard shortcuts
 description: Learn all the keyboard shortcuts and actions available in AltspaceVR.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: keyboard, shortcuts
 ---
 

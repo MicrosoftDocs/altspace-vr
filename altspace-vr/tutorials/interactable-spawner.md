@@ -1,11 +1,8 @@
 ---
 title: Using the Interactables Spawner
 description: Learn how to create, use, and customize, the interactables spawner in AltspaceVR.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: spawner, interactions, customizations
 ---
 

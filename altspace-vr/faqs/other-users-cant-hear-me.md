@@ -1,11 +1,8 @@
 ---
 title: Other users can't hear me
 description: Learn how to identify and fix issues related to other users not being able to hear me in AltspaceVR.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: faq
 ---
 

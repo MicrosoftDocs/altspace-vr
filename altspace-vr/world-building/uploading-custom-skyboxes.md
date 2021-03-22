@@ -1,11 +1,8 @@
 ---
 title: Uploading custom Skyboxes
 description: Get step-by-step instructions on uploading and troubleshooting your custom skyboxes in AltspaceVR experiences.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: skyboxes, troubleshooting
 ---
 

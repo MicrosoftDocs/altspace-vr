@@ -1,11 +1,8 @@
 ---
 title: World-building help
 description: Stay up-to-date with the latest frequently asked questions and solutions for world building in AltspaceVR.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: help
 ---
 

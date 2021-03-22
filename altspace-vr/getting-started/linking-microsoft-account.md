@@ -1,11 +1,8 @@
 ---
 title: Linking your Microsoft account
 description: Learn how to link your Microsoft account in 2D mode on PC and VR mode on immersive headsets, along with troubleshooting tips. 
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: microsoft, 2D mode, VR mode
 ---
 

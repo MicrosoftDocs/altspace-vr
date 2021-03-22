@@ -1,11 +1,8 @@
 ---
 title: Terms of service
 description: Stay current with AltspaceVR's terms of service for all active community users.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: terms of service
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: Community standards
 description: Stay up-to-date with all the latest AltspaceVR community standards and violation reporting.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: community, standards, harassments, warning
 ---
 

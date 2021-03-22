@@ -45,8 +45,13 @@
       "extendBreadcrumb": true,
       "uhfHeaderId": "MSDocsHeader-Hololens",
       "feedback_system": "None",
+      "author": "vryunji",
+      "ms.author": "v-hferrone",
       "ms.prod": "mixed-reality",
-      "keywords": "altspace, altspacevr, mixed reality, virtual reality, mre, mixed reality extensions, developers, visual studio code"
+      "keywords": "altspace, altspacevr, mixed reality, virtual reality, mre, mixed reality extensions, developers, visual studio code",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/altspace-vr-pr",
+      "feedback_product_url": "https://docs.microsoft.com/windows/mixed-reality/give-us-feedback"
     },
     "fileMetadata": {},
     "template": [],

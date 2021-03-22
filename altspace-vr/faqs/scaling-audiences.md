@@ -1,11 +1,8 @@
 ---
 title: Scaling your audiences with FrontRow feature
 description: Learn how to scale your AltspaceVR audiences with the FrontRow feature.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: scaling, front row
 ---
 

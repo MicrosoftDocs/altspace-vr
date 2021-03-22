@@ -1,11 +1,8 @@
 ---
 title: What is the Early Access Program?
 description: Stay up-to-date on the latest news and instructions for joining the AltspaceVR early access program.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: early access
 ---
 

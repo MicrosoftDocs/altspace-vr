@@ -1,11 +1,8 @@
 ---
 title: Adding user abilities
 description: Learn how to give users special abilities in your AltspaceVR events.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: abilities, users, roles
 ---
 

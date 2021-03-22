@@ -1,11 +1,8 @@
 ---
 title: I can't launch AltspaceVR
 description: Learn how to fix issues relating to launching the AltspaceVR environment.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: faq
 ---
 

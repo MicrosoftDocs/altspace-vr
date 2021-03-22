@@ -1,11 +1,8 @@
 ---
 title: Overview
 description: Learn about AltspaceVR, mixed reality extensions, the world editor, and how to get help during development.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: world editor, unity uploader, forums
 ---
 

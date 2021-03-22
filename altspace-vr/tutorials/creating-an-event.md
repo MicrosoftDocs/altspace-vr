@@ -1,11 +1,8 @@
 ---
 title: Creating an event
 description: Learn about AltspaceVR events, how to create them, and adding branding and 3D objects with the World Editor.
-author: hferrone
-ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
-ms.localizationpriority: high
 keywords: events, terminology, console, multimedia, world editor, live stream
 ---
 
