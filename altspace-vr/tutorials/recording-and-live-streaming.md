@@ -12,8 +12,8 @@ Recording and Live Streaming your AltspaceVR experience to show others around th
 
 In this article, you'll learn how to:
 
-* [How to record AltspaceVR in 2D mode on PC](#how-to-record-altspacevr-in-2d-mode-on-pc)
-* [How to live stream to YouTube in AltspaceVR in 2D mode on PC](#how-to-live-stream-to-youtube-in-altspacevr-in-2d-mode-on-pc)
+* [How to record AltspaceVR in 2D mode on PC](#recording-altspacevr-in-2d-mode-on-pc)
+* [How to live stream to YouTube in AltspaceVR in 2D mode on PC](#live-streaming-to-youtube-in-altspacevr-in-2d-mode-on-pc)
 
 ## Recoding AltspaceVR in 2D mode on PC
 
