@@ -1,7 +1,6 @@
 ---
 title: Main events and maximizing event visibility
 description: Learn how to create and configure AltspaceVR main events while maximizing their visibility.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

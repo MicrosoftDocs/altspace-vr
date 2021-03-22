@@ -1,7 +1,6 @@
 ---
 title: Adding welcome messages
 description: Learn how to create and add welcome messages to your AltspaceVR experiences.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

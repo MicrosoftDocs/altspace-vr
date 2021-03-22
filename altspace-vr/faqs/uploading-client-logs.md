@@ -1,7 +1,6 @@
 ---
 title: How do I upload my client logs?
 description: Learn how to upload client logs when you run into any issues with AltspaceVR.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article

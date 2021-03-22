@@ -1,7 +1,6 @@
 ---
 title: Oculus Quest/Quest 2 controls and permissions
 description: Learn the basic controls for Oculus Quest and Quest 2 devices, managing permissions, and using hand gestures.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

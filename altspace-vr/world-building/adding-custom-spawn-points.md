@@ -1,7 +1,6 @@
 ---
 title: Adding custom spawn points
 description: Learn how to create, add, and troubleshoot your custom spawn points to AltspaceVR.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

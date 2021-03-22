@@ -1,7 +1,6 @@
 ---
 title: Introducing the World Building Toolkit
 description: Learn how to setup and upload your AltspaceVR scene with the World Building Toolkit.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

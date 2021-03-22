@@ -1,7 +1,6 @@
 ---
 title: Uploading custom kits
 description: Learn how to setup, generate, and upload your own custom kits in AltspaceVR.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

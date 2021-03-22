@@ -1,7 +1,6 @@
 ---
 title: Using the Groups Feature to Create Private Events
 description: Learn how to create private VR spaces that are open to approved guest lists using our group events feature.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

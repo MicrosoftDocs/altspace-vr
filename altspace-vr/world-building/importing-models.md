@@ -1,7 +1,6 @@
 ---
 title: Importing glTF models
 description: Learn how to properly import and troubleshoot 3D models into your AltspaceVR experiences.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article

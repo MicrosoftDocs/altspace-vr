@@ -1,7 +1,6 @@
 ---
 title: How do I update my personal information?
 description: Learn how to update your personal information and email in your AltspaceVR account.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 02/10/2021
 ms.topic: article

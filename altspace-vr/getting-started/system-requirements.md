@@ -1,7 +1,6 @@
 ---
 title: Minimum system requirements
 description: Stay up to date with the latest system requirements for AltspaceVR on head-mounted displays, Oculus Rift, and HTC Vive devices.
-author: hferrone
 ms.author: v-hferrone
 ms.date: 03/11/2021
 ms.topic: article
