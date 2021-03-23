@@ -45,78 +45,59 @@ highlightedContent:
       itemType: reference
       url: faqs/vr-headset-mic.md
 
-# conceptualContent section (optional)
-conceptualContent:
-# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+# productDirectory section (optional)
+productDirectory:
   title: Get started # < 60 chars (optional)
   summary: Use AltspaceVR to host events, build virtual worlds, and interact with remote users and communities all over the world. # < 160 chars (optional)
   items:
     # Card
     - title: Setup and installation
+      # imageSrc should be square in ratio with no whitespace
+      imageSrc: images/icon-discovery.png
       links:
         - url: getting-started/registration.md
-          itemType: how-to-guide
           text: Registering an account 
         - url: getting-started/linking-microsoft-account.md
-          itemType: how-to-guide
           text: Linking Microsoft accounts
         - url: getting-started/wmr-installation.md
-          itemType: get-started
           text: Windows Mixed Reality installation
         - url: getting-started/wmr-controls.md
-          itemType: quickstart
           text: Windows Mixed Reality controls
         - url: getting-started/oculus-installation.md
-          itemType: get-started
           text: Oculus Quest installation
         - url: getting-started/oculus-controls.md
-          itemType: quickstart
           text: Oculus Quest installation
-      # footerLink (optional)
-      # footerLink:
-      #   url: filefooter.md OR https://docs.microsoft.com/filefooter
-      #   text: See more
     # Card
     - title: Creating & hosting events
+      imageSrc: images/icon-worlds.png
       links:
         - url: tutorials/creating-an-event.md
-          itemType: learn
           text: Creating an event
         - url: getting-started/roles.md
-          itemType: learn
           text: Roles in events, worlds, and groups
         - url: tutorials/main-events.md
-          itemType: learn
           text: Event requirements
         - url: faqs/scaling-audiences.md
-          itemType: learn
           text: Scaling audiences
         - url: tutorials/multimedia-console.md
-          itemType: learn
           text: Using the Multimedia console 
         - url: tutorials/host-tools-overview.md
-          itemType: overview
           text: Host tools overview
     # Card
-    - title: World building 
+    - title: World building
+      imageSrc: images/icon-events.png
       links:
         - url: world-building/world-editor-getting-started.md
-          itemType: learn
           text: Explore the World Editor 
         - url: world-building/managing-worlds.md
-          itemType: learn
           text: Managing worlds 
         - url: world-building/adding-custom-spawn-points.md
-          itemType: learn
           text: Adding spawn points 
         - url: world-building/adding-user-abilities.md
-          itemType: learn
           text: Giving users abilities 
         - url: world-building/world-building-toolkit-getting-started.md
-          itemType: learn
           text: World Building Toolkit  
         - url: world-building/using-mixed-reality-extensions.md
-          itemType: learn 
           text: Using Mixed Reality Extensions 
 
 # additionalContent section (optional)
