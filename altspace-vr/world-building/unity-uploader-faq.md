@@ -10,13 +10,13 @@ keywords: help, faq
 
 **1. How awesome is this tool?**
 
-<!-- Need video uploaded to Channel9 -->
+> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/cheyenne-mountain-gate-room-v1/player]
 
 That's my Stargate Unity scene with an SDK app powering the Gate and DND
 
 **2. I'm a video learner, where's my videos?**
 
-<!-- Need video uploaded to Channel9 -->
+<!-- [Check out our videos](https://youtu.be/km9CnVYPzoM) -->
 
 **3. Where can I find examples?**
 
