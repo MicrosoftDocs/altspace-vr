@@ -41,3 +41,5 @@ There are several reasons why AltspaceVR may not launch for you. Try out the fol
     * Objects from deleted kits, or objects deleted from kits, that are still present in your world.
     * Experimental GLTFs.
 * After addressing the items above, attempt to reenter AltspaceVR.
+
+More advanced support for network administrators or IT departments, including Azure IP Ranges and Service Tags, can be found in our [download details](https://www.microsoft.com/en-us/download/details.aspx?id=56519).
