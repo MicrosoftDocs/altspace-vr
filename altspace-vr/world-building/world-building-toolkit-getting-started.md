@@ -28,7 +28,7 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 
 ## Upload your scene
 
-<!-- Need video uploaded to Channel9 -->
+> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
 1. Open Unity Hub and create a new Unity 2019.4.2f1 project.
 2. With your project open, import the Uploader by double-clicking the file you downloaded (it's a Unity package). You should now see a new tab called **AltspaceVR**. You'll need to import the package for every Unity project you want to use with Altspace
