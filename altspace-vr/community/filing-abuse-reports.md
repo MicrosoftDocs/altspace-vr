@@ -14,7 +14,7 @@ Take a moment to review our [Community Standards](community-standards.md) and [T
 
 We'll follow up where appropriate, and take the necessary actions to maintain AltspaceVR as a place where people feel safe and are free to communicate with others. As part of our privacy policy, we will not inform you about our decisions or the status of any individual's account.
 
-# In-App Safety Features
+## In-App Safety Features
 
 Please remember that in addition to the Abuse Report, there are several in-app safety tools designed to give you control over your experience. 
 
