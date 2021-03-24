@@ -16,10 +16,7 @@ We've compiled a step-by-step guide for linking your AltspaceVR account and your
 
 ## How To Link Accounts
 
-1. To start, you'll need a Microsoft Account. You can [create a new Microsoft Account](https://signup.live.com/?lic=1) or use an existing one you already have. 
-2. Next, opt into the Early Access Program by launching AltspaceVR and navigating to the **MAIN MENU> SETTINGS > GENERAL > Participate in Early Access Program**. You can opt in or out of the Early Access Program at any time.
-
-![AltspaceVR settings window open with general setting highlighted](images/linking-accounts-img-01.png)
+To start, you'll need a Microsoft Account. You can [create a new Microsoft Account](https://signup.live.com/?lic=1) or use an existing one you already have. 
 
 ## In 2D Mode on PC
 
