@@ -1,0 +1,139 @@
+### YamlMime:Hub
+
+title: Welcome to AltspaceVR! # < 60 chars
+summary: Explore the expanding world of VR events with AltspaceVR. # < 160 chars
+# brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-bi | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
+brand: windows
+
+metadata:
+  title: Welcome to AltspaceVR! # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: description # Required; article description that is displayed in search results. < 160 chars.
+  services: mixed-reality 
+  ms.service: mixed-reality #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: hub-page # Required
+  author: hferrone #Required; your GitHub user alias, with correct capitalization.
+  ms.author: v-hferrone #Required; microsoft alias of author; optional team alias.
+  ms.date: 02/10/2021 #Required; mm/dd/yyyy format.
+
+# highlightedContent section (optional)
+# Maximum of 8 items
+highlightedContent:
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+  items:
+    # Card
+    - title: Getting started 
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    # Card
+    - title: Discover content & people 
+      itemType: overview
+      url: getting-started/system-requirements.md
+    # Card
+    - title: Creating events 
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    # Card
+    - title: Building worlds
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    # Card
+    - title: Early acccess 
+      itemType: whats-new
+      url: world-building/early-access.md
+    # Card
+    - title: Troubleshooting 
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+
+# productDirectory section (optional)
+productDirectory:
+  title: Get started # < 60 chars (optional)
+  summary: Use AltspaceVR to host events, build virtual worlds, and interact with remote users and communities all over the world. # < 160 chars (optional)
+  items:
+    # Card
+    - title: Setup and installation
+      # imageSrc should be square in ratio with no whitespace
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: Registering an account 
+        - url: getting-started/linking-microsoft-account.md
+          text: Linking Microsoft accounts
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality installation
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality controls
+        - url: getting-started/oculus-installation.md
+          text: Oculus Quest installation
+        - url: getting-started/oculus-controls.md
+          text: Oculus Quest installation
+    # Card
+    - title: Creating & hosting events
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: Creating an event
+        - url: getting-started/roles.md
+          text: Roles in events, worlds, and groups
+        - url: tutorials/main-events.md
+          text: Event requirements
+        - url: faqs/scaling-audiences.md
+          text: Scaling audiences
+        - url: tutorials/multimedia-console.md
+          text: Using the Multimedia console 
+        - url: tutorials/host-tools-overview.md
+          text: Host tools overview
+    # Card
+    - title: World building
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: Explore the World Editor 
+        - url: world-building/managing-worlds.md
+          text: Managing worlds 
+        - url: world-building/adding-custom-spawn-points.md
+          text: Adding spawn points 
+        - url: world-building/adding-user-abilities.md
+          text: Giving users abilities 
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: World Building Toolkit  
+        - url: world-building/using-mixed-reality-extensions.md
+          text: Using Mixed Reality Extensions 
+
+# additionalContent section (optional)
+# Card with summary style
+additionalContent:
+  # Supports up to 3 sections
+  sections:
+    - title: Additional resources # < 60 chars (optional)
+      summary: Need help or support? # < 160 chars (optional)
+      items:
+        # Card
+        - title: Community  
+          links:
+            - text: Subscribe to our newsletter
+              url: community/newsletter-subscriptions.md
+            - text: Community helper program
+              url: community/community-helper-program.md
+            - text: Community helper guide
+              url: community/community-helper-guide.md
+        # Card
+        - title: Troubleshooting & support
+          links:
+            - text: Audio issues 
+              url: faqs/vr-headset-mic.md
+            - text: Accounts and avatars 
+              url: faqs/nametags.md
+            - text: AltspaceVR application  
+              url: faqs/app-version.md
+            - text: Health & safety 
+              url: faqs/motion-sickness.md
+            - text: Events  
+              url: faqs/front-row-events.md
+        # Card
+        - title: Contact us
+          links:
+            - text: Feedback
+              url: community/feature-requests.md
+            - text: Filing abuse reports
+              url: community/filing-abuse-reports.md
