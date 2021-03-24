@@ -69,7 +69,7 @@ productDirectory:
           text: Oculus Quest installation
     # Card
     - title: Creating & hosting events
-      imageSrc: images/icon-worlds.png
+      imageSrc: images/icon-events.png
       links:
         - url: tutorials/creating-an-event.md
           text: Creating an event
@@ -85,7 +85,7 @@ productDirectory:
           text: Host tools overview
     # Card
     - title: World building
-      imageSrc: images/icon-events.png
+      imageSrc: images/icon-worlds.png
       links:
         - url: world-building/world-editor-getting-started.md
           text: Explore the World Editor 
