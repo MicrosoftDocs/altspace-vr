@@ -39,10 +39,26 @@
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
       "branch": "main",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "enterprise-private-preview",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
     "live": [
+      "Publish",
+      "Pdf",
+      "Intellisense"
+    ],
+    "main": [
+      "Publish",
+      "Pdf",
+      "Intellisense"
+    ],
+    "enterprise-private-preview": [
       "Publish",
       "Pdf",
       "Intellisense"
