@@ -17,7 +17,7 @@ The World Editor has Kits containing Artifacts that you can spawn into your Worl
 
 ## Setup 
 
-<!-- Need video uploaded to Channel9 -->
+> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-1-Setup/player]
 
 1. Create a Kit on our website at [Worlds > Kits](https://account.altvr.com/kits)
 2. Copy the Kit ID from your browser's address bar to your clipboard (this step will be easier in Uploader versions 0.9+)
@@ -32,7 +32,7 @@ The World Editor has Kits containing Artifacts that you can spawn into your Worl
 
 ## Generate and upload your kit
 
-<!-- Need video uploaded to Channel9 -->
+> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-2/player]
 
 1. Fill in **Kit Folder Name** with your Kit ID as the prefix and a theme (for example, **1137484494681408069_pirates**) and fill in **Kit Asset Name** with your Kit ID as the prefix. All the assets will need to have this prefix.
 

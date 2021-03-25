@@ -11,4 +11,4 @@ keywords: feature request
 Great! Thanks for wanting to help us out, we look forward to receiving your feedback.
 
 > [!div class="nextstepaction"] 
-> [File a Support Request](https://help.altvr.com/hc/requests/new)
+> [File a Feature Request](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
