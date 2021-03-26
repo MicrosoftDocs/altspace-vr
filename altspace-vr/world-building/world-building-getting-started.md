@@ -25,7 +25,7 @@ This guide will help you create and share your first Altspace World!
 
 4. Use the World Editor to make a label:
 
-<!-- Need video uploaded to Channel9 -->
+> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
 
 Congratulations! You've created your first Altspace World, your own multiplayer social VR experience! Play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
 
