@@ -16,7 +16,7 @@ That's my Stargate Unity scene with an SDK app powering the Gate and DND
 
 **2. I'm a video learner, where's my videos?**
 
-<!-- [Check out our videos](https://youtu.be/km9CnVYPzoM) -->
+[Check out our videos](https://youtu.be/km9CnVYPzoM)
 
 **3. Where can I find examples?**
 
