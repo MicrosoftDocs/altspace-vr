@@ -133,7 +133,9 @@ additionalContent:
         # Card
         - title: Contact us
           links:
-            - text: Feedback
+            - text: Open a support ticket  
+              url: community/open-support-ticket.md
+            - text: Feature requests
               url: community/feature-requests.md
             - text: Filing abuse reports
               url: community/filing-abuse-reports.md
