@@ -15,8 +15,8 @@
           href: getting-started/registration.md
         - name: Linking Microsoft accounts 
           href: getting-started/linking-microsoft-account.md
-        - name: Exploring the Title Screen 
-          href: getting-started/exploring-title-screen.md
+        # - name: Exploring the Title Screen 
+        #   href: getting-started/exploring-title-screen.md
     - name: Input controls 
       items: 
         - name: Windows Mixed Reality controls 
@@ -161,6 +161,8 @@
               href: faqs/front-row-events.md
 - name: Contact us 
   items: 
+    - name: Get Help
+      href: community/open-support-ticket.md
     - name: Feature requests  
       href: community/feature-requests.md
     - name: Filing abuse reports 
