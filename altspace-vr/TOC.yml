@@ -161,6 +161,8 @@
               href: faqs/front-row-events.md
 - name: Contact us 
   items: 
+    - name: Get Help
+      href: community/open-support-ticket.md
     - name: Feature requests  
       href: community/feature-requests.md
     - name: Filing abuse reports 
