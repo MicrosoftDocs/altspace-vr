@@ -80,5 +80,5 @@ Use the following checkpoints to bring your virtual events into the world of mix
 * [Subscribe to our newsletter](community/newsletter-subscriptions.md)
 * [Community standards](community/community-standards.md)
 * [Get help](community/open-support-ticket.md)
-* [Shoot us a feature request](community/feature-request.md)
+* [Shoot us a feature request](community/feature-requests.md)
 * [File an abuse report](community/filing-abuse-reports.md)
