@@ -15,6 +15,7 @@ Use the following checkpoints to bring your virtual events into the world of mix
 ## 1. Getting started
 
 |  Checkpoint  |  Outcome  |
+| --- | --- |
 | [System requirements](getting-started/system-requirements.md) |  |
 | Install [Windows Mixed Reality](getting-started/wmr-installation.md) or [Oculus Quest](getting-started/oculus-installation.md)|  |
 | [Register an AltspaceVR account](getting-started/registration.md) |  |
