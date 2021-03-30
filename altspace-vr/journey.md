@@ -1,14 +1,14 @@
 ---
-title: Get started with AltspaceVR
+title: Exploring AltspaceVR
 description: Get started creating and hosting virtual events on the AltspaceVR platform.
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, virtual reality, events, world-building, tutorials
 ---
 
-# Get started with AltspaceVR
+# Exploring AltspaceVR
 
-<!-- Need banner image here -->
+![AltspaceVR banner image](images/altspace-vr-banner.png)
 
 Use the following checkpoints to bring your virtual events into the world of mixed reality. 
 
@@ -20,7 +20,14 @@ Use the following checkpoints to bring your virtual events into the world of mix
 | Install [Windows Mixed Reality](getting-started/wmr-installation.md) or [Oculus Quest](getting-started/oculus-installation.md)|  |
 | [Register an AltspaceVR account](getting-started/registration.md) |  |
 | [Link your Microsoft account](getting-started/linking-microsoft-account.md) |  |
+
+
+## 2. Getting comfortable
+
+|  Checkpoint  |  Outcome  |
+| --- | --- |
 | Learn the [Windows Mixed Reality](getting-started/wmr-controls.md) or [Oculus Quest](getting-started/oculus-controls.md) input controls |  |
+| [Control your avatars](getting-started/avatar-controls.md) |  |
 
 ## 2. Creating & hosting events
 
