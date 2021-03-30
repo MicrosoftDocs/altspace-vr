@@ -31,6 +31,8 @@
           href: getting-started/gamepad-controls.md
 - name: Discover content & people
   items: 
+    - name: Explore the Title Screen
+      href: community/exploring-title-screen.md
     - name: Subscribe to our newsletter
       href: community/newsletter-subscriptions.md
     - name: Community involvement
