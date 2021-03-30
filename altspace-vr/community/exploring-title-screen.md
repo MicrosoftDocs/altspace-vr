@@ -20,7 +20,7 @@ As a guest you can also explore the Main Menu and view the events calendar, but 
 
 ![Account signup popup on the Main Menu](images/title-screen-03.png)
 
-If your AltspaceVR account is linked to your Microsoft Account, select the **Sign-in with Microsoft** option. If you don't yet have a Microsoft-linked account, select the **Sign-in with AltspaceVR** option. You can find step-by-step account linking instructions here: [Linking Your Microsoft Account](linking-microsoft-account.md). 
+If your AltspaceVR account is linked to your Microsoft Account, select the **Sign-in with Microsoft** option. If you don't yet have a Microsoft-linked account, select the **Sign-in with AltspaceVR** option. You can find step-by-step account linking instructions here: [Linking Your Microsoft Account](../getting-started/linking-microsoft-account.md). 
 
 ![Sign in page for linking microsoft accounts](images/title-screen-02.png)
 

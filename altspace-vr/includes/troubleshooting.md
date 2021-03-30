@@ -1,3 +1,9 @@
+# [AltspaceVR application](#tab/application)
+
+* [Finding the AltspaceVR app version](../faqs/app-version.md)
+* [How do I upload my client logs?](../faqs/uploading-client-logs.md)
+* [I can't launch AltspaceVR](../faqs/unable-to-launch.md)
+
 # [Audio](#tab/audio)
 
 * [Does my VR headsets have a built-in mic?](../faqs/vr-headset-mic.md)
@@ -10,16 +16,8 @@
 * [How do nametags work?](../faqs/nametags.md)
 * [How do I update my personal information?](../faqs/updating-email-address.md)
 
-# [AltspaceVR application](#tab/application)
+# [Contact us](#tab/contact)
 
-* [Finding the AltspaceVR app version](../faqs/app-version.md)
-* [How do I upload my client logs?](../faqs/uploading-client-logs.md)
-* [I can't launch AltspaceVR](../faqs/unable-to-launch.md)
-
-# [Health & safety](#tab/health)
-
-* [Will AltspaceVR cause motion sickness?](../faqs/motion-sickness.md)
-
-# [Events](#tab/events)
-
-* [What are FrontRow events?](../faqs/front-row-events.md)
+* [Open a support ticket](community/open-support-ticket.md)
+* [Send us feedback and feature request](community/feature-requests.md)
+* [File an abuse report](community/filing-abuse-reports.md)
