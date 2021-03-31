@@ -46,7 +46,7 @@ You don't always have to be a host in AltspaceVR - sometimes you'll be a guest a
 
 ## 4. Creating & hosting events
 
-Now you've covered the logistics, it's time to learn how to create and host events. AltspaceVR has different features for this process, but we've separated them into the [basics](#basic-event-setup), more [advanced options](#advanced-event-setup), and [hosting-specific tools](#hosting-tools). Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.
+Now you've covered the logistics, it's time to learn how to create and host events. AltspaceVR has different features for this process, but we've separated them into the basics, more advanced options, and hosting-specific tools. Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.
 
 **Basic event setup**
 
