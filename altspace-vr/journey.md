@@ -12,9 +12,7 @@ keywords: altspace, virtual reality, events, world-building, tutorials
 
 AltspaceVR is a leading social platform for virtual reality. Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR leverages technology to help scale human connection.
 
-## Checkpoints
-
-Use the following checkpoints to bring your virtual events to the world. 
+Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on. We've compiled the following checkpoints to walk you through bringing your virtual events to the world. You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for. Either way, you'll want to refer back to this journey whenever you need direction.
 
 ## 1. Getting started
 
@@ -81,13 +79,13 @@ Now that you've covered the logistics, it's time to learn how to create and host
 
 ## 5. Troubleshooting
 
-
+If you're having any trouble with creating events, audio, the AltspaceVR application, or you just want to contact us, use the troubleshooting sections below. 
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
 ## 6. Community & resources
 
-AltspaceVR is a community, and we'd love to have you join. 
+AltspaceVR is a community, and we'd love to have you join. Take a minute to review our community standards, terms of service, privacy policy, and subscribe to our newsletter for all the latest news.
 
 * [Community standards](community/community-standards.md)
 * [AltspaceVR Terms of Service](community/terms-of-service.md)
