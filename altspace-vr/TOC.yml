@@ -1,5 +1,7 @@
 - name: Welcome to AltspaceVR
   href: index.yml
+- name: Exploring AltspaceVR
+  href: journey.md
 - name: Getting started
   expanded: true 
   items:
@@ -15,8 +17,6 @@
           href: getting-started/registration.md
         - name: Linking Microsoft accounts 
           href: getting-started/linking-microsoft-account.md
-        # - name: Exploring the Title Screen 
-        #   href: getting-started/exploring-title-screen.md
     - name: Input controls 
       items: 
         - name: Windows Mixed Reality controls 

@@ -12,7 +12,7 @@ The AltspaceVR Title Screen is your primary starting point for exploring the pla
 
 ## Tutorial Features & login 
 
-If it's your first time launching AltspaceVR, you'll start your journey as a guest user. This is a temporary identity that is granted to allow you to explore at your own pace before logging in to your AltspaceVR account. For new VR users that want to practice the basics before jumping into the action, try out our [tutorials](../tutorials/host-tools-overview.md). If you feel comfortable jumping directly into AltspaceVR, you can skip the tutorial and sign in. 
+If it's your first time launching AltspaceVR, you'll start your journey as a guest user. A guest user is a temporary identity that is granted to allow you to explore at your own pace before logging in to your AltspaceVR account. For new VR users that want to practice the basics before jumping into the action, try out our [tutorials](../tutorials/host-tools-overview.md). You can skip the tutorial and sign in if you feel comfortable jumping directly into AltspaceVR. 
 
 ![Tutorial screen in 2D mode on PC](images/title-screen-01.png)
 
@@ -20,13 +20,13 @@ As a guest you can also explore the Main Menu and view the events calendar, but 
 
 ![Account signup popup on the Main Menu](images/title-screen-03.png)
 
-If your AltspaceVR account is linked to your Microsoft Account, select the **Sign-in with Microsoft** option. If you don't yet have a Microsoft-linked account, select the **Sign-in with AltspaceVR** option. You can find step-by-step account linking instructions here: [Linking Your Microsoft Account](linking-microsoft-account.md). 
+If your AltspaceVR account is linked to your Microsoft Account, select the **Sign-in with Microsoft** option. If you don't have a Microsoft-linked account, select the **Sign-in with AltspaceVR** option. You can find step-by-step account linking instructions here: [Linking Your Microsoft Account](../getting-started/linking-microsoft-account.md). 
 
 ![Sign in page for linking microsoft accounts](images/title-screen-02.png)
 
 ## Destinations 
 
-The green **Destinations** button on the left is where you'll find things like AltspaceVR Hubs, your Homespace, upcoming Spotlight Events, any events you have recently attended. You'll also find events that your friends may currently be in. The **Destinations** panel makes navigating to key places quick and simple. 
+The green **Destinations** button on the left is where you'll find things like AltspaceVR Hubs, your Homespace, upcoming Spotlight Events, or any events you've recently attended. You'll also find events that your friends may currently be in. The **Destinations** panel makes navigating to key places quick and simple. 
 
 ![Destinations page with enter and info options](images/title-screen-04.png)
 
@@ -36,7 +36,7 @@ In AltspaceVR Entry Codes are alphanumerical codes that allow for streamlined ev
 
 ![Event page with entry code and sharing options](images/title-screen-05.png)
 
-If you have the code for the event you’d like to attend, enter it into the Title Screen and teleport directly to your destination without searching for the event in your Menu. This makes it easy to launch AltspaceVR and head directly into an event. 
+If you have the code for the event you’d like to attend, enter it into the Title Screen and teleport directly to your destination.  
 
 ![Title screen with enter event code panel highlighted](images/title-screen-06.png)
 
