@@ -10,9 +10,15 @@ keywords: altspace, virtual reality, events, world-building, tutorials
 
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
-Use the following checkpoints to bring your virtual events into the world of mixed reality. 
+AltspaceVR is a leading social platform for virtual reality. Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR leverages technology to help scale human connection.
+
+## Checkpoints
+
+Use the following checkpoints to bring your virtual events to the world. 
 
 ## 1. Getting started
+
+Before you start creating and hosting your own virtual events, you'll need the right tools and accounts. By the end of this section, you'll have your system properly configured and ready to go!
 
 |  Checkpoint  |  Outcome  |
 | --- | --- |
@@ -23,6 +29,8 @@ Use the following checkpoints to bring your virtual events into the world of mix
 
 ## 2. Getting comfortable
 
+Since AltspaceVR events take place in the virtual world, you need to get comfortable navigating virtual space. By the end of this section, you'll be confidently moving around, controlling avatars, and using keyboard shortcuts.
+
 |  Checkpoint  |  Outcome  |
 | --- | --- |
 | Learn the [Windows Mixed Reality](getting-started/wmr-controls.md) or [Oculus Quest](getting-started/oculus-controls.md) input controls |  |
@@ -31,12 +39,16 @@ Use the following checkpoints to bring your virtual events into the world of mix
 
 ## 3. For guests & audiences
 
+You don't always have to be a host in AltspaceVR - sometimes you'll be a guest an audience member. For these occassions, you'll want to be familiar with the features and menus that come with the new territory.
+
 |  Checkpoint  |  Outcome  |
 | --- | --- |
 | [Exploring the Title Screen](community/exploring-title-screen.md) |  |
 | [Social features & nametags](faqs/nametages.md) |  |
 
 ## 4. Creating & hosting events
+
+Now that you've covered the logistics, it's time to learn how to create and host events. AltspaceVR has a variety of features for this process, but we've separated them into the [basics](#basic-event-setup), more [advanced options](#advanced-event-setup), and [hosting-specific tools](#hosting-tools). Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.
 
 ### Basic event setup
 
@@ -69,9 +81,13 @@ Use the following checkpoints to bring your virtual events into the world of mix
 
 ## 5. Troubleshooting
 
+
+
 [!INCLUDE[](includes/troubleshooting.md)]
 
 ## 6. Community & resources
+
+AltspaceVR is a community, and we'd love to have you join. 
 
 * [Community standards](community/community-standards.md)
 * [AltspaceVR Terms of Service](community/terms-of-service.md)
