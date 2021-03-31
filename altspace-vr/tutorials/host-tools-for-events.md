@@ -58,7 +58,7 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 
 Clicking on the Host Panel button will open additional advanced options for your FrontRow event:
 
-![Host panel open with guests tab selected](images/host-front-row-img-02.png))
+![Host panel open with guests tab selected](images/host-front-row-img-02.png)
 
 ## Guest panel
 
@@ -72,11 +72,11 @@ As an Event Host you are responsible for managing the experience of others. To d
 
 You can mute guests from the Guest Panel right away by clicking on the speaker icon beside their name or for additional options click the hamburger menu on the right side of the guest's panel:
 
-![Single guest item selected in guest panel](images/host-front-row-img-03.png))
+![Single guest item selected in guest panel](images/host-front-row-img-03.png)
 
 *Click the hamburger menu to open up all Moderation Tool options.*
 
-![Single guest item selected with moderation tool options highlighted](images/host-front-row-img-04.png))
+![Single guest item selected with moderation tool options highlighted](images/host-front-row-img-04.png)
 
 Now you're able to work your FrontRow Hosting Magic and be able to use these features on your attendees:
     * **Message** - Normally you need to be Friends to be able to message another user, but as a Host you can send/receive messages with anyone in your event.
@@ -92,7 +92,7 @@ Now you're able to work your FrontRow Hosting Magic and be able to use these fea
  
 You can use this to help interact with your event attendees. You can have a Q&A, form a queue to perform for an Open Mic or to make sure the guest you are talking to is also Mirrored, so everyone can hear the both of you talk to each other from across all of your FrontRow Rooms:
 
-![Host panel open with participation tab selected](images/host-front-row-img-05.png))
+![Host panel open with participation tab selected](images/host-front-row-img-05.png)
 
 The Participation Panel is designed to help you manage interaction and participation from your audience. Here you can toggle on the “Allow Hand Raises” option in order to unlock audience participation. **In FrontRow events you'll need to be On-Air first to activate this, otherwise this button will appear greyed out.**
 
@@ -104,7 +104,7 @@ When the “Allow Hand Raises” function is activated, a “Raise Hand” butto
 
 When a guest clicks this button, they show up in your Participation Panel:
 
-![Participation panel open with guest with hand raised in queue highlighted](images/host-front-row-img-07.png))
+![Participation panel open with guest with hand raised in queue highlighted](images/host-front-row-img-07.png)
 
 To help you keep track, the Participation Panel will even light up a red notification when you have guests waiting to be called on, and it will let you know how long each of your guests has been waiting, too.
 
@@ -118,28 +118,28 @@ You can also give them temporary Stage Access or click the big Dismiss All butto
 
 Get a quick look at the info/buttons you need to manage Rooms during your FrontRow event:
 
-![Rooms panel tab open from the host panel](images/host-front-row-img-08.png))
+![Rooms panel tab open from the host panel](images/host-front-row-img-08.png)
 
 *Notice it says **(You're Here)**, that is the Room you are currently in.*
 
 Rooms have buttons for Reset Space, Delete Space, Redistribute Users and Teleport There:
 
-![Reset space button highlighted in the room panel](images/host-front-row-img-09.png))
+![Reset space button highlighted in the room panel](images/host-front-row-img-09.png)
 
 Will do a 'Reset Space' in the Room you are currently in. You can not Reset Spaces for all Rooms at once, you'll need to travel to each Room to do a reset.
 
-![Delete space button highlighted in the room panel](images/host-front-row-img-10.png))
+![Delete space button highlighted in the room panel](images/host-front-row-img-10.png)
 
 Permanently deletes the Room you are currently in. Everyone in the deleted Room will automatically rejoin the event and join a different Room.
 
-![Redistribute users button highlighted in the room panel](images/host-front-row-img-11.png))
+![Redistribute users button highlighted in the room panel](images/host-front-row-img-11.png)
 
 Sometimes, after your FrontRow event has been on for awhile, the first few Rooms are almost at capacity but the last Room or two may only have a small amount of guests per Room. Clicking this button gives the guests in that Room the option of staying in their current Room or going to a more populated Room.
 
 > [!NOTE]
 > You do not have to travel to the Room you'd like to redistribute, you can click the Redistribute Users button on any Room right from the Rooms Panel. Try not to do this too many times to the same Room, the guests in there may want to just be with a few people and may not want to keep getting messages asking to move rooms.
 
-![Teleport there button highlighted in the room panel](images/host-front-row-img-12.png))
+![Teleport there button highlighted in the room panel](images/host-front-row-img-12.png)
 
 This is how you travel from one Front Row Room to another. Moderators will want to use this to bounce around from Room to Room to check on the crowds. During rehearsals, you can have one Host, On-Air, in the Primary Room and have the rest of your crew go to the other Rooms to see how everything looks. Is everything in sync in the other Rooms and looking just like it does in the Primary Room? If everyone helping test has the Host Role, they can also travel to the other Rooms, go On-Air and you'll be able to see and hear everyone so you can communicate across Rooms that way.
 
