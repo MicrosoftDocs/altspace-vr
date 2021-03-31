@@ -18,6 +18,6 @@
 
 # [Contact us](#tab/contact)
 
-* [Open a support ticket](community/open-support-ticket.md)
-* [Send us feedback and feature request](community/feature-requests.md)
-* [File an abuse report](community/filing-abuse-reports.md)
+* [Open a support ticket](../community/open-support-ticket.md)
+* [Send us feedback and feature request](../community/feature-requests.md)
+* [File an abuse report](../community/filing-abuse-reports.md)

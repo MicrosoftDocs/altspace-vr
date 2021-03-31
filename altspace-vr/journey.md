@@ -42,7 +42,7 @@ You don't always have to be a host in AltspaceVR - sometimes you'll be a guest a
 |  Checkpoint  |  Outcome  |
 | --- | --- |
 | [Exploring the Title Screen](community/exploring-title-screen.md) |  |
-| [Social features & nametags](faqs/nametages.md) |  |
+| [Social features & nametags](faqs/nametags.md) |  |
 
 ## 4. Creating & hosting events
 
