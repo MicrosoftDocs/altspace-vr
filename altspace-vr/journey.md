@@ -10,9 +10,9 @@ keywords: altspace, virtual reality, events, world-building, tutorials
 
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
-AltspaceVR is a leading social platform for virtual reality. Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR leverages technology to help scale human connection.
+AltspaceVR is a leading social platform for virtual reality. Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR uses technology to help you scale your human connection.
 
-Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on. We've compiled the following checkpoints to walk you through bringing your virtual events to the world. You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for. Either way, you'll want to refer back to this journey whenever you need direction.
+Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on. We've compiled the following checkpoints to walk you through bringing your virtual events to the world. You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for. Either way, you'll want to revisit this journey whenever you need direction.
 
 ## 1. Getting started
 
@@ -37,7 +37,7 @@ Since AltspaceVR events take place in the virtual world, you need to get comfort
 
 ## 3. For guests & audiences
 
-You don't always have to be a host in AltspaceVR - sometimes you'll be a guest an audience member. For these occassions, you'll want to be familiar with the features and menus that come with the new territory.
+You don't always have to be a host in AltspaceVR - sometimes you'll be a guest an audience member. For these occasions, you'll want to be familiar with the features and menus that come with the new territory.
 
 |  Checkpoint  |  Outcome  |
 | --- | --- |
@@ -46,7 +46,7 @@ You don't always have to be a host in AltspaceVR - sometimes you'll be a guest a
 
 ## 4. Creating & hosting events
 
-Now that you've covered the logistics, it's time to learn how to create and host events. AltspaceVR has a variety of features for this process, but we've separated them into the [basics](#basic-event-setup), more [advanced options](#advanced-event-setup), and [hosting-specific tools](#hosting-tools). Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.
+Now you've covered the logistics, it's time to learn how to create and host events. AltspaceVR has different features for this process, but we've separated them into the [basics](#basic-event-setup), more [advanced options](#advanced-event-setup), and [hosting-specific tools](#hosting-tools). Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.
 
 ### Basic event setup
 
