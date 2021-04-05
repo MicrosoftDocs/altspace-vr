@@ -15,14 +15,14 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 
 ![Example worlds](images/unity-uploader-img-01.png)
 
-## Setup 
+## Setup
 
 1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel - Friends don't let friends build Worlds alone.
 2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics
 3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install **Unity 2019.4.2f1**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
 4. [Download the latest Unity Uploader](https://aka.ms/AsvrCommunityUploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
-6. [Create a World](https://docs.microsoft.com/en-us/windows/mixed-reality/altspace-vr/world-building/managing-worlds) and name it **Hello World**. Select **Hello World Template** as the Template.
+6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
 
 ![Created world screen](images/unity-uploader-img-02.png)
 
@@ -37,7 +37,7 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 5. Select **Load Templates** and then select **Hello World Template**
 6. Add a cube to your scene and save.
 7. Check **Build for Windows?** and uncheck **Build for Android?**
-8. Select **Upload**. In about a minute, you should see **Upload** complete. 
+8. Select **Upload**. In about a minute, you should see **Upload** complete.
 9. Join **Hello World** by launching Altspace and entering from **Menu > Worlds > My Worlds**
 10. Reset the World from **Menu > Settings > Moderate > Reset Space**
 11. You should see the cube. If you do it fast like in the video above, you can see changes within as little as 10 seconds.
@@ -74,8 +74,8 @@ You need to add collision to objects to teleport onto them.
     * Did you check the Template page stats?
 
 **Upload fails or times out**
-    * Most common upload error is having the wrong Unity version. It must match the required version exactly. 
-    * Your upload might be too large. Try to keep PC scenes < 100 MB. Start small and build up. Optimize, optimize, optimize. 
+    * Most common upload error is having the wrong Unity version. It must match the required version exactly.
+    * Your upload might be too large. Try to keep PC scenes < 100 MB. Start small and build up. Optimize, optimize, optimize.
     * Try with a fresh project with a simple cube.
     * Don't force quit during a build--it can corrupt your scene. Try reuploading.
 
