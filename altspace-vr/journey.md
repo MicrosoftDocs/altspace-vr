@@ -1,6 +1,6 @@
 ---
 title: Exploring AltspaceVR
-description: Get started creating and hosting virtual events on the AltspaceVR platform.
+description: Get started creating and hosting virtual events on the AltspaceVR platform with our curated checkpoint journey.
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, virtual reality, events, world-building, tutorials

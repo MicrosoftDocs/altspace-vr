@@ -1,6 +1,6 @@
 ---
 title: Subscribing to our newsletter
-description: Sign up for our weekly newsletter for upcoming events, new features, and community information.
+description: Sign up for our weekly newsletter and stay up-to-date with upcoming events, new features, and community information.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: newsletter
