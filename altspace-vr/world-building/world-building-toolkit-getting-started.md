@@ -22,7 +22,7 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install **Unity 2019.4.2f1**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
 4. [Download the latest Unity Uploader](https://aka.ms/AsvrCommunityUploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
-6. [Create a World](https://help.altvr.com/hc/en-us/articles/360015529094-How-do-I-manage-my-Worlds) and name it **Hello World**. Select **Hello World Template** as the Template.
+6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
 
 ![Created world screen](images/unity-uploader-img-02.png)
 
