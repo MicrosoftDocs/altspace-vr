@@ -33,21 +33,21 @@ As a Community Helper you MUST meet or exceed these expectations:
 2. Champion and exemplify behavior that makes AltspaceVR welcoming, safe, and mature.
 3. Serve as a liaison between the community and the AltspaceVR team:
     * Teach others, be helpful where possible, answer questions from curious Altspacers in-world
-    * Chime in with helpful and kind responses on our [Official Discord server](https://help.altvr.com/hc/articles/altvr.com/discord) or on social media
+    * Chime in with helpful and kind responses on our [Official Discord server](https://altvr.com/discord) or on social media
     * Direct people to appropriate communication channels like [altvr.com/help](../world-building/getting-help.md) or [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
     * Communicate and collaborate with AltspaceVR staff in a positive and helpful manner 
 4. Commit to positively champion AltspaceVR in all your interactions online, in-world, and in real life. 
 5. Participate in the AltspaceVR community:
     * Attend events, spend time in Commons Hubs & Worlds
     * Regularly host and moderate Main Events
-    * Participate in a helpful and positive way on our [Official Discord server](https://help.altvr.com/hc/articles/altvr.com/discord)
+    * Participate in a helpful and positive way on our [Official Discord server](https://altvr.com/discord)
     * Build Worlds, create with the MRE, and so on. 
 
 ## Do I get special privileges as a Community Helper? 
 
 Yes… our undying love and appreciation. Also:
 
-1. Vote-to-Suspend: As a Community Helper, you have extra safety tools to take action against trolls and those in violation of our Community Standards. Review the Rules & Responsibilities for Vote-to-Suspend, [here](https://help.altvr.com/hc/articles/360038996593-Community-Helper-Guide).
+1. Vote-to-Suspend: As a Community Helper, you have extra safety tools to take action against trolls and those in violation of our Community Standards. Review the Rules & Responsibilities for Vote-to-Suspend, [here](https://docs.microsoft.com/en-us/windows/mixed-reality/altspace-vr/community/community-helper-guide).
 2. Access to a special Community Helpers channel in the Official AltspaceVR Discord server.
 3. Early access to certain community announcements.
 
