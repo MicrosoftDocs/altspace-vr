@@ -34,15 +34,15 @@ Available when you edit your event:
 
 | Role | Permissions |
 |---|---|
-| Host* | All the same abilities as Presenter above, including Host Tools |
+| Host ^ | All the same abilities as Presenter above, including Host Tools |
 | Megaphone Only | Gives that user access to Host Tools but only Amplify My Voice |
-| Moderator* | Same as the event creator moderator role |
+| Moderator ^ | Same as the event creator moderator role |
 | Pilot | Adds flight capabilities for that individual. NOTE: Must enable this in Settings/Input/Fly |
-| Presenter* | Same as the event creator presenter role |
+| Presenter ^ | Same as the event creator presenter role |
 | Terraformer | Adds the World Editor button to their interface |
 
 > [!NOTE]
-> * = Anyone with these roles is able to enter the event early by going to Events/My Events/YourEvent. This is great for tech checks and rehearsals!
+> ^ = Anyone with these roles is able to enter the event early by going to Events/My Events/YourEvent. This is great for tech checks and rehearsals!
 
 ### Mid-Event Role Promotion
 
