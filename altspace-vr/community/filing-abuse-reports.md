@@ -1,6 +1,6 @@
 ---
 title: Filing an abuse report
-description: Get up-to-date instructions on filing abuse reports for AltspaceVR.
+description: Get up-to-date instructions on filing abuse reports and in-app safety features for AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: reports, issues

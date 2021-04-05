@@ -1,6 +1,6 @@
 ---
 title: Open a support ticket
-description: Contact the AltspaceVR Support Team to Get Help
+description: Contact the AltspaceVR Support Team to get help, open a support ticket, or suggest a new feature.
 ms.date: 03/26/2021
 ms.topic: article
 keywords: help, support

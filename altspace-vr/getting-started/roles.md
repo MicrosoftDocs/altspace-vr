@@ -1,6 +1,6 @@
 ---
 title: Roles in events, worlds, groups, and in AltspaceVR
-description: Learn about the different roles available in AltspaceVR events, worlds, and groups.
+description: Learn about all the different roles you can give your users in AltspaceVR events, worlds, and groups.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: roles, events, worlds, groups, promotion
