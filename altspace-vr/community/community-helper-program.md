@@ -47,11 +47,11 @@ As a Community Helper you MUST meet or exceed these expectations:
 
 Yes… our undying love and appreciation. Also:
 
-1. Vote-to-Suspend: As a Community Helper, you have extra safety tools to take action against trolls and those in violation of our Community Standards. Review the Rules & Responsibilities for Vote-to-Suspend, [here](https://docs.microsoft.com/en-us/windows/mixed-reality/altspace-vr/community/community-helper-guide).
+1. Vote-to-Suspend: As a Community Helper, you have extra safety tools to take action against trolls and those in violation of our Community Standards. Review the Rules & Responsibilities for Vote-to-Suspend, [here](community-helper-guide.md).
 2. Access to a special Community Helpers channel in the Official AltspaceVR Discord server.
 3. Early access to certain community announcements.
 
-## Other Considerations:
+## Other Considerations
 
 AltspaceVR reserves the right to revoke Community Helper badges in cases of failure to meet eligibility requirements, failure to maintain expectations, prolonged absence from AltspaceVR, for reasons of program capacity, violations of our Community Standards and Terms of Service, and any reasons not listed but considered valid.
 
