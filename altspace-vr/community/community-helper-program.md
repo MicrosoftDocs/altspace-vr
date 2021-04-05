@@ -1,6 +1,6 @@
 ---
 title: Community helper program
-description: Stay up to date on the latest answers to frequently asked questions about the AltspaceVR community.
+description: Stay up-to-date on the latest answers to frequently asked questions about the AltspaceVR community.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq, community, helper program, frequently asked questions

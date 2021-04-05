@@ -1,6 +1,6 @@
 ---
 title: Keyboard shortcuts
-description: Learn all the keyboard shortcuts and actions available in AltspaceVR.
+description: Stay up-to-date with all the available keyboard shortcuts and actions the AltspaceVR application supports.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: keyboard, shortcuts

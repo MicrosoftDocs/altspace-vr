@@ -1,6 +1,6 @@
 ---
 title: Does my VR headsets have a built-in mic?
-description: Learn how to check for a built-in microphone on your VR or Windows Mixed Reality headset.
+description: Learn how to check for a built-in microphone on your Windows Mixed Reality, Oculus Rift, Oculus Quest, or HTC Vive headset.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: vr, windows

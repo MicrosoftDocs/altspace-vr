@@ -1,6 +1,6 @@
 ---
 title: Using the Interactables Spawner
-description: Learn how to create, use, and customize, the interactables spawner in AltspaceVR.
+description: Learn how to create, use, and customize the interactables spawner to place items in your AltspaceVR spaces.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: spawner, interactions, customizations
@@ -39,6 +39,6 @@ After enabling **“Object spawner”** when you go back into the properties for
 
 Kit makers may notice that changes to your Kit while AltspaceVR is running won't take effect until you restart AltspaceVR.
 
-Recently we’ve added a button under the **Moderate Settings** tab called **“Reload Worlds Kits“**. Clicking this button causes (just you) to reenter the space, reloading all Kits again, which will download only new versions of the Kits that have been updated while you were in AltspaceVR.
+Recently we’ve added a button under the **Moderate Settings** tab called **Reload Worlds Kits**. Clicking this button causes (just you) to reenter the space, reloading all Kits again, which will download only new versions of the Kits that have been updated while you were in AltspaceVR.
 
 ![Moderate settings panel open in the AltspaceVR app](images/interactables-spawner-img-03.png)

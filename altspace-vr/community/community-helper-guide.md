@@ -1,6 +1,6 @@
 ---
 title: Community helper guide
-description: Stay up to date on AltspaceVR's community helper program and the vote-to-suspend feature.
+description: Stay up-to-date on the AltspaceVR's community helper program and the rules and responsibilities of using the vote-to-suspend feature.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: community, guide, rules

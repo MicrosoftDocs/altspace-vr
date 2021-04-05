@@ -1,6 +1,6 @@
 ---
 title: Granting world roles
-description: Get step-by-step instructions for giving users roles in your AltspaceVR worlds.
+description: Learn about the roles and abilities system and get step-by-step instructions for giving users roles in your AltspaceVR worlds.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: roles
