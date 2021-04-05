@@ -1,6 +1,6 @@
 ---
 title: Improving world performance
-description: Learn how to measure, troubleshoot, and improve the performance of your AltspaceVR worlds.
+description: Learn how to measure, troubleshoot, and improve the performance of your AltspaceVR worlds using diagnostic tools.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: performance, troubleshooting

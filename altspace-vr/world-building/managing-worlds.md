@@ -1,6 +1,6 @@
 ---
 title: Managing worlds
-description: Learn how to create and manage your AltspaceVR worlds.
+description: Learn how to create, manage, and promote your AltspaceVR worlds as well as generate your own custom universe.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: worlds, features
