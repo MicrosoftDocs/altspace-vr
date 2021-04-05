@@ -1,6 +1,6 @@
 ---
 title: Community standards
-description: Stay up-to-date with all the latest AltspaceVR community standards and violation reporting.
+description: Stay up-to-date with all the latest AltspaceVR community standards and procedures for reporting violations.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: community, standards, harassments, warning

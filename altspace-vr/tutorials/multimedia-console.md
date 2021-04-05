@@ -1,6 +1,6 @@
 ---
 title: Using the multimedia console
-description: Learn how to configure, publish, and control a multimedia console in your AltspaceVR experiences.
+description: Learn how to start configuring, publishing, and controling the multimedia console in your AltspaceVR experiences.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: console, multimedia

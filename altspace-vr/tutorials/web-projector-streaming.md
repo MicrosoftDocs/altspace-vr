@@ -1,6 +1,6 @@
 ---
 title: Using the Web Projector to stream a browser
-description: Learn how to use the web projector to stream browser content into AltspaceVR experiences.
+description: Learn how to use the web projector to stream content from a designated browser into AltspaceVR experiences.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: web projector, stream, browser
