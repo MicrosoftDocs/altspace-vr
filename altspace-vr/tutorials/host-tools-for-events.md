@@ -143,7 +143,4 @@ Sometimes, after your FrontRow event has been on for awhile, the first few Rooms
 
 This is how you travel from one Front Row Room to another. Moderators will want to use this to bounce around from Room to Room to check on the crowds. During rehearsals, you can have one Host, On-Air, in the Primary Room and have the rest of your crew go to the other Rooms to see how everything looks. Is everything in sync in the other Rooms and looking just like it does in the Primary Room? If everyone helping test has the Host Role, they can also travel to the other Rooms, go On-Air and you'll be able to see and hear everyone so you can communicate across Rooms that way.
 
-> [!IMPORTANT]
-> You will get a warning when you try to go to a Room that is empty: "Open additional room? Teleporting to an empty room will open it up to others too." **During your actual FrontRow event, you and your event crew MUST all be in the Primary Room five minutes before event start time** (doors open 3 minutes before Event Start Time, so to be safe, make it 5 minutes) or else guests coming in won't fill into the event's Primary Room as expected and this will throw off the sorting for the rest of the event.
-
 Feeling jazzed to try it all out? Great! Go forth and stretch those FrontRow event host muscles.
