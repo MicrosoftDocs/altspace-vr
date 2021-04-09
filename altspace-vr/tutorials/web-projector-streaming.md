@@ -15,6 +15,7 @@ The AltspaceVR Web Projector is a robust media-sharing solution that allows you 
 1. You must use a PC or Mac to stream your browser.
 2. The necessary browser extension is currently supported by the Edge browser. (We're working to expand this list.)
 3. While you may stream from a Mac computer, the Web Projector isn't yet available in the AltspaceVR Mac client.
+4. If you have everything set up correctly (logged into the browser extension/AltspaceVR with the same account, connected/broadcasting with Web Projector in AltspaceVR) but are still seeing a green screen, WebProjector needs TCP port 443 open, as well as UDP port range 20000-20400.
 
 > [!NOTE]
 > This feature is primarily intended to stream a browser tab of your choice. If you're attempting to instead stream your Desktop Application, the Web Projector will stream all computer audio (including AltspaceVR) which may result in echo/feedback. You'll need to mute AltspaceVR in order to prevent this from happening. Alternatively, you can also use a separate device to run AltspaceVR while you stream from your PC.
