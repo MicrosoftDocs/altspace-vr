@@ -10,7 +10,7 @@ keywords: roles
 
 Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the **presenter** and **moderator** roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti. 
 
-1. Edit your World and look over to the right column for **Contextual Roles** ([How to manage Worlds](../managing-worlds.md))
+1. Edit your World and look over to the right column for **Contextual Roles** ([How to manage Worlds](managing-worlds.md))
 
 ![Changing roles in Contextual Roles section of worlds](images/granting-roles.png)
 
@@ -33,7 +33,7 @@ After you select **Update**, Reset Space in the World. This will only affect thi
 * **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
 * **Presenter** - abilities like being able to be on stage, have megaphone
 * **Terraformer** - ability to use the World Editor
-More information about ([Roles in events, worlds, groups, and in AltspaceVR](getting-started/roles))
+More information about ([Roles in events, worlds, groups, and in AltspaceVR](../getting-started/roles))
 
 ## Troubleshooting
 
