@@ -33,7 +33,7 @@ After you select **Update**, Reset Space in the World. This will only affect thi
 * **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
 * **Presenter** - abilities like being able to be on stage, have megaphone
 * **Terraformer** - ability to use the World Editor
-More information about ([Roles in events, worlds, groups, and in AltspaceVR](../getting-started/roles))
+More information about ([Roles in events, worlds, groups, and in AltspaceVR](../getting-started/roles.md))
 
 ## Troubleshooting
 
