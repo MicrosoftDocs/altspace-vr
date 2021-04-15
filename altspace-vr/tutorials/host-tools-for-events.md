@@ -1,6 +1,6 @@
 ---
 title: Host tools for FrontRow events
-description: Learn how to leverage all your host tools for FrontRow events, including muting, messaging, and moderating your events.
+description: Learn how to use all your host tools for FrontRow events, including muting, messaging, and moderating your events.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: host tools, front row, event
@@ -14,13 +14,13 @@ If you'd like to learn about the Host Tools for a non-FrontRow event look here: 
 
 Now that you have your event set as FrontRow, lets go through how to use all the awesome features that are enabled with FrontRow!
 
-When you originally created your event you were set up with the Host 'Role' for that event. You can also give the Host role to anyone else you'd like to help run your event, they will have all the same hosting abilities as you then (See more about Roles here: [Roles in Events, Worlds, Groups and in AltspaceVR](../getting-started/roles.md)). The Host role grants you access to special features and abilities created specifically to make hosting a live virtual event simple and easy.
+When you originally created your event, you were set up with the Host 'Role' for that event. You can also give the Host role to anyone else you'd like to help run your event, they'll have all the same hosting abilities as you (See more about Roles here: [Roles in Events, Worlds, Groups and in AltspaceVR](../getting-started/roles.md)). The Host role grants you access to special features and abilities created specifically to make hosting a live virtual event simple and easy.
 
-Below is a detailed overview of these features and abilities, as well as additional helpful hints for hosting FrontRow events in AltspaceVR.
+Below is a detailed overview of these features, abilities, and other helpful hints for hosting FrontRow events in AltspaceVR.
 
 ## Host tools overview
 
-The Host Tools appear on the bottom right-hand side of your field-of-view. It is available to you immediately after your event has been created, so you can enter your event anytime (event start-time does not apply to the Hosts or Moderators of an event) and get comfortable with the tools before showtime. The Host Tools will give you quick-click access to things like going On-Air (required for running FrontRow events), muting and messaging your audience, toggling your stage blockers on and off, megaphoning yourself, allowing your guests to “raise their hands” to ask questions or offer feedback, the ability to move from FrontRow Room to Room and much more.
+The Host Tools appear on the bottom right-hand side of your field-of-view. It's available to you immediately after your event has been created, so you can enter your event anytime (event start-time does not apply to the Hosts or Moderators of an event) and get comfortable with the tools before showtime. The Host Tools will give you quick-click access to things like going On-Air (required for running FrontRow events), muting and messaging your audience, toggling your stage blockers on and off, megaphoning yourself, allowing your guests to “raise their hands” to ask questions or offer feedback, the ability to move from FrontRow Room to Room and much more.
 
 ![Host tools menu open with available actions highlighted](images/host-front-row-img-01.png)
 
@@ -32,7 +32,7 @@ By muting your attendees, you can limit distracting sounds and keep things nice 
 
 ### Message All
 
-Hosts can send a message to all the attendees present across their FrontRow event. Use any of our quick-notes or write an original one. Once sent, everyone will receive the message as a pop up.
+Hosts can send a message to all the attendees present across their FrontRow event. Use any of our quick-notes or write an original one. Once sent, everyone will receive the message as a pop-up.
 
 ### Amplify My Voice
 
@@ -40,7 +40,7 @@ Hosts can amplify their microphones to ensure that everyone in your Front Row ev
 
 ### Go On-Air
 
-Anyone with the Host or Presenter roles will be able to see this button. Clicking Go On-Air will 'Mirror' your avatar to all the FrontRow Rooms. Once you are 'Mirrored' everything you say and do will be seen across all instances of your FrontRow event.
+Anyone with the Host or Presenter roles will be able to see this button. Clicking Go On-Air will 'Mirror' your avatar to all the FrontRow Rooms. Once you are 'Mirrored', everything you say and do will be seen across all instances of your FrontRow event.
 
 Being On-Air for the entirety of your FrontRow event is VERY IMPORTANT. You must be On-Air for the Host Tools to properly work across all of your FrontRow Rooms, otherwise, they will only work in the Room you are in.
 
@@ -56,21 +56,21 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 
 ## The host panel
 
-Clicking on the Host Panel button will open additional advanced options for your FrontRow event:
+Selecting the Host Panel button will open more advanced options for your FrontRow event:
 
 ![Host panel open with guests tab selected](images/host-front-row-img-02.png)
 
 ## Guest panel
 
-This allows you to keep track of everyone in your Event's 'Room'. In a FrontRow event there are multiple Rooms, the Guests Panel only shows you the guests in the Room you are currently in. You can filter what is shown by clicking All / Open Mics / Hosts / Friends / On-Air. It is an interactive list that gives you a multi-page breakdown of who is in your Room.
+Allows you to keep track of everyone in your Event's 'Room'. In a FrontRow event, there are multiple Rooms, the Guests Panel only shows you the guests in the Room you are currently in. You can filter what is shown by clicking All / Open Mics / Hosts / Friends / On-Air. It is an interactive list that gives you a multi-page breakdown of who is in your Room.
 
-Trying to find someone with bad audio? Click Open Mics to see who is unmuted. Want to make sure everyone you need is Mirrored in your FrontRow event? Click On-Air to see everyone that is currently On-Air and Mirrored. 
+Trying to find someone with bad audio? Open Mics to see who is unmuted. Want to make sure everyone you need is Mirrored in your FrontRow event? Select On-Air to see everyone that is currently On-Air and Mirrored. 
 
 ### Moderation Tools
 
-As an Event Host you are responsible for managing the experience of others. To do this efficiently, you and your Moderators need robust moderation tools. As the Host of a FrontRow event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily and/or for the duration of your event) and even assign the Moderator/Host role to others during the event to get help managing the audience.
+As an Event Host you are responsible for managing the experience of others. To moderate efficiently, you and your Moderators need robust moderation tools. As the Host of a FrontRow event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily or during your event) and even assign the Moderator/Host role to others during the event to get help managing the audience.
 
-You can mute guests from the Guest Panel right away by clicking on the speaker icon beside their name or for additional options click the hamburger menu on the right side of the guest's panel:
+You can mute guests from the Guest Panel right away by clicking on the speaker icon beside their name or for extra options select the hamburger menu on the right side of the guest's panel:
 
 ![Single guest item selected in guest panel](images/host-front-row-img-03.png)
 
@@ -86,11 +86,11 @@ Now you're able to work your FrontRow Hosting Magic and be able to use these fea
     * **Stage Access** - Let them be able to get through any Stage Blockers and go into the stage area.
     * **Make Host** - Gives them the Host role in your FrontRow event. Add a Co-Host on the fly, make sure they go On-Air and they can help you run things or have them travel to the other Rooms to check on things. Is everyone On-Air and showing up in the secondary Rooms? Is your presentation in sync across all active Rooms? Have them go On-Air when they are in the other Room and you'll be able to talk avatar to avatar from Room to Room!
     * **Make Moderator** - Gives them the Moderator role in your Front Row event, to help you with crowd control. Moderators will have access to a limited Host Tools, so they can move from Room to Room to check on things, but don't need to go On-Air. 
-    * **Kick** - Kick rule-breakers out of your event, temporarily or for the duration of your event.
+    * **Kick** - Kick rule-breakers out of your event, temporarily or during your event.
 
 ## Participation panel
  
-You can use this to help interact with your event attendees. You can have a Q&A, form a queue to perform for an Open Mic or to make sure the guest you are talking to is also Mirrored, so everyone can hear the both of you talk to each other from across all of your FrontRow Rooms:
+You can use this panel to help interact with your event attendees. You can have a Q&A, form a queue to perform for an Open Mic or to make sure the guest you are talking to is also Mirrored, so everyone can hear both of you talk to each other from across all of your FrontRow Rooms:
 
 ![Host panel open with participation tab selected](images/host-front-row-img-05.png)
 
@@ -108,11 +108,11 @@ When a guest clicks this button, they show up in your Participation Panel:
 
 To help you keep track, the Participation Panel will even light up a red notification when you have guests waiting to be called on, and it will let you know how long each of your guests has been waiting, too.
 
-Now you can call on them by clicking the 'On-Air + Megaphone' button, this will turn the button blue once activated. This action will send two messages to the Hand Raiser, to confirm that they want to un-mute their microphone and 'The host has called on you and made you louder.' Once they accept, the button will turn blue and this puts them On-Air 'Mirrored' and Amplify My Voice 'Megaphoned' for all to see and hear!
+Now you can call on them by clicking the 'On-Air + Megaphone' button, this will turn the button blue once activated. This action will send two messages to the Hand Raiser, to confirm that they want to unmute their microphone and 'The host has called on you and made you louder.' Once they accept, the button will turn blue and this puts them On-Air 'Mirrored' and Amplify My Voice 'Megaphoned' for all to see and hear!
 
-Once you are finished interacting with them, 1st click the blue button again to take them Off-Air, the button will no longer be blue, then 2nd, click the X to Dismiss them from the list. Now you are ready for lucky contestant number two, and so on and so on :)
+Once you are finished interacting with them, first click the blue button again to take them Off-Air, the button will no longer be blue, then second, click the X to Dismiss them from the list. Now you are ready for lucky contestant number two, and so on, and so on :)
 
-You can also give them temporary Stage Access or click the big Dismiss All button to the right, to completely clear out the list of Hand Raisers and start fresh.
+You can also give them temporary Stage Access or click the Dismiss All button to the right, to completely clear out the list of Hand Raisers and start fresh.
 
 ## Room panel
 
@@ -126,7 +126,7 @@ Rooms have buttons for Reset Space, Delete Space, Redistribute Users and Telepor
 
 ![Reset space button highlighted in the room panel](images/host-front-row-img-09.png)
 
-Will do a 'Reset Space' in the Room you are currently in. You can not Reset Spaces for all Rooms at once, you'll need to travel to each Room to do a reset.
+Will do a 'Reset Space' in the Room you are currently in. You cannot Reset Spaces for all Rooms at once, you'll need to travel to each Room to do a reset.
 
 ![Delete space button highlighted in the room panel](images/host-front-row-img-10.png)
 
@@ -134,7 +134,7 @@ Permanently deletes the Room you are currently in. Everyone in the deleted Room 
 
 ![Redistribute users button highlighted in the room panel](images/host-front-row-img-11.png)
 
-Sometimes, after your FrontRow event has been on for awhile, the first few Rooms are almost at capacity but the last Room or two may only have a small amount of guests per Room. Clicking this button gives the guests in that Room the option of staying in their current Room or going to a more populated Room.
+Sometimes, after your FrontRow event has been on for a while, the first few Rooms are almost at capacity but the last Room or two may only have a small number of guests per Room. Clicking this button gives the guests in that Room the option of staying in their current Room or going to a more populated Room.
 
 > [!NOTE]
 > You do not have to travel to the Room you'd like to redistribute, you can click the Redistribute Users button on any Room right from the Rooms Panel. Try not to do this too many times to the same Room, the guests in there may want to just be with a few people and may not want to keep getting messages asking to move rooms.
@@ -142,8 +142,5 @@ Sometimes, after your FrontRow event has been on for awhile, the first few Rooms
 ![Teleport there button highlighted in the room panel](images/host-front-row-img-12.png)
 
 This is how you travel from one Front Row Room to another. Moderators will want to use this to bounce around from Room to Room to check on the crowds. During rehearsals, you can have one Host, On-Air, in the Primary Room and have the rest of your crew go to the other Rooms to see how everything looks. Is everything in sync in the other Rooms and looking just like it does in the Primary Room? If everyone helping test has the Host Role, they can also travel to the other Rooms, go On-Air and you'll be able to see and hear everyone so you can communicate across Rooms that way.
-
-> [!IMPORTANT]
-> You will get a warning when you try to go to a Room that is empty: "Open additional room? Teleporting to an empty room will open it up to others too." **During your actual FrontRow event, you and your event crew MUST all be in the Primary Room five minutes before event start time** (doors open 3 minutes before Event Start Time, so to be safe, make it 5 minutes) or else guests coming in won't fill into the event's Primary Room as expected and this will throw off the sorting for the rest of the event.
 
 Feeling jazzed to try it all out? Great! Go forth and stretch those FrontRow event host muscles.
