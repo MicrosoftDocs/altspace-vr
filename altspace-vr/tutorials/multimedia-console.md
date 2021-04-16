@@ -91,8 +91,10 @@ Videos can be hosted videos or live streams through Twitch and DLive.  (Other su
 * **Name** - (Required) Name that you wish to identify the video with.
 * **Video URL** - (Required) The public url that the video is hosted at or the live stream is served from.
 * **Skip After** - The number of seconds that the video should be skipped after
-[!NOTE]
+
+> [!NOTE]
 > REQUIRED: Put in the time that matches the length of the video to enable videos to properly forward. For example, if your video is 5 minutes long put 300 seconds, otherwise your video won't skip to the next piece of content.
+
 * **Volume** - The volume of the video from 0 (min) - 1 (max) values.
 * **Start Time** - The number of seconds from the beginning of the video start from.
 * **Roll Off Start Distance** - The distance in meters in world that the volume begins to fall off at as you move away from the Multimedia Console
