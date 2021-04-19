@@ -1,0 +1,14 @@
+{
+	"redirections": [
+		{
+            "source_path": "altspace-vr/getting-started/registration.md",
+            "redirect_url": "altspace-vr/getting-started/creating-and-linking-accounts.md",
+            "redirect_document_id": true
+		},
+		{
+            "source_path": "altspace-vr/getting-started/linking-microsoft-account.md",
+            "redirect_url": "altspace-vr/getting-started/creating-and-linking-accounts.md",
+            "redirect_document_id": false
+		}
+	]
+}
