@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus Quest/Quest 2 installation 
       href: getting-started/oculus-installation.md
-    - name: Account creation 
-      items:
-        - name: Registering an account 
-          href: getting-started/registration.md
-        - name: Linking Microsoft accounts 
-          href: getting-started/linking-microsoft-account.md
+    - name: Creating and linking accounts
+      href: getting-started/creating-and-linking-accounts.md
     - name: Input controls 
       items: 
         - name: Windows Mixed Reality controls 
