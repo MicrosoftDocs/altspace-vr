@@ -22,8 +22,7 @@ Before you start creating and hosting your own virtual events, you'll need the r
 | --- | --- |
 | [System requirements](getting-started/system-requirements.md) | Make sure you have the right tools and system requirements to get started |
 | Install [Windows Mixed Reality](getting-started/wmr-installation.md) or [Oculus Quest](getting-started/oculus-installation.md)| Download and install the latest Windows Mixed Reality or Oculus Quest apps |
-| [Register an AltspaceVR account](getting-started/registration.md) | Create and register for an account right inside the AltspaceVR app |
-| [Link your Microsoft account](getting-started/linking-microsoft-account.md) | Integrate your Microsoft account to access your favorite Microsoft products and services with a single login |
+| [Create and Link an AltspaceVR account](getting-started/creating-and-linking-accounts.md) | Create and register for an account right inside the AltspaceVR app and link it to your Microsoft Account|
 
 ## 2. Getting comfortable
 
