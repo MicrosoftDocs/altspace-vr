@@ -81,10 +81,10 @@ Also, as a baseline, here are some settings that were used for the Screen Door E
 
 * For our Android build, we try to keep our Unity package scene size down to around 10-20 MB total.  We do this by sharing generic materials across many objects, using vertex color to tint the objects, and also by setting manual overrides for Android so that textures use **ASTC 6x6 block compression**, which will be smaller than the default compression.
 
-* The reason that we don’t set the Android build settings to use ASTC is because lightmaps do not look good with that compression (lots of blocky artifacts), and we’d have to set the lightmap to use ETC after every bake, so it is easier instead to set up the override for all scene textures once than it is to update the lightmap’s compression settings after every bake.
+* The reason that we don't set the Android build settings to use ASTC is because lightmaps do not look good with that compression (lots of blocky artifacts), and we’d have to set the lightmap to use ETC after every bake, so it is easier instead to set up the override for all scene textures once than it is to update the lightmap’s compression settings after every bake.
 
 ![Texture window in Unity](images/world-building-texutres.png)
 
 * Also, setting Textures to use Trilinear Filter Mode with a 2 Anisotropic Level can help them remain sharp at glancing angles.
 
-More performance tips and tricks can be found in the [Improving world performance documentation](../faqs/world-building/improving-performance.md).
+More performance tips and tricks can be found in the [Improving world performance documentation](improving-performance.md).
