@@ -55,10 +55,8 @@ productDirectory:
       # imageSrc should be square in ratio with no whitespace
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: Registering an account 
-        - url: getting-started/linking-microsoft-account.md
-          text: Linking Microsoft accounts
+        - url: getting-started/creating-and-linking-accounts.md
+          text: Creating and linking your account 
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality installation
         - url: getting-started/wmr-controls.md
