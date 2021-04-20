@@ -10,7 +10,7 @@ keywords: world editor, performance, oculus, quest, unity, textures, lightmaps, 
 
 ## **Main Points:**
 
-* **72 FPS** on Oculus Quest 1 and 2, is the target
+* **72 FPS** on Oculus Quest 1 and 2, is the target.
 * **Reducing Draw Calls via Static Batching** is essential, aim for **less than 25 drawcalls**
 * **One material per object** to encourage Static Batching (split up multi-material objects into separate objects).
 * **Objects** in an environment should be set to **‘Static’** in most cases.
