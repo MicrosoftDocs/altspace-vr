@@ -64,7 +64,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus Quest installation
         - url: getting-started/oculus-controls.md
-          text: Oculus Quest installation
+          text: Oculus Quest controls
     # Card
     - title: Creating & hosting events
       imageSrc: images/icon-events.png
