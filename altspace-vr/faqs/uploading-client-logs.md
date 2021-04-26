@@ -29,3 +29,9 @@ This button will upload logs from the previous session.
 
 **"Upload Last Crash Log"**
 This button will upload more log content from the latest crash you've experienced.
+
+## In Client Logs
+
+You can also retrieve your log files from your computer. Instructions on how to retrieve these logs can be found [here](https://docs.microsoft.com/en-us/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs).
+
+Once you've located those files, [open a support ticket](https://help.altvr.com/hc/en-us/requests/new) and upload your logs on your ticket request before clicking submit.
