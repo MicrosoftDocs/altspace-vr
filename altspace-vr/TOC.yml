@@ -63,8 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: Teleporters
           href: tutorials/teleporting.md
-        # - name: Recoding and live streaming 
-        #   href: tutorials/recording-and-live-streaming.md
+        - name: Recording and live streaming 
+          href: tutorials/recording-and-live-streaming.md
     - name: Hosting tools
       items:
         - name: Overview
@@ -101,6 +101,8 @@
             items:
               - name: World Building Toolkit (Unity Uploader)
                 href: world-building/world-building-toolkit-getting-started.md
+              - name: Mobile Performance Optimization Guide 
+                href: world-building/unity-mobile-performance-guide.md
               - name: Using Mixed Reality Extensions
                 href: world-building/using-mixed-reality-extensions.md
               - name: Uploading kits
