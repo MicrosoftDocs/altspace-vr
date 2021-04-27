@@ -46,7 +46,7 @@ Now, Alt-Tab over to OBS:
 
 This should make AltspaceVR show up in OBS. Now to set the following properties in OBS, go to **File > Settings**:
 
-| Tab | Settings |
+|Tab|Settings|
 |---|---|
 | **General** | Leave default |
 | **Stream** | Leave default |
