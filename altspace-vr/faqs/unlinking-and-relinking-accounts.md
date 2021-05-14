@@ -42,7 +42,7 @@ We highly recommend that you link your AltspaceVR account with a personal Micros
 
 * Submit your logs if you run into any issues by going to **MAIN MENU > SETTINGS > SUPPORT > Upload Logs**.
 
-* Find more tips in the [Accounts FAQ](creating-and-linking-accounts.md)
+* Find more tips in the [Accounts FAQ](..getting-started/creating-and-linking-accounts.md)
 
 
 ## More Resources
