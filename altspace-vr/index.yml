@@ -23,7 +23,7 @@ highlightedContent:
     # Card
     - title: Getting started 
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     # Card
     - title: Discover content & people 
       itemType: overview
