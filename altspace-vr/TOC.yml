@@ -143,6 +143,8 @@
               href: faqs/nametags.md
             - name: How do I change my account information?
               href: faqs/updating-email-address.md
+            - name: How do I unlink and relink my account?
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR application
           items:
             - name: How do I find the AltspaceVR app version?
