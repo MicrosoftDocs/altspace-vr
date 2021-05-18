@@ -50,7 +50,7 @@ smoother and safer for all involved.
 	Unity to upgrade your project.
 
 5. (PC Only) **DOWNLOAD MIXED REALITY FEATURE TOOL** - Follow the instructions to download the 
-	[Mixed Reality Feature Tool](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool),
+	[Mixed Reality Feature Tool](https://docs.microsoft.com/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool),
 	which you will use to manage the installation of the Uploader package.
 
 6. **INSTALL THE UPLOADER** - Use the MR Feature Tool to select your Unity project,
