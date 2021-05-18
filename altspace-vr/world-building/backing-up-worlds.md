@@ -1,6 +1,6 @@
 ---
 title: Backing up your worlds
-description: Learn how to create and manage backup snapshots of your AltspaceVR worlds.
+description: Learn how to create, manage, and troubleshoot backup snapshots of your AltspaceVR worlds.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: saving

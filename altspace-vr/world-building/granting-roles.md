@@ -1,7 +1,7 @@
 ---
 title: Granting world roles
-description: Get step-by-step instructions for giving users roles in your AltspaceVR worlds.
-ms.date: 03/11/2021
+description: Learn about the roles and abilities system and get step-by-step instructions for giving users roles in your AltspaceVR worlds.
+ms.date: 04/14/2021
 ms.topic: article
 keywords: roles
 ---
@@ -10,48 +10,35 @@ keywords: roles
 
 Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the **host** and **moderator** roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti.
 
-1. Edit your World and scroll down to the **In VR** section ([How to manage Worlds](managing-worlds.md))
+1. Edit your World and look over to the right column for **Contextual Roles** ([How to manage Worlds](managing-worlds.md))
 
-![Changing roles in VR section of worlds](images/granting-roles.png)
+![Changing roles in Contextual Roles section of worlds](images/granting-roles.png)
 
-2. Edit the **Roles** field if you want to grant specific roles to specific users just for this World. For example, if you want to give me **host** + **moderator** and give Calen **moderator**, you would add the following and select **Save**. The format is **{role},{username or email}** on each line. Username is case-insensitive.
+2. Click **Add User** under the **Contextual Roles** field if you want to grant specific roles to specific users just for this World. For example, if you want to give me **host** + **moderator**, you would add the above and select **Save**. The format is **username**, username is case-insensitive, choose the role from the dropdown menu **Terraformer**, click Add User multiple times to keeping adding more users and then click **Update**.
 
-```
-host,jimmy
-moderator,jimmy
-moderator,calen
-```
+* In order for the change to take effect in Altspace, you should Reset Space the world forcing everyone to rejoin or have each user with a new role rejoin the world.
 
-3. If you select **Edit** again, you should see the following above the Roles field. That's how you know updated in the database.
-
-```
-Hosts: jimmy
-Moderators: jimmy,calen
-```
-
-* In order for the change to take effect in Altspace, you should reset the world, forcing everyone to rejoin. There's a full list of roles below.
-
-4. Edit the **Contextual Roles** field if you want to grant a role to every one that joins your World. For example, if you want to let people fly and use the megaphone so they can hear each other while far part, add the following:
+3. Edit the **Default Contextual Roles** field, under the **In VR** section, if you want to grant a role to every one that joins your World. For example, if you want to let people fly and use the megaphone so they can hear each other while far part, add the following:
 
 ```
 pilot,megaphone_only
 ```
 
-After you select **Update**, reset the World. This will only affect this World. If you want to grant roles to an entire Universe, edit the same fields on the Universe. 
+After you select **Update**, Reset Space in the World. This will only affect this World. If you want to grant roles to an entire Universe, edit the same fields on the Universe. The same goes for events, if you want everyone in your event to have these roles you'll need to add this to the **Default Contexual Roles** of the event itself.
 
-## Roles 
+## Roles
 
-* **Host** - abilities like being able to be on stage
-* **Moderator** - abilities like **kick** to maintain decorum
-* **Terraformer** - ability to use the World Editor
-* **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
 * **Megaphone_only** - ability to speak into users' ears wherever they are in the World
-* **Showcase_new_sdk** - ability to spawn MRE SDK apps
+* **Moderator** - abilities like **kick** to maintain decorum
+* **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
+* **Host** - abilities like being able to be on stage, have megaphone
+* **Terraformer** - ability to use the World Editor
+More information about ([Roles in events, worlds, groups, and in AltspaceVR](../getting-started/roles.md))
 
 ## Troubleshooting
 
 **Can I delete roles?**
-Not from the form right now so file a Support request at help.altvr.com and we'll take care of it for you
+Yes, edit your world, click **Remove** below the role you'd like to delete and click **Update**
 
 **Are roles copied when a World is importing from another?**
 No, roles aren't copied

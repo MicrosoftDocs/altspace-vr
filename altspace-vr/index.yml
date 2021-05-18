@@ -7,7 +7,7 @@ brand: windows
 
 metadata:
   title: Welcome to AltspaceVR! # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: description # Required; article description that is displayed in search results. < 160 chars.
+  description: Explore the expanding world of VR events with AltspaceVR. # Required; article description that is displayed in search results. < 160 chars.
   services: mixed-reality 
   ms.service: mixed-reality #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
@@ -23,7 +23,7 @@ highlightedContent:
     # Card
     - title: Getting started 
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     # Card
     - title: Discover content & people 
       itemType: overview
@@ -55,10 +55,8 @@ productDirectory:
       # imageSrc should be square in ratio with no whitespace
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: Registering an account 
-        - url: getting-started/linking-microsoft-account.md
-          text: Linking Microsoft accounts
+        - url: getting-started/creating-and-linking-accounts.md
+          text: Creating and linking your account 
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality installation
         - url: getting-started/wmr-controls.md
@@ -66,7 +64,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus Quest installation
         - url: getting-started/oculus-controls.md
-          text: Oculus Quest installation
+          text: Oculus Quest controls
     # Card
     - title: Creating & hosting events
       imageSrc: images/icon-events.png

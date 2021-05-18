@@ -1,6 +1,6 @@
 ---
 title: Roles in events, worlds, groups, and in AltspaceVR
-description: Learn about the different roles available in AltspaceVR events, worlds, and groups.
+description: Learn about all the different roles you can give your users in AltspaceVR events, worlds, and groups.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: roles, events, worlds, groups, promotion
@@ -36,12 +36,12 @@ Available when you edit your event:
 |---|---|
 | Host* | All the same abilities as Host above, including Host Tools |
 | Megaphone Only | Gives that user access to Host Tools but only Amplify My Voice |
-| Moderator* | Same as the event creator moderator role |
+| Moderator ^ | Same as the event creator moderator role |
 | Pilot | Adds flight capabilities for that individual. NOTE: Must enable this in Settings/Input/Fly |
 | Terraformer | Adds the World Editor button to their interface |
 
 > [!NOTE]
-> * = Anyone with these roles is able to enter the event early by going to Events/My Events/YourEvent. This is great for tech checks and rehearsals!
+> ^ = Anyone with these roles is able to enter the event early by going to Events/My Events/YourEvent. This is great for tech checks and rehearsals!
 
 ### Mid-Event Role Promotion
 

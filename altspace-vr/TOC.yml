@@ -1,5 +1,7 @@
 - name: Welcome to AltspaceVR
   href: index.yml
+- name: Exploring AltspaceVR
+  href: journey.md
 - name: Getting started
   expanded: true 
   items:
@@ -9,14 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus Quest/Quest 2 installation 
       href: getting-started/oculus-installation.md
-    - name: Account creation 
-      items:
-        - name: Registering an account 
-          href: getting-started/registration.md
-        - name: Linking Microsoft accounts 
-          href: getting-started/linking-microsoft-account.md
-        # - name: Exploring the Title Screen 
-        #   href: getting-started/exploring-title-screen.md
+    - name: Creating and linking accounts
+      href: getting-started/creating-and-linking-accounts.md
     - name: Input controls 
       items: 
         - name: Windows Mixed Reality controls 
@@ -31,6 +27,8 @@
           href: getting-started/gamepad-controls.md
 - name: Discover content & people
   items: 
+    - name: Explore the Title Screen
+      href: community/exploring-title-screen.md
     - name: Subscribe to our newsletter
       href: community/newsletter-subscriptions.md
     - name: Community involvement
@@ -65,8 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: Teleporters
           href: tutorials/teleporting.md
-        # - name: Recoding and live streaming 
-        #   href: tutorials/recording-and-live-streaming.md
+        - name: Recording and live streaming 
+          href: tutorials/recording-and-live-streaming.md
     - name: Hosting tools
       items:
         - name: Overview
@@ -103,6 +101,8 @@
             items:
               - name: World Building Toolkit (Unity Uploader)
                 href: world-building/world-building-toolkit-getting-started.md
+              - name: Mobile Performance Optimization Guide 
+                href: world-building/unity-mobile-performance-guide.md
               - name: Using Mixed Reality Extensions
                 href: world-building/using-mixed-reality-extensions.md
               - name: Uploading kits
@@ -143,6 +143,8 @@
               href: faqs/nametags.md
             - name: How do I change my account information?
               href: faqs/updating-email-address.md
+            - name: How do I unlink and relink my account?
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR application
           items:
             - name: How do I find the AltspaceVR app version?

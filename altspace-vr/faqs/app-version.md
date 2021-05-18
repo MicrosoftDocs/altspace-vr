@@ -1,6 +1,6 @@
 ---
 title: Finding the AltspaceVR app version
-description: Learn how to find the version of AltspaceVR you're currently running.
+description: Learn how to use the AltspaceVR app, settings, and client logs to find the version of AltspaceVR you're currently running.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: app version
@@ -37,8 +37,8 @@ AltspaceVR reports the app version in the client logs file as "Altspace Version"
 On Windows, the client logs file can be found via Windows Explorer at:
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
 This file is overwritten each time you launch AltspaceVR. 'Player.log' represents your latest session, and 'Player-prev.log' represents the previous session.

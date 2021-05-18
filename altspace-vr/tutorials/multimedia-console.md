@@ -1,6 +1,6 @@
 ---
 title: Using the multimedia console
-description: Learn how to configure, publish, and control a multimedia console in your AltspaceVR experiences.
+description: Learn how to start configuring, publishing, and controling the multimedia console in your AltspaceVR experiences.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: console, multimedia
@@ -16,7 +16,7 @@ Getting started with the Multimedia Console is a two part process.  First there'
 
 ### Configuring the Multimedia console with the web portal
 
-1. First, you'll need to make sure your content is hosted online because you'll need a URL. (You can upload photos to altvr.com, host a video .mp4 file online or use Twitch live stream link: https://www.twitch.tv/ninja) 
+1. First, you'll need to make sure your content is hosted online because you'll need a URL. (You can upload photos to altvr.com, host a video .mp4 file online or use a Dlive live stream link: https://dlive.tv/yourlivestream) 
 2. Navigate to the web portal for the Multimedia Console at [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
 3. From the web portal, you can generate and publish a configuration for the Multimedia Console.  (See below for details about the various properties).
 4. Once you've entered the media into the media list and have configured the general settings, select the publish button in the top-right part of the app.
@@ -91,6 +91,10 @@ Videos can be hosted videos or live streams through Twitch and DLive.  (Other su
 * **Name** - (Required) Name that you wish to identify the video with.
 * **Video URL** - (Required) The public url that the video is hosted at or the live stream is served from.
 * **Skip After** - The number of seconds that the video should be skipped after
+
+> [!NOTE]
+> REQUIRED: Put in the time that matches the length of the video to enable videos to properly forward. For example, if your video is 5 minutes long put 300 seconds, otherwise your video won't skip to the next piece of content.
+
 * **Volume** - The volume of the video from 0 (min) - 1 (max) values.
 * **Start Time** - The number of seconds from the beginning of the video start from.
 * **Roll Off Start Distance** - The distance in meters in world that the volume begins to fall off at as you move away from the Multimedia Console
