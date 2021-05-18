@@ -40,7 +40,7 @@ Hosts can amplify their microphones to ensure that everyone in your Front Row ev
 
 ### Go On-Air
 
-Anyone with the Host or Presenter roles will be able to see this button. Clicking Go On-Air will 'Mirror' your avatar to all the FrontRow Rooms. Once you are 'Mirrored' everything you say and do will be seen across all instances of your FrontRow event.
+Anyone with the Host role will be able to see this button. Clicking Go On-Air will 'Mirror' your avatar to all the FrontRow Rooms. Once you are 'Mirrored' everything you say and do will be seen across all instances of your FrontRow event.
 
 Being On-Air for the entirety of your FrontRow event is VERY IMPORTANT. You must be On-Air for the Host Tools to properly work across all of your FrontRow Rooms, otherwise, they will only work in the Room you are in.
 

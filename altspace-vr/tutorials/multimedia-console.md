@@ -64,10 +64,10 @@ General playback settings for the media list
 Role assignments for controlling and configuring the Multimedia Console.    These roles are broken down in to the following set:
 
 * **Owner Only** - The user that is the owner of the Multimedia Console Session
-* **Elevated Users** - Users that have moderator, host, or presenter roles in the space that the Multimedia Console is configured in originally
+* **Elevated Users** - Users that have moderator or host roles in the space that the Multimedia Console is configured in originally
 * **All Users** - All users
 
-These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: **Elevated Users** includes the **Owner** even if they aren't a moderator, host, or presenter** in AltspaceVR. Features that are controlled by role assignments are as follows
+These roles stack in the sense that all roles above the one chosen in this list will also be granted permission to use that feature.  Example: **Elevated Users** includes the **Owner** even if they aren't a moderator or host** in AltspaceVR. Features that are controlled by role assignments are as follows
 
 * **Can control media player** - Determines what roles can control the media playback buttons for the Multimedia Console
 * **Can configure the media player** - Determines what roles can configure the Multimedia Console by being granted access to the **Config** button

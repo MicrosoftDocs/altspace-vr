@@ -16,13 +16,13 @@ You’ll need to create your event first, then add the roles after. Once you’v
 
 ### Event Creator Roles
 
-When you create an event, you automatically get access to the admin, presenter, and moderator Roles:
+When you create an event, you automatically get access to the admin, host, and moderator Roles:
 
 * **Admin**
     - All event management tools via the website. You can Edit, End Event, Set to Draft, Re-Import World, Duplicate Event, Delete Event and Add as Main Event (Public events only).
     - Enables World Editor in your event: Environment Clipping, Toggle Flight, Toggle Environment, Edit Mode, and Editor Panel.
 
-* **Presenter**
+* **Host**
     - Enables Host Tools in your event: Toggle Mute-All, Message All, Amplify My Voice, Go On-Air (FrontRow events only), Toggle Stage Blocker, and Host Panel.
 
 * **Moderator** 
@@ -34,11 +34,10 @@ Available when you edit your event:
 
 | Role | Permissions |
 |---|---|
-| Host* | All the same abilities as Presenter above, including Host Tools |
+| Host* | All the same abilities as Host above, including Host Tools |
 | Megaphone Only | Gives that user access to Host Tools but only Amplify My Voice |
 | Moderator* | Same as the event creator moderator role |
 | Pilot | Adds flight capabilities for that individual. NOTE: Must enable this in Settings/Input/Fly |
-| Presenter* | Same as the event creator presenter role |
 | Terraformer | Adds the World Editor button to their interface |
 
 > [!NOTE]
@@ -46,7 +45,7 @@ Available when you edit your event:
 
 ### Mid-Event Role Promotion
 
-Anyone with the Presenter/Host Role can assign roles to users that are in your event, during your event, using Host Tools/Host Panel/Guests/Select Guest:
+Anyone with the Host Role can assign roles to users that are in your event, during your event, using Host Tools/Host Panel/Guests/Select Guest:
 
 * **Make Host**: Gives that user the Host Role for the rest of the event.
 * **Make Moderator**: Gives that user the Moderator Role for the rest of the event.
@@ -61,7 +60,7 @@ To add an Admin:
 3. Click **Add User** and add their username. 
 
 > [!NOTE] 
-> This only gives them the Admin role, if you want them to have any other roles (Host, Presenter, Moderator) these need to be added like normal under Contextual Roles.
+> This only gives them the Admin role, if you want them to have any other roles (Host, Moderator) these need to be added like normal under Contextual Roles.
 
 ### Giving Everyone In Your Event A Role
 
@@ -94,7 +93,7 @@ Available when you edit your World:
 | Moderator | Same as the world creator moderator role |
 | Musical Performer |Better quality audio for singers or musicians playing instruments  |
 | Pilot | Adds flight capabilities for that individual. NOTE: Must enable this in Settings/Input/Fly |
-| Presenter | Same as the world creator presenter role |
+| Host | Same as the world creator host role |
 | Terraformer | Adds the World Editor button to their interface | 
 
 ### Adding More Admins To Your World
@@ -102,11 +101,11 @@ Available when you edit your World:
 Edit your World, click Advanced Options then look under the Advanced section for Admins, click Add User and add their username. 
 
 > [!NOTE] 
-> This only gives them the Admin role, if you want them to have any other roles (Host, Presenter, Moderator) these need to be added like normal under Contextual Roles.
+> This only gives them the Admin role, if you want them to have any other roles (Host, Moderator) these need to be added like normal under Contextual Roles.
 
 ## Roles in groups
 
-You won’t be adding Presenter or Moderator roles to a Group but you're able to add Admins to help you organize your Group. Be careful as they can edit your Group, including Delete, so make sure you trust any Admins you’re adding.
+You won’t be adding Host or Moderator roles to a Group but you're able to add Admins to help you organize your Group. Be careful as they can edit your Group, including Delete, so make sure you trust any Admins you’re adding.
 
 ### Adding More Admins To Your Group
 

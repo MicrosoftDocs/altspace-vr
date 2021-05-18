@@ -8,16 +8,16 @@ keywords: roles
 
 # Granting world roles
 
-Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the **presenter** and **moderator** roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti. 
+Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the **host** and **moderator** roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti.
 
 1. Edit your World and scroll down to the **In VR** section ([How to manage Worlds](managing-worlds.md))
 
 ![Changing roles in VR section of worlds](images/granting-roles.png)
 
-2. Edit the **Roles** field if you want to grant specific roles to specific users just for this World. For example, if you want to give me **presenter** + **moderator** and give Calen **moderator**, you would add the following and select **Save**. The format is **{role},{username or email}** on each line. Username is case-insensitive. 
+2. Edit the **Roles** field if you want to grant specific roles to specific users just for this World. For example, if you want to give me **host** + **moderator** and give Calen **moderator**, you would add the following and select **Save**. The format is **{role},{username or email}** on each line. Username is case-insensitive.
 
 ```
-presenter,jimmy
+host,jimmy
 moderator,jimmy
 moderator,calen
 ```
@@ -25,7 +25,7 @@ moderator,calen
 3. If you select **Edit** again, you should see the following above the Roles field. That's how you know updated in the database.
 
 ```
-Presenters: jimmy
+Hosts: jimmy
 Moderators: jimmy,calen
 ```
 
@@ -41,7 +41,7 @@ After you select **Update**, reset the World. This will only affect this World. 
 
 ## Roles 
 
-* **Presenter** - abilities like being able to be on stage
+* **Host** - abilities like being able to be on stage
 * **Moderator** - abilities like **kick** to maintain decorum
 * **Terraformer** - ability to use the World Editor
 * **Pilot** - ability to toggle fly mode and spawn the 6DOF flight tool
