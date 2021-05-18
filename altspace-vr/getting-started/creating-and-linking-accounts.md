@@ -1,7 +1,7 @@
 ---
 title: Creating and Linking Your AltspaceVR Account
 description: Get step-by-step instructions on how to create a new AltspaceVR account and how to link an existing AltspaceVR account to a Microsoft Account.
-ms.date: 04/16/2021
+ms.date: 05/18/2021
 ms.topic: article
 keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode
 ---
@@ -14,41 +14,24 @@ Creating your Account with a Microsoft Login:
 
 1. Start by downloading the live build of AltspaceVR from your VR app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
 2. Launch the application and navigate to the "Sign In" button on the left-hand side.
-3. Select the "Sign in with Microsoft" option.
-4. A separate window will open, prompting you to select the Microsoft Account you want to link. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
-5. A separate screen will appear prompting you to activate your device via a unique code, which you'll need to copy.
+3. Select the "Sign In" button and then the "Sign in with Microsoft" button.
+4. A separate screen will appear prompting you to activate your device via a unique code, which you'll need to copy.
 6. Switch over to your computer's browser screen and go to https://www.microsoft.com/devicelogin
 7. Enter your unique code and select NEXT. *The code isn't case-sensitive.*
 8. Follow the on-screen instructions to activate your device.
 9. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
 10. Select "Register".
 
-Creating your AltspaceVR Account with an AltspaceVR Login:
-
-1. Start by downloading the live build of AltspaceVR from your preferred app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
-2. Launch the application and navigate to the "Sign In" button on the left-hand side.
-3. Select the "Sign In with AltspaceVR" option.
-4. Select the "No Account? Create One!" option.
-5. Fill out the form and select "Create".
-
 ## How to Create an Account in 2D Mode
 
 Creating your Account with a Microsoft Login:
 
 1. Start by [downloading the live build of AltspaceVR](https://altvr.com/getaltspacevr) from your preferred app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
-2. Launch the application and navigate to the "Sign In" button on the left-hand side.
-3. A separate window will open, prompting you to select the Microsoft Account you want to link. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
+2. Launch the application.
+3. Select the "Sign In" button and then the "Sign in with Microsoft" button.
+3. A separate window will open, prompting you to select the Microsoft Account you want to use. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
 4. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
 5. Select "Register".
-
-Creating your AltspaceVR Account with an AltspaceVR Login:
-
-1. Start by [downloading the live build of AltspaceVR](https://altvr.com/getaltspacevr) from your preferred app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
-2. Launch the application and navigate to the "Sign In" button on the left-hand side.
-3. Select the "Sign In with AltspaceVR" option.
-4. Select the "No Account? Create One!" option.
-5. Fill out the form to continue.
-6. Select "Create".
 
 ## Linking Your Microsoft Account
 
@@ -57,27 +40,30 @@ You can link your pre-existing AltspaceVR account from inside the AltspaceVR app
 Linking with 2D Mode on PC:
 
 1. Make sure you have the latest updates installed and launch AltspaceVR.
-2. From the Title Screen, select the "Account" tab on the right-hand side.
-3. Select "Link" when you're prompted to link your Microsoft Account.
+2. Launch AltspaceVR and make sure you're signed in with your classic AltspaceVR account. If you're prompted to sign in when AltspaceVR launches, select the "Sign In" button, and then the "Or sign in with an AltspaceVR account" link.
+2. From the Title Screen, select the "Account" tab on the right-hand side. If your account isn't linked, the account status should read "Classic Altspace Account"
+3. Select "Link Microsoft Account". Verify that your correct username is displayed, then select the "Link" button.
 4. A separate window will open, prompting you to select the Microsoft Account you want to link. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
-5. Follow the linking instructions. Once you've completed the account-linking process, you'll see that your account credentials have updated in the "Account" section of the menu.
+5. Follow the linking instructions. Once you've completed the account-linking process, you'll see that your account credentials have updated in the "Account" section of the menu. The status should read "Microsoft Home Account (MSA)"
 
 Linking with VR Mode on Your Headset:
 
 1. Make sure you have the latest updates installed and launch AltspaceVR.
-2. From the Title Screen, select the "Account" tab on the right-hand side.
-3. A separate window will open, prompting you to select the Microsoft Account you want to link. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
+2. Launch AltspaceVR and make sure you're signed in with your classic AltspaceVR account. If you're prompted to sign in when AltspaceVR launches, select the "Sign In" button, and then the "Or sign in with an AltspaceVR account" link.
+2. From the Title Screen, select the "Account" tab on the right-hand side. If your account isn't linked, the account status should read "Classic Altspace Account"
+4. Select "Link Microsoft Account". Verify that your correct username is displayed, then select the "Link" button.
 4. A separate screen will appear prompting you to activate your device via a unique code, which you'll need to copy.
 5. Switch over to your computer's browser screen and go to https://www.microsoft.com/devicelogin
 6. Enter your unique code and select NEXT. *Note: The code isn't case-sensitive.*
 7. Follow the on-screen instructions to activate your device.
-8. Once you navigate back to AltspaceVR. You should see that your account credentials have updated in the "Account" section of the menu.
+8. Once you navigate back to AltspaceVR. You should see that your account credentials have updated in the "Account" section of the menu. The status should read "Microsoft Home Account (MSA)".
 
 Troubleshooting tips:
 
 * If you experience any issues during the account-linking process, try to exit and close AltspaceVR before you reattempt to connect your accounts.
 * If you're in VR mode and are experiencing issues, try unplugging your headset and switching to 2D PC mode (or the other way around).
 * If you find yourself unable to reconnect with your Microsoft account, you can still get back into AltspaceVR using your username and password. Just select the "Sign In with AltspaceVR" button.
+* If you're using VR, when prompted to open a dialog, try doing so on a PC that's already using the Microsoft credentials you intend to use with AltspaceVR.
 * Submit your logs if you run into any issues by going to **MAIN MENU > SETTINGS > SUPPORT > Upload Logs**.
 
 ## Account Registration FAQ
@@ -92,7 +78,8 @@ No, your user name can share the same Display Name as others. If you want your D
 
 **I can't remember my password, how can I reset it?**
 
-You can reset your password [here](https://account.altvr.com/users/password/new).
+- If you're using a Microsoft account, you can follow the Microsoft password reset flow after starting the login process with the "Sign in with Microsoft" button. 
+- If you're using a classic AltspaceVR account, you can use the "Forgot your password" link to reset your password, or You can reset your password [here](https://account.altvr.com/users/password/new).
 
 **How can I change my Username or Display Name?**
 
@@ -120,7 +107,7 @@ It's possible you already have a Microsoft Account. Do you play Minecraft, game 
 
 **Does this mean that I need to create a new email address with Outlook?**
 
-No. You can set up a Microsoft Account with a current email address even if it's not hosted with Microsoft. (Ex: G-Mail, Yahoo, and so on)
+No. You can set up a Microsoft Account with a current email address even if it's not hosted with Microsoft. (Ex: G-Mail, Yahoo, and so on). If you sign in with Microsoft credentials that shares the same email as your classic AltspaceVR account, you'll be prompted to link your account after signing in. Follow the prompts to sign into your classic account, and your Altspace and Microsoft accounts will be linked for you.
 
 **Does it cost money?**
 
