@@ -6,7 +6,9 @@ ms.topic: article
 keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 ---
 
-# Moving to Unity 2020.3
+# Updating Content to the Latest Unity Version
+
+## Moving to Unity 2020.3
 
 AltspaceVR is upgrading to the latest version of Unity (2020.3). Beginning today, we're kicking off a content upgrade initiative. All creators are highly encouraged to begin to update their content (worlds, kits, etc.) to Unity 2020.3 as soon as possible. The content uploader has been updated for Unity 2020.3 and is ready for use.
 
