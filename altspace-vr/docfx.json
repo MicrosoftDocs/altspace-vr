@@ -1,42 +1,17 @@
 {
   "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices.md"
-        ]
-      }
-    ],
+    "content":
+      [
+        {
+          "files": ["**/**.md", "**/**.yml"],
+          "exclude": ["**/obj/**", "**/includes/**", "README.md", "LICENSE", "LICENSE-CODE"]
+        }
+      ],
     "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.jpeg",
-          "**/*.gif"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**"
-        ]
-      }
+        {
+          "files": ["**/images/**"],
+          "exclude": ["**/obj/**"]
+        }
     ],
     "overwrite": [],
     "externalReference": [],
