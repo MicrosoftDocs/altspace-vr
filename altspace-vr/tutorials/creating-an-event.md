@@ -33,7 +33,7 @@ The following are terms you'll need to be familiar with for creating your event 
 | Template | A template (or Space Template) is a pre-made world or environment that may be used instead of creating one using the World Building features. AltspaceVR offers a wide range of templates for different experiences and events. |
 | Event space | An event space is a synonym for world in AltspaceVR. In general, it refers to a world used to host events. |
 | Website | References to the "website" are to [AltspaceVR's website](https://altvr.com/). It's often easier to create and edit events through the [Events web page](https://account.altvr.com/events/my) on a computer or tablet rather than through your VR device. You'll need to access the website for [world building](../world-building/managing-worlds.md) as well. |
-| Contextual roles | [Contextual Roles](../getting-started/roles.md) are assigned by the event creator or world builder. These roles give users in a world or event space extra features and capabilities. Currently, these consist of Host, Presenter, Moderator, Pilot (flight), Terraformer (world building), and Megaphone Only. These may be assigned individually or globally, allowing everyone to have the same roles in the event space or world. |
+| Contextual roles | [Contextual Roles](../getting-started/roles.md) are assigned by the event creator or world builder. These roles give users in a world or event space extra features and capabilities. Currently, these consist of Host, Moderator, Pilot (flight), Terraformer (world building), and Megaphone Only. These may be assigned individually or globally, allowing everyone to have the same roles in the event space or world. |
 | User Interface (UI)/Menu | When you are in AltspaceVR in-world, within the immersive environment, there are menus on the left and right of your screen. The circle or main menu with the AltspaceVR logo opens up the main user interface (UI) or menu to access different screens for exploring AltspaceVR and customizing your experience. Optional UI items are found on the right size of the screen and typically include World Editor and Host Tools. These are opened and interacted with by clicking them with your cursor. |
 | SDK/MRE | These are world building terms associated with the Software Development Kit and [Mixed Reality Extensions](../world-building/using-mixed-reality-extensions.md) used to add features and functionality to the world building experience. These are typically for more advanced users. |
 
@@ -99,7 +99,7 @@ On the [Events > My Events](https://account.altvr.com/events/my) web page on Alt
 3. **Advanced:** The following is a quick explanation of the advanced features for events (Some of these features won't display until after your event is created and you EDIT the event):
     * **Admins:** Admins are AltspaceVR users you trust to help you manage your event. They may be your cohosts or backup hosts. By adding their username to the Admins list, they can:
         * Change the event title, description, and other features.
-        * Add and remove Contextual Roles for moderators, presenters, and other roles.
+        * Add and remove Contextual Roles for moderators, hosts, and other roles.
         * Delete the event.
     * **Group:** Choose from your private [Groups](group-features.md) using the drop-down menu. Will only display if your account has created/been added to a Group.
     * **Tagline:** This concise sentence will be displayed on the event web page under the title.
@@ -115,14 +115,14 @@ On the [Events > My Events](https://account.altvr.com/events/my) web page on Alt
 
 3. **YouTube Video ID:** Visible on the event's web page, this adds YouTube event trailers or videos to the event web page, not in-world. You'll only need the video ID part of the URL: dQw4w9WgXcQ
 4. **Twitter Handle:** This adds your Twitter stream to the event's web page. If the Twitter account is personal and not related to the event or association, you may be over-sharing. You'll only need the handle: @elonmusk
-5. **Contextual Roles:** This is where you control the super powers or [contextual roles](../world-building/granting-roles.md) of your event hosts, presenters, moderators, and other roles within the event. To add them, enter in their AltspaceVR username and assign them a role in the drop-down menu. To remove them, select the checkbox to Remove and save the event web page. NOTE: If you wish to grant a presenter moderation capability, you must add them as a presenter and moderator. The following Contextual Roles are currently available:
-    * **Presenter:** Adds the [Front Row features](../faqs/front-row-events.md) to the individual's interface in AltspaceVR to add those features.
-    * **Moderator:** Adds moderation features to the individual's interface including the ability to text each attendee, globally mute them for the event, or remove them from the event. Add the presenter again and give them moderation roles if you wish them to have moderation privileges.
+5. **Contextual Roles:** This is where you control the super powers or [contextual roles](../world-building/granting-roles.md) of your event hosts, moderators, and other roles within the event. To add them, enter in their AltspaceVR username and assign them a role in the drop-down menu. To remove them, select the checkbox to Remove and save the event web page. NOTE: If you wish to grant a host moderation capability, you must add them as a host and moderator. The following Contextual Roles are currently available:
+    * **Host:** Adds the [Front Row features](../faqs/front-row-events.md) to the individual's interface in AltspaceVR to add those features.
+    * **Moderator:** Adds moderation features to the individual's interface including the ability to text each attendee, globally mute them for the event, or remove them from the event. Add the host again and give them moderation roles if you wish them to have moderation privileges.
     * **Megaphone Only:** Adds the Amplify My Voice button to their interface via the Host Tools button.
     * **Terraformer:** Adds the World Editor button to their interface.
     * **Pilot:** Adds flight capabilities for that individual. NOTE: they must enable this in Settings/Input/Fly
     * **Musical Performer:** Adds capabilities and features associated with concert and musical events.
-6. **Block Listed Users:** If you wish to block a user from access, or a user has been previously removed from the event by a moderator or presenter and the event duplicated, the block listed user's name will be listed. Event hosts or Admins may add or remove a block listed user at any time.
+6. **Block Listed Users:** If you wish to block a user from access, or a user has been previously removed from the event by a moderator or host and the event duplicated, the block listed user's name will be listed. Event hosts or Admins may add or remove a block listed user at any time.
 
 Once the form is complete and triple checked, select **CREATE EVENT**.
 
