@@ -19,8 +19,8 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 
 1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel - Friends don't let friends build Worlds alone.
 2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics
-3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install **Unity 2019.4.2f1**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
-4. [Download the latest Unity Uploader](https://aka.ms/AsvrCommunityUploader)
+3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install **Unity 2020.3.9**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
+4. [Download the latest Unity Uploader](upgrading-content-to-the-latest-unity#altspacevr-uploader-v090-upgrade-guide.md)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
 
@@ -30,7 +30,7 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. Open Unity Hub and create a new Unity 2019.4.2f1 project.
+1. Open Unity Hub and create a new Unity 2020.3.9 project.
 2. With your project open, import the Uploader by double-clicking the file you downloaded (it's a Unity package). You should now see a new tab called **AltspaceVR**. You'll need to import the package for every Unity project you want to use with Altspace
 3. Open **Menu > AltspaceVR > Build Settings**
 4. Sign in with your Altspace account credentials
