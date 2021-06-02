@@ -42,17 +42,19 @@ Uploader 0.9 is packaged differently than previous versions of the Uploader. Sim
 
 2. **REMOVE OLD UPLOADER** - With Unity closed, delete the following files/folders, and it's corresponding .meta files:
 
-        * `Assets/Altspace`
+    ```console
+    * Assets/Altspace
 
-        * `Assets/Plugins`
+    * Assets/Plugins
 
-        * `Assets/Prefabs/test-folder`, `Readme.txt`
+    * Assets/Prefabs/test-folder, Readme.txt
 
-        * `Assets/Resources/bg.jpeg`, `bg2.jpeg`, `logo.png`, `UserPreferences.asset`
+    * Assets/Resources/bg.jpeg, bg2.jpeg, logo.png, UserPreferences.asset
 
-        * `Assets/DFloor_v004.fbx`
+    * Assets/DFloor_v004.fbx
 
-        * `Library` (This is a Unity system folder, not an Uploader folder. Delete it anyway, and let it be rebuilt during the upgrade.)
+    * Library (This is a Unity system folder, not an Uploader folder. Delete it anyway, and let it be rebuilt during the upgrade.)
+    ```
 
 3. **DOWNLOAD ENGINE VERSION** - Open the Unity Hub, and install the latest revision of Unity 2020.3.9 (5f1 as of this writing).
 
