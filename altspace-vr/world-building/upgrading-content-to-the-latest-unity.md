@@ -23,11 +23,9 @@ Though this move to 2020.3 hasn't affected user-generated content, in a few week
 
 Use the following preview versions of AltspaceVR to test your newly updated content in VR. The preview versions are for testing purposes only, and shouldn't be used for a general use of the platform.
 
-AltspaceVR SPI Preview for Windows Mixed Reality
-
-AltspaceVR SPI Preview for SteamVR
-
-AltspaceVR SPI Preview for Oculus Rift
+* [AltspaceVR SPI Preview for Windows Mixed Reality](https://aka.ms/AvrSpiMr)
+* [AltspaceVR SPI Preview for SteamVR](https://aka.ms/AvrSpiSteam)
+* [AltspaceVR SPI Preview for Oculus Rift](https://aka.ms/AvrSpiRift)
 
 > Note: Only PC VR previews have been provided. Single pass instanced rendering is not available on Android, and is not needed on non-VR platforms like Mac. Thus, you can use the general release version to test these devices.
 
