@@ -8,11 +8,11 @@ keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 
 # Updating Content to the Latest Unity Version
 
-## Moving to Unity 2020.3
+## Moving to Unity 2020.3.9
 
-Starting today, AltspaceVR has upgraded to the latest version of Unity (2020.3). In addition to some performance improvements, this update future-proofs us for forthcoming features that we're excited to incorporate. This change should be compatible with all existing content. If it isn't, feel free to contact support: altvr.com/support
+Starting today, AltspaceVR has upgraded to a recent version of Unity (2020.3.9). In addition to some performance improvements, this update future-proofs us for forthcoming features that we're excited to incorporate. This change should be compatible with all existing content. If it isn't, feel free to contact support: altvr.com/support
 
-Though this move to 2020.3 hasn't affected user-generated content, in a few weeks we're making a change to AltspaceVR's stereo rendering mode, which will require users to update their content. This upgrade to Single Pass Instancing will allow for significant performance improvements in your worlds. Keep in mind that this new build will no longer support backwards-compatibility with content from 2019.4 and older. It's urgent that all creator-owned content is updated as soon as possible to avoid breaking changes. Follow the guide below to update your content and ensure a smooth transition to Single Pass Instancing on Unity 2020.3.
+Though this move to 2020.3.9 hasn't affected user-generated content, in a few weeks we're making a change to AltspaceVR's stereo rendering mode, which will require users to update their content. This upgrade to Single Pass Instancing will allow for significant performance improvements in your worlds. Keep in mind that this new build will no longer support backwards-compatibility with content from 2019.4 and older. It's urgent that all creator-owned content is updated as soon as possible to avoid breaking changes. Follow the guide below to update your content and ensure a smooth transition to Single Pass Instancing on Unity 2020.3.9.
 
 > [!NOTE]
 > If you are regularly using content that is owned by someone else and has been shared with you, contact the world/kit owner and make sure they are planning to update their content.
@@ -32,13 +32,13 @@ Use the following preview versions of AltspaceVR to test your newly updated cont
 
 ## Store Compatibility Check
 
-The upgrade to Unity 2020.3 will also affect headset and store-build compatibility. It's now a requirement that you download AltspaceVR from the store that is compatible with your headset. As an example: For a WinMR or Oculus headset, download AltspaceVR from the Windows Store or Oculus Store, respectively. Windows Mixed Reality users should download AltspaceVR from the Windows Store, SteamVR users from Steam, and Oculus Rift users from the Oculus Store.
+The upgrade to Unity 2020.3.9 will also affect headset and store-build compatibility. It's now a requirement that you download AltspaceVR from the store that is compatible with your headset. As an example: For a WinMR or Oculus headset, download AltspaceVR from the Windows Store or Oculus Store, respectively. Windows Mixed Reality users should download AltspaceVR from the Windows Store, SteamVR users from Steam, and Oculus Rift users from the Oculus Store.
 
 ## AltspaceVR Uploader v0.9.0 Upgrade Guide 
 
 Uploader 0.9 is packaged differently than previous versions of the Uploader. Simultaneous with this packaging change, the new Uploader requires a new version of Unity. This guide is intended to make this upgrade process smoother and safer for all who are involved.
 
-1. **BACK UP YOUR PROJECT** - Create a copy of your entire project directory, and put it somewhere safe. This upgrade is a destructive upgrade, so you won't be able to create or upload bundles for Unity 2019.4 after you complete it. If you come across any problems during this upgrade, you'll NEED a clean copy of your project to fall back on. You'll also need it to update any live kits or templates before AltspaceVR officially upgrades to Unity 2020.3.
+1. **BACK UP YOUR PROJECT** - Create a copy of your entire project directory, and put it somewhere safe. This upgrade is a destructive upgrade, so you won't be able to create or upload bundles for Unity 2019.4 after you complete it. If you come across any problems during this upgrade, you'll NEED a clean copy of your project to fall back on. You'll also need it to update any live kits or templates before AltspaceVR officially upgrades to Unity 2020.3.9.
 
 2. **REMOVE OLD UPLOADER** - With Unity closed, delete the following files/folders, and it's corresponding .meta files:
 
@@ -54,9 +54,9 @@ Uploader 0.9 is packaged differently than previous versions of the Uploader. Sim
 
         * `Library` (This is a Unity system folder, not an Uploader folder. Delete it anyway, and let it be rebuilt during the upgrade.)
 
-3. **DOWNLOAD ENGINE VERSION** - Open the Unity Hub, and install the latest revision of Unity 2020.3 (5f1 as of this writing).
+3. **DOWNLOAD ENGINE VERSION** - Open the Unity Hub, and install the latest revision of Unity 2020.3.9 (5f1 as of this writing).
 
-4. **UPGRADE PROJECT** - Open your cleaned project in Unity 2020.3, and allow Unity to upgrade your project.
+4. **UPGRADE PROJECT** - Open your cleaned project in Unity 2020.3.9, and allow Unity to upgrade your project.
 
 5. (PC Only) **DOWNLOAD MIXED REALITY FEATURE TOOL** - Follow the instructions to download the [Mixed Reality Feature Tool](https://docs.microsoft.com/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool), which you'll use to manage the installation of the Uploader package.
 
