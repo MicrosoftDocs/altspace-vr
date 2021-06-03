@@ -1,14 +1,14 @@
 ---
 title: Minimum system requirements
 description: Stay up to date with the latest system requirements for AltspaceVR on head-mounted displays, Oculus Rift, and HTC Vive devices.
-ms.date: 03/11/2021
+ms.date: 06/03/2021
 ms.topic: article
-keywords: requirements, head mounted displays, oculus rift, htc vive, windows 2d mode
+keywords: requirements, head-mounted displays, oculus rift, htc vive, windows 2d mode
 ---
 
 # Minimum system requirements
 
-We recommend the minimum system profiles below to get the full AltspaceVR experience. AltspaceVR currently supports the following head mounted displays:
+We recommend the minimum system profiles below to get the full AltspaceVR experience. AltspaceVR currently supports the following head-mounted displays:
 
 * Oculus Rift CV1
 * HTC Vive
