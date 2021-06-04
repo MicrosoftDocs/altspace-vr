@@ -1,7 +1,7 @@
 ---
 title: Updating Content to the Latest Unity Version
 description: Learn how to update your content to the latest version of Unity.
-ms.date: 05/18/2021
+ms.date: 06/4/2021
 ms.topic: article
 keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 ---
@@ -12,7 +12,7 @@ keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 
 Starting today, AltspaceVR has upgraded to a recent version of Unity (2020.3.9). In addition to some performance improvements, this update future-proofs us for forthcoming features that we're excited to incorporate. This change should be compatible with all existing content. If it isn't, feel free to contact support: altvr.com/support
 
-Though this move to 2020.3.9 hasn't affected user-generated content, in a few weeks we're making a change to AltspaceVR's stereo rendering mode, which will require users to update their content. This upgrade to Single Pass Instancing will allow for significant performance improvements in your worlds. Keep in mind that this new build will no longer support backwards-compatibility with content from 2019.4 and older. It's urgent that all creator-owned content is updated as soon as possible to avoid breaking changes. Follow the guide below to update your content and ensure a smooth transition to Single Pass Instancing on Unity 2020.3.9.
+Though this move to 2020.3.9 hasn't affected user-generated content, in a few weeks we're making a change to AltspaceVR's [stereo rendering mode that will require users to update their content]( https://docs.unity3d.com/Manual/SinglePassStereoRendering.html). This upgrade to [Single Pass Instancing](https://docs.unity3d.com/Manual/SinglePassInstancing.html) will allow for significant performance improvements in your worlds. Keep in mind that this new build will no longer support backwards-compatibility with content from 2019.4 and older. It's urgent that all creator-owned content is updated as soon as possible to avoid breaking changes. Follow the guide below to update your content and ensure a smooth transition to Single Pass Instancing on Unity 2020.3.9.
 
 > [!NOTE]
 > If you are regularly using content that is owned by someone else and has been shared with you, contact the world/kit owner and make sure they are planning to update their content.
@@ -56,7 +56,7 @@ Uploader 0.9 is packaged differently than previous versions of the Uploader. Sim
     * Library (This is a Unity system folder, not an Uploader folder. Delete it anyway, and let it be rebuilt during the upgrade.)
     ```
 
-3. **DOWNLOAD ENGINE VERSION** - Open the Unity Hub, and install the latest revision of Unity 2020.3.9 (5f1 as of this writing).
+3. **DOWNLOAD ENGINE VERSION** - Open the Unity Hub, and install Unity 2020.3.9 (or [click here](https://unity3d.com/ru/unity/whats-new/2020.3.9) to install directly).
 
 4. **UPGRADE PROJECT** - Open your cleaned project in Unity 2020.3.9, and allow Unity to upgrade your project.
 
@@ -74,7 +74,7 @@ Once the package finishes importing, the familiar Uploader window should be avai
 
 2. Check your headset and store-build compatibility. If you're using a WinMR headset, for example, make sure that your AltspaceVR build was acquired through the Windows Store.
 
-3. If during testing you discover that your content only appears in one eye in VR mode, it is likely that the custom shaders you use do not support SPI rendering. You’ll need to choose a different shader, or follow Unity’s SPI upgrade guide to manually edit the shader and add support.
+3. If during testing you discover that your content only appears in one eye in VR mode, it is likely that the custom shaders you use do not support SPI rendering. You’ll need to choose a different shader, or follow [Unity’s SPI upgrade guide](https://docs.unity3d.com/Manual/SinglePassInstancing.html) to manually edit the shader and add support.
 
 4. For those on WinMR, please remember that before you can access VR mode in AltspaceVR, you must: 
     1. Download and install OpenXR for Windows Mixed Reality from the Microsoft Store.
