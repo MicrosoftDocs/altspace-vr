@@ -1,12 +1,21 @@
 ---
 title: Creating and Linking Your AltspaceVR Account
 description: Get step-by-step instructions on how to create a new AltspaceVR account and how to link an existing AltspaceVR account to a Microsoft Account.
-ms.date: 05/18/2021
+ms.date: 06/25/2021
 ms.topic: article
-keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode
+keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name
 ---
 
 # Creating and Linking Your AltspaceVR Account
+
+## Disclaimer Regarding Account Linking
+
+Listed below are the different ways in which you can create and link your AltspaceVR account.
+
+When creating or updating your account, keep in mind that there are still features that require an AltspaceVR "password".
+
+If you've created an account with MSA and don't have an AltspaceVR password, sign into https://www.altvr.com/, go to your profile, and then click "sign out and get a new password".
+
 
 ## How to Create an Account in VR
 
@@ -83,9 +92,11 @@ No, your user name can share the same Display Name as others. If you want your D
 
 **How can I change my Username or Display Name?**
 
-If you want to change the Username associated with your account, [send us a ticket](https://help.altvr.com/hc/requests/new). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
+To change your **Username or Display Name**, sign into altvr.com, select your profile icon on the top right, User Profile, Edit, and update your Username or Display Name. 
 
-To change your **Display Name**, sign into altvr.com, select your profile icon on the top right, User Profile, Edit, and update Display Name.
+*Note: You will only be able to change your username once. Any time after that, you will have to submit a support ticket.*
+
+If you want to change the Username associated with your account, [send us a ticket](https://help.altvr.com/hc/requests/new). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
 
 **My menu is blank and I can't sign up, what can I do?**
 
