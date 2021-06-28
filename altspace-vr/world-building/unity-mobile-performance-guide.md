@@ -77,7 +77,7 @@ Also, as a baseline, here are some settings that were used for the Screen Door E
 
 ![Lighting window in Unity](images/world-building-lightmaps.png)
 
-Note: If you are using these settings, you can set the Lightmapper to 'GPU Lightmapper' and set the resolution to 2048 for much faster preview bakes, and then back up to CPU and 4k for your final bake.
+Note: If you are using these settings, you can set the Lightmapper to 'GPU Lightmapper' and set the Lightmap Size to '2048' for much faster preview bakes, and then back up to CPU and 4k for your final bake.
 
 ## **Texture Compression/File Size**
 
