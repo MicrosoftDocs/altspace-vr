@@ -77,6 +77,8 @@ Also, as a baseline, here are some settings that were used for the Screen Door E
 
 ![Lighting window in Unity](images/world-building-lightmaps.png)
 
+Note: If you are using these settings, you can set the Lightmapper to 'GPU Lightmapper' and set the Lightmap Size to '2048' for much faster preview bakes, and then back up to CPU and 4k for your final bake.
+
 ## **Texture Compression/File Size**
 
 * For our Android build, we try to keep our Unity package scene size down to around 10-20 MB total.  We do this by sharing generic materials across many objects, using vertex color to tint the objects, and also by setting manual overrides for Android so that textures use **ASTC 6x6 block compression**, which will be smaller than the default compression.
