@@ -27,7 +27,7 @@ highlightedContent:
     # Card
     - title: Discover content & people 
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     # Card
     - title: Creating events 
       itemType: how-to-guide
