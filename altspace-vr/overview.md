@@ -18,23 +18,23 @@ AltspaceVR offers a virtual reality environment where users can assemble to atte
 
 ## Key features
 
-With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can either attend public events scheduled by others, or host your own private or public events open to the entire online virtual community.
+With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can either [attend public events](community/exploring-title-screen.md#destinations) scheduled by others, or [host your own private or public events](tutorials/creating-an-event.md) open to the entire online virtual community.
 
 ### Public event calendar
 
-AltspaceVR offers scores of events on its calendar at any given time. These events range from spiritual meetups like a church service or group meditation, to learning events like sessions on cryptocurrency, general science, creative writing, business networking, etc. In entertainment, there are stand-up comedy events, happy hours sessions, live music, karaoke, and more – all in VR.
+AltspaceVR offers scores of [events on its calendar](https://account.altvr.com/events/main) at any given time. These events range from spiritual meetups like a church service or group meditation, to learning events like sessions on cryptocurrency, general science, creative writing, business networking, etc. In entertainment, there are stand-up comedy events, happy hours sessions, live music, karaoke, and more – all in VR.
 
 ### Content channels
 
-AltspaceVR offers a variety of content channels to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals.  You will be notified when a channel goes live, and be alerted to join.
+AltspaceVR offers a variety of [content channels](https://account.altvr.com/channels/popular) to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals.  You will be notified when a channel goes live, and be alerted to join.
 
 ### VR worlds
 
-In AltspaceVR, you can visit a number of pre-built VR environments, called worlds. These worlds cover common public areas like streets and rooftops, as well as more fantastical locations like an enchanted meadow or a mythical library. Event hosts on AltspaceVR can choose from these worlds when planning a gathering.
+In AltspaceVR, you can visit a number of pre-built VR environments, called [worlds](community/exploring-title-screen.md#other-functions). These worlds cover common public areas like streets and rooftops, as well as more fantastical locations like an enchanted meadow or a mythical library. Event hosts on AltspaceVR can choose from these worlds when planning a gathering.
 
 ## Microsoft Mesh compatibility
 
-The enterprise edition of AltspaceVR will be [Microsoft Mesh-enabled](aka.ms/meshdocs). You will soon be able to enjoy 3D photorealistic presence and spatial multiplayer experiences. AltspaceVR will turn into a business VR platform for collaboration, corporate events, and employee engagement gatherings.
+The enterprise edition of AltspaceVR will be [Microsoft Mesh-enabled](/mesh/). You will soon be able to enjoy 3D photorealistic presence and spatial multiplayer experiences. AltspaceVR will turn into a business VR platform for collaboration, corporate events, and employee engagement gatherings.
 
 ## See also
 
