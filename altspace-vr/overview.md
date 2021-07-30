@@ -16,7 +16,7 @@ AltspaceVR is a social virtual reality events platform.  The platform is centere
 
 AltspaceVR offers a virtual reality environment where users can assemble to attend meetings, watch stand-up comedy, participate in yoga lessons, or have any kind of shared virtual reality experience. 
 
-## Key features
+## Virtual reality events
 
 With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can either [attend public events](community/exploring-title-screen.md#destinations) scheduled by others, or [host your own private or public events](tutorials/creating-an-event.md) open to the entire online virtual community.
 
@@ -24,13 +24,13 @@ With AltspaceVR, you can have shared VR experiences, whether it is in your perso
 
 AltspaceVR offers scores of [events on its calendar](https://account.altvr.com/events/main) at any given time. These events range from spiritual meetups like a church service or group meditation, to learning events like sessions on cryptocurrency, general science, creative writing, business networking, and so on. In entertainment, there are stand-up comedy events, happy hours sessions, live music, karaoke, and more – all in VR.
 
-### Content channels
-
-AltspaceVR offers various [content channels](https://account.altvr.com/channels/popular) to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals.  You will be notified when a channel goes live, and be alerted to join.
-
 ### VR worlds
 
 In AltspaceVR, you can visit many pre-built VR environments, called [worlds](community/exploring-title-screen.md#other-functions). These worlds cover common public areas like streets and rooftops, and more fantastical locations like an enchanted meadow or a mythical library. Event hosts on AltspaceVR can choose from these worlds when planning a gathering.
+
+### Content channels
+
+AltspaceVR offers various [content channels](https://account.altvr.com/channels/popular) to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals.  You will be notified when a channel goes live, and be alerted to join.
 
 ## Microsoft Mesh compatibility
 
