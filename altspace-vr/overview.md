@@ -12,9 +12,9 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
-AltspaceVR is a social virtual reality events platform.  The platform is centered around live virtual events. In addition to a wide variety of events, individuals from all over the world can gather, talk, collaborate, and be copresent in small to large groups. Currently, AltspaceVR allows for large groups of individuals to be copresent in a single space.  [FrontRow](faqs/scaling-audiences.md) technology allows for audience-scaling into the thousands.
+AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to easily create their own virtual events. This social app allows people from all over the world to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they’re together even when oceans apart. Sitting at the intersection of experience, content, and community, AltspaceVR is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
 
-AltspaceVR offers a virtual reality environment where users can assemble to attend meetings, watch stand-up comedy, participate in meditation lessons, or have any kind of shared virtual reality experience. 
+Currently, AltspaceVR allows for large groups of individuals to be copresent in a single space.  [FrontRow](faqs/scaling-audiences.md) technology allows for audience-scaling into the thousands.
 
 ## Virtual reality events
 
@@ -26,7 +26,7 @@ AltspaceVR offers scores of [events on its calendar](https://account.altvr.com/e
 
 ### VR worlds
 
-In AltspaceVR, you can visit many pre-built VR environments, called [worlds](community/exploring-title-screen.md#other-functions). These worlds cover common public areas like streets and rooftops, and more fantastical locations like an enchanted meadow or a mythical library. Event hosts on AltspaceVR can choose from these worlds when planning a event.
+In AltspaceVR, you can visit many pre-built VR environments, called [worlds](community/exploring-title-screen.md#other-functions). These worlds cover common public areas like streets and rooftops, and more fantastical locations like an enchanted meadow or a mythical library. Event hosts on AltspaceVR can choose from these worlds when planning an event.
 
 ### Content channels
 
