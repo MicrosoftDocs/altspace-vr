@@ -20,6 +20,8 @@ Currently, AltspaceVR allows for large groups of individuals to be copresent in 
 
 With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can either [attend public events](community/exploring-title-screen.md#destinations) scheduled by others, or [host your own private or public events](tutorials/creating-an-event.md) open to the entire online virtual community.
 
+Here's what AltspaceVR has to offer for your VR experience.
+
 ### Public events calendar
 
 AltspaceVR offers scores of [events on its calendar](https://account.altvr.com/events/main) at any given time. These events range from spiritual meetups like a church service or group meditation, to learning events like sessions on cryptocurrency, general science, creative writing, business networking, and so on. In entertainment, there are stand-up comedy events, happy hours sessions, live music, karaoke, and more – all in VR.
@@ -38,6 +40,10 @@ AltspaceVR for Business will be [Microsoft Mesh-enabled](/mesh/). You will soon 
 
 ## See also
 
-* [Exploring AltspaceVR](journey.md)
-* [System requirements](getting-started/system-requirements.md)
+Do you have virtual events to bring to the world? Start your journey here.
+> [!div class="nextstepaction"]
+> [Exploring AltspaceVR](journey.md)
 
+See hardware requirements for your VR experience.
+> [!div class="nextstepaction"]
+> [System requirements](getting-started/system-requirements.md)
