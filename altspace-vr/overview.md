@@ -10,7 +10,7 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 # What is AltspaceVR
 
-![AltspaceVR banner image](images/altspace-vr-banner.png)
+![AltspaceVR banner image](images/vr-interactions.png)
 
 AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to easily create their own virtual events. This social app allows people from all over the world to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they’re together even when oceans apart. Sitting at the intersection of experience, content, and community, AltspaceVR is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
 
