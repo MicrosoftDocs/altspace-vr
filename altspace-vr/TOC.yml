@@ -1,5 +1,7 @@
 - name: Welcome to AltspaceVR
   href: index.yml
+- name: AltspaceVR Overview
+  href: overview.md
 - name: Exploring AltspaceVR
   href: journey.md
 - name: Getting started
