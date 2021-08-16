@@ -17,17 +17,31 @@ sections:
           **For Windows users**
 
           For headsets used with Windows, you should be able to find the microphone listed under your Recording Devices while you have the headset plugged in.
-      - question: What's the difference between Microsoft AppSource and Azure Marketplace?
+
+          **Further troubleshooting**
+
+          - [AltspaceVR Support - Other users cannot hear me](#other-users-cant-hear-me)
+          - [AltspaceVR Support - Managing permissions for Oculus Quest](../getting-started/oculus-controls.md#managing-permissions)
+      - question: Is there a push-to-talk button?
         answer: |
-          AppSource includes business and industry solutions, such as apps that integrate into Microsoft 365, Dynamics 365, and Power Platform services.
-          Azure Marketplace includes IT and developer solutions that are built on Azure or used within Azure subscriptions themselves.
-          To learn more, go to the [buyer's guide](https://aka.ms/MarketplaceBuyerGuide).
-      - question: Why should I make my software or services available in the Microsoft commercial marketplace?
+          In the lower right of your view, there is a microphone button that can be used to toggle whether your voice is being shared to other users. Alternatively, you may use the keyboard shortcut, **Ctrl + Alt + T** to toggle this setting.
+
+          If the icon blinks when you talk, your microphone is working!
+      - question: What to do if my audio is choppy?
         answer: |
-          The commercial marketplace is a starting point for go-to-market collaboration and enablement with sales channels and Marketplace Rewards. The websites and in-product experiences give your products visibility to millions of customers who are seeking solutions like yours. You don't even need to build or buy the commerce capabilities. 
-          The commercial marketplace is available in 141 regions, on a per-plan basis. 
-          We manage tax payment in many countries/regions, and we provide access to our global channel network of resellers. You can use a customer's Microsoft Customer Agreement or Enterprise Agreement to sell to organizations without having to create a new buying relationship.
-          To learn more, see the [Microsoft commercial marketplace hub](https://aka.ms/commercialmarketplacehub).
+          Some users have noticed that when another avatar is speaking the audio comes across as choppy, or with regular drop-outs. You may in other instances be informed by other users that your own audio is coming through choppy, or robotic.
+
+          The first thing to try is always reentering the space you are in, or even restarting AltspaceVR if this fails. Audio issues aren't common but when they do occur this is often an easy fix.
+
+          If this fails these are some other things, you can investigate.
+
+          **CPU performance for desktop users**
+
+          Review our [Recommended System Specifications](../getting-started/system-requirements) for hardware we suggest for running AltspaceVR. We've found that CPUs i3's and lower cause issues not only with the frame rates of the video, but can contribute to audio issues such as drop-outs and poor quality.
+
+          **Internet bandwidth and network connection**
+
+          Users on slow internet connections (less than 5mbps) or on WiFi may have audio issues such as drop-outs. We recommend hardline connection of an Ethernet cable to your computer, and a connection faster than 5mbps. You may want to exit any programs that might be using internet connectivity in the background.
       - question: What currencies are supported with the commercial marketplace?
         answer: |
           Transactions can be handled in the following 17 currencies:
