@@ -23,7 +23,7 @@ highlightedContent:
     # Card
     - title: Getting started 
       itemType: get-started
-      url: journey.md
+      url: overview.md
     # Card
     - title: Discover content & people 
       itemType: overview
