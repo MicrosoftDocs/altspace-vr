@@ -1,17 +1,22 @@
 ### YamlMime:FAQ
 metadata:
-  title: Microsoft commercial marketplace publisher FAQ
-  description: "Get answers to common questions about Azure Marketplace and Microsoft AppSource."
-  ms.date: 01/01/2021
-title: Common questions about the Microsoft commercial marketplace
-summary: This article answers commonly asked questions about the commercial marketplace.
+  title: AltspaceVR FAQ
+  description: Troubleshooting and support for AltspaceVR
+  ms.date: 08/16/2021
+title: AltspaceVR frequently asked questions
+summary: This article answers commonly asked questions about AltspaceVR.
 sections:
-  - name: General
+  - name: Audio
     questions:
-      - question: What is the Microsoft commercial marketplace?
+      - question: Does my VR headsets have a built-in mic?
         answer: |
-          The commercial marketplace connects business and government agencies with solutions built by our partners. Our partners create and manage offers in Partner Center, and customers can discover and buy solutions through in-product experiences, such as Microsoft AppSource, Azure Marketplace, resellers in the Cloud Solution Provider program, and our sales teams through the co-sell program.
-          To learn more, go to the [Microsoft commercial marketplace hub](https://partner.microsoft.com/asset/collection/commercial-marketplace#/).
+          **For Oculus Rift, Oculus Quest, and HTC Vive Users** 
+          
+          Yes, these VR headsets have built-in microphones.
+
+          **For Windows users**
+
+          For headsets used with Windows, you should be able to find the microphone listed under your Recording Devices while you have the headset plugged in.
       - question: What's the difference between Microsoft AppSource and Azure Marketplace?
         answer: |
           AppSource includes business and industry solutions, such as apps that integrate into Microsoft 365, Dynamics 365, and Power Platform services.
