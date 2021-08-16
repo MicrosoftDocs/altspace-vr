@@ -129,42 +129,18 @@
       href: community/community-standards.md
 - name: Troubleshooting & support 
   items:
-    - name: Frequently asked questions
+    - name: Audio Frequently asked questions
       items:
-        - name: Audio 
-          items: 
-            - name: Does my VR Headset have a Built In Microphone?
-              href: faqs/vr-headset-mic.md
-            - name: Is there a push-to-talk button?
-              href: faqs/push-to-talk.md
-            - name: My audio is choppy
-              href: faqs/choppy-audio.md
-            - name: Other users can't hear me 
-              href: faqs/other-users-cant-hear-me.md
-        - name: Account & avatar 
-          items: 
-            - name: How do nametags work?
-              href: faqs/nametags.md
-            - name: How do I change my account information?
-              href: faqs/updating-email-address.md
-            - name: How do I unlink and relink my account?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR application
-          items:
-            - name: How do I find the AltspaceVR app version?
-              href: faqs/app-version.md
-            - name: How do I upload client logs?
-              href: faqs/uploading-client-logs.md
-            - name: I'm unable to launch AltspaceVR 
-              href: faqs/unable-to-launch.md
-        - name: Health & safety
-          items:
-            - name: Will AltspaceVR cause motion sickness?
-              href: faqs/motion-sickness.md
-        - name: Events 
-          items: 
-            - name: What are FrontRow events?
-              href: faqs/front-row-events.md
+        - name: Audio FAQ
+          href: faqs/audio-faq.md
+        - name: Account & avatar FAQ
+          href: faqs/account-avatar-faq.md
+        - name: AltspaceVR app FAQ
+          href: faqs/altspacevr-app-faq.md
+        - name: Health & safety FAQ
+          href: faqs/health-safety-faq.md
+        - name: FrontRow events
+          href: front-row-events.md
 - name: Contact us 
   items: 
     - name: Get Help
