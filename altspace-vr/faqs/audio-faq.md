@@ -31,11 +31,6 @@ In the lower right of your view, there is a microphone button that can be used t
  
 If the icon blinks when you talk, your microphone is working!
  
-Questions or feedback? 
-
-> [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
-
 ## What do I do if my audio is choppy?
 
 Some users have noticed that when another avatar is speaking the audio comes across as choppy, or with regular drop-outs. You may in other instances be informed by other users that your own audio is coming through choppy, or robotic.
@@ -81,3 +76,10 @@ If after following these steps you're still having issues there are a few other 
 * Exit VR, try plugging your USB cord from your headset into an alternative USB 3.0 port. In our experience, some USB 3.0 ports cause issues.
 
 AltspaceVR may not recognize sound setting changes made while in game, so you may need to restart AltspaceVR of the above microphone changes to take effect.  When you reenter the game, look at the microphone icon and see if it blinks. If the icon blinks, then your microphone is working.
+
+## Feedback and support
+
+Questions or feedback? 
+
+> [!div class="nextstepaction"]
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).

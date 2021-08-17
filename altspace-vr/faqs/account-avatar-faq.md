@@ -91,3 +91,10 @@ We highly recommend that you link your AltspaceVR account with a personal Micros
 * [How to reset your Microsoft Account password](https://support.microsoft.com//account-billing/how-to-reset-your-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37)
 * [Keeping your Microsoft Account safe and secure](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
 * [Child and Family Accounts and Controls](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)
+
+## Feedback and support
+
+Questions or feedback? 
+
+> [!div class="nextstepaction"]
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
