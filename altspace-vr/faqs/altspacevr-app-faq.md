@@ -32,7 +32,7 @@ In the **Advanced Options**, under the **Specifications** header, the **App Vers
 
 ![Advanced options open with app version highlighted](images/app-version-img-03.png)
 
-### In Client Logs
+### App version in client logs
 
 AltspaceVR reports the app version in the client logs file as "Altspace Version" during application startup. This would be a good option to get the app version if you can't successfully log into the client, but it did attempt to start before failing.
 
@@ -87,7 +87,8 @@ This button will upload more log content from the latest crash you've experience
 
 ### In Client Logs
 
-You can also retrieve your log files from your computer. Instructions on how to retrieve these logs can be found [here](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs).
+You can also retrieve your log files from your computer. Instructions on how to retrieve these logs can be found [here](app-version-in-client-logs).
+
 
 Once you've located those files, [open a support ticket](https://help.altvr.com/hc/en-us/requests/new) and upload your logs on your ticket request before clicking submit.
 
@@ -115,7 +116,7 @@ There are several reasons why AltspaceVR may not launch for you. Try out the fol
 ### If the program was working, but ceased to launch after update:
 
 * Do a 'Clean Reinstall' of the software. This requires you to uninstall or remove existing versions of the Application. Once fully removed from your system, install Altspace via Steam, Oculus, or Microsoft Store.
-* If you do have a problem launching AltspaceVR, let us know via a [support ticket](https://help.altvr.com/hc/requests/new). Include a [log file](uploading-client-logs.md) from your session.
+* If you do have a problem launching AltspaceVR, let us know via a [support ticket](https://help.altvr.com/hc/requests/new). Include a [log file](altspacevr-app-faq.md#how-do-i-upload-my-client-logs) from your session.
 
 ### If AltspaceVR fails to launch after customizing your home space:
 

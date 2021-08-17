@@ -43,7 +43,7 @@ highlightedContent:
     # Card
     - title: Troubleshooting 
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 
 # productDirectory section (optional)
 productDirectory:
@@ -119,13 +119,13 @@ additionalContent:
         - title: Troubleshooting & support
           links:
             - text: Audio issues 
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: Accounts and avatars 
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: AltspaceVR application  
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: Health & safety 
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: Events  
               url: faqs/front-row-events.md
         # Card

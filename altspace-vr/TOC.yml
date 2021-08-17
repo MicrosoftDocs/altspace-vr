@@ -129,18 +129,16 @@
       href: community/community-standards.md
 - name: Troubleshooting & support 
   items:
-    - name: Audio Frequently asked questions
-      items:
-        - name: Audio FAQ
-          href: faqs/audio-faq.md
-        - name: Account & avatar FAQ
-          href: faqs/account-avatar-faq.md
-        - name: AltspaceVR app FAQ
-          href: faqs/altspacevr-app-faq.md
-        - name: Health & safety FAQ
-          href: faqs/health-safety-faq.md
-        - name: FrontRow events
-          href: front-row-events.md
+    - name: Audio FAQ
+      href: faqs/audio-faq.md
+    - name: Account & avatar FAQ
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR app FAQ
+      href: faqs/altspacevr-app-faq.md
+    - name: Health & safety FAQ
+      href: faqs/health-safety-faq.md
+    - name: FrontRow events
+      href: faqs/front-row-events.md
 - name: Contact us 
   items: 
     - name: Get Help

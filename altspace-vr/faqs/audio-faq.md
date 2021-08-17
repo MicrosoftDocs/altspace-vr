@@ -22,7 +22,7 @@ For headsets used with Windows, you should be able to find the microphone listed
 
 ### Further Troubleshooting
 
-* [AltspaceVR Support - Other users cannot hear me](other-users-cant-hear-me.md)
+* [AltspaceVR Support - Other users cannot hear me](#what-do-i-do-if-other-users-cant-hear-me)
 * [AltspaceVR Support - Managing permissions for Oculus Quest](../getting-started/oculus-controls.md#managing-permissions)
 
 ## Is there a push-to-talk button?
