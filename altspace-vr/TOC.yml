@@ -127,15 +127,15 @@
       href: community/terms-of-service.md
     - name: Community standards 
       href: community/community-standards.md
-- name: Troubleshooting & support 
+- name: Troubleshooting & support FAQ
   items:
-    - name: Audio FAQ
+    - name: Audio issues
       href: faqs/audio-faq.md
-    - name: Account & avatar FAQ
+    - name: Account & avatar
       href: faqs/account-avatar-faq.md
-    - name: AltspaceVR app FAQ
+    - name: AltspaceVR application
       href: faqs/altspacevr-app-faq.md
-    - name: Health & safety FAQ
+    - name: Health & safety
       href: faqs/health-safety-faq.md
     - name: FrontRow events
       href: faqs/front-row-events.md
