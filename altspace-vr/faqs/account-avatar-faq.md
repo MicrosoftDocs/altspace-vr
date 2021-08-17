@@ -16,7 +16,7 @@ If you'd like to see another user's Nametag, select their avatar with your curso
 
 You'll see a few icons on the Nametag: **Friend, Block,** and **Mute**.
 
-* **Mute:** Clicking the Mute icon will allow you to mute a user, this is a temporary mute and you can unmute them at any time. If this users' mute icon is already red, it means they've muted themselves.
+* **Mute:** Clicking the Mute icon will allow you to mute a user, it's a temporary mute and you can unmute them at any time. If this users' mute icon is already red, it means they've muted themselves.
 
 * **Block:** The block feature will allow you to remove a user from your experience. You'll no longer see or hear that user, and they'll no longer see or hear you. If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.
 
