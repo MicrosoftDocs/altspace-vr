@@ -22,9 +22,9 @@ The talent on stage is viewing the audience populating a single instance of the 
 
 When a user selects their "Raise Hand" button, the event hosts can activate On-Air for that person by using our Host Tools. At that point the audience member can be seen and heard across all the instances just like the performers. This allows users to participate in the show and interact with the talent during Q&A sessions whatever room they're in!
 
-## Feedback and support
+## Support
 
-Questions or feedback? 
+Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)

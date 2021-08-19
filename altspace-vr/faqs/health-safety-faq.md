@@ -46,9 +46,9 @@ If you experience nausea, remove your HMD immediately. Regain your equilibrium, 
 
 Most importantly, know when it's time to take a break. You know your body, and when it's giving you strong indication that something is wrong, listen. Take a break and get some air. Walk around and realign your equilibrium. Once you feel good again, come back, we're confident the party will still be going!
 
-## Feedback and support
+## Support
 
-Questions or feedback? 
+Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)

@@ -1,7 +1,7 @@
 ---
 title: Frequently asked questions about accounts and avatars in AltspaceVR
 description: Troubleshooting and support for accounts and avatars.
-ms.date: 8/16/2021
+ms.date: 8/19/2021
 author: qianw211    
 ms.author: v-qianwen
 ms.topic: article
@@ -92,9 +92,9 @@ We highly recommend that you link your AltspaceVR account with a personal Micros
 * [Keeping your Microsoft Account safe and secure](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
 * [Child and Family Accounts and Controls](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)
 
-## Feedback and support
+## Support
 
-Questions or feedback? 
+Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)

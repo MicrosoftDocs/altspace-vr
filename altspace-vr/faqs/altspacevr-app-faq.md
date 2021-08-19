@@ -130,9 +130,9 @@ There are several reasons why AltspaceVR may not launch for you. Try out the fol
 
 More advanced support for network administrators or IT departments, including Azure IP Ranges and Service Tags, can be found in our [download details](https://www.microsoft.com/en-us/download/details.aspx?id=56519).
 
-## Feedback and support
+## Support
 
-Questions or feedback? 
+Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new).
+> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)
