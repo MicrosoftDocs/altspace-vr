@@ -6,7 +6,7 @@
 
 # [Audio](#tab/audio)
 
-* [Does my VR headsets have a built-in mic?](../faqs/audio-faq.md#does-my-vr-headsets-have-a-built-in-mic)
+* [Does my VR headsets have a built-in mic?](../faqs/audio-faq.md#does-my-vr-headset-have-a-built-in-mic)
 * [Is there a push-to-talk button?](../faqs/audio-faq.md#is-there-a-push-to-talk-button)
 * [My audio is choppy](../faqs/audio-faq.md#what-do-i-do-if-my-audio-is-choppy)
 * [Other users can't hear me](../faqs/audio-faq.md#what-do-i-do-if-other-users-cant-hear-me)
