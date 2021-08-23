@@ -1,7 +1,7 @@
 ---
 title: Frequently asked questions about AltspaceVR audio
 description: Troubleshooting and support for audio related issues.
-ms.date: 8/19/2021
+ms.date: 8/23/2021
 author: qianw211    
 ms.author: v-qianwen
 ms.topic: article
@@ -12,7 +12,7 @@ keywords: vr, audio, troubleshooting, support
 
 ## Does my VR headset have a built-in mic?
 
-### Oculus Rift/Rift S, Oculus Quest/Quest 2, Windows mixed reality and HTC Vive
+### Oculus Rift/Rift S, Oculus Quest/Quest 2, Windows Mixed Reality and HTC Vive
 
 Yes, these VR headsets have built-in microphones.
 
