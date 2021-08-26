@@ -1,16 +1,18 @@
 ---
 title: Exploring AltspaceVR
 description: Get started creating and hosting virtual events on the AltspaceVR platform with our curated checkpoint journey.
-ms.date: 03/29/2021
+author: qianw211    
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace, virtual reality, events, world-building, tutorials
+keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
 
 # Exploring AltspaceVR
 
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
-AltspaceVR is a leading social platform for virtual reality. Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR uses technology to help you scale your human connection.
+AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to easily create their own virtual events. This social app allows people from all over the world to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they’re together even when oceans apart. Sitting at the intersection of experience, content, and community, AltspaceVR is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
 
 Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on. We've compiled the following checkpoints to walk you through bringing your virtual events to the world. You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for. Either way, you'll want to revisit this journey whenever you need direction.
 
