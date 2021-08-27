@@ -26,7 +26,7 @@ AltspaceVR for Business is available on Windows Mixed Reality devices, HTC Vive,
 
 ### What are the system requirements?  
 
-See [minimum system requirements](../getting-started/system-requirements).
+See [minimum system requirements](../getting-started/system-requirements.md).
 
 ### Where can I find AltspaceVR Terms of Service? 
 
@@ -46,7 +46,7 @@ Events can hold up to 1,000+ users in any given event using our [Front Row featu
 
 ### What are the mechanisms/protocols in place regarding IT security? 
 
-We comply with Azure Cloud Security.  See [Azure Security Overview](https://azure.microsoft.com/en-us/overview/security).
+We comply with Azure Cloud Security.  See [Azure Security Overview](https://azure.microsoft.com/overview/security).
 
 ### What type of encryption do you support?
 
