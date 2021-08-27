@@ -14,7 +14,7 @@ keywords: vr, business, troubleshooting, support
 
 ### What is Mesh? 
 
-Microsoft Mesh is a new platform built on Microsoft Azure.  Microsoft Mesh allows you to build collaborative mixed reality experiences across platforms and devices. Using Mesh, you can build immersive 3D and multi-user experiences, where people come together virtually to create and collaborate on 3D content.  Customers can use Mesh to enhance virtual meetings, conduct virtual design sessions, assist remotely better, learn together virtually, host virtual social gatherings and meet-ups. Learn more [here](aka.ms/meshdocs).
+Microsoft Mesh is a new platform built on Microsoft Azure.  Microsoft Mesh allows you to build collaborative mixed reality experiences across platforms and devices. Using Mesh, you can build immersive 3D and multi-user experiences, where people come together virtually to create and collaborate on 3D content.  Customers can use Mesh to enhance virtual meetings, conduct virtual design sessions, assist remotely better, learn together virtually, host virtual social gatherings and meet-ups. Learn more [here](https://aka.ms/meshdocs).
 
 ### Who should use AltspaceVR for Business? 
 
@@ -28,11 +28,11 @@ AltspaceVR for Business is available on Windows Mixed Reality devices, HTC Vive,
 
 See [minimum system requirements](../getting-started/system-requirements).
 
-### Where can I find your Terms of Service? 
+### Where can I find AltspaceVR Terms of Service? 
 
 See https://altvr.com/terms-of-service/.
 
-### Where can I find your Privacy Policy?
+### Where can I find AltspaceVR Privacy Policy?
 
 See [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
 
@@ -42,11 +42,11 @@ Virtual reality allows you to engage with your team members with more presence, 
 
 ### How many people can attend a large scale event?  
 
-Events can hold up to 1,000+ users in any given event using our Front Row feature. 
+Events can hold up to 1,000+ users in any given event using our [Front Row feature](/windows/mixed-reality/altspace-vr/faqs/scaling-audiences). 
 
 ### What are the mechanisms/protocols in place regarding IT security? 
 
-We comply with Azure Cloud Security.  See https://azure.microsoft.com/en-us/overview/security.
+We comply with Azure Cloud Security.  See [Azure Security Overview](https://azure.microsoft.com/en-us/overview/security).
 
 ### What type of encryption do you support?
 
@@ -74,11 +74,11 @@ Yes, we have a standalone MSIX package available in the Microsoft Store that wil
 
 ### Can people outside of my organization attend events?  
 
-Yes! You can allow guests to access your event by selecting this setting upon event creation. They'll gain access by using the event's custom entry code. 
+Yes! You can allow guests to access your event by selecting <mark> this setting upon event creation (link?)</mark>. They'll gain access by using the event's custom entry code. 
 
 ### How much does it cost to use Altspace? 
 
-A Mesh subscription will be required to use Altspace. The subscription will be free during the Public Preview and then roll into a paid subscription by the time the product hits General Availability. 
+A Mesh subscription will be required to use Altspace. The subscription will be free during the Public Preview and then roll into a paid subscription by the time the product hits General Availability. You can sign up for [Microsoft Mesh-enabled AltspaceVR](https://altvr.com/mesh/) and get notified as it becomes available.
 
 ### Can we rebrand the Altspace menus/UI with our company logo? 
 
@@ -86,7 +86,7 @@ Yes. Altspace for Business supports the ability to add a company logo and custom
 
 ### Can we create our own 3D environments or objects with Unity? 
 
-Yes! Users can upload Unity world builds and add custom kit objects. We also have our <mark>Mixed Reality Extensions (MREs) (link??)</mark>, this is our SDK to create games/apps that you can make using a Node.js server.
+Yes! Users can upload Unity world builds and add custom kit objects. We also have our [Mixed Reality Extensions (MREs)](/windows/mixed-reality/altspace-vr/world-building/using-mixed-reality-extensions), this is our SDK to create games/apps that you can make using a Node.js server.
 
 ### Can I share my desktop or browser in Altspace? 
 
@@ -130,7 +130,7 @@ Altspace for Business is a Mesh enabled app leveraging the Mesh Developer Platfo
 
 ### Can you provide us with specific DNS names or an IP range to allow through our firewall to use Altspace? The ones you provide are too generic and our security team will not open ports without a destination address or range. 
 
-Open UDP ports 5055 and 5056, and TCP ports 80 and 443" & At the bottom: "More advanced support for network administrators or IT departments, including Azure IP Ranges and Service Tags, can be found in our <mark>download details.</mark>"
+Open UDP ports 5055 and 5056, and TCP ports 80 and 443". <mark> At the bottom: "More advanced support for network administrators or IT departments, including Azure IP Ranges and Service Tags, can be found in our download details."</mark>
 
 ### What will my employees see when they enter AltspaceVR?  
 
