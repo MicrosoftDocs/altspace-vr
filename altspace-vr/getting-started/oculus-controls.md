@@ -1,7 +1,9 @@
 ---
 title: Oculus Quest/Quest 2 controls and permissions
 description: Learn the basic controls for Oculus Quest and Quest 2 devices, managing permissions, and using hand gestures.
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: oculus, oculus quest, controls, permissions, hand gestures
 ---
@@ -10,7 +12,7 @@ keywords: oculus, oculus quest, controls, permissions, hand gestures
 
 ## Basic controls
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | Left hand | Right hand |
 |---|---|
@@ -24,6 +26,8 @@ keywords: oculus, oculus quest, controls, permissions, hand gestures
 
 ## Hand gestures
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | Gesture | Input |
 |---|---|
 | At rest | Default position |
@@ -32,8 +36,6 @@ keywords: oculus, oculus quest, controls, permissions, hand gestures
 | Fist | Grip, trigger, and A/X buttons held |
 
 ## Managing permissions
-
-<!-- Missing image -->
 
 To manage your permissions on the Oculus Quest on a per-app basis from your Oculus library:
 

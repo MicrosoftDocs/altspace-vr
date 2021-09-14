@@ -1,12 +1,16 @@
 ---
 title: Keyboard shortcuts
 description: Stay up-to-date with all the available keyboard shortcuts and actions the AltspaceVR application supports.
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: keyboard, shortcuts
 ---
 
 # Keyboard shortcuts
+
+<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
 
 | Key | Action |
 |---|---|
