@@ -42,6 +42,13 @@ Creating your Account with a Microsoft Login:
 4. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
 5. Select "Register".
 
+## How to Create an account on altvr.com
+
+1. Launch a browser and navigate to the [Sign In](https://account.altvr.com/users/sign_in) page.
+2. Select "Sign in with Microsoft".
+3. Sign in with your personal Microsoft Account or select "Create one!" to create a new personal Microsoft Account to use with AltspaceVR.
+4. Once you've completed the Microsoft Account sign-in process, your AltspaceVR account will be created and you'll see a confirmation message.
+
 ## Linking Your Microsoft Account
 
 You can link your pre-existing AltspaceVR account from inside the AltspaceVR application.
