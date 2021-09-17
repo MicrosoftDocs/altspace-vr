@@ -14,8 +14,6 @@ AltspaceVR has built-in gamepad support for Windows and automatically recognizes
 
 ## Gamepad controls
 
-<img src="images/altspacevr-xbox-controls.png" alt="Gamepad controls">
-
 | Input | Action |
 |---|---|
 | Left analog | Move |
