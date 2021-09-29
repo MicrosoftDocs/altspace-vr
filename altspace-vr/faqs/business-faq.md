@@ -29,7 +29,7 @@ Mesh in Microsoft Teams is available on Windows Mixed Reality devices, HTC Vive,
 
 ### What are the system requirements?  
 
-See [minimum system requirements](../getting-started/system-requirements).
+See [minimum system requirements](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
 
 ### Where can I find Mesh in Microsoft Teams Terms of Service? 
 
