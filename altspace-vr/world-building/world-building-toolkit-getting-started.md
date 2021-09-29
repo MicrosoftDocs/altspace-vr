@@ -23,7 +23,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 3. [Install Unity Hub](https://unity3d.com/get-unity/download) and **Unity 2020.3.9**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one. During the install, choose the **Personal** version (since you're doing this for fun!) and make sure you do the following:
     * Select the **Android Builds** option
     * Disable auto-update
-    * If you're running on a Mac, install Windows support. <!-- This may need better phrasing. -->
+    * If you're running on a Mac, install Windows support.
 4. [Download the AltspaceVR Uploader](https://aka.ms/AvrUrpUploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
@@ -69,7 +69,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 ## Tips
 
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).
-* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**.Screen_Shot_2019-01-11 _at_1.21.04_AM.png <!--This .png looks out of place, or maybe it's a link that needs tweaking. -->
+* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**.Screen_Shot_2019-01-11 _at_1.21.04_AM.png 
 
 ![Templates panel open with uploads highlighted](images/unity-uploader-img-03.png)
 
