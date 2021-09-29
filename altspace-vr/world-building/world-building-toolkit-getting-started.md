@@ -10,7 +10,8 @@ keywords: toolkit, Altspace, uploader
 # Introducing the Altspace Uploader
 
 > [!NOTE]
->  If you're interested, please join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel.
+> - If you're interested, please join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel.  
+> - If you're trying to revive an old space, see the [upgrade guide](upgrading-content-to-the-latest-unity.md). 
 
 The Uploader lets you use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
