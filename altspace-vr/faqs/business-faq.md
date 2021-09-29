@@ -139,7 +139,7 @@ There are 25+ AltspaceVR event/world templates to choose from, not including cus
 
 ### Can you recommend to us a 3rd party to create custom environments?
 
-Absolutely! Please contact our support team to receive recommendations: altvr.com/support. 
+Absolutely! Please contact our support team to receive recommendations: <altvr.com/support>. 
 
 ### Will you support other VR headsets like the Vive Focus, Pico or Valve Index in the future?
 
@@ -166,6 +166,10 @@ Open UDP ports 5055 and 5056, and TCP ports 80 and 443". <mark> At the bottom: "
 Your employees will be able to see the events and worlds you pre-select for them. 
 
 <mark> Michelle: This is TBD based on the product direction so let's put this in the Appendix for now
+
+### How many different AltspaceVR environments are there to choose from for event/world locations? 
+
+There are 25+ AltspaceVR event/world templates to choose from, not including custom ones designed and built by your organization. 
 
 ## Support
 
