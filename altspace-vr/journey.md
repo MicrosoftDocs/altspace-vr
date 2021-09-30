@@ -43,7 +43,7 @@ You don't always have to be a host in AltspaceVR - sometimes you'll be a guest a
 |  Checkpoint  |  Outcome  |
 | --- | --- |
 | [Exploring the Title Screen](community/exploring-title-screen.md) | Navigate the AltspaceVR platform from the Title Screen to login, enter an event, or customize your avatar |
-| [Social features & nametags](faqs/nametags.md) | Learn how nametags and social features work within AltspaceVR |
+| [Social features & nametags](faqs/account-avatar-faq.md#how-do-nametags-work) | Learn how nametags and social features work within AltspaceVR |
 
 ## 4. Creating & hosting events
 
