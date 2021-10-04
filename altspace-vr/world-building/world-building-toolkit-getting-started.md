@@ -71,7 +71,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 ## Tips
 
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).
-* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**.Screen_Shot_2019-01-11 _at_1.21.04_AM.png 
+* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**. 
 
 ![Templates panel open with uploads highlighted](images/unity-uploader-img-03.png)
 
