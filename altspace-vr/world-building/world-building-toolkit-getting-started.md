@@ -1,26 +1,32 @@
 ---
-title: Introducing the World Building Toolkit
-description: Learn how to setup and upload your AltspaceVR worlds using Unity scene templates with the World Building Toolkit.
-ms.date: 03/11/2021
+title: Introducing the Altspace Uploader
+description: Learn how to set up and upload your AltspaceVR worlds using Unity scene templates with the Altspace Uploader.
+ms.date: 09/29/2021
+ms.author: v-vtieto
 ms.topic: article
-keywords: toolkit
+keywords: toolkit, Altspace, uploader
 ---
 
-# Introducing the World Building Toolkit
+# Introducing the Altspace Uploader
 
 > [!NOTE]
-> The World Building Toolkit is a community project run by our awesome friend, [Anthony Madden](https://twitter.com/chigamesstudio), with support from us. If you're interested, please join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. We currently have a Mac Trial Beta right now, [more details](https://altvr.com/altspacevr-mac)
+> - If you're interested, please join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel.  
+> - If you're trying to revive an old space, see the [upgrade guide](upgrading-content-to-the-latest-unity.md). 
 
-The Uploader allows you to use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
+The Uploader lets you use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
 ![Example worlds](images/unity-uploader-img-01.png)
 
 ## Setup
 
-1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel - Friends don't let friends build Worlds alone.
+1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. Friends don't let friends build Worlds alone.
 2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics
-3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install **Unity 2020.3.9**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
-4. [Download the latest Unity Uploader](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
+3. [Install Unity Hub](https://unity3d.com/get-unity/download) and **Unity 2020.3.9**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one. During the install, choose the **Personal** version (since you're doing this for fun!) and make sure you do the following:
+    * Select the **Android Builds** option.
+    * Disable auto-update.
+    * if you're running the Editor on a Mac, install Windows support.
+    * On Windows, select **Mac build support**.
+4. [Download the AltspaceVR Uploader](https://aka.ms/AvrUrpUploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
 
@@ -30,35 +36,47 @@ The Uploader allows you to use a Unity scene as a Template for your Worlds. You 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. Open Unity Hub and create a new Unity 2020.3.9 project.
-2. With your project open, import the Uploader by double-clicking the file you downloaded (it's a Unity package). You should now see a new tab called **AltspaceVR**. You'll need to import the package for every Unity project you want to use with Altspace
-3. Open **Menu > AltspaceVR > Build Settings**
-4. Sign in with your Altspace account credentials
-5. Select **Load Templates** and then select **Hello World Template**
-6. Add a cube to your scene and save.
-7. Check **Build for Windows?** and uncheck **Build for Android?**
-8. Select **Upload**. In about a minute, you should see **Upload** complete.
-9. Join **Hello World** by launching Altspace and entering from **Menu > Worlds > My Worlds**
-10. Reset the World from **Menu > Settings > Moderate > Reset Space**
-11. You should see the cube. If you do it fast like in the video above, you can see changes within as little as 10 seconds.
+1. Open Unity Hub and create a new Unity 2020.3.9 project. For your template, select **Universal Render Pipeline**.
+
+    ![Choose the URP Unity template](images/001-unity-templates.png)
+
+1. Navigate to the folder that you downloaded the Altspace Uploader to and then copy or move it from that folder to the root folder of your new Unity project.
+1. In Unity on the menu bar, select **Window** > **Package Manager.**
+1. In the Package Manager menu bar, select the plus sign drop down ("+"), and then select **Add package from tarball**.
+1. Navigate to the folder that contains the Altspace Uploader, then select the Uploader, and then click **Open**.  After the package loads, **AltspaceVR** appears on the menu bar:
+
+    ![AltspaceVR on the menu bar](images/002-altspacevr-on-menu-bar.png)
+
+> [!NOTE]
+> You'll need to import the Altspace Uploader package into every Unity project you want to use with Altspace.
+1. On the menu bar, select **AltspaceVR > Templates**.
+1. In the **Altspace VR Templates** dialog, sign in with your Altspace account credentials. (MSA login will be available soon. If you've only ever logged into Altspace with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.)
+1. Click the **Select a Template** drop down, and then select **Hello World Template**.
+1. Choose a scene: click the **Choose a .unity file** ellipsis button (three dots), then navigate to the **Assets** > **Scenes** folder in your project, and then select **SampleScene.unity** and open it.
+1. Under **Build for platforms:**, make sure **Windows** is selected. For now, the other two options, **Android** and **Mac**, should **not** be selected. Once you want people to visit, you should build and upload for all platforms."
+1. Select the **Build & Upload** button. This process may take a minute or two.
+1. Launch Altspace, then select **Main Menu**, and then on the menu bar, select **My Worlds**.
+1. Navigate to **Hello World** and then open it.
+
+    Your scene should be similar to what you saw in the Unity Editor.
 
 ## What's supported
 
-* Yes: models, collision, animations, particle effects, audio, skyboxes, and so on
-* No: scripts. For security purposes, uploads containing scripts will be rejected
-* Maybe: fancy stuff like dynamic global illumination
-* Upload scenes for different platforms separately or together
-* See [Featured Worlds](https://account.altvr.com/worlds/featured), many were built using the Uploader
+* Yes: models, collision, animations, particle effects, audio, skyboxes, and so on.
+* No: scripts. For security purposes, uploads containing scripts will be rejected.
+* Maybe: fancy stuff like dynamic global illumination.
+* Upload scenes for different platforms separately or together.
+* See [Featured Worlds](https://account.altvr.com/worlds/featured). Many were built using the Uploader.
 
 ## Tips
 
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).
-* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**.Screen_Shot_2019-01-11 _at_1.21.04_AM.png
+* On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**. 
 
 ![Templates panel open with uploads highlighted](images/unity-uploader-img-03.png)
 
 * You can be in-World when you update. The moment the Uploader says **Upload Complete** you can reset the World to see the changes.
-* Building for PC-only with a simple scene should take less than 1 minute to see a change in Altspace
+* When building for PC-only with a simple scene, it should take less than one minute to see a change in Altspace.
 * Set your World to be Private and Unlisted to avoid distractions.
 * Place a cube at the origin so you can see where people will spawn by default. Hide the cube when uploading.
 
@@ -74,14 +92,14 @@ You need to add collision to objects to teleport onto them.
     * Did you check the Template page stats?
 
 **Upload fails or times out**
-    * Most common upload error is having the wrong Unity version. It must match the required version exactly.
+    * The most common upload error results from having the wrong Unity version. You must match the required version exactly.
     * Your upload might be too large. Try to keep PC scenes < 100 MB. Start small and build up. Optimize, optimize, optimize.
-    * Try with a fresh project with a simple cube.
-    * Don't force quit during a build--it can corrupt your scene. Try reuploading.
+    * Try with a fresh project that contains a simple cube.
+    * Don't force quit during a build--it can corrupt your scene. Try re-uploading.
 
 **It's a slow process**
     * We recommend building for PC only while iterating and for Android later.
-    * Try removing unused files. For whatever reason Unity gets overzealous sometimes.
+    * Try removing unused files. For whatever reason, Unity gets overzealous sometimes.
 
 **I can't sign in with my Altspace credentials**
     * Emails are case-sensitive.
@@ -91,4 +109,4 @@ You need to add collision to objects to teleport onto them.
 ## See also
 
 * [Unity Learn](https://unity3d.com/learn)
-* [Unity Forums](https://forum.unity.com)
+* [Unity Forums](https://forum.unity.com)  
