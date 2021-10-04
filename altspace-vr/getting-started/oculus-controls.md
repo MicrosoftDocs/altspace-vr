@@ -26,7 +26,7 @@ keywords: oculus, oculus quest, controls, permissions, hand gestures
 
 ## Hand gestures
 
-<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+[![Oculus Quest/Quest 2 hand gestures](images/quest2-hand-gesture-controls.png)](images/quest2-hand-gesture-controls.png)
 
 | Gesture | Input |
 |---|---|
