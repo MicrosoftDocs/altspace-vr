@@ -10,7 +10,7 @@ keywords: keyboard, shortcuts
 
 # Keyboard shortcuts
 
-<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
+![Keyboard shortcuts](images\keyboard-shortcuts.svg)
 
 | Key | Action |
 |---|---|
