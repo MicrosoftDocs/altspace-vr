@@ -22,10 +22,9 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. Friends don't let friends build Worlds alone.
 2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics
 3. [Install Unity Hub](https://unity3d.com/get-unity/download) and **Unity 2020.3.9**. The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one. During the install, choose the **Personal** version (since you're doing this for fun!) and make sure you do the following:
-    * Select the **Android Builds** option.
-    * Disable auto-update.
-    * if you're running the Editor on a Mac, install Windows support.
-    * On Windows, select **Mac build support**.
+    * Include the **Android Build Support** module.
+    * On Windows, include the **Mac Build Support (Mono)** module.
+    * On Mac, include the **Windows Build Support (Mono)** module.
 4. [Download the AltspaceVR Uploader](https://aka.ms/AvrUrpUploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
@@ -34,7 +33,8 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 
 ## Upload your scene
 
-> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
+> [!NOTE]
+> A more detailed step-by-step guide can be found [here](https://buildingthemetaverse.medium.com/how-to-make-your-own-altspace-templates-and-kits-unity-2020-3-9-uploader-2-x-5b40e92bb759).
 
 1. Open Unity Hub and create a new Unity 2020.3.9 project. For your template, select **Universal Render Pipeline**.
 
@@ -73,7 +73,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).
 * On the Template page on the left side, we show you the latest uploads by platform. If it was successful, you'd see **1-2 mins ago**. 
 
-![Templates panel open with uploads highlighted](images/unity-uploader-img-03.png)
+![Templates panel open with uploads highlighted](images/template-upload-list.png)
 
 * You can be in-World when you update. The moment the Uploader says **Upload Complete** you can reset the World to see the changes.
 * When building for PC-only with a simple scene, it should take less than one minute to see a change in Altspace.
