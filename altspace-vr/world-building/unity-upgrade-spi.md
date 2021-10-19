@@ -1,6 +1,6 @@
 ---
 title: Unity 2020.3, Single-Pass Instancing, and You
-description: Learn how to update your content to the latest version of Unity.
+description: Prepare for the SPI upgrade
 ms.date: 06/4/2021
 ms.topic: article
 keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
