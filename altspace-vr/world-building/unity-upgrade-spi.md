@@ -1,12 +1,12 @@
 ---
-title: Updating Content to the Latest Unity Version
-description: Learn how to update your content to the latest version of Unity.
+title: Unity 2020.3, Single-Pass Instancing, and You
+description: Prepare for the SPI upgrade
 ms.date: 06/4/2021
 ms.topic: article
 keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 ---
 
-# Updating Content to the Latest Unity Version
+# Unity 2020.3, Single-Pass Instancing, and You
 
 ## Moving to Unity 2020.3.9
 
