@@ -103,8 +103,8 @@
             items:
               - name: World Building Toolkit (Unity Uploader)
                 href: world-building/world-building-toolkit-getting-started.md
-              - name: Updating content to the newest Unity version
-                href: world-building/upgrading-content-to-the-latest-unity.md
+              - name: Upgrading Old Unity Projects
+                href: world-building/upgrading-old-unity-projects.md
               - name: Mobile Performance Optimization Guide 
                 href: world-building/unity-mobile-performance-guide.md
               - name: Using Mixed Reality Extensions
