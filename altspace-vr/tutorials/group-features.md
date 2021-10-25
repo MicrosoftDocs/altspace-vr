@@ -33,7 +33,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 
 7. Send an email to all attendees and have them create an AltspaceVR account using the same email address. They can either make an AltspaceVR account in-world or on our [website](https://account.altvr.com/users/sign_up).
 
-## How to Create a Private Event From a Group 
+## How to Create a Private Event from a Group 
 
 1. Once in the Member or Admin page, select the group you want to access. 
 2. **As an Administrator**, you can modify all the options you configured previously to create the Group. Go to the “Edit” button on the group’s page to access them.  
