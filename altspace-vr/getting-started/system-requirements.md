@@ -8,7 +8,7 @@ keywords: requirements, head-mounted displays, oculus rift, htc vive, windows 2d
 
 # Minimum system requirements
 
-We recommend the minimum system profiles below to get the full AltspaceVR experience. AltspaceVR currently supports the following head-mounted displays:
+We recommend the minimum system profiles below to get the full AltspaceVR experience. AltspaceVR supports the following head-mounted displays:
 
 * Oculus Rift CV1
 * HTC Vive
@@ -49,3 +49,5 @@ We recommend the minimum system profiles below to get the full AltspaceVR experi
 
 > [!NOTE]
 > Events with many video streams may require more bandwidth.
+
+<!-- test1 101921 -->
