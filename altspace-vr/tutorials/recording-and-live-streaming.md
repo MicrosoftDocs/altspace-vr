@@ -21,7 +21,7 @@ In this article, you'll learn how to:
 
 ### The short version
 
-1. Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
+1. Have AltspaceVR and OBS (Open Broadcaster Software) installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
 
 ### The slightly longer version
 
