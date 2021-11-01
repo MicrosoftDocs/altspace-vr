@@ -1,7 +1,7 @@
 ---
 title: Using the Groups Feature to Create Private Events
 description: Learn how to create private VR spaces that are open to approved guest lists using our group events feature.
-ms.date: 03/11/2021
+ms.date: 10/24/2021
 ms.topic: article
 keywords: groups, private events, patreon, eventbrite, troubleshooting
 ---
@@ -33,7 +33,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 
 7. Send an email to all attendees and have them create an AltspaceVR account using the same email address. They can either make an AltspaceVR account in-world or on our [website](https://account.altvr.com/users/sign_up).
 
-## How to Create a Private Event From a Group 
+## How to Create a Private Event from a Group 
 
 1. Once in the Member or Admin page, select the group you want to access. 
 2. **As an Administrator**, you can modify all the options you configured previously to create the Group. Go to the “Edit” button on the group’s page to access them.  
@@ -64,9 +64,9 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 
 ![AltspaceVR app with my worlds panel highlighted](images/group-features-img-07.png)
 
-## How to use Patreon and Eventbrite to Host a Ticketed VR Event: 
+## How to Add an Email List to a Group 
 
-You can use Patreon, Eventbrite to create ticketed events in Altspace. You'll need to either create a list of your users’ e-mail addresses or export that information from your payment platform.  
+If you have a large group and need to add them in bulk, you’ll first need to create a list of e-mail addresses for all those associated with your group. Keep in mind that if they are signing up with Microsoft Account Linking, you will need their Microsoft Account address for this step to work.
 
 ### Creating a list
 
@@ -82,7 +82,7 @@ Use a spreadsheet program to create a single column with all the e-mail addr
 
 ### Importing a list
 
-Platforms like Patreon and Eventbrite allow you to export a *.csv file (comma-separated value) that has a dedicated “e-mail” column. You can select this column for use. Once you've this available, the steps are mostly the same, they are:  
+Some platforms may allow you to export a *.csv file (comma-separated value) that has a dedicated “e-mail” column. You can select this column for use. Once you've this available, the steps are mostly the same, they are:  
 
 1. Create or edit your group.  
 2. Find the **Member Emails** field.  
@@ -100,7 +100,7 @@ Platforms like Patreon and Eventbrite allow you to export a *.csv file (co
 
 * **Name** – The name of the group that will be visible to all members.   
 * **Description** – A field to describe the purpose of the group. Visible to all members.
-* **Users** – This field allows you to list group members for the Group either as a username OR e-mail address as long as it's one per line. It's one way to define the group members. **However, for those using external Payment Platforms like Patreon, please use the “Email Allow List” field described further down this page.**
+* **Users** – This field allows you to list group members for the Group either as a username OR e-mail address as long as it's one per line. It's one way to define the group members.
     * Fill in a username or e-mail per line.  
     * To find a username in AltspaceVR, have the user open the “Main Menu” and go to the “Me” section. It's the name in parenthesis.  
     * To find the username on the website, have the user go “Profile” from the “More -> Profile” option. You can find it on the left column of the Profile page.  
@@ -124,12 +124,12 @@ Platforms like Patreon and Eventbrite allow you to export a *.csv file (co
 > This feature is in Beta. We encourage groups to utilize preexisting Worlds in the Environment selection dialog.
 
 * The word “Commons” will always appear as a suffix to any group’s hangout world.  
-* **Member Emails** – This field allows you to list users by the e-mail associated with an AltspaceVR account. **Using this list overrides the “Users” list described above.** This is the recommended way to manage membership of a group especially those using external Payment Platforms.  
-    * When filling out this field, make sure your AltspaceVR account associated e-mail is listed in it, or you may lose access to the group.  
+* **Member Emails** – This field allows you to list users by the e-mail associated with an AltspaceVR account. **Using this list overrides the “Users” list described above.** This is the recommended way to manage membership of a group.  
+    * When filling out this field, make sure your AltspaceVR account associated e-mail is listed in it, or you may lose access to the group. If you have linked your account with Microsoft Account Linking, you will need to make sure that the email addressed used is your Microsoft Account address.  
     * When pasting addresses into his field, make sure there's one e-mail per line.  
     * This list accepts e-mails without a valid AltspaceVR account. AltspaceVR usernames get verified, e-mail addresses don't. However, when that e-mail is used to create an AltspaceVR account, then the user it's associated with will gain access to the Group.  
     * You can import a list from a *.csv file. Select the “Choose File” option and select your file.
-    * We recommend using Member Emails  as the way to manage groups being created from payment platforms such as Patreon or Eventbrite, as it's a more definitive way to reconcile your members. Note, Group Admins will need to inform their users/members that they must use the same EXACT e-mail address that they used on the payment platform to create an AltspaceVR account.  
+    * We recommend using Member Emails as the way to manage large groups, as it's a more definitive way to reconcile your members. Note, Group Admins will need to inform their users/members that they must use the same EXACT e-mail address that they used on the payment platform to create an AltspaceVR account.  
     * See the Importing Users into Groups section to see instructions on how to get your list of users.   
 * **Enable Auto Import** – Auto import is a recurring process run on the E-mail Allow List. It reconciles whether an e-mail now has a valid AltspaceVR account associated with it and grants access.   
     * We recommend that you enable it if you're using a csv file upload.
@@ -187,29 +187,5 @@ The group page you see when you're an Admin of a group. Note that you'
 
 This is a group page with an Event scheduled. Events created for the group will appear here.
 
-### I want to use Eventbrite and Patreon but I don’t see where to get the email addresses for my groups
-
-**Patreon ** 
-
-[Patreon](https://www.patreon.com/) is a membership platform where creatives can create a subscription program for their content.  While Patreon has multiple ways to export pledge data, we'll be focusing on the CSV directions. You can find their help page for this information [here](https://www.patreon.com/portal/how-to/export-pledge-data) or you can follow the directions below:  
-
-1. Find the “Patrons” field in the creator side bar on the left of the Patreon site.  
-2. Expand it to find the “Relationship Manager” and select it.  
-3. At the top of the page, is a download button called CSV. Select it.  
-4. It will pop up a windows dialog field to save the file. Save it.  
-5. Follow the import instructions in the AltspaceVR group page to use this file.  
-
-**Eventbrite ** 
-
-[Eventbrite](https://www.eventbrite.com) is a ticketing website that allows users to manage and create tickets for events.  Like Patreon, there are many ways to generate attendee e-mail lists. We'll again focus on the CSV directions. You can find their help page for this information [here](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US) or you can follow the directions below for one way to extract this data.  
-
-1. From your Profile Menu, find the “Manage Events” menu. 
-2. Select the Event where you want to get the attendee e-mail list. 
-3. In the Event’s Dashboard, find the category called “Common Reports.” 
-4. You can also find “Common Reports” in the left column menu under “Analyze -> Event Reports”   
-5. Select “Attendee Summary.” 
-6. Find the “Report Results” section. 
-7. Select the “CSV” button to download the file. 
-
 > [!IMPORTANT]
-> This is a beta feature. AltspaceVR is a free experience and is not responsible for any technical issues that may arise with the experience which might prevent attendees from accessing ticketed events.
+> This is a beta feature. AltspaceVR is a free experience and is not responsible for any technical issues that may arise with the experience which might prevent attendees from accessing private events.
