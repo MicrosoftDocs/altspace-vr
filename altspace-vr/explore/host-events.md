@@ -98,8 +98,8 @@ Lastly, if this is a consumer-facing event, we recommend promoting on social med
    > [!div class="nextstepaction"]
    > [Explore AltspaceVR](../explore/beginners-guide.md)
 
-* Troubleshooting and support
-  * [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
-  * [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
-  * [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
-  * [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)
+Troubleshooting and support
+* [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
+* [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
+* [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
+* [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)

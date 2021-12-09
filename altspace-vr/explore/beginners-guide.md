@@ -395,8 +395,8 @@ We are here to support and assist you, so please don’t hesitate to reach out!
    > [!div class="nextstepaction"]
    > [Hosting events in AltspaceVR](host-events.md)
 
-* Troubleshooting and support
-  * [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
-  * [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
-  * [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
-  * [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)
+Troubleshooting and support
+* [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
+* [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
+* [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
+* [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)
