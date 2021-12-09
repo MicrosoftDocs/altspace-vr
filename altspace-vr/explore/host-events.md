@@ -76,9 +76,9 @@ Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests
     - It’s always helpful to have someone checking things like email (or relevant support channels) during the event, so no guest is left behind.
   - Clear communication with your guests is important. Help attendees understand how to:
     - Download AltspaceVR: install AltspaceVR [here](https://altvr.com/get-altspacevr/), and check for the [mininum hardware specs](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
-    - [Create an Account](/windows/mixed-reality/altspace-vr/getting-started/creating-and-linking-accounts) in AltspaceVR. If you're using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts, and then send you their usernames to add to the Group.
-    - Find your event: share your event's [entry code](/windows/mixed-reality/altspace-vr/community/exploring-title-screen#entry-code), offer your guests instructions on [how to navigate the menu](/windows/mixed-reality/altspace-vr/community/exploring-title-screen).
-    - Reach out to your team if they need support: share your best support contact & contact method.
+    - [Create an Account](beginners-guide.md#creating-accounts) in AltspaceVR. If you're using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts, and then send you their usernames to add to the Group.
+    - Find your event: share your event's [entry code](beginners-guide.md#entry-codes), offer your guests instructions on [how to navigate the menu](beginners-guide.md#main-menu).
+    - Reach out to your team if they need support: share your best support contact and contact method.
 
 ### What about my privacy and data?
 
