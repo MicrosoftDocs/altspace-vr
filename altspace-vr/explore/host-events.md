@@ -58,7 +58,7 @@ Start with installing AltspaceVR on your PC or headset, creating an account, and
 
 - **AltspaceVR is built for scaling**
   - Each virtual room/environment can support up to 50 avatars simultaneously*.
-  - You can multiply rooms for unlimited capacity using the FrontRow feature.
+  - You can multiply rooms for unlimited capacity using the [FrontRow feature](/windows/mixed-reality/altspace-vr/faqs/scaling-audiences).
 - **Limit customization**
   - Yes, you can import an entire original Unity scene in AltspaceVR, but this does not guarantee your event or world will be performant for your guests.
   - *Customization can impact the number of avatars in your environment and the quality of the audience experience. Simplicity is key & official AltspaceVR templates are the most reliable.
@@ -76,10 +76,10 @@ Start with installing AltspaceVR on your PC or headset, creating an account, and
     - We recommend at least two people for a single-room event.
     - It’s always helpful to have someone checking things like email (or relevant support channels) during the event, so no guest is left behind.
   - Clear communication with your guests is important. Help attendees understand how to:
-    - Download AltspaceVR (share install link, min hardware specs, stores)
-    - Create an Account (if using the Groups feature, we recommend instructing guests to create AltspaceVR accounts then send you their usernames to add to the Group)
-    - Find your event (share entry code, offer menu nav instructions)
-    - Reach out to your team if they need support (share best support contact & contact method)
+    - Download AltspaceVR: install AltspaceVR [here](https://altvr.com/get-altspacevr/), and check for the [mininum hardware specs](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
+    - [Create an Account](/windows/mixed-reality/altspace-vr/getting-started/creating-and-linking-accounts) in AltspaceVR. If you're using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts, and then send you their usernames to add to the Group.
+    - Find your event: share your event's [entry code](/windows/mixed-reality/altspace-vr/community/exploring-title-screen#entry-code), offer your guests instructions on [how to navigate the menu](/windows/mixed-reality/altspace-vr/community/exploring-title-screen).
+    - Reach out to your team if they need support: share your best support contact & contact method.
 
 ### What about my privacy and data?
 
@@ -97,3 +97,9 @@ Lastly, if this is a consumer-facing event, we recommend promoting on social med
 
    > [!div class="nextstepaction"]
    > [Explore AltspaceVR](../explore/beginners-guide.md)
+
+* Troubleshooting and support
+  * [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
+  * [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
+  * [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
+  * [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)

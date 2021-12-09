@@ -22,7 +22,7 @@ Though AltspaceVR is easy to use, this guide is designed to help newbies get up 
 
 <br>
 
-Read and follow the steps completely before attending an AltspaceVR event. You'll be fully ready for your experience! 
+Take a look at our list of section headings. Each link goes to an easy to digest section of this page below.
 
 - [Get Started](#get-started)
   - [Gear you Need](../getting-started/system-requirements.md)
@@ -394,3 +394,9 @@ We are here to support and assist you, so please don’t hesitate to reach out!
 
    > [!div class="nextstepaction"]
    > [Hosting events in AltspaceVR](host-events.md)
+
+* Troubleshooting and support
+  * [Troubleshooting and support FAQ](/windows/mixed-reality/altspace-vr/faqs/audio-faq)
+  * [Open a support ticket](/windows/mixed-reality/altspace-vr/community/open-support-ticket)
+  * [Send us feedback and feature request](/windows/mixed-reality/altspace-vr/community/feature-requests)
+  * [File an abuse report](/windows/mixed-reality/altspace-vr/community/filing-abuse-reports)
