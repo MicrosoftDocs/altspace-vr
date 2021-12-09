@@ -51,8 +51,7 @@ Start with installing AltspaceVR on your PC or headset, creating an account, and
 
 ### Additional information
 
-1. Looking for a recommendation on a third-party event producer to set up your event? [Reach out to our Help Desk.](https://help.altvr.com/hc/requests/new)
-1. Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests/new).
+Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests/new).
 
 ### Best practices
 
