@@ -84,7 +84,7 @@ Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests
 
 View our [Terms of Service](../community/terms-of-service.md) and our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy and ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft’s core principles around privacy [here](https://privacy.microsoft.com/). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, if you have an active AltspaceVR account you can request a copy of your data and request to have your data deleted at any time.
 
-### Promote your B2C event
+### Promote your event
 
 Lastly, if this is a consumer-facing event, we recommend promoting on social media! Below are some useful hashtags and official AltspaceVR accounts for tagging and posting.
 
