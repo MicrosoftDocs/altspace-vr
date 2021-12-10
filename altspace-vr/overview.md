@@ -40,9 +40,13 @@ AltspaceVR for Business will be [Microsoft Mesh-enabled](/mesh/). You will soon 
 
 ## See also
 
-Do you have virtual events to bring to the world? Start your journey here.
+Are you new to AltspaceVR? Start your journey here.
 > [!div class="nextstepaction"]
-> [Exploring AltspaceVR](journey.md)
+> [Exploring AltspaceVR](./explore/beginners-guide.md)
+
+Do you have virtual events to bring to the world? Follow the steps here.
+> [!div class="nextstepaction"]
+> [Exploring AltspaceVR](./explore/host-events.md)
 
 See hardware requirements for your VR experience.
 > [!div class="nextstepaction"]
