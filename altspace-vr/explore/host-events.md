@@ -2,7 +2,7 @@
 title: Event host guide
 description: Get started creating and hosting virtual events on the AltspaceVR platform.
 author: qianw211    
-ms.author: v-qianwen
+ms.author: qianwen
 ms.date: 12/3/2021
 ms.topic: article
 keywords: AltspaceVR, event hosting, host guide, events, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
