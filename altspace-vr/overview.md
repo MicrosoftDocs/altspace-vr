@@ -2,7 +2,7 @@
 title: AltspaceVR overview
 description: What is AltspaceVR and some of the key features
 author: qianw211    
-ms.author: v-qianwen
+ms.author: qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
@@ -46,7 +46,7 @@ Are you new to AltspaceVR? Start your journey here.
 
 Do you have virtual events to bring to the world? Follow the steps here.
 > [!div class="nextstepaction"]
-> [Exploring AltspaceVR](./explore/host-events.md)
+> [Hosting events](./explore/host-events.md)
 
 See hardware requirements for your VR experience.
 > [!div class="nextstepaction"]

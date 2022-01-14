@@ -21,17 +21,17 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card
-    - title: Getting started 
-      itemType: get-started
+    - title: What is AltspaceVR
+      itemType: overview
       url: overview.md
     # Card
-    - title: Discover content & people 
-      itemType: overview
-      url: community/exploring-title-screen.md
+    - title: Beginner's guide
+      itemType: get-started
+      url: explore/beginners-guide.md
     # Card
-    - title: Creating events 
+    - title: Hosting events 
       itemType: how-to-guide
-      url: tutorials/creating-an-event.md
+      url: explore/host-events.md
     # Card
     - title: Building worlds
       itemType: learn
