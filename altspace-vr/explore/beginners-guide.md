@@ -24,10 +24,10 @@ Though AltspaceVR is easy to use, this guide is designed to help newbies get up 
 
 Take a look at our list of section headings. Each link goes to an easy to digest section of this page below.
 
-|  |  |  |
+| &nbsp; | &nbsp; | &nbsp;  |
 | --- | --- | --- |
 | [**Get Started**](#get-started) <ul><li> [Gear you Need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get Your Bearings**](#get-your-bearings) <ul><li> [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial) </li> <li> [The Title Screen](#title-screen) </li> <li> [The Main Menu](#main-menu) </li> <li>[The Radial Menu](#the-radial-menu)</li> </ul> | [**Get Going**](#get-going) <ul><li>[Finding and Attending Events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
-| [Get Social](#get-social) <ul> <li>[Finding and Making Friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community Standards](#community-standards) </li> </ul> | [**Build Events**](#build-events) <ul> <li> [Create your own Event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> [**Get Help**](#get-help) | |
+| [**Get Social**](#get-social) <ul> <li>[Finding and Making Friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community Standards](#community-standards) </li> </ul> | [**Build Events**](#build-events) <ul> <li> [Create your own Event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> [**Get Help**](#get-help) | |
 
 ### Get started
 
