@@ -46,7 +46,7 @@ Are you new to AltspaceVR? Start your journey here.
 
 Do you have virtual events to bring to the world? Follow the steps here.
 > [!div class="nextstepaction"]
-> [Exploring AltspaceVR](./explore/host-events.md)
+> [Hosting events](./explore/host-events.md)
 
 See hardware requirements for your VR experience.
 > [!div class="nextstepaction"]
