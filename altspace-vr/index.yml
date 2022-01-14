@@ -26,7 +26,7 @@ highlightedContent:
       url: overview.md
     # Card
     - title: Beginner's guide
-      itemType: getting-started
+      itemType: get-started
       url: explore/beginners-guide.md
     # Card
     - title: Hosting events 
