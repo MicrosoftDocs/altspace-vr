@@ -2,8 +2,8 @@
 title: AltspaceVR beginner's guide
 description: Help newbies get up and running and exploring the AltspaceVR platform as quickly as possible.
 author: qianw211    
-ms.author: v-qianwen
-ms.date: 12/3/2021
+ms.author: qianwen
+ms.date: 1/14/2022
 ms.topic: article
 keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
@@ -24,30 +24,10 @@ Though AltspaceVR is easy to use, this guide is designed to help newbies get up 
 
 Take a look at our list of section headings. Each link goes to an easy to digest section of this page below.
 
-- [Get Started](#get-started)
-  - [Gear you Need](../getting-started/system-requirements.md)
-  - [Installation](#download-and-installation)
-  - [Account creation](#creating-accounts)
-- [Get Your Bearings](#get-your-bearings)
-  - [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial)
-  - [The Title Screen](#title-screen)
-  - [The Main Menu](#main-menu)
-  - [The Radial Menu](#the-radial-menu)
-- [Get Going](#get-going)
-  - [Finding and Attending Events](#finding-and-attending-events)
-  - [Entry Codes](#entry-codes)
-  - [Exploring Worlds](#exploring-worlds)
-  - [Exploring Hubs](#exploring-hubs)
-- [Get Social](#get-social)
-  - [Finding and Making Friends](#finding-and-making-friends)
-  - [The **People** tab](#the-people-tab)
-  - [Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots)
-  - [Community Standards](#community-standards)
-- [Build Events](#build-events)
-  - [Create your own Event](#create-an-event)
-- [Build Worlds](#build-worlds)
-  - [Build your own World](#building-your-own-world)
-- [Get Help](#get-help)
+|  |  |  |
+| --- | --- | --- |
+| [**Get Started**](#get-started) <ul><li> [Gear you Need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get Your Bearings**](#get-your-bearings) <ul><li> [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial) </li> <li> [The Title Screen](#title-screen) </li> <li> [The Main Menu](#main-menu) </li> <li>[The Radial Menu](#the-radial-menu)</li> </ul> | [**Get Going**](#get-going) <ul><li>[Finding and Attending Events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
+| [Get Social](#get-social) <ul> <li>[Finding and Making Friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community Standards](#community-standards) </li> </ul> | [**Build Events**](#build-events) <ul> <li> [Create your own Event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> [**Get Help**](#get-help) | |
 
 ### Get started
 
