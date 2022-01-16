@@ -26,7 +26,7 @@ Take a look at our list of section headings. Each link goes to an easy-to-digest
 
 | &nbsp; | &nbsp; | &nbsp;  |
 | --- | --- | --- |
-| [**Get Started**](#get-started) <ul><li> [Gear you Need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get Your Bearings**](#get-your-bearings) <ul><li> [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial) </li> <li> [The Title Screen](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | [**Get Going**](#get-going) <ul><li>[Finding and Attending Events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
+| [**Get Started**](#get-started) <ul><li> [Gear you Need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get Your Bearings**](#get-your-bearings) <ul><li> [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial) </li> <li> [The **Title Screen**](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | [**Get Going**](#get-going) <ul><li>[Finding and Attending Events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
 | [**Get Social**](#get-social) <ul> <li>[Finding and Making Friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community Standards](#community-standards) </li> </ul> | [**Build Events**](#build-events) <ul> <li> [Create your own Event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> | [**Get Help**](#get-help) |
 
 ### Get started
@@ -218,9 +218,9 @@ Alternately, you can search for events online by logging into [AltspaceVR websit
 
 Every Event and World in AltspaceVR generates a six-character, alphanumeric "Entry Code." These codes allow you to teleport directly to an Event or World, straight from the Title Screen. You can find Entry Codes in the descriptions of each Event or World.
 
-#### Exploring worlds
+#### Exploring Worlds
 
-While the main draw of AltspaceVR may be our wide range of live virtual events, it's worth exploring the platform's many spectacular Worlds. Worlds are pre-built VR environments that can range in size and scope from underwater cities to intergalactic landscapes to public parks or mythical libraries. Some are built by our staff. Most of these worlds are user-generated. Whether you want to hang out by a fire pit on the "Brooklyn Rooftop" or chill out with friends in the "Zen Zone," there's an awe-inspiring World waiting for you.
+While the main draw of AltspaceVR may be our wide range of live virtual events, it's worth exploring the platform's many spectacular Worlds. Worlds are pre-built VR environments that can range in size and scope from underwater cities to intergalactic landscapes to public parks or mythical libraries. Some are built by our staff. Most of these Worlds are user-generated. Whether you want to hang out by a fire pit on the "Brooklyn Rooftop" or chill out with friends in the "Zen Zone," there's an awe-inspiring World waiting for you.
 
 You can access **Worlds** from the **Main Menu**. 
 
@@ -229,7 +229,7 @@ You can access **Worlds** from the **Main Menu**.
 
 <br>
 
-<img src="images\zen-zone-1024x527.jpg" alt="Altspace worlds.">
+<img src="images\zen-zone-1024x527.jpg" alt="Altspace Worlds.">
 
 <br>
 
@@ -338,13 +338,13 @@ Whether you want to host a Happy Hour, perform stand-up on a stage, or collabora
 
 Check out this article for the nitty-gritty on [event creation, hosting, and management](../tutorials/creating-an-event.md).
 
-### Build worlds
+### Build Worlds
 
-#### Building your own world
+#### Building your own World
 
 <br>
 
-<img src="images\world-aurora-1024x549.jpg" alt="Aurora world in AltspaceVR.">
+<img src="images\world-aurora-1024x549.jpg" alt="Aurora World in AltspaceVR.">
 
 <br>
 
@@ -352,7 +352,7 @@ While wandering around in AltspaceVR, you're likely to encounter spaces that are
 
 Yes, YOU!
 
-As intimidating as it may sound, building your own world – or customizing an event space – is shockingly simple with our World Editor. It has various tools to drag and drop objects into pre-built environments or empty spaces.
+As intimidating as it may sound, building your own World – or customizing an event space – is shockingly simple with our World Editor. It has various tools to drag and drop objects into pre-built environments or empty spaces.
 
 If you're ready to get started, check out these articles:
 
