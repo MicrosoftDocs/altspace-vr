@@ -118,7 +118,7 @@ This rooftop adventure is to teach you to become one with your avatar. New users
 
 <br>
 
-By the end of this journey, you should feel comfortable moving around and good grip on your input controls.
+By the end of this journey, you should feel comfortable moving around and gain a good grip on your input controls.
 
 #### AltspaceVR Info Zone (Tutorial #2)
 
@@ -282,7 +282,7 @@ If you'd like to see another user's **Nametag**, select their avatar with your c
 
 * **Add Friend**: Sends user a friend request. Once accepted, friends will have blue borders around their Nametags and a blue icon/badge within it, allowing you to identify your people quickly.
 * **Mute**: Select to silence another user. To unmute them, select it once more. Note: If the user's mic icon is red, that means they've already muted themselves.
-* **block**: Select the Block button to remove a user from your experience. You won't see or hear them anymore, and they won't be able to see or hear you either. If you want to unblock a user, go to **Main Menu → People → Blocked** tab, and unblock the user.
+* **Block**: Select the Block button to remove a user from your experience. You won't see or hear them anymore, and they won't be able to see or hear you either. If you want to unblock a user, go to **Main Menu → People → Blocked** tab, and unblock the user.
 
 #### The **People** tab
 
