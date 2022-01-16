@@ -3,7 +3,7 @@ title: AltspaceVR beginner's guide
 description: Help newbies get up and running and explore the AltspaceVR platform as quickly as possible.
 author: qianw211    
 ms.author: qianwen
-ms.date: 12/3/2021
+ms.date: 1/16/2022
 ms.topic: article
 keywords: AltspaceVR, beginner's guide, getting started, new to AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
