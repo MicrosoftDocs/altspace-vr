@@ -356,7 +356,7 @@ Whether you want to host a Happy Hour, perform stand-up on a stage, or collabora
 
 <br>
 
-Check out this article for the nitty-gritty on event creation, hosting, and management, [checkout this article](../tutorials/creating-an-event.md).
+Check out this article for the nitty-gritty on [event creation, hosting, and management](../tutorials/creating-an-event.md).
 
 ### Build worlds
 
