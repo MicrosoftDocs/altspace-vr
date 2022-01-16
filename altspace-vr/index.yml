@@ -11,9 +11,9 @@ metadata:
   services: mixed-reality 
   ms.service: mixed-reality #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
-  author: hferrone #Required; your GitHub user alias, with correct capitalization.
-  ms.author: v-hferrone #Required; microsoft alias of author; optional team alias.
-  ms.date: 02/10/2021 #Required; mm/dd/yyyy format.
+  author: qianw211 #Required; your GitHub user alias, with correct capitalization.
+  ms.author: qianwen #Required; microsoft alias of author; optional team alias.
+  ms.date: 1/16/2022 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
 # Maximum of 8 items
