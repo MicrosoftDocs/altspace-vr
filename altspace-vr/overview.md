@@ -12,13 +12,13 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 ![AltspaceVR banner image](images/vr-interactions.png)
 
-AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events more easily. This social app will enable people from all over the world to connect and collaborate in real-time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. Sitting at the intersection of experience, content, and community, AltspaceVR is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
+AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events more easily. People from all over the world can use this social app to connect and collaborate in real-time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
 
 AltspaceVR allows large groups of individuals to be copresent in a single space.  [FrontRow](faqs/scaling-audiences.md) technology provides audience-scaling into the thousands.
 
 ## Virtual reality events
 
-With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can either [attend public events](community/exploring-title-screen.md#destinations) scheduled by others or [host your own private or public events](tutorials/creating-an-event.md) open to the entire online virtual community.
+With AltspaceVR, you can have shared VR experiences, whether it is in your personal or professional life. You can [attend public events](community/exploring-title-screen.md#destinations) scheduled by others.   Also, you can [host your own private or public events](tutorials/creating-an-event.md) that are open to the entire online virtual community.
 
 Here's what AltspaceVR has to offer for your VR experience.
 
