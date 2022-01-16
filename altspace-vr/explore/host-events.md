@@ -12,7 +12,7 @@ keywords: AltspaceVR, event hosting, host guide, events, virtual meetup, virtual
 
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
-AltspaceVR is the premier virtual platform for hosting events, client meetings, keynotes, stand-ups or simply providing a watercooler-style space for your team. There are many ways to use AltspaceVR for your needs today. Follow the steps here to get started.
+AltspaceVR is the premier virtual platform for hosting events, client meetings, keynotes, stand-ups, or simply providing a watercooler-style space for your team. There are many ways to use AltspaceVR for your needs today. Follow the steps here to get started.
 
 ### Getting started
 
@@ -75,7 +75,7 @@ Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests
     - We recommend at least two people for a single-room event.
     - It’s always helpful to have someone checking things like email (or relevant support channels) during the event, so no guest is left behind.
   - Clear communication with your guests is important. Help attendees understand how to:
-    - Download AltspaceVR: install AltspaceVR [here](https://altvr.com/get-altspacevr/), and check for the [mininum hardware specs](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
+    - Download AltspaceVR: install AltspaceVR [here](https://altvr.com/get-altspacevr/), and check for the [minimum hardware specs](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
     - [Create an Account](beginners-guide.md#creating-accounts) in AltspaceVR. If you’re using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts and then send you their usernames to add to the Group.
     - Find your event: share your event’s [entry code](beginners-guide.md#entry-codes), offer your guests instructions on [how to navigate the menu](beginners-guide.md#main-menu).
     - Reach out to your team if they need support: share your best support contact and contact method.

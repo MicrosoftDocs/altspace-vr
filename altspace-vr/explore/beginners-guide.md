@@ -10,7 +10,7 @@ keywords: AltspaceVR, beginner's guide, getting started, new to AltspaceVR, virt
 
 # Exploring AltspaceVR
 
-AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events easily. People from all over the world can use this social app to connect and collaborate in real-time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
+AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events easily. People from all over the world can use this social app to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
 
 ## If you're new to AltspaceVR
 
@@ -22,7 +22,7 @@ Though AltspaceVR is easy to use, this guide can help newbies get up and running
 
 <br>
 
-Please take a look at our list of section headings. Each link goes to an easy-to-digest section of this page below.
+Take a look at our list of section headings. Each link goes to an easy-to-digest section of this page below.
 
 - [Get Started](#get-started)
   - [Gear you Need](../getting-started/system-requirements.md)
@@ -66,7 +66,7 @@ Once you’ve done that, it’s time to install. Visit our documentation for det
 
 #### Creating accounts
 
-Now that you've installed the app, it's time to create an account. You'll need a Microsoft Account (MSA) to sign into AltspaceVR, so please set up an MSA if you don't have one. Not only does this give you access to powerful features and functionality, but MSA integration also ensures unparalleled account security.
+Now that you've installed the app, it's time to create an account. You'll need a Microsoft Account (MSA) to sign into AltspaceVR, so set up an MSA if you don't have one. Not only does this give you access to powerful features and functionality, but MSA integration also ensures unparalleled account security.
 
 >[!Note]
 >If you have a Hotmail or Outlook account, you already have an MSA. Feel free to use it, so long as it's a personal account and not associated with Work or School. Otherwise, you can sign up for an MSA using your email address of choice, or you can create a new Hotmail or Outlook account.
@@ -166,8 +166,8 @@ Here's a quick rundown of its various tabs:
 * **DISCOVER** – Find popular events and featured hub spaces.
 * **EVENTS** – See what events you've RSVP'd to for the future. Or create and manage your events!
 * **WORLDS** – Browse the platform's many spectacular environments. (Note: If you don't see this tab, go to **Settings → General → Enable Worlds Beta**.)
-* **FESTIVALS** – A new feature in beta. Please stand by as we roll it out.
-* **PEOPLE** – Access your Friends List, search for people, send and respond to friend requests, find out who else is in a room with you, and manage your list of blocked users.
+* **FESTIVALS** – A new feature in beta. Stand by as we roll it out.
+* **PEOPLE** – Access your Friends List, search for people. Send and respond to friend requests, find out who else is in a room with you, and manage your list of blocked users.
 * **ME** – Customize your avatar, check out your photos, or choose your homespace environment.
 * **SETTINGS** – Fine-tune your AltspaceVR experience with a slew of options ranging from turning speed to the volume of your environment and so much more.
 
@@ -186,7 +186,7 @@ The **Radial Menu** holds your go-to tools for adventuring in AltspaceVR. As a g
 
 Here's what it can do:
 
-* **MICROPHONE** – select to mute or un-mute yourself. Or hover over it to bring up mic volume controls. (A red icon indicates you are mute.)
+* **MICROPHONE** – select to mute or unmute yourself. Or hover over it to bring up mic volume controls. (A red icon indicates you are mute.)
 * **EMOJIS** – Express yourself in AltspaceVR! This button opens a panel of emojis. Clicking on them releases floating icons above your head, adding emotion to any event, environment, or conversation.
 * **BUBBLE** – Sometimes you need a little space. The Personal Space Bubble is here to help. It makes anyone who gets too close to you or blocks your view disappear.
 * **SELFIE** – Capture the moment! Because obviously.
@@ -368,7 +368,7 @@ Check out this article for the nitty-gritty on [event creation, hosting, and man
 
 <br>
 
-While wandering around in AltspaceVR, you're likely to encounter spaces that are so surreal and surprising. They leave you slack-jawed and in awe. We totally get it. Our platform is home to myriad wondrous Worlds, many of which were created by our community of content creators, aka users like you!
+While wandering around in AltspaceVR, you're likely to encounter spaces that are so surreal and surprising. They leave you slack-jawed and in awe. We totally get it. Our platform is home to myriad wondrous Worlds, many of which were created by our community of content creators, also known as users like you!
 
 Yes, YOU!
 
