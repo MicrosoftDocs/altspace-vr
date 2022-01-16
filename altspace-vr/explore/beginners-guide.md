@@ -94,7 +94,7 @@ If you're an existing AltspaceVR user and haven't linked your account to an MSA,
 
 We created two quick tutorials to help you get up to speed on the basics. They're optional, but they're a fun way to find your footing in AltspaceVR.
 
-You can access both tutorials from the Tutorial tab on the Title Screen sidebar.
+You can access both tutorials from the **Tutorial** tab on the Title Screen sidebar.
 
 <br>
 
@@ -165,7 +165,7 @@ Here's a quick rundown of its various tabs:
 
 * **DISCOVER** – Find popular events and featured hub spaces.
 * **EVENTS** – See what events you've RSVP'd to for the future. Or create and manage your events!
-* **WORLDS** – Browse the platform's many spectacular environments. (Note: If you don't see this tab, go to Settings → General → Enable Worlds Beta.)
+* **WORLDS** – Browse the platform's many spectacular environments. (Note: If you don't see this tab, go to **Settings → General → Enable Worlds Beta**.)
 * **FESTIVALS** – A new feature in beta. Please stand by as we roll it out.
 * **PEOPLE** – Access your Friends List, search for people, send and respond to friend requests, find out who else is in a room with you, and manage your list of blocked users.
 * **ME** – Customize your avatar, check out your photos, or choose your homespace environment.
@@ -186,13 +186,13 @@ The **Radial Menu** holds your go-to tools for adventuring in AltspaceVR. As a g
 
 Here's what it can do:
 
-* **MICROPHONE** – select to mute or unmute yourself. Or hover over it to bring up mic volume controls. (A red icon indicates you are mute.)
+* **MICROPHONE** – select to mute or un-mute yourself. Or hover over it to bring up mic volume controls. (A red icon indicates you are mute.)
 * **EMOJIS** – Express yourself in AltspaceVR! This button opens a panel of emojis. Clicking on them releases floating icons above your head, adding emotion to any event, environment, or conversation.
 * **BUBBLE** – Sometimes you need a little space. The Personal Space Bubble is here to help. It makes anyone who gets too close to you or blocks your view disappear.
 * **SELFIE** – Capture the moment! Because obviously.
 * **CAMERA** – See something you like! Take a snapshot!
 * **TITLE SCREEN** – Takes you back to the app's starting point.
-* **YOU ARE HERE** – Wondering where in the world you are? Select to find out! The Discover tab will open, offering key info – or an easy out to another experience.
+* **YOU ARE HERE** – Wondering where in the world you are? Select to find out! The **Discover** tab will open, offering key info – or an easy out to another experience.
 * **MAIN MENU** – select the blue AltspaceVR icon to access your control center.
 
 ### Get going
@@ -368,7 +368,7 @@ Check out this article for the nitty-gritty on [event creation, hosting, and man
 
 <br>
 
-While wandering around in AltspaceVR, you're likely to encounter spaces that are so surreal and surprising they leave you slack-jawed and in awe. We totally get it. Our platform is home to myriad wondrous Worlds, many of which were created by our community of content creators, aka users like you!
+While wandering around in AltspaceVR, you're likely to encounter spaces that are so surreal and surprising. They leave you slack-jawed and in awe. We totally get it. Our platform is home to myriad wondrous Worlds, many of which were created by our community of content creators, aka users like you!
 
 Yes, YOU!
 
