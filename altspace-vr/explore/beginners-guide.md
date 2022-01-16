@@ -26,8 +26,8 @@ Take a look at our list of section headings. Each link goes to an easy-to-digest
 
 | &nbsp; | &nbsp; | &nbsp;  |
 | --- | --- | --- |
-| [**Get Started**](#get-started) <ul><li> [Gear you Need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get Your Bearings**](#get-your-bearings) <ul><li> [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial) </li> <li> [The **Title Screen**](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | [**Get Going**](#get-going) <ul><li>[Finding and Attending Events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
-| [**Get Social**](#get-social) <ul> <li>[Finding and Making Friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and Sharing Selfies and Snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community Standards](#community-standards) </li> </ul> | [**Build Events**](#build-events) <ul> <li> [Create your own Event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> | [**Get Help**](#get-help) |
+| [**Get started**](#get-started) <ul><li> [Gear you need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | [**Get your bearings**](#get-your-bearings) <ul><li> [Tutorials: move around, interact with objects, customize your avatar, and more!](#altspacevr-tutorial) </li> <li> [The **Title Screen**](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | [**Get going**](#get-going) <ul><li>[Finding and attending events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
+| [**Get social**](#get-social) <ul> <li>[Finding and making friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and sharing selfies and snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community standards](#community-standards) </li> </ul> | [**Build events**](#build-events) <ul> <li> [Create your own event](#create-an-event) </li> </ul> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> | [**Get help**](#get-help) |
 
 ### Get started
 
@@ -208,7 +208,7 @@ Alternately, you can search for events online by logging into [AltspaceVR websit
 
 **ALTSPACEVR PRO TIP**: Make sure you don't miss any "can't-miss" events by RSVPing. When you select Interested in the app (or RSVP online), we'll email you a reminder an hour before showtime. You can also find the events you've RSVP'd to by going to **Events → Interested**.
 
-#### Entry codes
+#### Entry Codes
 
 <br>
 
@@ -233,7 +233,7 @@ You can access **Worlds** from the **Main Menu**.
 
 <br>
 
-#### Exploring hubs
+#### Exploring Hubs
 
 Hubs are public spaces where users can meet and connect.
 
