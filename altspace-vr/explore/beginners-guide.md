@@ -31,8 +31,8 @@ Please take a look at our list of section headings. Each link goes to an easy-to
 - [Get Your Bearings](#get-your-bearings)
   - [Tutorials: Move Around, Interact with Objects, Customize your Avatar, and more!](#altspacevr-tutorial)
   - [The Title Screen](#title-screen)
-  - [The Main Menu](#main-menu)
-  - [The Radial Menu](#the-radial-menu)
+  - [The **Main Menu**](#main-menu)
+  - [The **Radial Menu**](#the-radial-menu)
 - [Get Going](#get-going)
   - [Finding and Attending Events](#finding-and-attending-events)
   - [Entry Codes](#entry-codes)
@@ -207,7 +207,7 @@ There's never a shortage of events and experiences unfolding in AltspaceVR. Live
 
 <br>
 
-There are a few different ways to find events while in AltspaceVR. From the Main Menu, navigate to:
+There are a few different ways to find events while in AltspaceVR. From the **Main Menu**, navigate to:
 
 * **EVENTS** – Filter by date, category, and related events – or just search through them all. You can even see what events your friends are interested in.
 * **DISCOVER** – See a handful of live or upcoming Popular Events.
@@ -226,7 +226,7 @@ Alternately, you can search for events online by logging into [AltspaceVR websit
 1. If the event is live, you'll have the option to **Enter**.
 1. If it's upcoming, you can **RSVP** for it by selecting **Interested**.
 
-**ALTSPACEVR PRO TIP: Make sure you don't miss any "can't-miss" events by RSVPing.** When you select Interested in the app (or RSVP online), we'll email you a reminder an hour before showtime. You can also find the events you've RSVP'd to by going to **Events → Interested**.
+**ALTSPACEVR PRO TIP**: Make sure you don't miss any "can't-miss" events by RSVPing. When you select Interested in the app (or RSVP online), we'll email you a reminder an hour before showtime. You can also find the events you've RSVP'd to by going to **Events → Interested**.
 
 #### Entry codes
 
@@ -257,12 +257,12 @@ You can access **Worlds** from the **Main Menu**.
 
 Hubs are public spaces where users can meet and connect.
 
-**The Campfire** is our original hub space. We like to think of it as the friendliest place in AltspaceVR. It's open 24/7, and in addition to being a delightful place to play cornhole or roast marshmallows, you can also chat with AltspaceVR staffers and Community Helpers. They're almost always on hand to answer questions and point you toward fun events and activities.
+**The Campfire** is our original hub space. We like to think of it as the friendliest place in AltspaceVR. It's open 24/7, and in addition to being a delightful place to play cornhole or roast marshmallows. You can also chat with AltspaceVR staffers and Community Helpers. They're almost always on hand to answer questions and point you toward fun events and activities.
 
 Other hubs bring users together around shared interests:
 
-**Trending News** – A great place to talk about news, sports, travel, and more.
-**Trending Entertainment** – Share your love for all things entertainment!
+* **Trending News** – A great place to talk about news, sports, travel, and more.
+* **Trending Entertainment** – Share your love for all things entertainment!
 
 ### Get social
 
@@ -274,7 +274,7 @@ Other hubs bring users together around shared interests:
 
 <br>
 
-AltspaceVR is all about community and connection. It's a place where people from all around the world can come together for enriching shared experiences. Whether you're attending an event, exploring Worlds, or chilling at **The Campfire**, you're most likely going to be with other people. And chances are, you'll want to stay in touch with some of the peeps you meet. Nametags are your key to connection.
+AltspaceVR is all about community and connection. People from all around the world can come together for enriching shared experiences. Whether you're attending an event, exploring Worlds, or chilling at **The Campfire**, you're most likely going to be with other people. Chances are, you'll want to stay in touch with some of the peeps you meet. Nametags are your key to connection.
 
 Everyone in AltspaceVR has a **Nametag**. In addition to helping identify other users, its interface allows you to connect with people your vibe with and block or mute those you don't!
 
@@ -312,7 +312,7 @@ You can access the tab by going to **Main Menu → People**.
 
 <br>
 
-AltspaceVR is abuzz with electrifying events, fascinating people, and jaw-dropping environments. It's a staggering spectacle, and as you explore it, you may find yourself wishing you could capture the moment. Luckily, you can! All avatars come with a camera for selfies and snapshots. Here's how it works: Find the **Camera** and **Selfie** buttons are located on your **Radial Menu**. Camera captures the scene you see, while Selfie turns the lens back on you. Photos can be found by going to **Main Menu → Me → Gallery**.
+AltspaceVR is abuzz with electrifying events, fascinating people, and jaw-dropping environments. It's a staggering spectacle, and as you explore it, you may find yourself wishing you could capture the moment. Luckily, you can! All avatars come with a camera for selfies and snapshots. Here's how it works: The **Camera** and **Selfie** buttons are located on your **Radial Menu**. Camera captures the scene you see, while Selfie turns the lens back on you. Photos can be found by going to **Main Menu → Me → Gallery**.
 
 <br>
 
@@ -345,9 +345,9 @@ Whether you want to host a Happy Hour, perform stand-up on a stage, or collabora
 * **Choose an environment** for your event. You can use a pre-made template, customize a space for your needs, or even create a World from scratch. (More on that in the next section.)
 * **Add your Event Info**.
   * Make your event Public or Private.
-  * Schedule the event for later or start it with the "Enter Now" option.
-  * Advanced Options give you more control over your event.
-* **Find Your Event under My Events**
+  * Schedule the event for later or start it with the **Enter Now** option.
+  * **Advanced** options give you more control over your event.
+* Find Your Event under **My Events**
   * Edit your upcoming event by going to its info page.
 
 <br>

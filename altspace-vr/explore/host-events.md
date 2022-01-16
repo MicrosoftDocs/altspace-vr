@@ -22,7 +22,7 @@ Start installing AltspaceVR on your PC or headset, creating an account, and gett
 1. [Setting up ports for your company firewall](../faqs/altspacevr-app-faq.md#if-youre-trying-to-launch-altspacevr-for-the-first-time)
 1. [Creating an AltspaceVR account](../getting-started/creating-and-linking-accounts.md)
 1. [Linking your MSA account](../getting-started/creating-and-linking-accounts.md)
-1. [Windows Mixed Reality: Installation + Basic Controls](../getting-started/wmr-installation.md)
+1. [Windows Mixed Reality: Installation + Basic Controls](../getting-started/wmr-controls.md)
 1. [Basic PC input controls (moving around in 2D mode)](../getting-started/avatar-controls.md)
 1. [Oculus Quest/Quest 2 installation](../getting-started/oculus-installation.md)
 1. [Oculus Quest/Quest 2 controls](../getting-started/oculus-controls.md)
@@ -56,7 +56,7 @@ Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests
 ### Best practices
 
 - **AltspaceVR is built for scaling**
-  - Each virtual room/environment can support up to 50 avatars simultaneously*.
+  - Each virtual room/environment can support up to 50 avatars simultaneously.
   - You can multiply rooms for unlimited capacity using the [FrontRow feature](/windows/mixed-reality/altspace-vr/faqs/scaling-audiences).
 - **Limit customization**
   - Yes, you can import an entire original Unity scene in AltspaceVR, but this does not guarantee your event or world will be performant for your guests.
