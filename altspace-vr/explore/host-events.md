@@ -16,7 +16,7 @@ AltspaceVR is the premier virtual platform for hosting events, client meetings, 
 
 ### Getting started
 
-Start with installing AltspaceVR on your PC or headset, creating an account, and getting familiar with the basic input controls.
+Start installing AltspaceVR on your PC or headset, creating an account, and getting familiar with the primary input controls.
 
 1. [Minimum system specs](../getting-started/system-requirements.md)
 1. [Setting up ports for your company firewall](../faqs/altspacevr-app-faq.md#if-youre-trying-to-launch-altspacevr-for-the-first-time)
@@ -66,27 +66,27 @@ Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests
   - Before you host an event, we highly recommend spending time in AltspaceVR.
   - Just like in real life, it’s best to plan rehearsals or run-throughs.
 - **Helpful timelines**
-  - Create your event at least two weeks prior to scheduled showtime so that you can get comfortable, test your setup, and promote your event. Having an optimized world ≠ a successful event without testing your actual pencils-down event space.
-  - Finalize your Unity template at least 48 hours prior to showtime. Any additions after that point may risk your event’s success.
+  - Create your event at least two weeks before the scheduled showtime so that you can get comfortable, test your setup, and promote your event. Having an optimized world ≠ a successful event without testing your actual pencils-down event space.
+  - Finalize your Unity template at least 48 hours before showtime. Any additions after that point may risk your event’s success.
   - Test early and test often. Being cross-platform is important to AltspaceVR. We recommend ensuring that you are testing your spaces on all the various types of hardware you expect to be used by your hosts and audience members.
-  - Give your guests ample time to download, sign up for, and get into AltspaceVR. Encourage guests to go through set-up at least 30 minutes before the event start time.
+  - Give your guests ample time to download, sign up for, and get into AltspaceVR. Encourage guests to set up at least 30 minutes before the event starts.
 - **Planning and Communications**
   - Having an organized team to help is key. Figure out how many hosts, moderators, camera-bots, and general staff you’ll need for your event.
     - We recommend at least two people for a single-room event.
     - It’s always helpful to have someone checking things like email (or relevant support channels) during the event, so no guest is left behind.
   - Clear communication with your guests is important. Help attendees understand how to:
     - Download AltspaceVR: install AltspaceVR [here](https://altvr.com/get-altspacevr/), and check for the [mininum hardware specs](/windows/mixed-reality/altspace-vr/getting-started/system-requirements).
-    - [Create an Account](beginners-guide.md#creating-accounts) in AltspaceVR. If you're using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts, and then send you their usernames to add to the Group.
-    - Find your event: share your event's [entry code](beginners-guide.md#entry-codes), offer your guests instructions on [how to navigate the menu](beginners-guide.md#main-menu).
+    - [Create an Account](beginners-guide.md#creating-accounts) in AltspaceVR. If you’re using the Groups feature, we recommend asking your guests to first create AltspaceVR accounts and then send you their usernames to add to the Group.
+    - Find your event: share your event’s [entry code](beginners-guide.md#entry-codes), offer your guests instructions on [how to navigate the menu](beginners-guide.md#main-menu).
     - Reach out to your team if they need support: share your best support contact and contact method.
 
 ### What about my privacy and data?
 
-View our [Terms of Service](../community/terms-of-service.md) and our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy and ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft’s core principles around privacy [here](https://privacy.microsoft.com/). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, if you have an active AltspaceVR account you can request a copy of your data and request to have your data deleted at any time.
+View our [Terms of Service](../community/terms-of-service.md) and our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy and ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft’s core principles around privacy [here](https://privacy.microsoft.com/). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, you can request a copy of your data and have your data deleted at any time if you have an active AltspaceVR account.
 
 ### Promote your event
 
-Lastly, if this is a consumer-facing event, we recommend promoting on social media! Below are some useful hashtags and official AltspaceVR accounts for tagging and posting.
+If this is a consumer-facing event, we recommend promoting it on social media! Below are some hashtags to use and official AltspaceVR accounts for tagging and posting.
 
 - **Twitter**: @AltspaceVR | #VRevents #socialVR #AltspaceVR
 - **Facebook**: facebook.com/AltspaceVR
