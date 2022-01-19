@@ -1,12 +1,18 @@
 ---
 title: Creating and Linking Your AltspaceVR Account
 description: Get step-by-step instructions on how to create a new AltspaceVR account and how to link an existing AltspaceVR account to a Microsoft Account.
-ms.date: 11/03/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 1/19/2022
 ms.topic: article
 keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name, msa
 ---
 
 # Creating and Linking Your AltspaceVR Account
+
+You'll need to [install the app](../explore/beginners-guide.md#download-and-installation), before you can create an account.
+
+![Download and install AltspaceVR](images/01-sign-in.png)
 
 ## **Best practice for initial creation of your AltspaceVR account:** ##
 
@@ -14,6 +20,7 @@ keywords: registration, account, account creation, account linking, microsoft ac
 
 1. Visit our website at altvr.com
 2. Select Sign In (top right)
+    ![Sign in to the AltspaceVR website](images/02-sign-in.png)
 3. Sign in with Microsoft
 4. Use your personal Microsoft Account (cannot use work or school accounts) or Create One
 5. You'll know you are properly Signed In when you see your email address between the Download and Sign out buttons along the top right of the website.
@@ -23,9 +30,11 @@ keywords: registration, account, account creation, account linking, microsoft ac
 1. Once properly Signed In via the website
 2. Use the AltspaceVR app on your computer or VR headset
 3. Select the Sign In button in the app 
+    ![Sign in to the AltspaceVR app](images/03-sign-in-altspace-app.png)
 4. Select the Sign in with Microsoft button
+    ![Sign in with Microsoft](images/04-sign-in-altspace-app.png)
 5. Choose your personal Microsoft Account (Work or school accounts will not work)
-4. Enjoy AltspaceVR!
+6. Enjoy AltspaceVR!
 
 ## Disclaimer Regarding Account Linking
 
