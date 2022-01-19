@@ -15,7 +15,7 @@ This guide will help you create and share your first AltspaceVR World! The instr
 ## Create a world on the AltspaceVR website
 
 1. Sign up for your free AltspaceVR account if you haven't done so already.
-2. If you're new to AltspaceVR, we recommend that you complete both of the tutorials. To reach them, open the AltspaceVR app, and on the main screen, click **Tutorials**.
+1. If you're new to AltspaceVR, we recommend that you complete both of the tutorials. To reach them, open the AltspaceVR app, and on the main screen, click **Tutorials**.
 
 ![A screenshot of the main screen with the Tutorials button highlighted.](images/001-tutorials.png)
 
