@@ -19,8 +19,10 @@ You'll need to [install the app](../explore/beginners-guide.md#download-and-inst
 **FIRST**
 
 1. Visit our website at altvr.com
-2. Select Sign In (top right)
+
+2. Select Sign In (top right) <br>
     ![Sign in to the AltspaceVR website](images/02-sign-in.png)
+
 3. Sign in with Microsoft
 4. Use your personal Microsoft Account (cannot use work or school accounts) or Create One
 5. You'll know you are properly Signed In when you see your email address between the Download and Sign out buttons along the top right of the website.
@@ -28,12 +30,17 @@ You'll need to [install the app](../explore/beginners-guide.md#download-and-inst
 **SECOND**
 
 1. Once properly Signed In via the website
+
 2. Use the AltspaceVR app on your computer or VR headset
-3. Select the Sign In button in the app 
+
+3. Select the Sign In button in the app <br>
     ![Sign in to the AltspaceVR app](images/03-sign-in-altspace-app.png)
-4. Select the Sign in with Microsoft button
+
+4. Select the Sign in with Microsoft button <br>
     ![Sign in with Microsoft](images/04-sign-in-altspace-app.png)
+
 5. Choose your personal Microsoft Account (Work or school accounts will not work)
+
 6. Enjoy AltspaceVR!
 
 ## Disclaimer Regarding Account Linking
