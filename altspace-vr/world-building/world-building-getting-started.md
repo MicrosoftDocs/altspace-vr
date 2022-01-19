@@ -10,16 +10,16 @@ keywords: world, sharing
 
 Welcome, World-Builder!
 
-This guide will help you create and share your first Altspace World!
+This guide will help you create and share your first AltspaceVR World! The instructions below step you through creating a world in your browser. You can also create worlds using the AltspaceVR app in your headset.
 
-## Creating
+## Create a world on the AltspaceVR website
 
 1. Sign up for your free AltspaceVR account if you haven't done so already.
-1. If you're new to AltspaceVR, we recommend that you complete both of the tutorials. To reach them, on the main screen in the AltspaceVR app, click **Tutorials**.
+2. If you're new to AltspaceVR, we recommend that you complete both of the tutorials. To reach them, open the AltspaceVR app, and on the main screen, click **Tutorials**.
 
 ![A screenshot of the main screen with the Tutorials button highlighted.](images/001-tutorials.png)
 
-1. In your browser, go to [https://altvr.com/](https://altvr.com/).
+1. In your browser, go to [https://altvr.com/](https://altvr.com/) and sign in.
 1. In the top-level menu bar, click **More**, and then select **Worlds**.
 
 ![A screenshot of Web app with "Worlds" selected.](images/002-worlds.png)
@@ -64,20 +64,29 @@ This guide will help you create and share your first Altspace World!
 
 1. Click the **Create World** button.
 
-\\\\\\\\\\\\\\\\
-1. Open your Menu and navigate to **Worlds > My Worlds**:
+You can view the worlds you create on the Universes page.
 
-![My worlds open in the AltspaceVR menu](images/world-building-img-01.png)
+## View your world in the AltspaceVR app
 
-3. Join the first World (Surprise! We've pre-created one for you):
+1. Go to the AltSpaceVR app and, on the main page, click **Main Menu**.
 
-![First default world created](images/world-building-img-02.png)
+    ![A screenshot of the main page in the AltspaceVR app.](images/006-main-page.png)
 
-4. Use the World Editor to make a label:
+1. Click the **Settings** button.
+1. Turn the **Enable Worlds Beta** setting on.
 
-> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
+    ![A screenshot of the Enable Worlds Beta setting.](images/007-enable-worlds-beta.png)
 
-Congratulations! You've created your first Altspace World, your own multiplayer social VR experience! Play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
+    This makes the **WORLDS** button appear in the button bar.
+
+    ![A screenshot of the WORLDS button.](images/008-worlds-button.png)
+
+1. Click the **WORLDS** button, and then, in the top menu bar, click **MY WORLDS**. This displays the **FEATURED WORLDS** window, which displays the world you created on the AltSpaceVR website.
+1. Move the cursor over the world you created, and note that two buttons appear: **ENTER** and **INFO**. Click the **INFO** button and view the details about your world. When you have finished, click the **ENTER** button in the lower left of the Info screen.
+
+    ![A screenshot of the ENTER button.](images/009-enter-button.png)
+
+Congratulations! You've created and entered your first Altspace World, your own multiplayer social VR experience! Play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
 
 ## Sharing
 
