@@ -42,9 +42,9 @@ If you have the code for the event, you'd like to attend, enter it into the Titl
 
 ## Other Functions 
 
-The final few functions available in the Title Screen are **account** **Main Menu** and **Exit**. These options mimic the ones found in your radial HUD menu when you are in Events, Hubs, Worlds, or your Homespace. 
+The final few functions available in the Title Screen are **Account** **Main Menu** and **Exit**. These options mimic the ones found in your radial HUD menu when you are in Events, Hubs, Worlds, or your Homespace. 
 
-The **account** section gives you several options related to your AltspaceVR account. Here you can review your credentials, connect your AltspaceVR account to a Microsoft Account (or AAD for enterprise users), switch to another account, or sign out of your current account. 
+The **Account** section gives you several options related to your AltspaceVR account. Here you can review your credentials, connect your AltspaceVR account to a Microsoft Account (or AAD for enterprise users), switch to another account, or sign out of your current account. 
 
 ![Accounts page with additional options](images/title-screen-07.png)
 
