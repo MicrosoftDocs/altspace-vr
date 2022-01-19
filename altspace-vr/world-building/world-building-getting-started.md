@@ -1,7 +1,7 @@
 ---
 title: Creating your first AltspaceVR world
 description: Get step-by-step instructions on how to create and share your AltspaceVR worlds with the world.
-ms.date: 03/11/2021
+ms.date: 01/18/2022
 ms.topic: article
 keywords: world, sharing
 ---
@@ -14,8 +14,58 @@ This guide will help you create and share your first Altspace World!
 
 ## Creating
 
-1. Sign up (for free, if you haven't already) for your AltspaceVR account and complete the tutorial in the AltspaceVR app.
-2. Open your Menu and navigate to **Worlds > My Worlds**:
+1. Sign up for your free AltspaceVR account if you haven't done so already.
+1. If you're new to AltspaceVR, we recommend that you complete both of the tutorials. To reach them, on the main screen in the AltspaceVR app, click **Tutorials**.
+
+![A screenshot of the main screen with the Tutorials button highlighted.](images/001-tutorials.png)
+
+1. In your browser, go to [https://altvr.com/](https://altvr.com/).
+1. In the top-level menu bar, click **More**, and then select **Worlds**.
+
+![A screenshot of Web app with "Worlds" selected.](images/002-worlds.png)
+
+1. In the **Worlds** menu bar, select **My Worlds**.
+1. Click the **Create Universe** button.
+1. On the **Create Universe** screen, enter a **Name** and a **Description** for your universe.
+1. Under **Image**, select **Choose File**, and then select an image. This image will be used to promote your universe on the Web and in VR.
+1. Under **Profile Image**, select **Choose File**, and then select an image. This image will be also used to promote your universe on the Web and in VR but it appears on the Universe page.
+1. If needed, fill in the remaining text boxes:
+
+    **Youtube Video ID**
+
+    **Twitter Handle**
+
+    **Tags**
+
+1. Click the **Create Universe** button.
+
+    After your universe is created, it appears on a new page and these options become available on the lower left (you have to scroll down a little to see them):
+
+    ![A screenshot of the Administrator controls on the Universe page.](images/003-admin-controls.png)
+
+1. Click the **Create World** button.
+1. Enter a **Name** and a **Description** for your universe.
+1. Under **Privacy Settings**, select **Private** or **Unlisted**.<!-- Need more info on this. -->
+1. If needed, fill in the remaining text boxes and the Advanced options:
+
+    **Default Contextual Roles**
+
+    **Advance Formatting**
+
+    You need to select a template so you'll have a virtual environment to start with. You can change this later.
+
+1. On the right side of the screen, select a template.
+
+    ![A screenshot of some templates available for your world.](images/004-templates.png)
+
+    You can choose a template provided by AltspaceVR or one that you've built. To see your templates (which contain the label **OWNER**), scroll down to the bottom of the screen.
+
+    ![A screenshot of some templates available for your world.](images/005-custom-templates.png)
+
+1. Click the **Create World** button.
+
+\\\\\\\\\\\\\\\\
+1. Open your Menu and navigate to **Worlds > My Worlds**:
 
 ![My worlds open in the AltspaceVR menu](images/world-building-img-01.png)
 
