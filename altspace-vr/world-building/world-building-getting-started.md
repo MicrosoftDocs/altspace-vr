@@ -19,6 +19,19 @@ This guide will help you create and share your first AltspaceVR World! The instr
 
     ![A screenshot of the main screen with the Tutorials button highlighted.](images/001-tutorials.png)
 
+1. In the AltspaceVR app, go to the main page and then click **Main Menu**.
+
+    ![A screenshot of the main page in the AltspaceVR app.](images/006-main-menu.png)
+
+1. Click the **Settings** button.
+1. Turn the **Enable Worlds Beta** setting on.
+
+    ![A screenshot of the Enable Worlds Beta setting.](images/007-enable-worlds-beta.png)
+
+    This makes the **WORLDS** button appear in the button bar and also enables the **My Worlds** option on the AltspaceVR website.
+
+    ![A screenshot of the WORLDS button.](images/008-worlds-button.png)
+
 1. In your browser, go to [https://altvr.com/](https://altvr.com/) and sign in.
 1. In the top-level menu bar, click **More**, and then select **Worlds**.
 
@@ -27,8 +40,9 @@ This guide will help you create and share your first AltspaceVR World! The instr
 1. In the **Worlds** menu bar, select **My Worlds**.
 1. Click the **Create Universe** button.
 1. On the **Create Universe** screen, enter a **Name** and a **Description** for your universe.
-1. Under **Image**, select **Choose File**, and then select an image. This image will be used to promote your universe on the Web and in VR.
-1. Under **Profile Image**, select **Choose File**, and then select an image. This image will also be used to promote your universe on the Web and in VR but it appears on the Universe page.
+1. To enable only the owner of the universe to join it, select **Private**.
+1. Under **Image**, click **Choose File**, and then select an image. This image will be used to promote your universe on the Web and in VR.
+1. Under **Profile Image**, click **Choose File**, and then select an image. This image will also be used to promote your universe on the Web and in VR but it appears on the Universe page.
 1. If desired, fill in the remaining text boxes:
 
     **Youtube Video ID**
@@ -44,21 +58,21 @@ This guide will help you create and share your first AltspaceVR World! The instr
     ![A screenshot of the Administrator controls on the Universe page.](images/003-admin-controls.png)
 
 1. Click the **Create World** button.
-1. Enter a **Name** and a **Description** for your universe.
-2. Under **Privacy Settings**, select **Private** or **Unlisted**.
+1. Enter a **Name** and a **Description** for your world.
+1. Under **Privacy Settings**, select **Private** or **Unlisted**.
 
 > [!NOTE]
-> Private worlds can only be joined by the owner or a universe administrator. Unlisted worlds are available for others to join, but do not appear in the UI--they need an explicit invite. Public worlds are discoverable in the Worlds menu and the Friends list.
+> As noted above, private worlds can only be joined by the owner or a universe administrator. Unlisted worlds are available for others to join, but do not appear in the UI--they need an explicit invite. If you select neither option, your world is public. Public worlds are discoverable in the Worlds menu and the Friends list.
 
-2. If needed, fill in the remaining text boxes and the Advanced options:
+1. If desired, fill in the remaining text boxes and the Advanced options:
 
     **Default Contextual Roles**
 
     **Advance Formatting**
 
-    You need to select a template so you'll have a virtual environment to start with. You can change this later.
 
-3. On the right side of the screen, select a template.
+
+1. On the right side of the screen, select a template. This gives you a virtual environment to start with--you can change it later.
 
     ![A screenshot of some templates available for your world.](images/004-templates.png)
 
@@ -66,31 +80,30 @@ This guide will help you create and share your first AltspaceVR World! The instr
 
     ![A screenshot of some custom templates available for your world.](images/005-custom-templates.png)
 
-4. Click the **Create World** button.
+1. Click the **Create World** button.
 
-You can view the worlds you create on the Universes page.
+After your world is created, you can do the following:
+- Enter the world by clicking the **ENTER NOW** button.
+- Use the **World Tools**, located on the lower left side of the window, to perform various operations.
+
+    ![A screenshot of the World Tools buttons.](images/015-world-tools.png)
+
+- Post a message by clicking the **POST MESSAGE** button.
+
+    ![A screenshot of the Messages button.](images/016-messages.png)
+
+- Return to the Universes page to view all your custom worlds. To get there, click your universe name.
+
+    ![A screenshot of the link back to your universe.](images/017-universe-name.png)
 
 ## View your world in the AltspaceVR app
 
-1. Go to the AltSpaceVR app and, on the main page, click **Main Menu**.
-
-    ![A screenshot of the main page in the AltspaceVR app.](images/006-main-menu.png)
-
-1. Click the **Settings** button.
-1. Turn the **Enable Worlds Beta** setting on.
-
-    ![A screenshot of the Enable Worlds Beta setting.](images/007-enable-worlds-beta.png)
-
-    This makes the **WORLDS** button appear in the button bar.
-
-    ![A screenshot of the WORLDS button.](images/008-worlds-button.png)
-
-1. Click the **WORLDS** button, and then, in the top menu bar, click **MY WORLDS**. This displays the **FEATURED WORLDS** window, which displays the world you created on the AltspaceVR website.
+1. In the AltspaceVR app, click the **WORLDS** button, and then, in the top menu bar, click **MY WORLDS**. This displays the **FEATURED WORLDS** window, which displays the world you created on the AltspaceVR website.
 1. Move the cursor over the world you created, and note that two buttons appear: **ENTER** and **INFO**. Click the **INFO** button and view the details about your world. When you have finished, click the **ENTER** button in the lower left of the Info screen.
 
     ![A screenshot of the ENTER button.](images/009-enter-button.png)
 
-Congratulations! You've created and entered your first Altspace World, your own multiplayer social VR experience! Play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
+Congratulations! You've created and entered your first Altspace World, your own multiplayer social VR experience! We recommend that you play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
 
 ## Share your World
 
@@ -105,8 +118,6 @@ Congratulations! You've created and entered your first Altspace World, your own 
 
    - In the **Featured Hub Spaces** section, select **Commons Campfire**.
    - Click the **Enter** button which is located under the description in the top left corner.
-
-
 
 2. After you enter the Campfire, click the Menu button in the lower left corner ...
 
@@ -129,8 +140,8 @@ Congratulations! You've created and entered your first Altspace World, your own 
 
 7. When you're ready, select the portal again to take your party to your World.
 
-8. Let the party begin! Your friends will see the changes to your World as you make them so dazzle them with your creativity.
+8. Let the party begin! Your friends will see the changes to your World as you make them, so dazzle them with your creativity.
 
-You should be world-building in minutes; however, if you do run into issues you can [get help](getting-help.md)
+This article should get you up and running with world-building in minutes; however, if you do run into issues, you can [get help](getting-help.md).
 
-Finally, join our [Early Access Program](early-access.md) (it's free) and, when you're ready, submit your World to be Featured. We're excited to see what you'll make!
+Finally, join our [Early Access Program](early-access.md) (it's free) and, when you're ready, submit your world to be "Featured." We're excited to see what you'll make!
