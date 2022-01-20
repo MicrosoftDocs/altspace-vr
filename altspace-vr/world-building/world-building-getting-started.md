@@ -119,7 +119,7 @@ Congratulations! You've created and entered your first Altspace World, your own 
    - In the **Featured Hub Spaces** section, select **Commons Campfire**.
    - Click the **Enter** button which is located under the description in the top left corner.
 
-2. After you enter the Campfire, click the Menu button in the lower left corner ...
+2. After entering the Campfire, click the Menu button in the lower left corner ...
 
     ![Screenshot showing the Menu button.](images/011-menu-button.png)
 
@@ -140,7 +140,7 @@ Congratulations! You've created and entered your first Altspace World, your own 
 
 7. When you're ready, select the portal again to take your party to your World.
 
-8. Let the party begin! Your friends will see the changes to your World as you make them, so dazzle them with your creativity.
+8. Let the party begin! Your friends will see your world's changes as you make them, so dazzle them with your creativity.
 
 This article should get you up and running with world-building in minutes; however, if you do run into issues, you can [get help](getting-help.md).
 
