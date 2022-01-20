@@ -1,7 +1,7 @@
 ---
 title: Introducing the Altspace Uploader
 description: Learn how to set up and upload your AltspaceVR worlds using Unity scene templates with the Altspace Uploader.
-ms.date: 10/29/2021
+ms.date: 1/19/2022
 ms.author: v-vtieto
 ms.topic: article
 ---
@@ -14,7 +14,7 @@ ms.topic: article
 
 The Uploader lets you use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
-![Example worlds](images/unity-uploader-img-01.png)
+![Example worlds](images/altspace-uploader-example-worlds-01.png)
 
 ## Setup
 
@@ -27,8 +27,6 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 4. [Download the latest Unity Uploader](https://altvr.com/download-latest-unity-uploader)
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
-
-![Created world screen](images/unity-uploader-img-02.png)
 
 ## Upload your scene
 
