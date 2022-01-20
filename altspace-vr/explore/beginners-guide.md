@@ -46,7 +46,7 @@ Once you’ve done that, it’s time to install. Visit our documentation for det
 
 #### Creating accounts
 
-Now that you've installed the app, it's time to create an account. You'll need a Microsoft Account (MSA) to sign into AltspaceVR, so set up an MSA if you don't have one. Not only does this give you access to powerful features and functionality, but MSA integration also ensures unparalleled account security.
+Now that you've [downloaded and installed the app](#download-and-installation), it's time to create an account. You'll need a Microsoft Account (MSA) to sign into AltspaceVR, so set up an MSA if you don't have one. Not only does this give you access to powerful features and functionality, but MSA integration also ensures unparalleled account security.
 
 >[!Note]
 >If you have a Hotmail or Outlook account, you already have an MSA. Feel free to use it, so long as it's a personal account and not associated with Work or School. Otherwise, you can sign up for an MSA using your email address of choice, or you can create a new Hotmail or Outlook account.
