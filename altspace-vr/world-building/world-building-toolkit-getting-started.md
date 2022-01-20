@@ -2,7 +2,7 @@
 title: Introducing the Altspace Uploader
 description: Learn how to set up and upload your AltspaceVR worlds using Unity scene templates with the Altspace Uploader.
 ms.date: 1/19/2022
-ms.author: v-vtieto
+ms.author: vtieto
 ms.topic: article
 ---
 
