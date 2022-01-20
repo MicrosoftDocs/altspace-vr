@@ -59,7 +59,7 @@ With the Public Beta Build Program, our goal is to find and log any bugs or issu
 
 Remember to send logs anytime you encounter a possible bug, regression, or issue. To submit logs go to the SETTINGS tab in your Main Menu, select SUPPORT, select SUBMIT LOGS. If you've experienced a crash, follow these steps but select SUBMIT LAST LOGS as your final step. 
 
-In general, logs are extremely useful in helping us reproduce and verify any potential issues. 
+In general, logs are useful in helping us reproduce and verify any potential issues. 
 
 ## Getting Beta Builds
 

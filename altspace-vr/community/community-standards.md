@@ -1,6 +1,6 @@
 ---
 title: Community standards
-description: Stay up-to-date with all the latest AltspaceVR community standards and procedures for reporting violations.
+description: Stay up to date with all the latest AltspaceVR community standards and procedures for reporting violations.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: community, standards, harassments, warning
@@ -32,7 +32,7 @@ Community Members are entitled to a reasonable level of privacy on the AltspaceV
 
 ## Impersonation of an AltspaceVR Employee
 
-The AltspaceVR logo can identify AltspaceVR staff in the name tag that expands when you mouse-over or click the avatar. Employees will never ask for passwords to your account. Any account found to be impersonating an AltspaceVR employee will be subject to immediate suspension or termination.
+The AltspaceVR logo in the name tag that expands when you mouse-over or click the avatar can identify AltspaceVR staff. Employees will never ask for passwords to your account. Any account found to be impersonating an AltspaceVR employee will be subject to immediate suspension or termination.
 
 ## Inappropriate Content
 
@@ -55,4 +55,4 @@ While community members may choose to create and use more than one account, spec
 
 ## Reporting Violations of the Community Standards
 
-If you feel an individual has breached the Community Standards, you may file an Abuse Report with the AltspaceVR Community Team. Please include an explanation of the incident, the account names of those involved, and the time and time it transpired. The AltspaceVR Community Team will review the report and take the appropriate action. As a policy, we don't provide details of those actions to the reporter. Please don't follow up requesting the status of the decision.
+If you feel an individual has breached the Community Standards, you may file an Abuse Report with the AltspaceVR Community Team. Include an explanation of the incident, the account names of those involved, and the time and time it transpired. The AltspaceVR Community Team will review the report and take the appropriate action. As a policy, we don't provide details of those actions to the reporter. Don't follow up requesting the status of the decision.
