@@ -3,7 +3,7 @@ title: Frequently asked questions about the AltspaceVR app
 description: Troubleshooting and support for the AltspaceVR app.
 ms.date: 8/16/2021
 author: qianw211    
-ms.author: v-qianwen
+ms.author: qianwen
 ms.topic: article
 keywords: vr, AltspaceVR, troubleshooting, support
 ---
@@ -12,20 +12,23 @@ keywords: vr, AltspaceVR, troubleshooting, support
 
 ## Finding the AltspaceVR app version
 
-In the course of troubleshooting an issue, you may be asked what version of the AltspaceVR app you're currently running.
+In troubleshooting an issue, you may be asked what version of the AltspaceVR app you're currently running.
 
 ### In AltspaceVR
 
-To find the app version in AltspaceVR, navigate to the **settings menu** and select **About** in the left navigation bar. The 'App Version' is reported here, as shown in the screenshot below.
+To find the app version in AltspaceVR, navigate the **settings menu** and select **About** in the left navigation bar. The 'App Version' is reported here, as shown in the screenshot below.
 
 ![Settings menu open with about panel open](images/app-version-img-01.png)
 
 ### In Windows System Settings
 
-If you installed AltspaceVR via the Microsoft Store, you can additionally find the app version in the Windows system settings.  This scenario is a good fit when reporting the app version if you're unable to successfully log into the client.
+If you installed AltspaceVR via the Microsoft Store, you could additionally find the app version in the Windows system settings. This scenario is a good fit when reporting the app version if you can't log into the client successfully.
 
-To find the app version in Windows system settings, open the **Start Menu**, type in **Apps & Features**, and select the result. Navigate to **AltspaceVR** in the list of apps. Left-click AltspaceVR and select **Advanced Options** from the menu that appears.
-
+To find the app version in Windows system settings, 
+open the **Start Menu**, 
+type in **Apps & Features**, and select the result. 
+Navigate to **AltspaceVR** in the list of apps. 
+Left-click AltspaceVR and select **Advanced Options** from the menu that appears.
 ![Apps and features menu open with advanced option highlighted](images/app-version-img-02.png)
 
 In the **Advanced Options**, under the **Specifications** header, the **App Version** should be listed to the right of the **Version** label.
@@ -34,18 +37,18 @@ In the **Advanced Options**, under the **Specifications** header, the **App Vers
 
 ### App version in client logs
 
-AltspaceVR reports the app version in the client logs file as "Altspace Version" during application startup. This would be a good option to get the app version if you can't successfully log into the client, but it did attempt to start before failing.
+AltspaceVR reports the app version in the client logs file as "Altspace Version" during application startup. This would be an excellent option to get the app version if you can't log into the client successfully, but it did attempt to start before failing.
 
 ### Windows
 
-On Windows, the client logs file can be found via Windows Explorer at:
+On Windows, you can find the client logs file via Windows Explorer at:
 
 ```
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
-This file is overwritten each time you launch AltspaceVR. 'Player.log' represents your latest session, and 'Player-prev.log' represents the previous session.
+This file overwrites each time you launch AltspaceVR. 'Player.log' represents your latest session, and 'Player-prev.log' represents the previous session.
 
 ### Via PowerShell
 
@@ -63,7 +66,7 @@ Output:
 
 ## How do I upload my client logs?
 
-The AltspaceVR client application keeps a log of diagnostic data and events that occur while you're using AltspaceVR. In the course of troubleshooting an issue, you may be asked to "upload your logs" so that our team can review them. This is a feature of AltspaceVR that allows you to send our team your local log content to help us troubleshoot your issue.
+The AltspaceVR client application keeps a log of diagnostic data and events that occur while you're using AltspaceVR. In troubleshooting an issue, you may be asked to "upload your logs" so that our team can review them. This feature of AltspaceVR allows you to send our team your local log content to help us troubleshoot your issue.
 
 ### In AltspaceVR
 
@@ -94,37 +97,37 @@ Once you've located those files, [open a support ticket](https://help.altvr.com/
 
 ## What do I do if I can't launch AltspaceVR
 
-There are several reasons why AltspaceVR may not launch for you. Try out the following steps to ensure the application is installed correctly with the necessary third-party software.
+There are several reasons why AltspaceVR may not launch for you. Try the following steps to ensure the application is installed correctly with the necessary third-party software.
 
 ### If you're trying to launch AltspaceVR for the first time:
 
 1. Verify that your device is supported and meets the [minimum specified requirements](../getting-started/system-requirements.md).
-2. Make sure you have the latest [Oculus Software](https://www.oculus.com/setup) installed, and that Settings-> General-> Unknown Devices is set to ON. If launching in 2D mode, you don't need Oculus installed.
-3. Make sure that you have a working internet connection. If you're attempting to launch Altspace from within a network firewall, open UDP ports 5055 and 5056, and TCP ports 80 and 443. If you are within the network of a corporate or educational firewall, you may need to contact the network administrator or IT department.
+2. Make sure you have the latest [Oculus Software](https://www.oculus.com/setup) installed and that **Settings-> General-> Unknown Devices** is set to ON. If launching in 2D mode, you don't need Oculus installed.
+3. Make sure that you have a working internet connection. If you're attempting to launch Altspace from within a network firewall, open UDP ports 5055 and 5056, and TCP ports 80 and 443. If you are within a corporate or educational network firewall, you may need to contact the network administrator or IT department.
 4. See also:
     * [Installing AltspaceVR for Oculus Quest](../getting-started/oculus-installation.md)
     * [Installing AltspaceVR for Windows Mixed Reality](../getting-started/wmr-installation.md)
 
 ### If AltspaceVR reports that the current version is out of date:
 
-* The version of the application you're using is no longer supported. If you downloaded AltspaceVR through a storefront, the update may have launched recently before your store was able to update your client.
+* The version of the application you're using is no longer supported. If you downloaded AltspaceVR through a storefront, the update might have launched recently before your store was able to update your client.
 * If you would like to force update, you may do so through the various storefronts:
     * **Microsoft Store:** [Microsoft Store Support - Get updates for apps and games in Microsoft Store](https://support.microsoft.com/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f)
     * **Oculus:** Open your Oculus Library and navigate to 'Updates' in the left navbar.
     * **Steam:** [Steam Support - Update & Installation Issues](https://support.steampowered.com/kb_article.php?ref=2274-IFLV-5334)
 
-### If the program was working, but ceased to launch after update:
+### If the program was working but ceased to launch after update:
 
-* Do a 'Clean Reinstall' of the software. This requires you to uninstall or remove existing versions of the Application. Once fully removed from your system, install Altspace via Steam, Oculus, or Microsoft Store.
+* Do a 'Clean Reinstall' of the software. This step requires you to uninstall or remove existing versions of the application. Once fully removed from your system, install Altspace via Steam, Oculus, or Microsoft Store.
 * If you do have a problem launching AltspaceVR, let us know via a [support ticket](https://help.altvr.com/hc/requests/new). Include a [log file](altspacevr-app-faq.md#how-do-i-upload-my-client-logs) from your session.
 
 ### If AltspaceVR fails to launch after customizing your home space:
 
 * Navigate to your [home space's website](https://account.altvr.com/users/sign_in).
 * Verify that your world's template still exists. If the template was shared with you, it may have been deleted by the owner, which would cause your home space to fail to load.
-    * If the template has been deleted, simply 'Edit' the world from the left 'World Tools' panel, replace the existing template with another template, and 'Update' to save changes.
+    * If the template was deleted, simply 'Edit' the world from the left 'World Tools' panel, replace the existing template with another template, and 'Update' to save changes.
 * Remove any objects that may be failing to load by selecting 'Objects' from the left 'World Tools' panel. Problematic objects may include:
-    * Objects from deleted kits, or objects deleted from kits, that are still present in your world.
+    * Objects from deleted kits, or objects deleted from kits, which are still present in your world.
     * Experimental GLTFs.
 * After addressing the items above, attempt to reenter AltspaceVR.
 
