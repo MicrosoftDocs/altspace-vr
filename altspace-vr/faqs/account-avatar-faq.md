@@ -69,10 +69,10 @@ We highly recommend linking your AltspaceVR account with a personal Microsoft Ac
 ### Troubleshooting Tips
 
 * If you are trying to link a Microsoft Account, but you get an error saying “Email is already taken,” you likely have a classic AltspaceVR account with the same email as your Microsoft Account. We recommend you sign in to altvr.com to link your account:
-    1. Navigate to altvr.com and click “Log In”
-    2. Sign in with your AltspaceVR account (email + password). If you don’t know your password, click “Reset Password” at the top of the page and follow the password recovery process. 
-    3. Once you’re signed in, click on “More > Profile”
-    4. Click “Link Account” to link your classic Altspace account to Microsoft Account. (NOTE: work or school accounts are currently not supported unless your administrator has told you otherwise.)
+    1. Navigate to altvr.com and click **Log In**
+    2. Sign in with your AltspaceVR account (email + password). If you don’t know your password, click **Reset Password** at the top of the page and follow the password recovery process. 
+    3. Once you’re signed in, click on **More > Profile**
+    4. Click **Link Account** to link your classic Altspace account to Microsoft Account. (NOTE: work or school accounts are currently not supported unless your administrator has told you otherwise.)
     5. Run Altspace and sign in with your Microsoft Account
     
 * If you are trying to use the consumer version of AltspaceVR, you need to use a Microsoft account. If you use a work or school account, you will get an error message prompting you to link to a personal Microsoft account. Follow the steps above to unlink and relink accounts. 

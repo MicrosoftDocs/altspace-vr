@@ -16,7 +16,7 @@ In troubleshooting an issue, you may be asked what version of the AltspaceVR app
 
 ### In AltspaceVR
 
-To find the app version in AltspaceVR, navigate the **settings menu** and select **About** in the left navigation bar. The 'App Version' is reported here, as shown in the screenshot below.
+To find the app version in AltspaceVR, navigate to the **settings menu** and select **About** in the left navigation bar. The 'App Version' is reported here, as shown in the screenshot below.
 
 ![Settings menu open with about panel open](images/app-version-img-01.png)
 
