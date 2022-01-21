@@ -16,15 +16,15 @@ If you’d like to see another user’s nametag, select their avatar with your c
 
 You’ll see a few icons on the nametag: **Friend, Block,** and **Mute**.
 
-* **Mute:** Clicking the Mute icon will allow you to mute a user, it’s a temporary mute, and you can unmute them. If this users’ mute icon is already red, they’ve muted themselves.
+* **Mute:** Clicking the **Mute** icon will allow you to mute a user, it’s a temporary mute, and you can unmute them. If this users’ mute icon is already red, they’ve muted themselves.
 
-* **Block:** The block feature will allow you to remove a user from your experience. You’ll no longer see or hear that user, and they’ll no longer see or hear you. If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.
+* **Block:** The block feature will allow you to remove a user from your experience. You’ll no longer see or hear that user, and they’ll no longer see or hear you. If you need to unblock a user, open up your Friends panel in AltspaceVR, select the **block** tab, then **unblock** the user.
 
-* **Friending:** The friend button will send that user a friend request. After friending another user, you can message them across spaces, see when that user is online, and quickly join their room. That user’s nametag will also include a blue border so you can easily recognize them as a friend. You’ll also notice a counter at the bottom of their nametag, which will show the duration that you’ve been friends with that user.
+* **Friending:** The **friend** button will send that user a friend request. After friending another user, you can message them across spaces, see when that user is online, and quickly join their room. That user’s nametag will also include a blue border so you can easily recognize them as a friend. You’ll also notice a counter at the bottom of their nametag, which will show the duration that you’ve been friends with that user.
 
-When you host an activity, you’ll receive other moderation tools. You’ll now have the ability to message users you aren’t yet friends with, and you’ll also have the ability to Kick users.
+When you host an activity, you’ll receive other moderation tools. You’ll now have the ability to message users you aren’t yet friends with, and you’ll also have the ability to kick users.
 
-* **Kick:** If a user interrupts your activity, you can always use the Kick button. The Kick function will remove that user from your activity. After being kicked, they’ll no longer be able to join your current activity. 
+* **Kick:** If a user interrupts your activity, you can always use the **Kick** button. The **Kick** function will remove that user from your activity. After being kicked, they’ll no longer be able to join your current activity. 
 
 * **Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR. All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.
 
@@ -49,20 +49,20 @@ We highly recommend linking your AltspaceVR account with a personal Microsoft Ac
 
 ### How to Unlink Your AltspaceVR and Microsoft Accounts
 
-1. Navigate to altvr.com and click “Log In”
-2. Click “Sign in with Microsoft” and sign in with the Microsoft Account linked to your AltspaceVR account
-3. Once you’re signed in, click on “More”> “Profile”
-4. Click “Unlink Account” to perform the unlinking action
+1. Navigate to altvr.com and click **Log In**
+2. Click **Sign in with Microsoft** and sign in with the Microsoft Account linked to your AltspaceVR account
+3. Once you’re signed in, click on **More > Profile**
+4. Click **Unlink Account** to perform the unlinking action
 5. Now, you can sign in on a classic AltspaceVR account or relink to another Microsoft account
 6. Run AltspaceVR
 
 
 ### How to Relink Your AltspaceVR to Another Microsoft Account
 
-1. Navigate to altvr.com and click “Log In”
-2. Click “Sign in with Microsoft” and sign in with the Microsoft Account linked to your AltspaceVR account
-3. Once you’re signed in, click on “More”> “Profile”
-5. Click “Link Account” and sign in using your preferred personal Microsoft account
+1. Navigate to altvr.com and click **Log In**
+2. Click **Sign in with Microsoft** and sign in with the Microsoft Account linked to your AltspaceVR account
+3. Once you’re signed in, click on **More > Profile**
+5. Click **Link Account** and sign in using your preferred personal Microsoft account
 6. Run AltspaceVR
 
 

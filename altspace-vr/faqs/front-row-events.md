@@ -20,7 +20,7 @@ Once one of your friends has joined a Front Row event, you can enter their insta
 
 The talent on stage is viewing the audience populating a single instance of the Front Row Event. However, they can see users' emojis generated across all event instances.
 
-When a user selects their "Raise Hand" button, the event hosts can activate On-Air for that person using our Host Tools. The audience member can be seen and heard across all the instances, just like the performers. This function allows users to participate in the show and interact with the talent during Q&A sessions, whatever room they're in!
+When a user selects their **Raise Hand** button, the event hosts can activate On-Air for that person using our Host Tools. The audience member can be seen and heard across all the instances, just like the performers. This function allows users to participate in the show and interact with the talent during Q&A sessions, whatever room they're in!
 
 ## Support
 

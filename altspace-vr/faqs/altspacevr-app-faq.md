@@ -125,8 +125,8 @@ There are several reasons why AltspaceVR may not launch for you. Try the followi
 
 * Navigate to your [home space's website](https://account.altvr.com/users/sign_in).
 * Verify that your world's template still exists. If the template was shared with you, it may have been deleted by the owner, which would cause your home space to fail to load.
-    * If the template was deleted, simply 'Edit' the world from the left 'World Tools' panel, replace the existing template with another template, and 'Update' to save changes.
-* Remove any objects that may be failing to load by selecting 'Objects' from the left 'World Tools' panel. Problematic objects may include:
+    * If the template was deleted, simply **Edit** the world from the left **World Tools** panel, replace the existing template with another template, and **Update** to save changes.
+* Remove any objects that may be failing to load by selecting **Objects** from the left **World Tools** panel. Problematic objects may include:
     * Objects from deleted kits, or objects deleted from kits, which are still present in your world.
     * Experimental GLTFs.
 * After addressing the items above, attempt to reenter AltspaceVR.
