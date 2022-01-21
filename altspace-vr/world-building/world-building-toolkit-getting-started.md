@@ -11,20 +11,27 @@ ms.topic: article
 > [!NOTE]
 > If you're trying to revive an old space, see the [upgrade guide](upgrading-old-unity-projects.md). 
 
+## World Building Toolkit (Unity Uploader)
+
 The Uploader lets you use a Unity scene as a Template for your Worlds. You can bring in a haunted house for Halloween or your favorite creation from Minecraft. If you can import it into Unity, you can probably get it into Altspace this way. Here are a few [example Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
 ![Example worlds](images/unity-uploader-img-01.png)
 
 ## Setup
 
-1. We recommend that you [join the official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. This is where you can interact with the Altspace community, share tips and ideas, and so on.
+1. We recommend that you [join the official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. This is where you can interact with the Altspace community and share tips and ideas.
 2. For the basics on world-building, read our [Getting Started Guide](world-building-getting-started.md).
 3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install [**2020.3.18f1**](https://unity3d.com/unity/whats-new/2020.3.18). The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one. For the Unity license, choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
+
     * Include the **Android Build Support** module.
+
     * On Windows, include the **Mac Build Support (Mono)** module.
+    
     * On Mac, include the **Windows Build Support (Mono)** module.
 4. [Download the latest Unity Uploader](https://altvr.com/download-latest-unity-uploader).
+
 5. [Create a Template](https://account.altvr.com/space_templates/new) on our website. Name it **Hello World Template**.
+
 6. [Create a World](https://account.altvr.com/worlds/my) and name it **Hello World**. Select **Hello World Template** as the Template.
 
 ![Created world screen](images/unity-uploader-img-02.png)
