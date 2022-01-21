@@ -55,4 +55,4 @@ While community members may choose to create and use more than one account, spec
 
 ## Reporting Violations of the Community Standards
 
-If you feel an individual has breached the Community Standards, you may file an Abuse Report with the AltspaceVR Community Team. Include an explanation of the incident, the account names of those involved, and the time and time it transpired. The AltspaceVR Community Team will review the report and take the appropriate action. As a policy, we don't provide details of those actions to the reporter. Don't follow up requesting the status of the decision.
+If you feel an individual has breached the Community Standards, you may file an Abuse Report with the AltspaceVR Community Team. Include an explanation of the incident, the account names of those involved, and the time and time it transpired. The AltspaceVR Community Team will review the report and take the appropriate action. As a policy, we don't provide details of those actions to the reporter. Please don't follow up requesting the status of the decision.
