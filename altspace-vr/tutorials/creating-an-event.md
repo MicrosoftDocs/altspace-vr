@@ -1,14 +1,16 @@
 ---
 title: Creating an event
 description: Learn about AltspaceVR events, how to create them, adding branding and 3D objects with the World Editor.
-ms.date: 11/03/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 1/19/2022
 ms.topic: article
-author: schmidtec
-ms.author: v-jschmidt
 keywords: events, terminology, console, multimedia, world editor, live stream, unlisted, private, main, main event, event, worlds, tile, banner, contextual roles, roles, role, instructions, admin, group, tagline, import from world, share with friends, youtube, twitter, host, moderator, megaphone, terraformer, pilot, musical performer, duplicate, fly, jpg, png, photo, 3d, gltf, mre
 ---
 
 # Creating an event
+
+![Event in AltspaceVR](images/step-03-host-your-own-events.png)
 
 This is a step-by-step guide for creating events in AltspaceVR. It's highly recommended that you attend several events in AltspaceVR to get a feel for how they work. Check the [AltspaceVR Events Calendar](https://account.altvr.com/events) for a list of all our Main Events.
 
@@ -72,6 +74,10 @@ The following are step-by-step instructions for creating an Event for a one-time
 > The AltspaceVR Events web page offers instructions on every aspect of the form through the use of green question mark buttons. Roll your cursor over them for specific instructions.
 
 On the [Events > My Events](https://account.altvr.com/events/my) web page on AltspaceVR's website, select **Schedule an Event** or go straight to the [Create Event in AltspaceVR web page](https://account.altvr.com/events/new).
+
+![My events page](images/step-01-my-events.png)
+
+<img src="images/step-02-start-shedule-events.png" alt="Start or schedule an event" width=300px>
 
 1. **Event Title:** Type in the name of the Event. Keep it specific and concise for viewing on the various calendar views on the AltspaceVR website and in-world interface. Try to keep your title under 23 characters including spaces between words.
 2. **Description:** Type in the description of the Event.

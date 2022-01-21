@@ -8,7 +8,7 @@ keywords: mixed reality extensions, community, world building, resources
 
 # Creating AltspaceVR content
 
-AltspaceVR is a great community for those who want to create and share VR content. 
+AltspaceVR is an excellent community for those who want to create and share VR content. 
 
 ## MRE (Mixed Reality Extension) SDK
 
@@ -29,7 +29,7 @@ You can also join us in AltspaceVR at our bi-weekly (Wed @ 4pm PT / Thu @ 11am P
 
 ## World-Building
 
-World-building allows users to easily drag and drop objects in their own space to build their own world!
+World-building allows users to quickly drag and drop objects in their own space to build their world!
 
 ## Resources
 

@@ -8,7 +8,7 @@ keywords: feature request
 
 # Submitting feature requests
 
-Great! Thanks for wanting to help us out, we look forward to receiving your feedback.
+Great! Thanks for wanting to help us out. We look forward to receiving your feedback.
 
 > [!div class="nextstepaction"] 
 > [File a Feature Request](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
