@@ -19,7 +19,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 ## Setup
 
 1. Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr) and visit the #world-building channel. Friends don't let friends build Worlds alone.
-2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics
+2. Read our [World-Building Getting Started Guide](world-building-getting-started.md) for the basics.
 3. [Install Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) and install [**2020.3.18f1**](https://unity3d.com/unity/whats-new/2020.3.18). The Uploader won't work unless you match this version exactly. You'll need a free Unity account if you don't have one and choose **Personal** since you're doing this for fun! During the install, make sure you check the **Android Builds** option and disable auto-update.
     * Include the **Android Build Support** module.
     * On Windows, include the **Mac Build Support (Mono)** module.
@@ -47,12 +47,13 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 > [!NOTE]
 > You'll need to import the Altspace Uploader package into every Unity project you want to use with Altspace.
 1. On the menu bar, select **AltspaceVR > Templates**.
-1. In the **Altspace VR Templates** dialog, sign in with your Altspace account credentials. (MSA login will be available soon. If you've only ever logged into Altspace with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.)
+1. In the **Altspace VR Templates** dialog, sign in with your Altspace account credentials or MSA. If you've only ever logged into Altspace with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.
 1. Click the **Select a Template** drop down, and then select **Hello World Template**.
 1. Choose a scene: click the **Choose a .unity file** ellipsis button (three dots), then navigate to the **Assets** > **Scenes** folder in your project, and then select **SampleScene.unity** and open it.
 1. Under **Build for platforms:**, make sure **Windows** is selected. For now, the other two options, **Android** and **Mac**, should **not** be selected. Once you want people to visit, you should build and upload for all platforms."
 1. Select the **Build & Upload** button. This process may take a minute or two.
-1. Launch Altspace, then select **Main Menu**, and then on the menu bar, select **My Worlds**.
+1. Launch Altspace, and then select **Main Menu**
+1. Click the **Worlds** button, and then, on the top menu bar, select **My Worlds**.
 1. Navigate to **Hello World** and then open it.
 
     Your scene should be similar to what you saw in the Unity Editor.
