@@ -61,8 +61,8 @@ This guide will help you create and share your first AltspaceVR World! The instr
 1. Enter a **Name** and a **Description** for your world.
 1. Under **Privacy Settings**, select **Private** or **Unlisted**.
 
-> [!NOTE]
-> As noted above, private worlds can only be joined by the owner or a universe administrator. Unlisted worlds are available for others to join, but do not appear in the UI--they need an explicit invite. If you select neither option, your world is public. Public worlds are discoverable in the Worlds menu and the Friends list.
+    > [!NOTE]
+    > As noted above, private worlds can only be joined by the owner or a universe administrator. Unlisted worlds are available for others to join, but do not appear in the UI--they need an explicit invite. If you select neither option, your world is public. Public worlds are discoverable in the Worlds menu and the Friends list.
 
 1. If desired, fill in the remaining text boxes and the Advanced options:
 
