@@ -72,6 +72,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 ### Select a template
 
 1. On the menu bar, select **AltspaceVR > Templates**.
+
 1. In the **Altspace VR Templates** window, sign in with your AltspaceVR account credentials or MSA. If you've only ever logged into AltspaceVR with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.
 
     ![AltspaceVR on the menu bar](images/021-altspace-vr-templates.png)
