@@ -25,11 +25,13 @@ To find the app version in AltspaceVR, navigate to the **settings menu** and sel
 If you installed AltspaceVR via the Microsoft Store, you could additionally find the app version in the Windows system settings. This scenario is a good fit when reporting the app version if you can't log into the client successfully.
 
 To find the app version in Windows system settings, 
-open the **Start Menu**, 
-type in **Apps & Features**, and select the result. 
-Navigate to **AltspaceVR** in the list of apps. 
-Left-click AltspaceVR and select **Advanced Options** from the menu that appears.
-![Apps and features menu open with advanced option highlighted](images/app-version-img-02.png)
+
+* Open the **Start Menu** 
+* Type in **Apps & Features**, and select the result 
+* Navigate to **AltspaceVR** in the list of apps 
+* Left-click AltspaceVR and select **Advanced Options** from the menu that appears
+
+    ![Apps and features menu open with advanced option highlighted](images/app-version-img-02.png)
 
 In the **Advanced Options**, under the **Specifications** header, the **App Version** should be listed to the right of the **Version** label.
 
