@@ -74,7 +74,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 1. On the menu bar, select **AltspaceVR > Templates**.
 1. In the **Altspace VR Templates** window, sign in with your AltspaceVR account credentials or MSA. If you've only ever logged into AltspaceVR with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.
 
-    ![AltspaceVR on the menu bar](images/021-altspace-vr-templates.png)
+    ![Screen shot of the Altspace VR Templates window.](images/021-altspace-vr-templates.png)
 
 1. Click the **Select a Template** drop down, and then select **Hello World Template**.
 
@@ -88,7 +88,7 @@ The current scene, which was loaded automatically when you created the project a
 1. Double-click your new scene to open it.
 1. In the **Altspace VR Templates** window, click the **Choose a .unity file** ellipsis button (three dots), then navigate to the **Assets** > **Scenes** folder in your project, and then select **Hello World Scene.unity** and open it. Note that the scene is now listed in the **Altspace VR Templates** window.
 
-    ![AltspaceVR on the menu bar](images/026-scene-selected-in-window.png)
+    ![Screen shot of your selected scene highlighted.](images/026-scene-selected-in-window.png)
 
     > [!IMPORTANT]
     > Don't overlook that last step! If you don't have a scene added in the **Altspace VR Templates** window, this whole process will fail.
@@ -99,7 +99,7 @@ The current scene, which was loaded automatically when you created the project a
 1. On the menu bar, select **GameObject** > **3D Object** > **Capsule**.
 1. In the scene, drag the capsule upward on the Y axis so it looks like it's sitting on the plane.
 
-    ![AltspaceVR on the menu bar](images/027-capsule-on-plane.png)
+    ![Screen shot of a capsule on top of the plane.](images/027-capsule-on-plane.png)
 
 1. Under **Build for platforms:**, make sure **Windows** is selected. For now, the other two options, **Android** and **Mac**, should **not** be selected. Once you want people to visit, you should build and upload for all platforms."
 1. Select the **Build & Upload** button. This process may take a minute or two.
