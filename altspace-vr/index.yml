@@ -35,7 +35,7 @@ highlightedContent:
     # Card
     - title: Building worlds
       itemType: learn
-      url: world-building/world-editor-getting-started.md
+      url: explore/beginners-guide.md#building-your-own-world
     # Card
     - title: Early access 
       itemType: whats-new
