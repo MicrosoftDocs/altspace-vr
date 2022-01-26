@@ -103,13 +103,13 @@ After your world is created, you can do the following:
 
     ![A screenshot of the ENTER button.](images/009-enter-button.png)
 
-Congratulations! You've created and entered your first Altspace World, your own multiplayer social VR experience! We recommend that you play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
+Congratulations! You've created and entered your first AltspaceVR World, your own multiplayer social VR experience! We recommend that you play around with the World Editor, starting with Kits that contain objects you can place and manipulate.
 
 ## Share your World
 
 1. Go to the Campfire (or wherever the people you want to share with are).
 
-    **Tip**: The Campfire is a gathering spot where you can meet up with other community members or find a Community Helper or Community Support Team Member who can answer your Altspace questions and show you around. 
+    **Tip**: The Campfire is a gathering spot where you can meet up with other community members or find a Community Helper or Community Support Team Member who can answer your AltspaceVR questions and show you around. 
     
     To go to the Campfire:
     - Go to the main page of the AltspaceVR app and on the Button bar, click **Discover**.
