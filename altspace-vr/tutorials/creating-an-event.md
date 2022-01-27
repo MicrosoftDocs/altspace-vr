@@ -144,7 +144,7 @@ On the [Events > My Events](https://account.altvr.com/events/my) web page on Alt
 
 Once the form is complete and triple checked, select **CREATE EVENT**.
 
-> IMPORTANT!
+> [!IMPORTANT]
 > If your event is not correctly being created, make sure you have at least 10 characters in your Description and/or you've selected a Template, the name of the Template will turn from white to blue if selected.
 
 ## Event page actions
