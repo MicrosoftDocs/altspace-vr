@@ -2,7 +2,7 @@
   href: index.yml
 - name: AltspaceVR Overview
   href: overview.md
-- name: Beginner's guide
+- name: explore/Beginner's guide
   href: beginners-guide.md
 - name: Accessing the latest features
   href: world-building/early-access.md  
@@ -46,7 +46,7 @@
     - name: Basic events
       items:
         - name: Overview
-          href: host-events.md      
+          href: explore/host-events.md    
         - name: Setting up an event
           href: tutorials/creating-an-event.md
         - name: Roles in events, worlds, groups, and AltspaceVR
