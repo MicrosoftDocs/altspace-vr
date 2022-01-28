@@ -2,8 +2,8 @@
   href: index.yml
 - name: AltspaceVR Overview
   href: overview.md
-- name: explore/Beginner's guide
-  href: beginners-guide.md
+- name: Beginner's guide
+  href: explore/beginners-guide.md
 - name: Accessing the latest features
   href: world-building/early-access.md  
 - name: Setting up
