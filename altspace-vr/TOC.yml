@@ -2,9 +2,11 @@
   href: index.yml
 - name: AltspaceVR Overview
   href: overview.md
-- name: Exploring AltspaceVR
-  href: explore/TOC.yml
-- name: Getting started
+- name: explore/Beginner's guide
+  href: beginners-guide.md
+- name: Accessing the latest features
+  href: world-building/early-access.md  
+- name: Setting up
   expanded: true 
   items:
     - name: System requirements 
@@ -15,18 +17,18 @@
       href: getting-started/oculus-installation.md
     - name: Creating and linking accounts
       href: getting-started/creating-and-linking-accounts.md
-    - name: Input controls 
-      items: 
-        - name: Windows Mixed Reality controls 
-          href: getting-started/wmr-controls.md
-        - name: Oculus Quest/Quest 2 controls 
-          href: getting-started/oculus-controls.md
-        - name: Keyboard shortcuts
-          href: getting-started/keyboard-shortcuts.md
-        - name: Controlling avatars with Mouse/Keyboard in 2D PC Mode
-          href: getting-started/avatar-controls.md
-        - name: Using gamepad controls 
-          href: getting-started/gamepad-controls.md
+- name: Input controls
+  items: 
+    - name: Windows Mixed Reality controls 
+      href: getting-started/wmr-controls.md
+    - name: Oculus Quest/Quest 2 controls 
+      href: getting-started/oculus-controls.md
+    - name: Keyboard shortcuts
+      href: getting-started/keyboard-shortcuts.md
+    - name: Controlling avatars with Mouse/Keyboard in 2D PC Mode
+      href: getting-started/avatar-controls.md
+    - name: Using gamepad controls 
+      href: getting-started/gamepad-controls.md
 - name: Discover content & people
   items: 
     - name: Explore the Title Screen
@@ -43,6 +45,8 @@
   items:
     - name: Basic events
       items:
+        - name: Overview
+          href: explore/host-events.md    
         - name: Setting up an event
           href: tutorials/creating-an-event.md
         - name: Roles in events, worlds, groups, and AltspaceVR
@@ -73,54 +77,48 @@
           href: tutorials/host-tools-overview.md
         - name: FrontRow events 
           href: tutorials/host-tools-for-events.md
-- name: Controls & customizations
+- name: World building
   items:
-      - name: Early access
-        href: world-building/early-access.md
-      - name: Worlds Beta program 
+      - name: Basic world building
+        items: 
+          - name: Getting started with world building 
+            href: world-building/world-building-getting-started.md
+          - name: Getting help with world building
+            href: world-building/getting-help.md        
+          - name: Creating content 
+            href: community/creating-content.md
+          - name: Getting started with the World Editor
+            href: world-building/world-editor-getting-started.md
+          - name: Improving performance 
+            href: world-building/improving-performance.md
+          - name: Managing your worlds 
+            href: world-building/managing-worlds.md
+          - name: Adding a welcome message 
+            href: world-building/adding-welcome-messages.md
+          - name: Adding spawn points 
+            href: world-building/adding-custom-spawn-points.md
+          - name: Backing up your worlds 
+            href: world-building/backing-up-worlds.md
+          - name: Managing worlds with friends
+            href: world-building/granting-roles.md
+          - name: Giving abilities to friends 
+            href: world-building/adding-user-abilities.md
+      - name: Advanced world building
         items:
-          - name: Basic world building
-            items: 
-              - name: Creating content 
-                href: community/creating-content.md
-              - name: Getting started with the World Editor
-                href: world-building/world-editor-getting-started.md
-              - name: Improving performance 
-                href: world-building/improving-performance.md
-              - name: Managing your worlds 
-                href: world-building/managing-worlds.md
-              - name: Adding a welcome message 
-                href: world-building/adding-welcome-messages.md
-              - name: Adding spawn points 
-                href: world-building/adding-custom-spawn-points.md
-              - name: Backing up your worlds 
-                href: world-building/backing-up-worlds.md
-              - name: Managing worlds with friends
-                href: world-building/granting-roles.md
-              - name: Giving abilities to friends 
-                href: world-building/adding-user-abilities.md
-          - name: Advanced world building
-            items:
-              - name: World Building Toolkit (Unity Uploader)
-                href: world-building/world-building-toolkit-getting-started.md
-              - name: Upgrading Old Unity Projects
-                href: world-building/upgrading-old-unity-projects.md
-              - name: Mobile Performance Optimization Guide 
-                href: world-building/unity-mobile-performance-guide.md
-              - name: Using Mixed Reality Extensions
-                href: world-building/using-mixed-reality-extensions.md
-              - name: Uploading kits
-                href: world-building/uploading-custom-kits.md
-              - name: Importing glTF models
-                href: world-building/importing-models.md
-              - name: Uploading skyboxes
-                href: world-building/uploading-custom-skyboxes.md
-          - name: FAQ
-            items: 
-              - name: Getting started with world building 
-                href: world-building/world-building-getting-started.md
-              - name: Getting help with world building
-                href: world-building/getting-help.md
+          - name: World Building Toolkit (Unity Uploader)
+            href: world-building/world-building-toolkit-getting-started.md
+          - name: Upgrading Old Unity Projects
+            href: world-building/upgrading-old-unity-projects.md
+          - name: Mobile Performance Optimization Guide 
+            href: world-building/unity-mobile-performance-guide.md
+          - name: Using Mixed Reality Extensions
+            href: world-building/using-mixed-reality-extensions.md
+          - name: Uploading kits
+            href: world-building/uploading-custom-kits.md
+          - name: Importing glTF models
+            href: world-building/importing-models.md
+          - name: Uploading skyboxes
+            href: world-building/uploading-custom-skyboxes.md
 - name: Rules & standards 
   items:
     - name: Terms of service
