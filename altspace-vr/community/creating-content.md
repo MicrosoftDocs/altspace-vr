@@ -44,7 +44,7 @@ There's also a [wonderful video on YouTube](https://www.youtube.com/watch?v=oILy
 
 ## Unity Uploader
 
-We offer the Unity Uploader for both worlds and custom kits. To learn more, see [Introducing the AltspaceVR Uploader](.../world-building/world-building-toolkit-getting-started). You can also discuss it on the World Builders Discord channel--see the links under "Join the Community" below.
+We offer the Unity Uploader for both worlds and custom kits. To learn more, see [Introducing the AltspaceVR Uploader](.../world-building/world-building-toolkit-getting-started.md). You can also discuss it on the World Builders Discord channel--see the links under "Join the Community" below.
 
 If you have legacy Unity 2018 kits or templates to update to Unity 2019.2, check out the [Upgrade Guide](https://developer.altvr.com/upgrade-2019-2/).
 
