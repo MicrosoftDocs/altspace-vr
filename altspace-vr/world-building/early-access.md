@@ -8,7 +8,7 @@ keywords: early access
 
 # Accessing the latest features
 
-The Early Access program gives you access to the latest features that are still in development and it's free. We’re working on different things and want to give them to you, even if they're not completely polished yet. Why, you ask? Because we want to know what you think! Do you like them? Are they valuable to you? Are they annoying? Your feedback is valuable to us and will ultimately help make a better AltspaceVR. Many World-Building features are only available to users who are in Early Access and so here's how you can opt in:
+The Early Access program gives you access to the latest features that are still in development and it's free. We’re working on things that may not be finished but we'd still like you to see. Why? We want to know what you think. Do you like them? Are they valuable to you? Are they annoying? Your feedback is valuable to us and will ultimately help make a better AltspaceVR. Many workd building features are only available to users who are in Early Access--here's how you can opt in:
 
 ## Join the Early Access program from within your app
 
@@ -17,7 +17,7 @@ The Early Access program gives you access to the latest features that are still 
 ![Settings menu with early access option highlighted](images/early-access-img-01.png)
 
 2. Restart AltspaceVR.
-3. Explore your new abilities!
+3. Explore your new abilities.
 
 ## Join the Early Access program on the AltspaceVR website
 
@@ -27,7 +27,7 @@ The Early Access program gives you access to the latest features that are still 
 ![AltspaceVR profile open with early access option highlighted](images/early-access-img-02.png)
 
 3. If you're already in AltspaceVR, restart.
-4. Explore your new abilities!
+4. Explore your new abilities.
 
 ## Troubleshooting
 
