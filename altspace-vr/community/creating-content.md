@@ -8,7 +8,7 @@ keywords: mixed reality extensions, community, world building, resources
 
 # Creating AltspaceVR content
 
-AltspaceVR is an excellent community for those who want to create and share VR content. We want to support and grow our community of developers. 
+AltspaceVR is an excellent community for developers who want to create and share VR content. We want to support and grow that community. 
 
 ## MRE (Mixed Reality Extension) SDK
 
@@ -20,15 +20,15 @@ The MRE SDK is the new SDK for building AltspaceVR extensions using Node.JS.
 1. Install [Git command line tools](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 1. Go to the MRE SDK Samples repository and follow the step-by-step instructions to build and run a sample.
 
-> [!div class="nextstepaction"]
-> [MRE SDK Samples Repository](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)
+    > [!div class="nextstepaction"]
+    > [MRE SDK Samples Repository](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)
 
 You can also:
 
--Join the [MRE SDK Discord Community](https://discord.gg/xyBcQec) to chat with other MRE developers.
--Watch the [Building Tic-Tac-Toe video](https://www.youtube.com/watch?v=DQHrdK9JSXI).
--Learn how to edit and build MREs with [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code).
--Browse the [Hello World](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world) source code.
+- Join the [MRE SDK Discord Community](https://discord.gg/xyBcQec) to chat with other MRE developers.
+- Watch the [Building Tic-Tac-Toe video](https://www.youtube.com/watch?v=DQHrdK9JSXI).
+- Learn how to edit and build MREs with [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code).
+- Browse the [Hello World](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world) source code.
 
 ## Integrating the MRE SDK into your own app
 
