@@ -1,6 +1,6 @@
 - name: Welcome to AltspaceVR
   href: index.yml
-- name: AltspaceVR Overview
+- name: AltspaceVR overview
   href: overview.md
 - name: Beginner's guide
   href: explore/beginners-guide.md
