@@ -1,6 +1,6 @@
 ---
 title: HIC Vive Pro 2 controls
-description: Learn about the basic control scheme for running AltspaceVR using Windows Mixed Reality motion controllers.
+description: Learn about the basic control scheme for running AltspaceVR using HTC Vive Pro 2 controllers.
 author: qianw211
 ms.author: qianwen
 ms.date: 2/7/2022
