@@ -12,4 +12,4 @@ keywords: windows mixed reality, controls
 
 HTC Vive Pro 2 controls are shown below:
 
-![HTC Vive Pro 2 controls](images/htc-vive-controls.svg)
+![Right and left HTC Vive Pro 2 motion controllers with action callouts for each button and input mechanism](images/htc-vive-controls.svg)
