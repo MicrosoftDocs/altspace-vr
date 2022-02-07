@@ -11,9 +11,9 @@ metadata:
   services: mixed-reality 
   ms.service: mixed-reality #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
-  author: hferrone #Required; your GitHub user alias, with correct capitalization.
-  ms.author: v-hferrone #Required; microsoft alias of author; optional team alias.
-  ms.date: 02/10/2021 #Required; mm/dd/yyyy format.
+  author: qianw211 #Required; your GitHub user alias, with correct capitalization.
+  ms.author: qianwen #Required; microsoft alias of author; optional team alias.
+  ms.date: 1/16/2022 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
 # Maximum of 8 items
@@ -21,21 +21,21 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card
-    - title: Getting started 
-      itemType: get-started
+    - title: What is AltspaceVR
+      itemType: overview
       url: overview.md
     # Card
-    - title: Discover content & people 
-      itemType: overview
-      url: community/exploring-title-screen.md
+    - title: Beginner's guide
+      itemType: get-started
+      url: explore/beginners-guide.md
     # Card
-    - title: Creating events 
+    - title: Hosting events 
       itemType: how-to-guide
-      url: tutorials/creating-an-event.md
+      url: explore/host-events.md
     # Card
     - title: Building worlds
       itemType: learn
-      url: world-building/world-editor-getting-started.md
+      url: explore/beginners-guide.md#building-your-own-world
     # Card
     - title: Early access 
       itemType: whats-new

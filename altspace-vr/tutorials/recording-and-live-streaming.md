@@ -1,7 +1,9 @@
 ---
 title: Recording and live streaming
 description: Learn how to record and live stream your AltspaceVR events from your PC to promote and share with your users.
-ms.date: 10/27/2021
+author: qianw211    
+ms.author: v-qianwen
+ms.date: 11/1/2021
 ms.topic: article
 keywords: streaming, recording, video, audio, youtube, obs, live
 ---
@@ -19,7 +21,7 @@ In this article, you'll learn how to:
 
 ### The short version
 
-1. Have AltspaceVR and OBS installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
+1. Have AltspaceVR and OBS (Open Broadcaster Software) installed. Launch AltspaceVR in 2D mode, launch OBS, set OBS up to record AltspaceVR and record away!
 
 ### The slightly longer version
 
@@ -30,20 +32,20 @@ In this article, you'll learn how to:
 ### Have AltspaceVR running BEFORE you run OBS
 
 1. Download and install AltspaceVR from our website: [altvr.com/get](https://altvr.com/getaltspacevr)
-2. If you'd like to have the video be very stable and without jerky head movements, make sure you either use the 2D client, or launch AltspaceVR in 2D mode by unplugging your HMD’s USB cable from your PC or if you have a Rift: Ctrl+Alt+Del, Services, Oculus VR Runtime Service, right-click, Stop. This will disable Oculus and start AltspaceVR in 2D mode, repeat these steps and use Start to get VR mode back.
+2. If you'd like to stabilize your VR video and eliminate jerky head movements, make sure you either use the 2D client, or launch AltspaceVR in 2D mode by unplugging your headset’s USB cable from your PC. If you have a Rift, press Ctrl+Alt+Del, select **Services**, **Oculus VR Runtime Service**, right-click, and select **Stop**. This will disable Oculus and start AltspaceVR in 2D mode. Repeat these steps and use Start to get VR mode back.
 3. You can also record your experience in VR mode, using Game Capture with OBS
 
 Now, Alt-Tab over to OBS:
 
-1. Under Scenes, select **+** and name your new scene
-2. Next, under Sources, select: **+ > Game Capture > Create new**
-2. Edit text to 'AltspaceVR Capture', tick **Make source visible**, and select OK
-3. Double-click **AltspaceVR Capture** under Sources
+1. Under **Scenes**, select **+** and name your new scene
+2. Next, under **Sources**, select: **+ > Game Capture > Create new**
+2. Edit text to 'AltspaceVR Capture', tick **Make source visible**, and select **OK**
+3. Double-click **AltspaceVR Capture** under **Sources**
 4. Change **Mode** to **Capture specific window**
 5. Window: [AltspaceVR.exe]: AltspaceVR
 6. Window Match Priority: Match title, otherwise find window of the same executable
-7. Scroll down to Capture Cursor: untick
-8. Select OK
+7. Scroll down to **Capture Cursor**: untick
+8. Select **OK**
 9. This should make AltspaceVR show up in OBS.
 
 Now to set the following properties in OBS, go to **File > Settings**:
@@ -81,7 +83,7 @@ We usually mute the Mic/Aux when recording. Go ahead and select the speaker icon
 * To record just the audio from AltspaceVR, go into **Open Volume mixer** (right-click on the Speaker icon on the bottom right of Windows) and mute System Sounds, browsers, and so on, but don't mute OBS or AltspaceVR.
 
 > [IMPORTANT]
-> Don't forget to un-mute these Volume mixer settings after recording.
+> Don't forget to unmute these Volume mixer settings after recording.
 
 Now, navigate back to OBS and select **Stop Recording**. To find the video you just recorded go to **File>Show Recordings**. This opens up the folder with your OBS video files, double-click the test video.
 
@@ -95,11 +97,11 @@ Congrats you're an AltspaceVR video recorder!
 
 ### The short version
 
-Have AltspaceVR and OBS installed. Launch AltspaceVR, launch OBS, either live stream 'Right Now' or 'Later date' on YouTube, set up OBS with your YouTube Stream Key, start streaming in OBS, start streaming on YouTube and you're off to the races!
+Have AltspaceVR and OBS installed. Launch AltspaceVR and OBS. You can either live stream 'Right Now' or on a 'Later date'. On YouTube, set up OBS with your YouTube Stream Key. Start streaming in OBS and on YouTube, and you're off to the races!
 
 ### The slightly longer version
 
-See the [Recording AltspaceVR in 2D mode on PC](#recording-altspacevr-in-2d-mode-on-pc) section at the top of this page for instructions on how to: test recording using a local recording instead of the live stream and also how to get your camera shot set up.
+See the [Recording AltspaceVR in 2D mode on PC](#recording-altspacevr-in-2d-mode-on-pc) section at the top of this page for instructions on how to test recording using a local recording instead of the live stream, and how to get your camera shot set up.
 
 ## Setting up Live Streaming on YouTube
 
@@ -110,42 +112,42 @@ You can either get a live stream going 'Right Now' or set up a future live strea
 
 **'Right now'** method:
 
-* Select **Right now / START**
-* Select **Streaming software / GO**
-* Choose **EDIT**, top right, to edit your video details and customizations
-* Under Stream Settings, keep the defaults
-* Beside **Stream key (paste in encoder)**, **COPY** the key so you can paste it into OBS
-* Open OBS / **Settings** / **Stream**
-* In the **Service** drop-down menu, select **YouTube - RTMPS**
-* Paste the Stream key from YouTube into the **Stream Key** field in OBS
-* Click Apply, then OK
-* Select **Start Streaming** in OBS
-* Switch over to YouTube and you will see you are now LIVE on YouTube!
-* To see your actual YouTube live stream video page, you'll need to select the SHARE icon at the top right
-* Click the 'Video link' and you will see and hear your YouTube live stream 
-* This URL is your live stream link and can be shared out to all your Social channels :)
-* To stop the live stream, select END STREAM on YouTube then Stop Streaming on OBS
+1. Select **Right now / START**
+1. Select **Streaming software / GO**
+1. Choose **EDIT**, top right, to edit your video details and customizations
+1. Under **Stream Settings**, keep the defaults
+1. Beside **Stream key (paste in encoder)**, **COPY** the key so you can paste it into OBS
+1. Open OBS / **Settings** / **Stream**
+1. In the **Service** drop-down menu, select **YouTube - RTMPS**
+1. Paste the Stream key from YouTube into the **Stream Key** field in OBS
+1. Click **Apply**, then **OK**
+1. Select **Start Streaming** in OBS
+1. Switch over to YouTube and you will see you are now LIVE on YouTube!
+1. To see your actual YouTube live stream video page, you'll need to select the SHARE icon at the top right
+1. Click the 'Video link' and you will see and hear your YouTube live stream 
+1. This URL is your live stream link and can be shared out to all your Social channels :)
+1. To stop the live stream, select END STREAM on YouTube then Stop Streaming on OBS
 
 '**Later date**' method:
-* Top left, choose the **Manage** icon
-* Select **SCHEDULE STREAM**, top right
-* Add Title, Description, Category, Thumbnail (1280x720), then **NEXT**
-* Live chat options, then **NEXT**
-* Private, Unlisted or Public (choose Public)
-* Schedule the Date and Time you want to go live, then **DONE**
+1. Top left, choose the **Manage** icon
+1. Select **SCHEDULE STREAM**, top right
+1. Add Title, Description, Category, Thumbnail (1280x720), then **NEXT**
+1. Live chat options, then **NEXT**
+1. Private, Unlisted or Public (choose Public)
+1. Schedule the Date and Time you want to go live, then **DONE**
 
  **When you are ready to start your live stream in the future:**
-* Under Stream Settings, keep the defaults
-* Beside **Stream key (paste in encoder)**, **COPY** the key so you can paste it into OBS
-* Open OBS / **Settings** / **Stream**
+1. Under Stream Settings, keep the defaults
+1. Beside **Stream key (paste in encoder)**, **COPY** the key so you can paste it into OBS
+1. Open OBS / **Settings** / **Stream**
 * In the **Service** drop-down menu, select **YouTube - RTMPS**
-* Paste the Stream key from YouTube into the **Stream Key** field in OBS
-* Click Apply, then OK
-* Select **Start Streaming** in OBS
-* Switch over to YouTube and you will see you are now LIVE on YouTube!
-* To see your actual YouTube live stream video page, you'll need to select the SHARE icon at the top right
-* Click the 'Video link' and you will see and hear your YouTube live stream 
-* This URL is your live stream link and can be shared out to all your Social channels :)
-* To stop the live stream, select END STREAM on YouTube then Stop Streaming on OBS
+1. Paste the Stream key from YouTube into the **Stream Key** field in OBS
+1. Click **Apply**, then **OK**
+1. Select **Start Streaming** in OBS
+1. Switch over to YouTube and you will see you are now LIVE on YouTube!
+1. To see your actual YouTube live stream video page, you'll need to select the SHARE icon at the top right
+1. Click the 'Video link' and you will see and hear your YouTube live stream 
+1. This URL is your live stream link and can be shared out to all your Social channels :)
+1. To stop the live stream, select **END STREAM** on YouTube then **Stop Streaming** on OBS
 
-For bonus points share your videos on social and make sure to tag us @AltspaceVR :)
+For bonus points, share your videos on social and make sure to tag us @AltspaceVR :)
