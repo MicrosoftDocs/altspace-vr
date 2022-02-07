@@ -21,7 +21,7 @@ Material Terms and Notices:  As provided in greater detail in this EULA (and wit
 
 * the Service is licensed to you, not sold to you, and you may use the Service only as set forth in this EULA;
 * the use of the Service may be subject to separate third-party terms of service and fees, including, without limitation, such terms of service and fees imposed by your mobile network operator (the “Carrier”), including fees charged for data usage and overage, which are your sole responsibility;
-* you consent to the collection, use, and disclosure of your personally identifiable information in accordance with the [Microsoft Privacy Statement](aka.ms/privacy) (“Privacy Policy”);
+* you consent to the collection, use, and disclosure of your personally identifiable information in accordance with the [Microsoft Privacy Statement](https://aka.ms/privacy) (“Privacy Policy”);
 * the Service is provided “as is” without warranties of any kind and AltVR’s liability to you is limited.
 
 **1. General Terms and Conditions.**
