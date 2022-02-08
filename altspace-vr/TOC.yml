@@ -21,6 +21,8 @@
   items: 
     - name: Windows Mixed Reality controls 
       href: getting-started/wmr-controls.md
+    - name: HTC Vive Pro 2 controls 
+      href: getting-started/htc-vive-pro-controls.md
     - name: Oculus Quest/Quest 2 controls 
       href: getting-started/oculus-controls.md
     - name: Keyboard shortcuts
