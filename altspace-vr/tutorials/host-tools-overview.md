@@ -43,7 +43,7 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 ![Host tools menu expanded to show available options with toggle stage blocker highlighted](images/host-tools-img-02.png)
 
 > [!IMPORTANT]
-> Not all event categories contain a stage blocker, so pick your event templates that contains a stage. Make yourself familiar with our event templates on test events prior to creating your official event. You can also add stages and stage blockers to your event in the **World Editor -> Editor Panel -> Altspace Kits -> Event Tools -> Stage Blocker**.
+> To activate stage blocker for your event, pick your event template that contains a stage. Make yourself familiar with our event templates on test events prior to creating your official event. You can also add stages and stage blockers to your event in the **World Editor -> Editor Panel -> Altspace Kits -> Event Tools -> Stage Blocker**.
 
 ![Choose the right event category will make the Toggle Stage Blocker appear on your **Host Tools** Menu](images/events-category.png)
 
