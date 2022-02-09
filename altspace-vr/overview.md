@@ -17,7 +17,7 @@ AltspaceVR is the leading platform for live mixed reality experiences. AltspaceV
 AltspaceVR allows large groups of individuals to be co-present in a single space.  [FrontRow](faqs/scaling-audiences.md) technology provides audience-scaling into the thousands.
 
 >[!Note]
->we are making changes to AltspaceVR to improve safety and continue to focus the platform as an event-based community space. These changes will help users better connect with those with shared common interests. We ensure AltspaceVR users that their spaces and the people they encounter are appropriate for their age groups. In general, we are making Altspace an event-based community space.
+>we are making changes to AltspaceVR to improve safety and continue to focus the platform as an event-based community space. These changes will help users better connect with those with shared common interests. For AltspaceVR users, we ensure their spaces and the people they encounter are appropriate for their age groups. In general, we are making Altspace an event-based community space.
 
 ## Virtual reality events
 
