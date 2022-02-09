@@ -38,7 +38,7 @@ As a Community Helper, you MUST meet or exceed these expectations:
     * Communicate and collaborate with AltspaceVR staff in a positive and helpful manner 
 4. Commit to champion AltspaceVR in all your interactions online, in-world, and in real life. 
 5. Participate in the AltspaceVR community:
-    * Attend events, spend time in Commons Hubs & Worlds
+    * Attend events, spend time in Worlds
     * Regularly host and moderate Main Events
     * Participate helpfully and positively on our [Official Discord server](https://altvr.com/discord)
     * Build Worlds, create with the MRE, and so on. 

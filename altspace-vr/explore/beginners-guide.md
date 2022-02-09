@@ -26,7 +26,7 @@ Take a look at our list of section headings. Each link goes to an easy-to-digest
 
 | &nbsp; | &nbsp; | &nbsp;  |
 | --- | --- | --- |
-| <a href="#get-started"> <img src="images\icon-get-started.svg" alt="Get started icon" width=100px> </a> <br> [**Get started**](#get-started) <ul><li> [Gear you need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | <a href="#get-your-bearings"> <img src="images\icon-get-your-bearings.svg" alt="Get your bearings icon" width=100px> </a> <br> [**Get your bearings**](#get-your-bearings) <ul><li> [Tutorials: move around, interact with objects, customize your avatar, and more!](#altspacevr-tutorial) </li> <li> [The **Title Screen**](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | <a href="#get-going"> <img src="images\icon-get-going.svg" alt="Get going icon" width=100px> </a> <br> [**Get going**](#get-going) <ul><li>[Finding and attending events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> <li>[Exploring Hubs](#exploring-hubs)</li> </ul> |
+| <a href="#get-started"> <img src="images\icon-get-started.svg" alt="Get started icon" width=100px> </a> <br> [**Get started**](#get-started) <ul><li> [Gear you need](../getting-started/system-requirements.md)</li> <li> [Installation](#download-and-installation) </li> <li> [Account creation](#creating-accounts) </li> </ul> <br> | <a href="#get-your-bearings"> <img src="images\icon-get-your-bearings.svg" alt="Get your bearings icon" width=100px> </a> <br> [**Get your bearings**](#get-your-bearings) <ul><li> [Tutorials: move around, interact with objects, customize your avatar, and more!](#altspacevr-tutorial) </li> <li> [The **Title Screen**](#title-screen) </li> <li> [The **Main Menu**](#main-menu) </li> <li>[The **Radial Menu**](#the-radial-menu)</li> </ul> | <a href="#get-going"> <img src="images\icon-get-going.svg" alt="Get going icon" width=100px> </a> <br> [**Get going**](#get-going) <ul><li>[Finding and attending events](#finding-and-attending-events)</li> <li>[Entry Codes](#entry-codes)</li> <li>[Exploring Worlds](#exploring-worlds)</li> </ul> |
 | <a href="#get-social"> <img src="images\icon-get-social.svg" alt="Get social icon" width=100px> </a> <br> [**Get social**](#get-social) <ul> <li>[Finding and making friends](#finding-and-making-friends)</li> <li>[The **People** tab](#the-people-tab)</li> <li>[Taking and sharing selfies and snapshots](#taking-and-sharing-selfies-and-snapshots) </li> <li>[Community standards](#community-standards) </li> </ul> | <a href="#build-events"> <img src="images\icon-build-events-02.svg" alt="Build events icon" width=100px> </a> <br> [**Build events**](#build-events) <ul> <li> [Create your own event](#create-an-event) </li> </ul>  |  <a href="#build-worlds"> <img src="images\icon-build-worlds-01.svg" alt="Build world icon" width=100px> </a> <br> [**Build Worlds**](#build-worlds) <ul> <li> [Build your own World](#building-your-own-world) </li> </ul> |
 
 ### Get started
@@ -109,7 +109,7 @@ This tutorial focuses on some of the platform's key features and shows you how t
 * **EVENTS** – Discover all the different types of events happening in AltspaceVR.
 * **HOSTING EVENTS** – Need a studio for your new talk show? A stage for your stand-up routine? We've got a template for you! Learn how to create your awesome events easily!
 
-Once you complete the tour, you can explore **The Campfire**, return to the teleporter. You can also use the **Radial Menu** in your lower-left corner to exit the **Title Screen** or **Main Menu**.
+Once you complete the tour, you can use the **Radial Menu** in your lower-left corner to exit the **Title Screen** or **Main Menu**.
 
 #### Title screen
 
@@ -123,7 +123,7 @@ The **title screen** is your entry point to AltspaceVR. From here, you can sign 
 
 Here's a quick rundown of its key tabs and functions:
 
-* **DESTINATIONS** – Quickly navigate to popular events, hubs, or your Homespace.
+* **DESTINATIONS** – Quickly navigate to popular events or your Homespace.
 * **ENTRY CODE** – Alphanumeric codes allow you to teleport directly to Events or Worlds.
 * **TUTORIAL** – An excellent place for new users to learn and practice the basics.
 * **NEWS** – Find out what's new in AltspaceVR: updates, release notes, and more.
@@ -233,17 +233,6 @@ You can access **Worlds** from the **Main Menu**.
 
 <br>
 
-#### Exploring Hubs
-
-Hubs are public spaces where users can meet and connect.
-
-**The Campfire** is our original hub space. We like to think of it as the friendliest place in AltspaceVR. It's open 24/7, and in addition to being a delightful place to play cornhole or roast marshmallows. You can also chat with AltspaceVR staffers and Community Helpers. They're almost always on hand to answer questions and point you toward fun events and activities.
-
-Other hubs bring users together around shared interests:
-
-* **Trending News** – A great place to talk about news, sports, travel, and more.
-* **Trending Entertainment** – Share your love for all things entertainment!
-
 ### Get social
 
 #### Finding and making friends
@@ -254,7 +243,7 @@ Other hubs bring users together around shared interests:
 
 <br>
 
-AltspaceVR is all about community and connection. People from all around the world can come together for enriching shared experiences. Whether you're attending an event, exploring Worlds, or chilling at **The Campfire**, you're most likely going to be with other people. Chances are, you'll want to stay in touch with some of the peeps you meet. Nametags are your key to connection.
+AltspaceVR is all about community and connection. People from all around the world can come together for enriching shared experiences. Whether you're attending an event or exploring Worlds, you're most likely going to be with other people. Chances are, you'll want to stay in touch with some of the peeps you meet. Nametags are your key to connection.
 
 Everyone in AltspaceVR has a **Nametag**. In addition to helping identify other users, its interface allows you to connect with people your vibe with and block or mute those you don't!
 
@@ -363,7 +352,6 @@ If you're ready to get started, check out these articles:
 
 As you explore the platform, you may have questions and problems that need solutions. Fortunately, there are many avenues for help – in VR and otherwise. Here are some of the best resources:
 
-* **THE CAMPFIRE** –  Our most popular Hub space, where Staffers and/or Community Helpers are almost always on hand to answer questions. Look out for the gold badges on their Nametags!
 * **OUR WEBSITE** – [Reach out to tech support](https://altvr.com/support) with any questions or concerns.
 * **DOCUMENTATION** – Find [detailed information on all things AltspaceVR](http://altvr.com/help).
 * **DISCORD** – [Chat with fellow Altspacers and staffers](https://discord.com/invite/altspacevr) on this popular messaging app. 

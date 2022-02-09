@@ -26,7 +26,7 @@ If your AltspaceVR account links to your Microsoft Account, select the **Sign-in
 
 ## Destinations 
 
-The green **Destinations** button on the left is where you'll find things like AltspaceVR Hubs, your Homespace, upcoming Spotlight Events, or any events you've recently attended. You'll also find events that your friends may be attending. The **Destinations** panel makes navigating to key places quick and straightforward. 
+The green **Destinations** button on the left is where you'll find things like your Homespace, upcoming Spotlight Events, or any events you've recently attended. You'll also find events that your friends may be attending. The **Destinations** panel makes navigating to key places quick and straightforward. 
 
 ![Destinations page with enter and info options](images/title-screen-04.png)
 
@@ -42,7 +42,7 @@ If you have the code for the event, you'd like to attend, enter it into the Titl
 
 ## Other Functions 
 
-The final few functions available in the Title Screen are **Account** **Main Menu** and **Exit**. These options mimic the ones found in your radial HUD menu when you are in Events, Hubs, Worlds, or your Homespace. 
+The final few functions available in the Title Screen are **Account** **Main Menu** and **Exit**. These options mimic the ones found in your radial HUD menu when you are in Events, Worlds, or your Homespace. 
 
 The **Account** section gives you several options related to your AltspaceVR account. Here you can review your credentials, connect your AltspaceVR account to a Microsoft Account (or AAD for enterprise users), switch to another account, or sign out of your current account. 
 
@@ -50,7 +50,6 @@ The **Account** section gives you several options related to your AltspaceVR acc
 
 The **Main Menu** option in the Title Screen is the same as the Main Menu that you access using your radial HUD elsewhere. Here, you can browse through the tabs for the following features:
 
-* Discovering Hubs
 * Exploring the events calendar
 * Browsing worlds
 * Managing your friends' list
