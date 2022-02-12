@@ -78,7 +78,7 @@
         - name: Overview
           href: tutorials/host-tools-overview.md
         - name: FrontRow events 
-          href: tutorials/host-tools-for-events.md
+          href: tutorials/frontrow-for-events.md
 - name: World building
   items:
       - name: Basic world building
