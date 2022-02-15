@@ -147,7 +147,7 @@ If you're a Member or Administrator of a Group, you have extra tools to 
 1. Select either Member or Admin from the top bar and select the Group you want to manage/update. 
 2. Once in the Member or Admin page, select the group you want to access by clicking on its tile image.
 
-        ![Member or admin panel open](images/group-features-img-02.png)
+    ![Member or admin panel open](images/group-features-img-02.png)
 
 This is the main page to see all your group memberships either as a Member or Administrator. Select a group to see its specific options.
 
