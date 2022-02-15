@@ -2,8 +2,8 @@
 title: AltspaceVR beginner's guide
 description: Help newbies get up and running and explore the AltspaceVR platform as quickly as possible.
 author: qianw211    
-ms.author: vinnietieto
-ms.date: 1/26/2022
+ms.author: qianwen
+ms.date: 2/15/2022
 ms.topic: article
 keywords: AltspaceVR, beginner's guide, getting started, new to AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
@@ -18,7 +18,7 @@ Though AltspaceVR is easy to use, this guide can help newbies get up and running
 
 <br>
 
-<img src="images\group-of-4-intro-1024x566.jpg" alt="Group of four people in Altspace" >
+<img src="images\group-of-4-intro-1024x566.png" alt="Group of four people in Altspace" >
 
 <br>
 
@@ -66,7 +66,7 @@ If you're an existing AltspaceVR user and haven't linked your account to an MSA,
 
 <br>
 
-<iframe width="940" height="530" src="https://www.youtube.com/embed/Dz8pYry5YJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="940" height="530" src="https://www.youtube.com/embed/V5TsRQ-g-vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -117,7 +117,7 @@ The **title screen** is your entry point to AltspaceVR. From here, you can sign 
 
 <br>
 
-<img src="images\main-menu-up-to-date-1024x771.jpg" alt="Title screen in Altspace" >
+<img src="images\main-menu-up-to-date-1024x771.png" alt="Title screen in Altspace" >
 
 <br>
 

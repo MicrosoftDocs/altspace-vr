@@ -1,7 +1,9 @@
 ---
 title: Exploring the Title Screen
 description: Learn how to navigate all the features and functions of the AltspaceVR Title Screen as a first time or returning user.
-ms.date: 03/19/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 2/15/2022
 ms.topic: article
 keywords: title screen, features, tutorials, login, account, entry code, destinations
 ---
@@ -18,7 +20,7 @@ If it's your first time launching AltspaceVR, you'll start your journey as a gue
 
 You can also explore the Main Menu and view the events calendar as a guest, but you can't enter events. Account sign-in is required to navigate beyond the Title Screen. To continue, log in to your AltspaceVR account by selecting the **Sign In** option. 
 
-![Account signup popup on the Main Menu](images/title-screen-03.png)
+![Account sign-up popup on the Main Menu](images/title-screen-03.png)
 
 If your AltspaceVR account links to your Microsoft Account, select the **Sign-in with Microsoft** option. If you don't have a Microsoft-linked account, select the **Sign-in with AltspaceVR** option. You can find step-by-step account linking instructions here: [Linking Your Microsoft Account](../getting-started/linking-microsoft-account.md). 
 

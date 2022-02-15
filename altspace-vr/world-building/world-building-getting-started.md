@@ -107,6 +107,21 @@ Congratulations! You've created and entered your first AltspaceVR World, your ow
 
 ## Share your World
 
+1. Go to where the people you want to share with are.
+
+   To go to your world or events:
+    - Go to the main page of the AltspaceVR app and on the Button bar, click **Discover**.
+   
+    > ![Screenshot showing how to reach your events or world.](images/010-discover.png)
+
+   - Select your events.
+   - Click the **Enter** button which is located under the description in the top left corner.
+
+2. After entering your event, click the Menu button in the lower left corner ...
+
+    ![Screenshot showing the Menu button.](images/011-menu-button.png)
+
+    ... and then, on the Button bar, click **WORLDS**.
 1. On the top menu bar, select **MY WORLDS**.
 1. Find your World, and then hover the cursor over it and select **Info**:
 
