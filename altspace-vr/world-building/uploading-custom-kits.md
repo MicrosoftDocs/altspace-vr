@@ -1,7 +1,9 @@
 ---
 title: Uploading custom kits
 description: Learn how to setup, generate, and upload your own custom kits in AltspaceVR as well as troubleshooting help.
-ms.date: 03/11/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 2/15/2022
 ms.topic: article
 keywords: kits, uploading, troubleshooting
 ---
@@ -12,53 +14,79 @@ The World Editor has Kits containing Artifacts that you can spawn into your Worl
 
 ## Prerequisites
 
+1. In the AltspaceVR app, you will need to first **Enable Worlds Beta**. Go to the **Title Screen**, select **Main Menu**. Click on **Settings**, and select **Enable Worlds Beta**.
+
+   ![Select **Enable Worlds Beta** option in the AltspaceVR app](images/enable-worlds-beta.png)
+
 1. [Install Unity Hub and Unity](world-building-toolkit-getting-started.md)
-2. Download the latest version of the [Unity Uploader](https://altvr.com/download-latest-unity-uploader/)
+1. Download the latest version of the [Unity Uploader](https://altvr.com/download-latest-unity-uploader/)
 
 ## Setup 
 
-> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-1-Setup/player]
+1. Go to our website and select [**More > Kits**](https://account.altvr.com/kits) from the top Menu dropdown.
 
-1. Create a Kit on our website at [Worlds > Kits](https://account.altvr.com/kits)
-2. Copy the Kit ID from your browser's address bar to your clipboard (this step will be easier in Uploader versions 0.9+)
-3. Create a new Unity Project
-4. Import the Unity Uploader by double-clicking the package
+    ![Go to the AltspaceVR website and select Kits](images/select-kits.png)
 
-![Imported unity uploader package](images/custom-kits-img-01.png)
+1. Click on **Create** to go to the **Create Kit** page.
 
-5. Sign in to the Uploader with your Altspace email and password
+    ![Create your kit](images/create-your-kit.png)
 
-![AltspaceVR sign in interface in Unity](images/custom-kits-img-02.png)
+1. Create a new Unity Project
+1. In the Unity **Package Manager**, select **Add package from tarball...**.
+    ![Add package from tarball...](images/add-package-from-tarball.png)
 
 ## Generate and upload your kit
 
-> [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-2/player]
+1. On the top menu click **AltspaceVR**, and select **Kits** from the dropdown.
 
-1. Fill in **Kit Folder Name** with your Kit ID as the prefix and a theme (for example, **1137484494681408069_pirates**) and fill in **Kit Asset Name** with your Kit ID as the prefix. All the assets will need to have this prefix.
+    ![Unity uploader kits](images/uploader-kits.png)
 
-![AltspaceVR interface in Unity with Kit folder name](images/custom-kits-img-03.png)
+1. In the **Kits** dialog box, select your kit.
 
-2. For each Artifact or set of Artifacts:
-* Drag your source Prefab(s) into the Hierarchy tab
-* Select the ones you want to include in a set, say five types of barrels
-* Update the **Kit Asset Name** with **barrel**
-* Select **Convert GameObject(s) to Kit Prefab**
-* Verify that new Prefabs and Screenshots were created in the Assets/Prefabs folder
+    ![Select your Kit in the Kits dialog box](images/select-a-kit.png)
 
-![AltspaceVR interface in Unity with artifacts selected](images/custom-kits-img-04.png)
+1. Then select **Convert GameObject(s) to Kit Prefab**.
+
+    ![Convert GameObject(s) to Kit Prefab](images/convert-game-object-to-kit.png)
+
+1. In the **AltspaceVR Kit Prefab Formatter** dialog box, choose your custom kit.
+
+    ![The **AltspaceVR Kit Prefab Formatter** dialog box](images/altspacevr-kit-prefab-formatter-dialog.png)
+
+1. Now you're ready to build and upload your custom kit to AltspaceVR.  In the **Kits** dialog box, click **Build & Upload**.
+
+    ![Build & Upload your custom kit](images/build-upload-your-kit.png)
 
 > [!NOTE]
-> If you want to make any modifications to a generated Prefab, drag it back into the Hierarchy, make changes, and then click **Apply** in the Inspector tab to update the Prefab. 
-
-3. When you're ready, scroll down the Uploader tab and let's prepare to generate a zip file with the Asset Bundle
-4. For faster iteration, uncheck the **Build Kit for Android?**. Remember to build and upload a version for Android later when you're done iterating or want to share/feature your Kit. 
-5. Select **Load Kit Prefab Directories**
-6. Choose **Build** next to the one matching your Kit Folder Name. It's common to produce multiple Kits from the same Unity project. This may take a while depending on the size of your Kit. When it's done, the folder containing your zip file will open automatically. 
-7. Go to the website, edit the Kit you created earlier, and upload the zip file you produced. This upload may take a while depending on the file size.
-    * If successful, you’ll see on the left side under “Uploads” the file sizes and for PC and Android and when they were last updated
-    * If unsuccessful, make sure you don't have any scripts, we don't support scripts, we check for those for security and try again.
+> If you want to make any modifications to a generated Prefab, drag it back into the Hierarchy, make changes, and then click **Build & Upload** to update your kit. 
 
 Congratulations! You're ready to build Worlds with your own Kit!
+
+## Add kit to your world
+
+1. Now you can check your kit on the AltspaceVR website.
+
+    ![AltspaceVR website listing the Kit upload status](images/check-kit-upload-altspace-web.png)
+
+1. Enter your world, and select the **Editor Panel** in **World Editor**.
+
+    ![The **Editor Panel** on your **World Editor** menu](images/enter-world-choose-editor-panel.png)
+
+1. In the **World Editor Panel**, click on **Mine**.  Select **Kits**.
+
+    ![Select Kits from the **World Editor Panel**](images/select-mine-kits.png)
+
+1. Choose your kit.
+
+    ![Choose your kit](images/choose-your-kit.png)
+
+    And select your artifact to be placed in your world.
+
+    ![Select your artifact to place in your world](images/select-your-artifact.png)
+
+1. Now you can place the artifact anywhere in your world.
+
+    ![Place your artifact in the world](images/place-your-artifact.png)
 
 ## Troubleshooting 
 

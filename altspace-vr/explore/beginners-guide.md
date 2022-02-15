@@ -239,7 +239,7 @@ You can access **Worlds** from the **Main Menu**.
 
 <br>
 
-<img src="images\nametag-300x297.jpg" alt="Avatar and its nametag.">
+<img src="images\get-social.png" alt="Avatar and its nametag.">
 
 <br>
 
