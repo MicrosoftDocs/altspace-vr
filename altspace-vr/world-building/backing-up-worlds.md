@@ -41,9 +41,7 @@ To manage your Backups on our website:
 
     ![Administrator controls in the worlds website with backups panel open](images/world-backup-img-01.png)
 
-2. You can create, edit, and delete your Backups, check how many objects are inside, and even upload a preview image: 
-
-    ![Backups window with create, edit, and delete commands highlighted](images/world-backup-img-02.png)
+2. You can create, edit, and delete your Backups, check how many objects are inside, and even upload a preview image.
 
 There's no limit to the number of Backups and having more Backups won't impact the performance of your World.
 
