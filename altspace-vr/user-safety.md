@@ -32,14 +32,14 @@ And in the nametags of other people, which appear when you click on their avatar
 
 ### Space Bubble 
 
-To Turn your Space Bubble on or off, go to **Main Menu -> Settings -> General -> Personal Space Bubble**.
+To turn your Space Bubble on or off, go to **Main Menu -> Settings -> General -> Personal Space Bubble**.
 
 ![Option to turn on Personal Space Bubble](images/personal-space-bubble.png)
 
 Your Space Bubble is on by default. People who get too close to you will disappear from your field of view. Turn it on if you’re feeling a bit crowded or if your view is blocked. Whatever is in your way will disappear.  
 
 >[!Tip]
->If you’re new to VR, leaving your Space Bubble on can help you feel more comfortable in immersive spaces.) 
+>If you’re new to VR, leaving your Space Bubble on can help you feel more comfortable in immersive spaces.
 
 ### Mute Yourself 
  
@@ -47,17 +47,17 @@ When you first enter a space, you're automatically muted. You can unmute yoursel
 
 ![Button to mute/unmute yourself in a space](images/mute-unmute-button.png)
 
->[Tip] 
+>[!Tip] 
 >It helps to stay muted whenever you’re not actively speaking, reducing the likelihood of disruptive audio feedback. 
 
 ### Mute Others
 
 ![Button to mute/unmute others in a space](images/name-tag-mute.png)
 
-You can also mute other people in the space with you. Maybe someone has a noisy mic, or you’d rather not listen to what someone is saying—you can mute them anytime you wish. Click their avatar and bring up their nametag to find the Mute button.  
+You can also mute other people in the space with you. Maybe someone has a noisy mic, or you’d rather not listen to what someone is saying—you can mute them anytime you wish. Click their avatar and bring up their nametag to find the **Mute** button.  
 
 >[!Tip] 
->Muting someone from their nametag is a local mute. You're only muting them for yourself, not for others. Only Event Hosts and World Owners can mute other people's microphones. 
+>Muting someone from their nametag is a local mute. You're only muting them for yourself, not for others. Only Event Hosts and World Owners can mute other people's microphones for everyone in that space. 
 
 ### Block
 
@@ -74,10 +74,10 @@ Sometimes you may need to block another person. Blocked individuals will disappe
 
 ![The **Title Screen** button on your Radial Menu](images/radial-menu-title-screen.png)
 
-If you need to exit a space or situation quickly, you can do so by returning to your Title Screen. The Title Screen button is always available to you on your Radial Menu. Clicking this button immediately drops you back in your command center, removing your avatar from the previous space and scene.  
+If you need to exit a space or situation quickly, you can do so by returning to your **Title Screen**. The **Title Screen** button is always available to you on your **Radial Menu**. Clicking this button immediately drops you back in your command center, removing your avatar from the previous space and scene.  
 
 >[!Tip] 
->The Title Screen houses all of your primary settings and customization options, but it’s also a great solo space where no one else can appear or follow you.
+>The **Title Screen** houses all of your primary settings and customization options, but it’s also a great solo space where no one else can appear or follow you.
 
 While we strive to make AltspaceVR inclusive, welcoming, and mature, we also believe that every Altspacer should have access to safety tools. These tools allow you to control your experience.  
 
