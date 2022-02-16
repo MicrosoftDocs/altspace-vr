@@ -24,9 +24,9 @@ You can find safety tools in two different places. Start with the Main Menu:
 
 ![Main menu radial hub with discover tab highlighted](community/images/title-screen-08.png)
 
-And in the name tags of other people, which appear when you click on their avatars:
+And in the nametags of other people, which appear when you click on their avatars:
 
-![The name tags of other people, which appear when you click on their avatars](images/nametag.png)
+![The nametags of other people, which appear when you click on their avatars](images/nametag.png)
 
 ## Safety tools
 
