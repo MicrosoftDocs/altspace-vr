@@ -45,7 +45,7 @@ Anyone with the Host role will be able to see this button. Clicking Go On-Air wi
 Being On-Air for the entirety of your FrontRow event is VERY IMPORTANT. You must be On-Air for the Host Tools to properly work across all of your FrontRow Rooms, otherwise, they will only work in the Room you are in.
 
 > [!NOTE]
-> If you need to rejoin your event, go to the Campfire and back, lose your Internet connection, move from Room to Room, when you to come back you will NOT be On-Air. Make certain you click Go On-Air again once you are back.
+> If you need to rejoin your event, lose your Internet connection, move from Room to Room, when you to come back you will NOT be On-Air. Make certain you click Go On-Air again once you are back.
 
 ### Toggle Stage Blocker
 

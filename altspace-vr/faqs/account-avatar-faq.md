@@ -26,7 +26,7 @@ When you host an activity, you’ll receive other moderation tools. You’ll now
 
 * **Kick:** If a user interrupts your activity, you can always use the **Kick** button. The **Kick** function will remove that user from your activity. After being kicked, they’ll no longer be able to join your current activity. 
 
-* **Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR. All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.
+* **Admin Badge:** AltspaceVR has staff on hand 24/7 to assist you in VR. All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.
 
 Our staff is here to support and assist you, so please ask them any questions you might have!
 

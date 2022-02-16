@@ -21,8 +21,6 @@ The Vote to Suspend feature is available exclusively to AltspaceVR's Community H
 
 **Responsibilities** 
 
-* Get help from the CST in the Campfire if you meet someone who is particularly difficult and you're unsure about how best to continue.  
-* If you meet someone who might require immediate suspension, seek help from the CST in the Campfire. 
 * New people may not always know what's right and wrong, so please be patient and kind. Remember always to set the example for being a good AltspaceVR citizen means. 
 * Help answer questions to the best of your abilities. If you're unsure about an answer, that's ok. 
 * Open a ticket with our support team if you have a technical issue or need troubleshooting assistance: [altvr.com/support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)
