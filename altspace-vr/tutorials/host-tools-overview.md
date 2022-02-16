@@ -12,6 +12,28 @@ keywords: host tools, mute, message, stage blocking, audience participation
 
 When you create an event, you are the automatic Host of that event. The Host role grants you access to special features and abilities created specifically to make hosting a live virtual event simple and easy. Below is a detailed overview of these features and abilities, and other helpful hints for hosting events in AltspaceVR.
 
+<br>
+
+<iframe width="940" height="530" src="https://www.youtube.com/embed/tm_33u2wGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+## Safety and moderation tools
+
+As an Event Host you're responsible for managing the experience of others. To do this efficiently, you need robust moderation tools. 
+
+As the Host of an event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily or during your event) and even assign the Moderator role to others to get help managing the audience.
+
+![Host panel open with participation tab highlighted](images/moderation-tools.png)
+
+* **Add Friend** - Add a participant as your friend.
+* **Message** - Send a private message only that participant can see.
+* **Block** - Block the user from your event.
+* **Mute** - You can mute participants in your event.
+* **Kick** - If you decide to kick someone from your event, a dialog box will appear for you to select the reason for kicking.
+
+    ![Reasons for kicking a participant from your event.](images/kick-reasons.png)
+
 ## Understanding host tools
 
 The host tools appear on the bottom right-hand side of your field-of-view. It's available to you immediately after your event has been created, so you can enter your event anytime (event start-time don't apply to the Host) and get comfortable with the tools before showtime. The Host Tools will give you quick-click access to things like muting and messaging your audience, toggling your stage blockers on and off, megaphoning yourself, allowing your guests to “raise their hands” to ask questions or offer feedback, and more.
@@ -46,28 +68,6 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 > To activate stage blocker for your event, pick your event template that contains a stage. Make yourself familiar with our event templates on test events prior to creating your official event. You can also add stages and stage blockers to your event in the **World Editor -> Editor Panel -> Altspace Kits -> Event Tools -> Stage Blocker**.
 
 ![Choose the right event category will make the Toggle Stage Blocker appear on your **Host Tools** Menu](images/events-category.png)
-
-## Safety and moderation tools
-
-As an Event Host you're responsible for managing the experience of others. To do this efficiently, you need robust moderation tools. 
-
-<br>
-
-<iframe width="940" height="530" src="https://www.youtube.com/embed/tm_33u2wGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-As the Host of an event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily or during your event) and even assign the Moderator role to others to get help managing the audience.
-
-![Host panel open with participation tab highlighted](images/moderation-tools.png)
-
-* **Add Friend** - Add a participant as your friend.
-* **Message** - Send a private message only that participant can see.
-* **Block** - Block the user from your event.
-* **Mute** - You can mute participants in your event.
-* **Kick** - If you decide to kick someone from your event, a dialog box will appear for you to select the reason for kicking.
-
-    ![Reasons for kicking a participant from your event.](images/kick-reasons.png)
 
 ## Host Panel
 
