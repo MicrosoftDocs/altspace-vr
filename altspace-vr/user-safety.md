@@ -61,7 +61,7 @@ When clicking on someone's avatar, you can find the **block** button on the pers
 
 Sometimes you may need to block another person. Blocked individuals will disappear entirely from your field of view, and you'll no longer see or hear them. Users you have blocked won't be able to see or listen to you either. When you block someone, you can select a reason for the block. This action alerts our Moderation Team and lets them know what to keep an eye on. 
 
->[Tip] 
+>[!Tip] 
 >Blocking people is a good way to disengage from an uncomfortable situation or an unfriendly person. 
 
 ### Quick exit to **Title Screen**
@@ -70,7 +70,7 @@ Sometimes you may need to block another person. Blocked individuals will disappe
 
 If you need to exit a space or situation quickly, you can do so by returning to your Title Screen. The Title Screen button is always available to you on your Radial Menu. Clicking this button immediately drops you back in your command center, removing your avatar from the previous space and scene.  
 
->[Tip] 
+>[!Tip] 
 >The Title Screen houses all of your primary settings and customization options, but it’s also a great solo space where no one else can appear or follow you.
 
 While we strive to make AltspaceVR inclusive, welcoming, and mature, we also believe that every Altspacer should have access to safety tools. These tools allow you to control your experience.  
