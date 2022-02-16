@@ -87,7 +87,7 @@ Sometimes you'll want to reach beyond these tools and ask for extra support. Rem
 
 ## Reporting an Event or World? 
 
-Remember, Event Hosts have access to additional [Safety and Moderation tools](tutorials/host-tools-overview.md#moderation-tools) in their event spaces. They can use these tools to help maintain a safe and welcoming atmosphere in their events. 
+Remember, event hosts have access to additional [safety and moderation tools](tutorials/host-tools-overview.md#safety-and-moderation-tools) in their event spaces. They can use these tools to help maintain a safe and welcoming atmosphere in their events. 
 
 ## See also
 

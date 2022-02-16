@@ -12,7 +12,7 @@ keywords: host tools, mute, message, stage blocking, audience participation
 
 When you create an event, you are the automatic Host of that event. The Host role grants you access to special features and abilities created specifically to make hosting a live virtual event simple and easy. Below is a detailed overview of these features and abilities, and other helpful hints for hosting events in AltspaceVR.
 
-## Understanding Host Tools
+## Understanding host tools
 
 The host tools appear on the bottom right-hand side of your field-of-view. It's available to you immediately after your event has been created, so you can enter your event anytime (event start-time don't apply to the Host) and get comfortable with the tools before showtime. The Host Tools will give you quick-click access to things like muting and messaging your audience, toggling your stage blockers on and off, megaphoning yourself, allowing your guests to “raise their hands” to ask questions or offer feedback, and more.
 
