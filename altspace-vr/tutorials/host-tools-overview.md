@@ -81,7 +81,7 @@ The Guests Tab allows you to keep track of the guests, moderators, and hosts in 
 
 ![Host panel open with guests control options](images/host-panel-guests-details.png)
 
-## Audience Participation Panel
+### Audience Participation Panel
 
 The Participation Panel is designed to help you manage interaction and participation from your audience. Here you can toggle on the “Allow Hand Raises” option to unlock audience participation. 
 
