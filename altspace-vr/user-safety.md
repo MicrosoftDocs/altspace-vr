@@ -12,6 +12,12 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 This is a quick guide to AltspaceVR safety tools, where you can learn about the Safety Tools available to you.
 
+<br>
+
+<iframe width="940" height="530" src="https://www.youtube.com/embed/SPUUJx5rDVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 AltspaceVR is an open, social virtual reality platform. That means it’s a place to meet all kinds of people worldwide. Before you jump in, we recommend getting familiar with the various safety tools available. These features allow you to better control your experience and give you options in various situations. 
 
 You can find safety tools in two different places. Start with the Main Menu:

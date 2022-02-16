@@ -1,7 +1,7 @@
 ---
 title: Host tools overview
 description: Learn how to use your host tools for non-FrontRow events, including muting, messaging, and moderating.
-ms.date: 2/8/2022
+ms.date: 2/15/2022
 author: qianw211
 ms.author: qianwen
 ms.topic: article
@@ -47,6 +47,28 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 
 ![Choose the right event category will make the Toggle Stage Blocker appear on your **Host Tools** Menu](images/events-category.png)
 
+## Moderation tools
+
+As an Event Host you're responsible for managing the experience of others. To do this efficiently, you need robust moderation tools. 
+
+<br>
+
+<iframe width="940" height="530" src="https://www.youtube.com/embed/tm_33u2wGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+As the Host of an event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily or during your event) and even assign the Moderator role to others to get help managing the audience.
+
+![Host panel open with participation tab highlighted](images/moderation-tools.png)
+
+* **Add Friend** - Add a participant as your friend.
+* **Message** - Send a private message only that participant can see.
+* **Block** - Block the user from your event.
+* **Mute** - You can mute participants in your event.
+* **Kick** - If you decide to kick someone from your event, a dialog box will appear for you to select the reason for kicking.
+
+    ![Reasons for kicking a participant from your event.](images/kick-reasons.png)
+
 ## Host Panel
 
 Clicking on the Host Panel button will open more advanced options for your events.
@@ -58,20 +80,6 @@ Clicking on the Host Panel button will open more advanced options for your event
 The Guests Tab allows you to keep track of the guests, moderators, and hosts in your space. It's an interactive list that gives you a multi-page breakdown of who is in your event. Clicking on a guest gives you more options (the hamburger menu) which lets you mute and megaphone by individual.
 
 ![Host panel open with guests control options](images/host-panel-guests-details.png)
-
-### Moderation Tools
-
-As an Event Host you're responsible for managing the experience of others. To do this efficiently, you need robust moderation tools. As the Host of an event you can mute disruptive individuals, kick rule-breakers out of your event (temporarily or during your event) and even assign the Moderator role to others to get help managing the audience.
-
-![Host panel open with participation tab highlighted](images/moderation-tools.png)
-
-* **Add Friend** - Add a participant as your friend.
-* **Message** - Send a private message only that participant can see.
-* **Block** - Block the user from your event.
-* **Mute** - You can mute participants in your event.
-* **Kick** - If you decide to kick someone from your event, a dialog box will appear for you to select the reason for kicking.
-
-    ![Reasons for kicking a participant from your event.](images/kick-reasons.png)
 
 ## Audience Participation Panel
 
