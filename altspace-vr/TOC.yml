@@ -2,6 +2,8 @@
   href: index.yml
 - name: AltspaceVR overview
   href: overview.md
+- name: User safety and moderation
+  href: user-safety.md
 - name: Beginner's guide
   href: explore/beginners-guide.md
 - name: Accessing the latest features
@@ -78,7 +80,7 @@
         - name: Overview
           href: tutorials/host-tools-overview.md
         - name: FrontRow events 
-          href: tutorials/host-tools-for-events.md
+          href: tutorials/frontrow-for-events.md
 - name: World building
   items:
       - name: Basic world building
@@ -109,11 +111,11 @@
         items:
           - name: World Building Toolkit (Unity Uploader)
             href: world-building/world-building-toolkit-getting-started.md
-          - name: Upgrading Old Unity Projects
+          - name: Upgrading old Unity projects
             href: world-building/upgrading-old-unity-projects.md
-          - name: Mobile Performance Optimization Guide 
+          - name: Mobile performance optimization guide 
             href: world-building/unity-mobile-performance-guide.md
-          - name: Using Mixed Reality Extensions
+          - name: Using Mixed Reality extensions
             href: world-building/using-mixed-reality-extensions.md
           - name: Uploading kits
             href: world-building/uploading-custom-kits.md

@@ -107,40 +107,37 @@ Congratulations! You've created and entered your first AltspaceVR World, your ow
 
 ## Share your World
 
-1. Go to the Campfire (or wherever the people you want to share with are).
+1. Go to where the people you want to share with are.
 
-    **Tip**: The Campfire is a gathering spot where you can meet up with other community members or find a Community Helper or Community Support Team Member who can answer your AltspaceVR questions and show you around. 
-    
-    To go to the Campfire:
+   To go to your world or events:
     - Go to the main page of the AltspaceVR app and on the Button bar, click **Discover**.
    
-    > ![Screenshot showing how to reach the Campfire.](images/010-campfire.png)
+    > ![Screenshot showing how to reach your events or world.](images/010-discover.png)
 
-   - In the **Featured Hub Spaces** section, select **Commons Campfire**.
+   - Select your events.
    - Click the **Enter** button which is located under the description in the top left corner.
 
-2. After entering the Campfire, click the Menu button in the lower left corner ...
+2. After entering your event, click the Menu button in the lower left corner ...
 
     ![Screenshot showing the Menu button.](images/011-menu-button.png)
 
     ... and then, on the Button bar, click **WORLDS**.
-   
-3. On the top menu bar, select **MY WORLDS**.
-4. Find your World, and then hover the cursor over it and select **Info**:
+1. On the top menu bar, select **MY WORLDS**.
+1. Find your World, and then hover the cursor over it and select **Info**:
 
     ![Screenshot showing the world Info button.](images/012-info-button.png)
 
-5. Select **Portal** to spawn a portal:
+1. Select **Portal** to spawn a portal:
 
     ![Screenshot of the Portal button.](images/013-portal-button.png)
 
-6. Wait for people to use the portal to join your party.
+1. Wait for people to use the portal to join your party.
 
    ![New portal with avatar](images/014-portal-join.png)
 
-7. When you're ready, select the portal again to take your party to your World.
+1. When you're ready, select the portal again to take your party to your World.
 
-8. Let the party begin! Your friends will see your world's changes as you make them, so dazzle them with your creativity.
+1. Let the party begin! Your friends will see your world's changes as you make them, so dazzle them with your creativity.
 
 This article should get you up and running with world-building in minutes; however, if you do run into issues, you can [get help](getting-help.md).
 

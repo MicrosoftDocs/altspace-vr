@@ -33,5 +33,5 @@ The Early Access program gives you access to the latest features that are still 
 
 * I don't have a particular ability
     * Did you restart AltspaceVR? Abilities are loaded when you first start AltspaceVR.
-    * Are you using the latest version of AltspaceVR? Open your Menu to **Settings** > **About** to check. Confirm with an admin in the Campfire if necessary.
+    * Are you using the latest version of AltspaceVR? Open your Menu to **Settings** > **About** to check. 
     * Some abilities are only available to admins and some are only available in certain places. For example, you may have special abilities in your Home but not in a public World. Confirm with an admin whether you should have a particular ability in that context.

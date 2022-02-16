@@ -1,7 +1,9 @@
 ---
 title: Backing up your worlds
 description: Learn how to create, manage, and troubleshoot backup snapshots of your AltspaceVR worlds.
-ms.date: 03/11/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 2/15/2022
 ms.topic: article
 keywords: saving
 ---
@@ -37,11 +39,9 @@ To manage your Backups on our website:
 
 1. Navigate to [Worlds > Mine](https://account.altvr.com/users/sign_in), find your World, and press “Backups” in the Administrator Controls:
 
-![Administrator controls in the worlds website with backups panel open](images/world-backup-img-01.png)
+    ![Administrator controls in the worlds website with backups panel open](images/world-backup-img-01.png)
 
-2. You can create, edit, and delete your Backups, check how many objects are inside, and even upload a preview image: 
-
-![Backups window with create, edit, and delete commands highlighted](images/world-backup-img-02.png)
+2. You can create, edit, and delete your Backups, check how many objects are inside, and even upload a preview image.
 
 There's no limit to the number of Backups and having more Backups won't impact the performance of your World.
 

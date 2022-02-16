@@ -18,7 +18,7 @@ With events you have three options when it comes to visibility on the calendar:
 
 ## What are Main Events?
 
-Main Events are public events that have met specific requirements to guarantee a certain level of quality-of-experience. Main Events are often created/hosted by trusted hosts who have worked hard to produce engaging and entertaining content. The AltspaceVR events calendar defaults to filter by Main Events, making them super discoverable and easy to find. Main Events are also eligible for promotion on in-world billboards (found in Commons Hubs), on AltspaceVR's social media channels, in our weekly newsletter, and even in external forums like Oculus Events.
+Main Events are public events that have met specific requirements to guarantee a certain level of quality-of-experience. Main Events are often created/hosted by trusted hosts who have worked hard to produce engaging and entertaining content. The AltspaceVR events calendar defaults to filter by Main Events, making them super discoverable and easy to find. Main Events are also eligible for promotion on AltspaceVR's social media channels, in our weekly newsletter, and even in external forums like Oculus Events.
 
 ## What is the "All" tab of the calendar?
 

@@ -8,7 +8,7 @@ keywords: abilities, users, roles
 
 # Adding user abilities
 
-You can’t fly in Events or in the Campfire because it would likely be disruptive. However, in your Worlds, you can let people take off like the Wicked Witch of the East. Here’s how you can grant special abilities.
+You can’t fly in Events because it would likely be disruptive. However, in your Worlds, you can let people take off like the Wicked Witch of the East. Here’s how you can grant special abilities.
 
 ![World open in website with VR default contextual roles highlighted](images/contextual_roles.png)
 
