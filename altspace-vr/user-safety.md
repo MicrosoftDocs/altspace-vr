@@ -77,7 +77,7 @@ While we strive to make AltspaceVR inclusive, welcoming, and mature, we also bel
 
 ## Sending in a Report 
 
-Sometimes you'll want to reach beyond these tools and ask for extra support. Remember, you can always file a report with our Moderation team at [altvr.com/report](altvr.com/report). 
+Sometimes you'll want to reach beyond these tools and ask for extra support. Remember, you can always file a report with our Moderation team at [altvr.com/report](https://altvr.com/report). 
 
 ## Reporting an Event or World? 
 
