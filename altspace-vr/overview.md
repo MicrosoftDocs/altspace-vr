@@ -43,6 +43,10 @@ AltspaceVR for Business will be [Microsoft Mesh-enabled](/mesh/). You will soon 
 
 ## See also
 
+Learn the user safety and moderation tools available to you.
+> [!div class="nextstepaction"]
+> [User safety and moderation tools](user-safety.md)
+
 Are you new to AltspaceVR? Start your journey here.
 > [!div class="nextstepaction"]
 > [Exploring AltspaceVR](./explore/beginners-guide.md)
