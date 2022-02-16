@@ -47,7 +47,7 @@ Decide when and where attendees can stand. Choose to hog the spotlight, take tur
 
 ![Choose the right event category will make the Toggle Stage Blocker appear on your **Host Tools** Menu](images/events-category.png)
 
-## Moderation tools
+## Safety and moderation tools
 
 As an Event Host you're responsible for managing the experience of others. To do this efficiently, you need robust moderation tools. 
 
