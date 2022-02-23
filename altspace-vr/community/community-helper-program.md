@@ -56,6 +56,3 @@ Yes… our undying love and appreciation. Also:
 AltspaceVR reserves the right to revoke Community Helper badges in cases of failure to meet eligibility requirements, failure to maintain expectations, prolonged absence from AltspaceVR, for reasons of program capacity, violations of our Community Standards and Terms of Service, and any reasons not listed but considered valid.
 
 If you were a Community Helper and you lost or otherwise gave up your badge, you must wait for a minimum of six months (180 days) before you reapply for the program.
-
-Ready to apply?
-Great! Please [APPLY HERE](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313).
