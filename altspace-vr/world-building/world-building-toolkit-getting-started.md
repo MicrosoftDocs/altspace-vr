@@ -46,7 +46,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 > [!NOTE]
 > A more detailed step-by-step guide can be found [here](https://buildingthemetaverse.medium.com/how-to-make-your-own-altspace-templates-and-kits-unity-2020-3-9-uploader-2-x-5b40e92bb759).
 
-1. Open Unity Hub and create a new Unity 2020.3.18 project. For your template, select **Universal Render Pipeline**.
+1. Open Unity Hub and create a new Unity 2020.3.18 project. For your template, select **3D Sample Scene (URP)**.
 
     ![Choose the URP Unity template](images/025-new-unity-project.png)
 
