@@ -1,7 +1,7 @@
 ---
 title: Avatar controls with mouse/keyboard in 2D PC mode
 description: Learn how to switch between new and classic control schemes to move your avatars with the mouse and keyboard in 2D PC mode. 
-ms.date: 10/4/2021
+ms.date: 3/10/2022
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
@@ -30,7 +30,7 @@ You have two different modes when using the New PC controls: Cursor Mode and Loo
 
 ### New PC Controls for Keyboard / Mouse
 
-![Keyboard and mouse with input mappings](images/keyboard-mouse-controls.svg)
+<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
 
 ## Classic PC controls 
 
@@ -40,18 +40,18 @@ You have two different modes when using the New PC controls: Cursor Mode and Loo
 
 | Input | Action |
 |---|---|
-| Left click | Teleport to targeted location |
-| Hold left click | Preview targeted location |
-| Middle click | Move forward |
-| Right-click + Move mouse | Rotate/Pan camera to look around |
-| Right click + Middle wheel scroll forward/back | Zoom camera in/out |
+| Right click | Toggle cursor and Look modes. |
+| Look mode + move mouse | Rotate / Pan camera to look around. |
+| Look mode + Middle wheel scroll forward/back | Zoom camera in/out. |
 
 **Menu options**
 
 | Input | Action |
 |---|---|
-| Left click (over buttons) | Select button |
-| Hold left click + right-click | Hide AltspaceVR menu |
+| Left click (over buttons) | Select button. |
+| Left click (over interactable objects) | Pick up object. |
+| Left click and click (over interactable objects) | Trigger object. |
+| Hold left click and release (over interactable objects) | Throw object. |
 
 ### Keyboard controls
 
@@ -67,8 +67,10 @@ You have two different modes when using the New PC controls: Cursor Mode and Loo
 | Run backward | Shift + S | Shift + Down arrow |
 | Run left | Shift + A | N/A |
 | Run right | Shift + D | N/A |
-| "Comfort Mode" rotation left | Q | Left arrow |
-| "Comfort Mode" rotation right | E | Right arrow |
+| "Comfort Mode" rotation left | Left arrow |  | 
+| "Comfort Mode" rotation right | Right arrow |  |
+
+comfort mode rotation with "rotation left" > key: left arrow and "rotation right" > key: right arrow
 
 **Menu options**
 
