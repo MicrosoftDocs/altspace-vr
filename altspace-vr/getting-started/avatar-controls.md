@@ -40,18 +40,18 @@ You have two different modes when using the New PC controls: Cursor Mode and Loo
 
 | Input | Action |
 |---|---|
-| Right click | Toggle cursor and Look modes. |
-| Look mode + move mouse | Rotate / Pan camera to look around. |
-| Look mode + Middle wheel scroll forward/back | Zoom camera in/out. |
+| Right click | Toggle cursor and look modes |
+| Look mode + move mouse | Rotate / pan camera to look around |
+| Look mode + middle wheel scroll forward/back | Zoom camera in/out |
 
 **Menu options**
 
 | Input | Action |
 |---|---|
-| Left click (over buttons) | Select button. |
-| Left click (over interactable objects) | Pick up object. |
-| Left click and click (over interactable objects) | Trigger object. |
-| Hold left click and release (over interactable objects) | Throw object. |
+| Left click (over buttons) | Select button |
+| Left click (over interactable objects) | Pick up object |
+| Left click and click (over interactable objects) | Trigger object |
+| Hold left click and release (over interactable objects) | Throw object |
 
 ### Keyboard controls
 
