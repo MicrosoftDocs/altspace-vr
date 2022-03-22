@@ -39,7 +39,7 @@ AltspaceVR offers various [content channels](https://account.altvr.com/channels/
 
 ## Microsoft Mesh
 
-[Microsoft Mesh](https://www.microsoft.com/mesh) enables presence and shared experiences from anywhere, on any device, and through mixed reality applications. Complete [the Microsoft Mesh Register Interest form](https://info.microsoft.com/CO-NOGEP-CNTNT-FY21-03Mar-02-Microsoft-Mesh-5890_01Registration-ForminBody.html) and check out our [Hololens Mesh preview app](/mesh/get-started) to keep up-to-date on this new product.
+[Microsoft Mesh](https://www.microsoft.com/mesh) enables presence and shared experiences from anywhere, on any device, and through mixed reality applications. Complete the [Microsoft Mesh Register Interest form](https://info.microsoft.com/CO-NOGEP-CNTNT-FY21-03Mar-02-Microsoft-Mesh-5890_01Registration-ForminBody.html) and check out our [Hololens Mesh preview app](/mesh/get-started) to keep up-to-date on this new product.
 
 ## See also
 
