@@ -3,7 +3,7 @@ title: AltspaceVR overview
 description: What is AltspaceVR and some of the key features
 author: qianw211    
 ms.author: qianwen
-ms.date: 1/16/2022
+ms.date: 3/22/2022
 ms.topic: article
 keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
@@ -12,12 +12,12 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 ![AltspaceVR banner image](images/vr-interactions.png)
 
-AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events more easily. People from all over the world can use this social app to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, and more.  
+AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events more easily. People from all over the world can use this social app to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, etc.  
 
 AltspaceVR allows large groups of individuals to be co-present in a single space.  [FrontRow](faqs/scaling-audiences.md) technology provides audience-scaling into the thousands.
 
 >[!Note]
->In general, we are making Altspace an event-based community space. We are making changes to AltspaceVR to improve safety and continue to focus the platform as an event-based community space. These changes will help users better connect with others that share common interests. For AltspaceVR users, we ensure your spaces and the people you encounter are appropriate for your age groups. 
+>In general, we are making Altspace an event-based community space. We are changing to AltspaceVR to improve safety and continue to focus the platform as an event-based community space. These changes will help users better connect with others that share common interests. For AltspaceVR users, we ensure your spaces and the people you encounter are appropriate for your age groups.
 
 ## Virtual reality events
 
@@ -37,9 +37,9 @@ In AltspaceVR, you can visit many pre-built VR environments, called [worlds](exp
 
 AltspaceVR offers various [content channels](https://account.altvr.com/channels/popular) to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals. You will be notified when a channel has a new event added, and an email reminder will be sent 1 hour before the event start time.
 
-## Microsoft Mesh compatibility
+## Microsoft Mesh
 
-AltspaceVR for Business will be [Microsoft Mesh-enabled](/mesh/). You will soon enjoy the 3D photorealistic presence and spatial multiplayer experiences. AltspaceVR will become a business VR platform for collaboration, corporate events, and employee engagement gatherings.
+[Microsoft Mesh](https://www.microsoft.com/mesh) enables presence and shared experiences from anywhere, on any device, and through mixed reality applications. Complete the [Microsoft Mesh Register Interest form](https://info.microsoft.com/CO-NOGEP-CNTNT-FY21-03Mar-02-Microsoft-Mesh-5890_01Registration-ForminBody.html) and check out our [Hololens Mesh preview app](/mesh/get-started) to keep up-to-date on this new product.
 
 ## See also
 
