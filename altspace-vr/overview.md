@@ -3,7 +3,7 @@ title: AltspaceVR overview
 description: What is AltspaceVR and some of the key features
 author: qianw211    
 ms.author: qianwen
-ms.date: 1/16/2022
+ms.date: 3/22/2022
 ms.topic: article
 keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
@@ -37,9 +37,11 @@ In AltspaceVR, you can visit many pre-built VR environments, called [worlds](exp
 
 AltspaceVR offers various [content channels](https://account.altvr.com/channels/popular) to suit your area of interest. Content topics are diverse, such as humanism, diversity & inclusion, spirituality, stand-up comedy, and music festivals. You will be notified when a channel has a new event added, and an email reminder will be sent 1 hour before the event start time.
 
-## Microsoft Mesh compatibility
+## Microsoft Mesh
 
 AltspaceVR for Business will be [Microsoft Mesh-enabled](/mesh/). You will soon enjoy the 3D photorealistic presence and spatial multiplayer experiences. AltspaceVR will become a business VR platform for collaboration, corporate events, and employee engagement gatherings.
+
+[Microsoft Mesh](https://www.microsoft.com/mesh) enables presence and shared experiences from anywhere, on any device, and through mixed reality applications. Complete [the Microsoft Mesh Register Interest form](https://info.microsoft.com/CO-NOGEP-CNTNT-FY21-03Mar-02-Microsoft-Mesh-5890_01Registration-ForminBody.html) and check out our [Hololens Mesh preview app](/mesh/get-started) to keep up-to-date on this new product.
 
 ## See also
 
