@@ -12,26 +12,26 @@ The Early Access program gives you access to the latest features that are still 
 
 ## Join the Early Access program from within your app
 
-1. Open your Menu to **Settings > General** and turn on **Participate in Early Access Program**:.
+1. Open your **Main Menu** to **Settings > General** and turn on **Participate in Early Access Program**:
 
 ![Settings menu with early access option highlighted](images/early-access-img-01.png)
 
-2. Restart AltspaceVR.
-3. Explore your new abilities.
+2. Restart AltspaceVR
+3. Explore your new abilities
 
 ## Join the Early Access program on the AltspaceVR website
 
-1. Edit your AltspaceVR [profile](https://account.altvr.com/users/sign_in)
-2. Check the **Early Access** circle and press **Update**:
+1. Select your AltspaceVR [Profile](https://account.altvr.com/users/sign_in) (top right of page, email or profile image)
+2. Choose **Edit** then the **Early Access** tick box and press **Update**
 
 ![AltspaceVR profile open with early access option highlighted](images/early-access-img-02.png)
 
-3. If you're already in AltspaceVR, restart.
-4. Explore your new abilities.
+3. If you're already in AltspaceVR, restart the app
+4. Explore your new abilities
 
 ## Troubleshooting
 
 * I don't have a particular ability
     * Did you restart AltspaceVR? Abilities are loaded when you first start AltspaceVR.
     * Are you using the latest version of AltspaceVR? Open your Menu to **Settings** > **About** to check. 
-    * Some abilities are only available to admins and some are only available in certain places. For example, you may have special abilities in your Home but not in a public World. Confirm with an admin whether you should have a particular ability in that context.
+    * Some abilities are only available to admins and some are only available in certain places. For example, you may have special abilities in your Homespace but not in a public World. Confirm with an admin whether you should have a particular ability in that context.
