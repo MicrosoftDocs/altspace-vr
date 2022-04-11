@@ -125,6 +125,8 @@
             href: world-building/uploading-custom-skyboxes.md
 - name: Rules & standards 
   items:
+    - name: Software license Terms
+      href: community/software-license-terms.md
     - name: Terms of service
       href: community/terms-of-service.md
     - name: Community standards 
