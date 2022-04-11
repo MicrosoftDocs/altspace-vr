@@ -123,9 +123,9 @@
             href: world-building/importing-models.md
           - name: Uploading skyboxes
             href: world-building/uploading-custom-skyboxes.md
-- name: Rules & standards 
+- name: Terms & standards 
   items:
-    - name: Software license Terms
+    - name: Software license terms
       href: community/software-license-terms.md
     - name: Terms of service
       href: community/terms-of-service.md
