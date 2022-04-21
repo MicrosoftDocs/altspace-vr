@@ -17,10 +17,10 @@ Getting started with the Multimedia Console is a two part process.  First there'
 > [!NOTE]
 > The Multimedia Console does not support YouTube videos/livestreams, Twitch livestreams or links to sites with logins like Google Drive/Dropbox. It requires direct access to a publicly hosted video file, for example: https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
 
-### Configuring the Multimedia Console with the web portal
+### Configuring the Multimedia Console from the web portal
 
 1. First, you'll need to make sure your content is hosted online because you'll need a URL. You can upload photos to altvr.com, host a video .mp4 file online or use a Dlive live stream link: https://dlive.tv/yourlivestream
-2. Navigate to the web portal for the Multimedia Console at **[https://multimedia-console.altvr.com/]**(https://multimedia-console.altvr.com/)
+2. Navigate to the web portal for the Multimedia Console at **[https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)**
 3. From the web portal, you can generate and publish a configuration for the Multimedia Console. See below for details about the various properties.
 4. Once you've entered the media into the media list and have configured the general settings, select the publish button in the top-right part of the app.
 5. Once the publish has completed, a dialog will pop up with a two word code for you to enter in to the Multimedia Console you've placed in AltspaceVR.
