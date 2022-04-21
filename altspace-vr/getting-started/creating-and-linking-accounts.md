@@ -1,12 +1,45 @@
 ---
 title: Creating and Linking Your AltspaceVR Account
 description: Get step-by-step instructions on how to create a new AltspaceVR account and how to link an existing AltspaceVR account to a Microsoft Account.
-ms.date: 06/25/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 2/23/2022
 ms.topic: article
-keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name
+keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name, msa
 ---
 
 # Creating and Linking Your AltspaceVR Account
+
+[![Download and install AltspaceVR](images/download-altspace.png)](https://altvr.com/get-altspacevr/)
+
+## **Best practice for initial creation of your AltspaceVR account:** ##
+
+**FIRST**
+
+1. Visit our website at altvr.com
+
+2. Select Sign In (top right) <br>
+    ![Sign in to the AltspaceVR website](images/02-sign-in.png)
+
+3. Sign in with Microsoft
+4. Use your personal Microsoft Account (cannot use work or school accounts) or Create One
+5. You'll know you are properly Signed In when you see your email address between the Download and Sign out buttons along the top right of the website.
+
+**SECOND**
+
+1. Once properly Signed In via the website
+
+2. Use the AltspaceVR app on your computer or VR headset
+
+3. Select the Sign In button in the app <br>
+    ![Sign in to the AltspaceVR app](images/03-sign-in-altspace-app.png)
+
+4. Select the Sign in with Microsoft button <br>
+    ![Sign in with Microsoft](images/04-sign-in-altspace-app.png)
+
+5. Choose your personal Microsoft Account (Work or school accounts will not work)
+
+6. Enjoy AltspaceVR!
 
 ## Disclaimer Regarding Account Linking
 
@@ -14,8 +47,25 @@ Listed below are the different ways in which you can create and link your Altspa
 
 When creating or updating your account, keep in mind that there are still features that require an AltspaceVR "password".
 
-If you've created an account with MSA and don't have an AltspaceVR password, sign into https://www.altvr.com/, go to your profile, and then click "sign out and get a new password".
+If you've created an account with MSA and don't have an AltspaceVR password, sign into https://www.altvr.com/, go to your profile, and then select "sign out and get a new password".
 
+## How to Create an account on altvr.com
+
+1. Launch a browser and navigate to the [Sign In](https://account.altvr.com/users/sign_in) page.
+2. Select "Sign in with Microsoft".
+3. Sign in with your personal Microsoft Account or select "Create one!" to create a new personal Microsoft Account to use with AltspaceVR.
+4. Once you've completed the Microsoft Account sign in process, your AltspaceVR account will be created and you'll see a confirmation message.
+
+## How to Create an Account in 2D Mode
+
+Creating your Account with a Microsoft Login:
+
+1. Start by [downloading the live build of AltspaceVR](https://altvr.com/get-altspacevr) from your preferred app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
+2. Launch the application.
+3. Select the "Sign In" button and then the "Sign in with Microsoft" button.
+3. A separate window will open, prompting you to select the Microsoft Account you want to use. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
+4. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
+5. Select "Register".
 
 ## How to Create an Account in VR
 
@@ -30,24 +80,6 @@ Creating your Account with a Microsoft Login:
 8. Follow the on-screen instructions to activate your device.
 9. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
 10. Select "Register".
-
-## How to Create an Account in 2D Mode
-
-Creating your Account with a Microsoft Login:
-
-1. Start by [downloading the live build of AltspaceVR](https://altvr.com/getaltspacevr) from your preferred app store or library. <br>*If you already have the application, make sure you have the latest updates installed.*
-2. Launch the application.
-3. Select the "Sign In" button and then the "Sign in with Microsoft" button.
-3. A separate window will open, prompting you to select the Microsoft Account you want to use. Select a personal Microsoft Account, not one that is associated to a Work or School Account.
-4. Once you've completed the account-linking process, a prompt will ask you to fill out your Display Name and Username.
-5. Select "Register".
-
-## How to Create an account on altvr.com
-
-1. Launch a browser and navigate to the [Sign In](https://account.altvr.com/users/sign_in) page.
-2. Select "Sign in with Microsoft".
-3. Sign in with your personal Microsoft Account or select "Create one!" to create a new personal Microsoft Account to use with AltspaceVR.
-4. Once you've completed the Microsoft Account sign-in process, your AltspaceVR account will be created and you'll see a confirmation message.
 
 ## Linking Your Microsoft Account
 
@@ -101,7 +133,7 @@ No, your user name can share the same Display Name as others. If you want your D
 
 To change your **Username or Display Name**, sign into altvr.com, select your profile icon on the top right, User Profile, Edit, and update your Username or Display Name. 
 
-*Note: You will only be able to change your username once. Any time after that, you will have to submit a support ticket.*
+>*Note: You will only be able to change your username once. Any time after that, you will have to submit a support ticket.*
 
 If you want to change the Username associated with your account, [send us a ticket](https://help.altvr.com/hc/requests/new). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
 
@@ -149,7 +181,7 @@ Don't worry, you have some time to make the update. We'll be rolling our Microso
 
 **What about my privacy and data?**
 
-There's no change to our [Terms of Service](../community/terms-of-service.md) or our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remains committed to protecting your privacy. They also remain committed in ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft's core principles around privacy [here](https://privacy.microsoft.com). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, if you have an active AltspaceVR account, you can request a copy of your data and request to have your data deleted at any time.
+There's no change to our [Terms of Service](../community/terms-of-service.md) or our [Privacy Policy](https://privacy.microsoft.com/privacystatement). Microsoft and AltspaceVR remain committed to protecting your privacy. They also remain committed in ensuring that you remain fully in control when it comes to your data and information. You can learn more about Microsoft's core principles around privacy [here](https://privacy.microsoft.com). You can also request detailed information about the personal data Microsoft has about you related to your Microsoft Account [here](https://www.microsoft.com/concern/privacyrequest-msa). Lastly, if you have an active AltspaceVR account, you can request a copy of your data and request to have your data deleted at any time.
 
 ## More Resources
 

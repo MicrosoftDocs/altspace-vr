@@ -1,7 +1,9 @@
 ---
 title: Using the Groups Feature to Create Private Events
 description: Learn how to create private VR spaces that are open to approved guest lists using our group events feature.
-ms.date: 10/24/2021
+author: qianw211
+ms.author: qianwen
+ms.date: 2/15/2021
 ms.topic: article
 keywords: groups, private events, patreon, eventbrite, troubleshooting
 ---
@@ -17,16 +19,16 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 2. Find the **More** pull-down menu.
 3. Select **Groups**
 
-![AltspaceVR web view with more pull down menu highlighted](images/group-features-img-01.png)
+    ![AltspaceVR web view with more pull down menu highlighted](images/group-features-img-01.png)
 
 4. Once in the Groups page, you can see a list of groups that you're a part of or an admin of. 
 
-![AltspaceVR web view groups page](images/group-features-img-02.png)
+    ![AltspaceVR web view groups page](images/group-features-img-02.png)
 
 5. Select on the **Create** button to make a new Group.
 6. Fill out fields to create group.
 
-![New group creation page with input fields](images/group-features-img-03.png)
+    ![New group creation page with input fields](images/group-features-img-03.png)
 
 > [!NOTE]
 > You can hover over the green “?” to get additional information about the fields that have them.
@@ -41,19 +43,19 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
     * This must be the AltspaceVR username for the user and not their account e-mail.  
 4. Select **Create Event**.  
 
-![Created event](images/group-features-img-04.png)
+    ![Created event](images/group-features-img-04.png)
 
 ## How to attend a Group Event, as an Invitee 
 
 1. Open the Main Menu in the AltspaceVR app: 
 
-![Main AltspaceVR app menu](images/group-features-img-05.png)
+    ![Main AltspaceVR app menu](images/group-features-img-05.png)
 
 2. Select **Events** at the bottom of the Menu.
 3. At the top, look for **My Events**
 4. Find the event by its **Name** provided by the Event creator in the main view with the tile images. Select it to enter the Event if it's live.
 
-![AltspaceVR app with my events panel highlighted](images/group-features-img-06.png)
+    ![AltspaceVR app with my events panel highlighted](images/group-features-img-06.png)
 
 ## How To find the Group World (Commons):  
 
@@ -62,7 +64,7 @@ Our Groups Feature gives hosts the ability to create a VR space that is open to 
 3. At the top, look for **My Worlds**.
 4. Find the name of your group and select it to enter the Group World.
 
-![AltspaceVR app with my worlds panel highlighted](images/group-features-img-07.png)
+    ![AltspaceVR app with my worlds panel highlighted](images/group-features-img-07.png)
 
 ## How to Add an Email List to a Group 
 
@@ -145,7 +147,7 @@ If you're a Member or Administrator of a Group, you have extra tools to 
 1. Select either Member or Admin from the top bar and select the Group you want to manage/update. 
 2. Once in the Member or Admin page, select the group you want to access by clicking on its tile image.
 
-![Member or admin panel open](images/group-features-img-08.png)
+    ![Member or admin panel open](images/group-features-img-02.png)
 
 This is the main page to see all your group memberships either as a Member or Administrator. Select a group to see its specific options.
 
@@ -160,7 +162,7 @@ The Group page you see when you're a member of a group.
     * You'll no longer see or enter the Group “Commons” hangout World.  
     * You can't see Group Events.
 
-![Group events page](images/group-features-img-10.png)
+    ![Group events page](images/group-features-img-04.png)
 
 The group page you see when you're an Admin of a group. Note that you'll see the admin options regardless of how you enter the group’s page.
 
@@ -182,8 +184,6 @@ The group page you see when you're an Admin of a group. Note that you'
 
 * This is only available to the Group Owner, meaning the user who originally created the group.
 * It isn't available to Admins of the Group.
-
-![Deleting a group](images/group-features-img-11.png)
 
 This is a group page with an Event scheduled. Events created for the group will appear here.
 
