@@ -111,10 +111,6 @@ additionalContent:
           links:
             - text: Subscribe to our newsletter
               url: community/newsletter-subscriptions.md
-            - text: Community helper program
-              url: community/community-helper-program.md
-            - text: Community helper guide
-              url: community/community-helper-guide.md
         # Card
         - title: Troubleshooting & support
           links:
