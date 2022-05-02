@@ -15,5 +15,15 @@
                   "redirect_url": "/windows/mixed-reality/altspace-vr/tutorials/frontrow-for-events",
                   "redirect_document_id": false
             }
+            {
+                  "source_path": "altspace-vr/community/community-helper-program.md",
+                  "redirect_url": "/windows/mixed-reality/altspace-vr/",
+                  "redirect_document_id": false
+            }
+            {
+                  "source_path": "altspace-vr/community/community-helper-guide.md",
+                  "redirect_url": "/windows/mixed-reality/altspace-vr/",
+                  "redirect_document_id": false
+            }
 	]
 }
