@@ -8,7 +8,10 @@ keywords: web projector, stream, browser, edge
 
 # Using the Web Projector to stream an Edge browser tab
 
-The AltspaceVR Web Projector is a robust media-sharing solution that allows you to stream a designated Edge browser tab from your computer directly into AltspaceVR. It can be used to share slides, videos, photos, and just about anything else you can open up from a browser. The Web Projector requires downloading a browser extension on your computer and is currently available exclusively through the **World Editor > Editor Panel > Web Projector** in AltspaceVR. Below is a complete overview of the feature and how to use it:
+The AltspaceVR Web Projector is a robust media-sharing solution that allows you to stream a designated Edge browser tab from your computer directly into AltspaceVR. It can be used to share slides, videos, photos, and just about anything else you can open up from a browser. The Web Projector requires downloading a browser extension on your computer and is currently available exclusively through the **World Editor > Editor Panel > Web Projector** in AltspaceVR. Below is a complete overview of the feature and how to use it.
+
+> [!NOTE]
+> Web Projector does not use your Microsoft Account (MSA) login. You need to log into the Web Projector with your AltspaceVR account's email and password. If you don't have a password, you can create a new password by logging into altvr.com, going into your Profile, looking for 'Forgot or didn't get a password?' then selecting 'Sign out and get a new password'.
 
 ## Requirements
 
