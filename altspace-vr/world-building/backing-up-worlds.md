@@ -53,10 +53,10 @@ There's no limit to the number of Backups and having more Backups won't impact t
 ## Troubleshooting
 
 **Help! I accidentally restored a Backup and my work is gone**
-Don’t worry. We automatically create a new Backup before restoring old one. Look for one with a name starting with **Auto** with the right timestamp and restore that one (for example, **Auto 2019-01-14T08:23:33-08:00**).  If that doesn’t work submit a [Support request](https://help.altvr.com/hc/requests/new)
+Don’t worry. We automatically create a new Backup before restoring old one. Look for one with a name starting with **Auto** with the right timestamp and restore that one (for example, **Auto 2019-01-14T08:23:33-08:00**).  If that doesn’t work submit a [Support request](https://altvr.com/support)
 
 **I restored a Backup and some objects are missing**
-If any were photos, were those photos deleted? We can’t restore deleted photos for privacy reasons. Submit a [Support request](https://help.altvr.com/hc/requests/new) so we can investigate
+If any were photos, were those photos deleted? We can’t restore deleted photos for privacy reasons. Submit a [Support request](https://altvr.com/support) so we can investigate
 
 **I don’t see any changes**
 Backups are restored asynchronously meaning they can take a few minutes to restore depending on the number of objects. Remember to reset your World and if you don’t see anything after a few minutes try resetting again. In the future, we can provide more feedback on the status of the restoration process

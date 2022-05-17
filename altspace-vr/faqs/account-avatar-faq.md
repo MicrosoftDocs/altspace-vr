@@ -32,14 +32,14 @@ Our staff is here to support and assist you, so please ask them any questions yo
 
 ## How do I update my personal information?
 
-We understand that mistakes do happen, and you may require a change to your name or username - file a [Support Request](https://help.altvr.com/hc/requests/new) with the AltspaceVR Community Team. We’ll apply the change to your account at the earliest opportunity.
+We understand that mistakes do happen, and you may require a change to your name or username - file a [Support Request](https://altvr.com/support) with the AltspaceVR Community Team. We’ll apply the change to your account at the earliest opportunity.
 
 > [!IMPORTANT]
 > AltspaceVR reserves the right to deny name changes if they violate the Community Standards or if there are excessive requests on a particular account.
 
 ### Updating your email
 
-From time to time, we understand that people migrate to new email addresses or lose the ability to access their email accounts. If you would like to update your account information in the AltspaceVR system, go ahead and send a [Support Request to the AltspaceVR Community Team](https://help.altvr.com/hc/requests/new). 
+From time to time, we understand that people migrate to new email addresses or lose the ability to access their email accounts. If you would like to update your account information in the AltspaceVR system, go ahead and send a [Support Request to the AltspaceVR Community Team](https://altvr.com/support). 
 
 Send the request from your old email address so that we can validate your identity. If this isn’t possible because of the inability to access your email account, let us know when submitting a support ticket.
 
@@ -97,4 +97,4 @@ We highly recommend linking your AltspaceVR account with a personal Microsoft Ac
 Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)
+> [Click here to send a Support Request](https://altvr.com/support)

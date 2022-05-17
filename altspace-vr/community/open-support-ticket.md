@@ -11,4 +11,4 @@ keywords: help, support
 Need a hand? Reach out to our Support Team!
 
 > [!div class="nextstepaction"] 
-> [Open a Support Ticket](https://help.altvr.com/hc/en-us/requests/new)
+> [Open a Support Ticket](https://altvr.com/support)
