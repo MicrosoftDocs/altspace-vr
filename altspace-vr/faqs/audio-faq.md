@@ -85,4 +85,4 @@ AltspaceVR may not recognize sound setting changes made in-game, so you may need
 Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)
+> [Click here to send a Support Request](https://altvr.com/support)

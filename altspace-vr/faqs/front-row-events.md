@@ -27,4 +27,4 @@ When a user selects their **Raise Hand** button, the event hosts can activate On
 Questions or feedback for the AltspaceVR team? 
 
 > [!div class="nextstepaction"]
-> [Click here to send a Support Request](https://help.altvr.com/hc/requests/new)
+> [Click here to send a Support Request](https://altvr.com/support)
