@@ -176,7 +176,7 @@ The group page you see when you're an Admin of a group. Note that you'
 
 * You also have access to a **“Create Event”** button.  
     * **Creating an Event from the Group’s page will automatically set the group permissions for the Event.**  
-    * In-depth documentation for creating an Event via the website is [here](https://help.altvr.com/hc/en-us/articles/360033140854-Creating-an-Event).
+    * In-depth documentation for creating an Event via the website is [here](https://altvr.com/support).
 * **You can also get rid of the Group by pressing the “Delete” button.**
 
 > [!NOTE]

@@ -55,7 +55,7 @@ Early builds can cause compatibility issues that may impact your AltspaceVR expe
 
 With the Public Beta Build Program, our goal is to find and log any bugs or issues between releases and identify any potential regressions between versions.  
 
-**Submit all bugs and issues found in any early build to us at [altvr.com/betabuild](https://help.altvr.com/hc/requests/new?ticket_form_id=360004678833)**
+**Submit all bugs and issues found in any early build to us at [altvr.com/betabuild](https://altvr.com/support)**
 
 Remember to send logs anytime you encounter a possible bug, regression, or issue. To submit logs go to the SETTINGS tab in your Main Menu, select SUPPORT, select SUBMIT LOGS. If you've experienced a crash, follow these steps but select SUBMIT LAST LOGS as your final step. 
 

@@ -135,11 +135,11 @@ To change your **Username or Display Name**, sign into altvr.com, select your pr
 
 >*Note: You will only be able to change your username once. Any time after that, you will have to submit a support ticket.*
 
-If you want to change the Username associated with your account, [send us a ticket](https://help.altvr.com/hc/requests/new). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
+If you want to change the Username associated with your account, [send us a ticket](https://altvr.com/support). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
 
 **My menu is blank and I can't sign up, what can I do?**
 
-If your "You" menu isn't displaying, restarting the AltspaceVR client should fix the issue so that you can sign in. Make sure that both your VR headset and your 2D monitor are plugged into the same GPU. Contact our [Help Desk](https://help.altvr.com/hc/requests/new) if the issue persists.
+If your "You" menu isn't displaying, restarting the AltspaceVR client should fix the issue so that you can sign in. Make sure that both your VR headset and your 2D monitor are plugged into the same GPU. Contact our [Help Desk](https://altvr.com/support) if the issue persists.
 
 ## Microsoft Account Integration FAQ
 
@@ -165,7 +165,7 @@ Nope! Creating a Microsoft Account is free. Using AltspaceVR is also free. Just 
 
 **What if I'm having issues linking my accounts?**
 
-If you're stuck, you can always contact us at our [Help Desk](https://help.altvr.com/hc/requests/new).
+If you're stuck, you can always contact us at our [Help Desk](https://altvr.com/support).
 
 **What if I have multiple AltspaceVR accounts?**
 
@@ -173,7 +173,7 @@ Only one AltspsaceVR account can be linked to a Microsoft Account. You'll need a
 
 **What if I forget my login details?**
 
-If you have trouble logging into AltspaceVR after you've connected to your Microsoft Account, contact us at our [Help Desk](https://help.altvr.com/hc/requests/new). For trouble logging into your Microsoft Account, visit [here](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735) or [here](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9) for a list of troubleshooting tips and resources.
+If you have trouble logging into AltspaceVR after you've connected to your Microsoft Account, contact us at our [Help Desk](https://altvr.com/support). For trouble logging into your Microsoft Account, visit [here](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735) or [here](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9) for a list of troubleshooting tips and resources.
 
 **Do I have to connect to my Microsoft Account?**
 
