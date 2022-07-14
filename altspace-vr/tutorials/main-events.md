@@ -1,7 +1,7 @@
 ---
 title: Main events and maximizing event visibility
 description: Learn how to create and configure AltspaceVR main events while maximizing their visibility.
-ms.date: 03/11/2021
+ms.date: 07/13/2022
 ms.topic: article
 keywords: events
 ---
@@ -54,8 +54,8 @@ During the event-creation process, you can select "Add as Main Event" and automa
 | Invalid Artifacts |  |  | Any |
 
 > [!IMPORTANT]
-> Hosts are limited to listing a maximum of 3 Main Events per day, per person.
-> If you'd like to have more than 3 Main Events, per day, per person, please contact our Support Team: [altvr.com/support](https://altvr.com/support)
+> Hosts are limited to listing a maximum of 6 Main Events per day, per person.
+> If you'd like to have more than 6 Main Events, per day, per person, please contact our Support Team: [altvr.com/support](https://altvr.com/support)
 
 ## Will I still have access to the World Editor if my event is listed as a Main Event?
 
