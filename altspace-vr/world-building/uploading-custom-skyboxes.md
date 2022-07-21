@@ -31,9 +31,6 @@ You can also use the [Unity Uploader](world-building-toolkit-getting-started.md)
 
 ## Troubleshooting
 
-**There's a seam or line in the sky :-(.** 
-It's a bug that we'll fix soon
-
 **Upload failed**
     * try uploading just the 360 image on its own
     * try with another, smaller file as a test
