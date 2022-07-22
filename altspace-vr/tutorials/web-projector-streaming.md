@@ -25,7 +25,7 @@ The AltspaceVR Web Projector is a robust media-sharing solution that allows you 
 ## Getting started
 
 1. To begin, you'll need to download and install the Edge browser extension: **[https://account.altvr.com/web_projector](https://account.altvr.com/web_projector)**.
-2. Next, [sideload your extension in your Edge browser](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
+2. Next, [sideload your extension in your Edge browser](/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
     * Once your download is complete, Unzip the .zip file.
     * Go to the **Extensions/Manage Extensions** section of your Edge browser.
     * Toggle on **Developer Mode** and select **Load Unpacked**.
