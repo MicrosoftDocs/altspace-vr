@@ -138,8 +138,6 @@ The current scene, which was loaded automatically when you created the project a
 * Maybe: fancy stuff like dynamic global illumination.
 * You can upload scenes for different platforms separately or together.
 
-To see many scenes that were built using the Uploader, go to [Featured Worlds](https://account.altvr.com/worlds/featured).
-
 ## Tips
 
 * Join the [Official AltspaceVR Discord](https://discordapp.com/invite/altspacevr).

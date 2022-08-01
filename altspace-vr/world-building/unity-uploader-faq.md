@@ -20,7 +20,7 @@ That's my Stargate Unity scene with an SDK app powering the Gate and DND
 
 **3. Where can I find examples?**
 
-[Featured Worlds](https://account.altvr.com/worlds/featured) and [Jimmy's Examples](https://account.altvr.com/worlds/1046572460192825569) are good places to start
+[Jimmy's Examples](https://account.altvr.com/worlds/1046572460192825569) is a good places to start.
 
 **4. Will this work with Kits and the new SDK?**
 Yes, you can use all the tools together if you'd like. We're trying to develop them to work seamlessly together.
