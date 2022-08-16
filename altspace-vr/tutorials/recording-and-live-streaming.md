@@ -31,7 +31,7 @@ In this article, you'll learn how to:
 
 ### Have AltspaceVR running BEFORE you run OBS
 
-1. Download and install AltspaceVR from our website: [altvr.com/get](https://altvr.com/getaltspacevr)
+1. Download and install AltspaceVR from our website: [altvr.com/get](https://altvr.com/get-altspacevr/)
 2. If you'd like to stabilize your VR video and eliminate jerky head movements, make sure you either use the 2D client, or launch AltspaceVR in 2D mode by unplugging your headset’s USB cable from your PC. If you have a Rift, press Ctrl+Alt+Del, select **Services**, **Oculus VR Runtime Service**, right-click, and select **Stop**. This will disable Oculus and start AltspaceVR in 2D mode. Repeat these steps and use Start to get VR mode back.
 3. You can also record your experience in VR mode, using Game Capture with OBS
 
