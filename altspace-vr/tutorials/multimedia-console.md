@@ -1,7 +1,7 @@
 ---
 title: Using the multimedia console
 description: Learn how to start configuring, publishing, and controling the multimedia console in your AltspaceVR experiences.
-ms.date: 04/21/2022
+ms.date: 04/22/2022
 ms.topic: article
 keywords: console, multimedia
 ---
@@ -77,7 +77,7 @@ Features that are controlled by role assignments are as follows:
 * **Can control media player** - Determines what roles can control the media playback buttons for the Multimedia Console
 * **Can configure the media player** - Determines what roles can configure the Multimedia Console by being granted access to the **Config** button
 
-### Adding photos and videos to the media list
+## Adding photos and videos to the media list
 
 Media is the heart of the Multimedia Console. Images and video links are supported as media types within the Multimedia Console. To add new media, select either the **Add Image** or **Add Video** icons to have a dialog pop up to enter the media information and settings. Below is the breakdown of the media types and associated settings:
 

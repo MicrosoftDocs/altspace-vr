@@ -8,7 +8,7 @@ keywords: skyboxes, troubleshooting
 
 # Uploading custom Skyboxes
 
-A Skybox is a way to create a **background** for your World that makes the experience more immersive. There are different kinds of Skyboxes but we currently support **equirectangular**. Here's an example taken with a 360 camera (more example [here](http://moments.mankindforward.com/)): 
+A Skybox is a way to create a **background** for your World that makes the experience more immersive. There are different kinds of Skyboxes but we currently support **equirectangular**: 
 
 ![360 equirectangular view of a living room](images/custom-skyboxes-img-01.jpeg)
 
@@ -30,9 +30,6 @@ You can also use the [Unity Uploader](world-building-toolkit-getting-started.md)
 4. Enter your World and open the World Editor. Under Skyboxes, select your new Skybox. In a few seconds, the sky will literally change. Others in your World will also see the sky change. To switch back, choose the **default** skybox in that same list. 
 
 ## Troubleshooting
-
-**There's a seam or line in the sky :-(.** 
-It's a bug that we'll fix soon
 
 **Upload failed**
     * try uploading just the 360 image on its own

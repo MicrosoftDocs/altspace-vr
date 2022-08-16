@@ -39,12 +39,6 @@
       href: community/exploring-title-screen.md
     - name: Subscribe to our newsletter
       href: community/newsletter-subscriptions.md
-    - name: Community involvement
-      items:
-        - name: Community helper program
-          href: community/community-helper-program.md
-        - name: Community helper guide
-          href: community/community-helper-guide.md
 - name: Creating & hosting events
   items:
     - name: Basic events
@@ -123,8 +117,10 @@
             href: world-building/importing-models.md
           - name: Uploading skyboxes
             href: world-building/uploading-custom-skyboxes.md
-- name: Rules & standards 
+- name: Terms & standards 
   items:
+    - name: Software license terms
+      href: community/software-license-terms.md
     - name: Terms of service
       href: community/terms-of-service.md
     - name: Community standards 

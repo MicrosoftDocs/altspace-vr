@@ -51,7 +51,7 @@ Start installing AltspaceVR on your PC or headset, creating an account, and gett
 
 ### Additional information
 
-Have a question? [Reach out to our Help Desk](https://help.altvr.com/hc/requests/new).
+Have a question? [Reach out to our Help Desk](https://altvr.com/support).
 
 ### Best practices
 

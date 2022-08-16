@@ -1,7 +1,7 @@
 ---
 title: Main events and maximizing event visibility
 description: Learn how to create and configure AltspaceVR main events while maximizing their visibility.
-ms.date: 03/11/2021
+ms.date: 07/20/2022
 ms.topic: article
 keywords: events
 ---
@@ -30,12 +30,12 @@ During the event-creation process, you can select "Add as Main Event" and automa
 
 ## What are the eligibility requirements for Main Events?
 
-* Event must be Public
+* Event must be Public.
 * Event description must meet minimum character-count of 100.
-* Tile image must be 1920x1080
+* Tile image must be 1920x1080.
 * The creator's/host's AltspaceVR account must be minimum of one week (seven days) old.
 * The creator/host must have hosted at least one (1) previous public event.
-* The creator/host must be OK with AltspaceVR promoting their event through any/all relevant methods (social media, newsletter, Oculus Events, and so on.
+* The creator/host must be OK with AltspaceVR promoting their event through any/all relevant methods (social media, newsletter, Oculus Events, and so on)
 * If an event is found to be non-performant, containing inappropriate content, or otherwise in violation of our Community Standards/Terms of Service, the host must follow any requests/edits issued by AltspaceVR staff to maintain Main Event designation.
 * The source world must pass diagnostics check:
 (Any/all metrics within the GOOD and OKAY tables are allowable. Metrics within the BAD table aren't.)
@@ -43,18 +43,19 @@ During the event-creation process, you can select "Add as Main Event" and automa
 | Diagnostic | Good (will pass) | Okay (will pass) | Bad (will fail) |
 |---|---|---|---|
 | Objects | 0-200 | 201-500 | 501+ |
-| Kits | 0-5 | 6-10 | 11+ |
-| Kits (mobile) | 0-5 | 6-20 | 21+ |
+| Kits Count | 0-5 | 6-10 | 11+ |
+| Kits Size (Mobile) | 0-5 MB | 6-20 MB | 21+ MB |
 | Photos | 0-10 | 11-20 | 21+ |
 | Teleporters | 0-10 | 11-20 | 21+ |
-| Template (mobile) | 0-10MB | 11-20 MB | 21+MB |
-| Skybox (mobile) | 0-2MB | 3-5 MB | 6+MB |
+| Template (Mobile) | 0-10 MB | 11-25 MB | 25+ MB |
+| Skybox (Mobile) | 0-2 MB | 3-5 MB | 6+ MB |
 | Missing Kits |  |  | Any |
 | Missing Artifacts |  |  | Any |
 | Invalid Artifacts |  |  | Any |
 
 > [!IMPORTANT]
-> Hosts are limited to listing a maximum of 3 Main Events per day, per person.  
+> Hosts are limited to listing a maximum of 6 Main Events per day, per person.
+> If you'd like to have more than 6 Main Events, per day, per person, please contact our Support Team: [altvr.com/support](https://altvr.com/support)
 
 ## Will I still have access to the World Editor if my event is listed as a Main Event?
 
