@@ -3,7 +3,7 @@ title: Using a Gamepad in AltspaceVR
 description: Learn about the built-in AltspaceVR controller mappings for Xbox 360 and gamepad controllers.
 ms.date: 9/14/2021
 author: qianw211
-ms.author: v-qianwen
+ms.author: qianwen
 ms.topic: article
 keywords: xbox, xbox 360, gamepad, windows, controls
 ---

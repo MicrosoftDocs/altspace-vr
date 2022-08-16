@@ -11,7 +11,7 @@ keywords: installation, microsoft store, steam
 ## Microsoft Store
 
 To set up Windows Mixed Reality from the Microsoft Store:
-1. Complete the [WMR Setup process](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/set-up-windows-mixed-reality) on your PC.
+1. Complete the [WMR Setup process](/windows/mixed-reality/enthusiast-guide/set-up-windows-mixed-reality) on your PC.
 2. Connect your headset to your PC & open Mixed Reality Portal.
 3. Turn on your motion controllers, but don’t put on your headset yet.
 4. Wait for the Windows Mixed Reality home to load & for your controllers to be visible.

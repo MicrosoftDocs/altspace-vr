@@ -54,7 +54,7 @@ this guide from the beginning. If you are on Unity 2020.3 already, but with Uplo
     files that are automatically generated from the contents of the Assets folder (among other things).
 
 4. **DOWNLOAD ENGINE VERSION** - Do this step if you are upgrading to a new Unity version. Open the Unity Hub, and
-    install Unity 2020.3.18f1 from the download archive ([link to engine install](unityhub://2020.3.18f1/a7d1c678663c)).
+    install Unity 2020.3.18f1 from the download archive ([link to engine install](https://unity3d.com/get-unity/download/archive)).
     * If building on a Windows PC, check the boxes for Android and Mac Build Support.
     * If building on a Mac, check the boxes for Android and Windows Build Support.
 

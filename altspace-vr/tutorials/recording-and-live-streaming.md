@@ -2,7 +2,7 @@
 title: Recording and live streaming
 description: Learn how to record and live stream your AltspaceVR events from your PC to promote and share with your users.
 author: qianw211    
-ms.author: v-qianwen
+ms.author: qianwen
 ms.date: 11/1/2021
 ms.topic: article
 keywords: streaming, recording, video, audio, youtube, obs, live
@@ -62,7 +62,7 @@ Now to set the following properties in OBS, go to **File > Settings**:
 | **Audio** | Sample Rate: 44.1khz <br> Channels: Stereo <br> Desktop Audio: Default <br> Desktop Audio 2: Disable <br> Mic/Aux Audio: Default |
 | **Video** | Base (Canvas) Resolution: 1920x1080 <br> Output (Scaled) Resolution: 1920x1080 <br> Downscale Filter: Bicubic (Sharpened scaling, 16 samples) <br> Common FPS Values: 30 (or 60) |
 | **Hotkeys** | Leave default |
-| **Advanced** | Process Priority: Normal | <br>
+| **Advanced** | Process Priority: Normal |
 
 <br>Alright, now make sure to select **Apply**, then **OK** to save all your OBS settings. 
 
