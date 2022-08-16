@@ -2,7 +2,7 @@
 title: Recording and live streaming
 description: Learn how to record and live stream your AltspaceVR events from your PC to promote and share with your users.
 author: qianw211    
-ms.author: v-qianwen
+ms.author: qianwen
 ms.date: 11/1/2021
 ms.topic: article
 keywords: streaming, recording, video, audio, youtube, obs, live
@@ -31,7 +31,7 @@ In this article, you'll learn how to:
 
 ### Have AltspaceVR running BEFORE you run OBS
 
-1. Download and install AltspaceVR from our website: [altvr.com/get](https://altvr.com/getaltspacevr)
+1. Download and install AltspaceVR from our website: [altvr.com/get](https://altvr.com/get-altspacevr/)
 2. If you'd like to stabilize your VR video and eliminate jerky head movements, make sure you either use the 2D client, or launch AltspaceVR in 2D mode by unplugging your headset’s USB cable from your PC. If you have a Rift, press Ctrl+Alt+Del, select **Services**, **Oculus VR Runtime Service**, right-click, and select **Stop**. This will disable Oculus and start AltspaceVR in 2D mode. Repeat these steps and use Start to get VR mode back.
 3. You can also record your experience in VR mode, using Game Capture with OBS
 
@@ -62,7 +62,7 @@ Now to set the following properties in OBS, go to **File > Settings**:
 | **Audio** | Sample Rate: 44.1khz <br> Channels: Stereo <br> Desktop Audio: Default <br> Desktop Audio 2: Disable <br> Mic/Aux Audio: Default |
 | **Video** | Base (Canvas) Resolution: 1920x1080 <br> Output (Scaled) Resolution: 1920x1080 <br> Downscale Filter: Bicubic (Sharpened scaling, 16 samples) <br> Common FPS Values: 30 (or 60) |
 | **Hotkeys** | Leave default |
-| **Advanced** | Process Priority: Normal | <br>
+| **Advanced** | Process Priority: Normal |
 
 <br>Alright, now make sure to select **Apply**, then **OK** to save all your OBS settings. 
 

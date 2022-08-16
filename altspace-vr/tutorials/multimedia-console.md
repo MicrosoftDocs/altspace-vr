@@ -16,6 +16,7 @@ Getting started with the Multimedia Console is a two part process.  First there'
 
 > [!NOTE]
 > The Multimedia Console does not support YouTube videos/livestreams, Twitch livestreams or links to sites with logins like Google Drive/Dropbox. It requires direct access to a publicly hosted video file, for example: https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+
 ### Configuring the Multimedia Console from the web portal
 
 1. First, you'll need to make sure your content is hosted online because you'll need a URL. You can upload photos to altvr.com, host a video .mp4 file online or use a Dlive live stream link: https://dlive.tv/yourlivestream
@@ -24,7 +25,7 @@ Getting started with the Multimedia Console is a two part process.  First there'
 4. Once you've entered the media into the media list and have configured the general settings, select the publish button in the top-right part of the app.
 5. Once the publish has completed, a dialog will pop up with a two word code for you to enter in to the Multimedia Console you've placed in AltspaceVR.
   
-## Placing the Multimedia Console in AltspaceVR
+### Placing the Multimedia Console in AltspaceVR
 
 1. Select **World Editor > Editor Panel > SDK Apps > Multimedia Console**. 
 2. Position the Multimedia Console to best suit your space and audience.
@@ -34,7 +35,7 @@ Getting started with the Multimedia Console is a two part process.  First there'
 6. A dialog pops up that asks you to enter a code from the web portal or valid JSON. Enter the two word code from the web portal including the dash and hit OK. JSON is an advanced configuration described below.
 7. The Multimedia Console will load after a few seconds with the configuration you built in the web portal.
 
-## Controlling the Multimedia Console
+### Controlling the Multimedia Console
 
 1. After you input your two word code/JSON and select OK, you'll see control buttons appear below the Multimedia Console display. 
     * **Play** - starts the media viewer (or restarts at current entry, if previously stopped) 
@@ -49,7 +50,7 @@ Now you're set to begin sharing via the Multimedia Console!
 
 The web portal is a web app that enables configuring the various features of the Multimedia Console. These features fall in to two categories; general media console settings, and the media play list.
 
-## Multimedia Console general settings
+### Multimedia Console general settings
 
 **Playback Settings**
 
@@ -98,6 +99,7 @@ Videos can be hosted videos or live streams through DLive. Other playforms may f
 
 > [!NOTE]
 > REQUIRED: Put in the time that matches the length of the video to enable videos to properly skip to the next piece of content. For example, if your video is 5 minutes long put 300 seconds, otherwise your video won't skip to the next piece of content.
+
 * **Volume** - The volume of the video from 0 (min) - 1 (max) values
 * **Start Time** - The number of seconds from the beginning of the video to start from
 * **Roll Off Start Distance** - The distance, in meters, that the volume begins to fall off as you move away from the Multimedia Console
@@ -145,7 +147,7 @@ The media list is a property set at the root of the JSON structure like the Role
 ```json
 {
     "name": "DLive Livestream",
-    "videoUrl":"https://www.dlive.tv/(yourname)",
+    "videoUrl":"https://www.dlive.tv/Laura-Lynn",
     "volume":0.2,
     "startTime":0,
     "endOfVideoAction":"play-next"
@@ -162,7 +164,7 @@ The media list is a property set at the root of the JSON structure like the Role
   "configureMediaPlayer": "elevated",
   "mediaList": [
     {
-      "videoUrl": "https://www.dlive.tv/(yourname)",
+      "videoUrl": "https://www.dlive.tv/Laura-Lynn",
       "volume": 0.2,
       "startTime": 0,
       "endOfVideoAction": "play-next"

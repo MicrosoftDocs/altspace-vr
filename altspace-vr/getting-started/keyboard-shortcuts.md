@@ -3,7 +3,7 @@ title: Keyboard shortcuts
 description: Stay up-to-date with all the available keyboard shortcuts and actions the AltspaceVR application supports.
 ms.date: 9/14/2021
 author: qianw211
-ms.author: v-qianwen
+ms.author: qianwen
 ms.topic: article
 keywords: keyboard, shortcuts
 ---
