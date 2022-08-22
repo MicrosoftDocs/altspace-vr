@@ -73,7 +73,7 @@ The Uploader lets you use a Unity scene as a Template for your Worlds. You can b
 
 1. On the menu bar, select **AltspaceVR > Templates**.
 
-1. In the **Altspace VR Templates** window, sign in with your AltspaceVR account credentials or MSA. If you've only ever logged into AltspaceVR with your Microsoft account, you'll need to create a password using the "Forgot your password" option on the website.
+1. In the **Altspace VR Templates** window, either 'Sign In' with your AltspaceVR account (Email and Password fields above) or **preferred** 'Sign In with MSA' (pop-up window to choose your Microsoft MSA account). NOTES: Do not use Email/Password when attempting to sign in with your MSA account. It can take over 15 seconds for the sign in process to complete, please be patient while you sign into the Unity Uploader.
 
     ![Screen shot of the AltspaceVR Templates window.](images/021-altspace-vr-templates.png)
 
@@ -185,6 +185,10 @@ You need to add collision to objects to teleport onto them.
 * Try removing unused files. For whatever reason, Unity gets overzealous sometimes.
 
 **I can't sign in with my AltspaceVR credentials**
+
+* Are you selecting Sign In with MSA, then choosing an MSA account from the pop-up? Do not fill in Email/Password with your MSA credentials. Email and Password login is for users with legacy Altspace credentials, not Microsoft Account (MSA) credentials. If you don't have a legacy Altspace password, click 'Sign in with MSA'.
+
+* Be patient, the sign in process can take 15 seconds to complete.
 
 * Emails are case-sensitive.
 
