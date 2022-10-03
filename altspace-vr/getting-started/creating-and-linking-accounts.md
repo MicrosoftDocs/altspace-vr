@@ -3,9 +3,9 @@ title: Creating and Linking Your AltspaceVR Account
 description: Get step-by-step instructions on how to create a new AltspaceVR account and how to link an existing AltspaceVR account to a Microsoft Account.
 author: qianw211
 ms.author: qianwen
-ms.date: 2/23/2022
+ms.date: 9/29/2022
 ms.topic: article
-keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name, msa
+keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name, msa, locked, banned, password, reset
 ---
 
 # Creating and Linking Your AltspaceVR Account
@@ -126,20 +126,25 @@ No, your user name can share the same Display Name as others. If you want your D
 
 **I can't remember my password, how can I reset it?**
 
-- If you're using a Microsoft account, you can follow the Microsoft password reset flow after starting the login process with the "Sign in with Microsoft" button. 
+- If you're using a Microsoft account (MSA), you can follow the Microsoft password reset flow after starting the login process with the "Sign in with Microsoft" button. 
 - If you're using a classic AltspaceVR account, you can use the "Forgot your password" link to reset your password, or You can reset your password [here](https://account.altvr.com/users/password/new).
+>*Note: Any password reset emails will be sent to your Microsoft account (MSA) email. Please check your Microsoft account email inbox and spam folders for any password reset emails.*
+
+**My AltspaceVR account has been locked after too many failed attempts. What do I do now?**
+
+If you're locked out of your account and can't access AltspaceVR, please check your email for instructions on how to unlock your account. If you did not receive this email send in a support ticket with your AltspaceVR username and account email [here](https://www.altvr.com/support).
 
 **How can I change my Username or Display Name?**
 
-To change your **Username or Display Name**, sign into altvr.com, select your profile icon on the top right, User Profile, Edit, and update your Username or Display Name. 
+To change your **Username or Display Name**, sign into altvr.com, select your profile icon on the top right, User Profile, Edit, and update your Username or Display Name.
 
 >*Note: You will only be able to change your username once. Any time after that, you will have to submit a support ticket.*
 
 If you want to change the Username associated with your account, [send us a ticket](https://altvr.com/support). Make sure to include the email associated with your account, your current name, and the username you'd like to use in the future.
 
-**My menu is blank and I can't sign up, what can I do?**
+**My AltspaceVR account has been banned. What now?**
 
-If your "You" menu isn't displaying, restarting the AltspaceVR client should fix the issue so that you can sign in. Make sure that both your VR headset and your 2D monitor are plugged into the same GPU. Contact our [Help Desk](https://altvr.com/support) if the issue persists.
+If you're account has been banned, please send in a support ticket with your AltspaceVR username and account email [here](https://www.altvr.com/support).
 
 ## Microsoft Account Integration FAQ
 
@@ -157,7 +162,7 @@ It's possible you already have a Microsoft Account. Do you play Minecraft, game 
 
 **Does this mean that I need to create a new email address with Outlook?**
 
-No. You can set up a Microsoft Account with a current email address even if it's not hosted with Microsoft. (Ex: G-Mail, Yahoo, and so on). If you sign in with Microsoft credentials that shares the same email as your classic AltspaceVR account, you'll be prompted to link your account after signing in. Follow the prompts to sign into your classic account, and your Altspace and Microsoft accounts will be linked for you.
+No. You can set up a Microsoft Account with a current email address even if it's not hosted with Microsoft. (Ex: Gmail, Yahoo, and so on). If you sign in with Microsoft credentials that shares the same email as your classic AltspaceVR account, you'll be prompted to link your account after signing in. Follow the prompts to sign into your classic account, and your Altspace and Microsoft accounts will be linked for you.
 
 **Does it cost money?**
 
@@ -177,7 +182,7 @@ If you have trouble logging into AltspaceVR after you've connected to your Micro
 
 **Do I have to connect to my Microsoft Account?**
 
-Don't worry, you have some time to make the update. We'll be rolling our Microsoft Account integration in phases. However, over time, some of the major new features we're working on will only be available to individuals who have linked their AltspaceVR account to their Microsoft Account. The reason for this is that these features (like ticketed events, for example) require strong and robust security measures. Read more on our [blog](https://altvr.com/microsoft-account-integration).
+Yes, some of the major new features we're working on will only be available to individuals who have linked their AltspaceVR account to their Microsoft Account. The reason for this is that these features require strong and robust security measures. Read more on our [blog](https://altvr.com/microsoft-account-integration).
 
 **What about my privacy and data?**
 
