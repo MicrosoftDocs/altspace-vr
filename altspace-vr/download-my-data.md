@@ -1,5 +1,5 @@
 ---
-title: How to download my data, FAQs, and contact support
+title: How to, FAQs, and contact support
 description: AltspaceVR is shutting down on March 10, 2023
 author: qianw211    
 ms.author: qianwen
@@ -8,7 +8,7 @@ ms.topic: article
 keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR, social VR platform, VR event hosting, social virtual reality, virtual reality event hosting
 ---
 
-# How to download my AltspaceVR content
+# How To, FAQs & Contact Support
 
 >[!Important]
 >Please download your content *before* March 10, 2023
