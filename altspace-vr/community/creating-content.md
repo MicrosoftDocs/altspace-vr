@@ -8,6 +8,9 @@ keywords: mixed reality extensions, community, world building, resources
 
 # Creating AltspaceVR content
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 AltspaceVR is an excellent community for developers who want to create and share VR content. We want to support and grow that community. 
 
 ## MRE (Mixed Reality Extension) SDK

@@ -8,6 +8,9 @@ keywords: spawnpoint, troubleshooting
 
 # Adding custom spawn points
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 People entering your World will **spawn** or appear at the origin, position (0,0,0), when they enter your World. However, you can add one or more Spawn Points if you want to, say, have people start at the entrance to your castle. If you specify multiple Spawn Points, one will be randomly chosen whenever someone enters and the origin won't be included. You can manage Spawn Points to any World or Event where your World Editor is enabled. You control where people spawn (position) and what direction they'll be facing (rotation). Spawn Points will only be visible in Edit Mode. 
 
 1. Go near the spot where you want people to spawn. Open **World Editor > Basics** and make sure **Lock Rotation** is checked. Select **Spawn Point** to create one. Move it to the exact position you want:

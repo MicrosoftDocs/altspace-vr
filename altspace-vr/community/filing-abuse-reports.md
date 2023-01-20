@@ -8,6 +8,9 @@ keywords: reports, issues
 
 # Filing an abuse report
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 In AltspaceVR, your comfort and safety are a top priority. We don't condone any acts or behaviors that are offensive, derogatory, or inappropriate. Filing an abuse report allows you to let our Moderation Team know about any users or content that violates our Community Standards or Terms of Service.
 
 Take a moment to review our [Community Standards](community-standards.md) and [Terms of Service](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20), to determine if the individual's actions are violating our expectation of user behavior. Suppose you feel it warrants our attention, [file an Abuse Report](https://altvr.com/support). Make sure to provide a detailed account of your experience, accurate spelling of any relevant Display Names and Usernames, and specification of when the instance of abuse took place. 

@@ -8,6 +8,9 @@ keywords: events
 
 # Recovering deleted events
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Accidents happen. That's life. But it can be frustrating to lose a whole event to an unfortunate misclick. If you've accidentally or regrettably deleted one of your events, don't worry. This guide offers step-by-step instruction on the event-recovery process.
 
 1. To begin, first you must log in to your account on the AltspaceVR website.

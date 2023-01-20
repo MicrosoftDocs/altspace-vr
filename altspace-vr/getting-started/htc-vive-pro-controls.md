@@ -8,7 +8,10 @@ ms.topic: article
 keywords: windows mixed reality, controls
 ---
 
-# HTC Vive Pro 2 controls 
+# HTC Vive Pro 2 controls
+
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
 
 HTC Vive Pro 2 controls are shown below:
 

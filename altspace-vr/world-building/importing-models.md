@@ -8,6 +8,9 @@ keywords: models, glTF, importing, sketchfab, troubleshooting
 
 # Importing glTF models
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 > [!NOTE]
 > This feature is available for select users in the Early Access program at this time.
 

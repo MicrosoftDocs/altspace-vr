@@ -8,6 +8,9 @@ keywords: console, multimedia
 
 # Using the Multimedia Console
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The Multimedia Console is a tool that enables media sharing in events and worlds. You can use it to share things like images, Dlive.tv livestreams and hosted videos. Below is a step-by-step instruction on how to use the Multimedia Console. 
 
 ## Getting started

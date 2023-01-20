@@ -8,6 +8,9 @@ keywords: oculus, oculus quest, quest 2, troubleshooting, microphone, support
 
 # Oculus Quest/Quest 2 installation
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 > [!IMPORTANT]
 > Make sure you've set up your Oculus Quest before installing AltspaceVR. **[See Oculus Support - How do I set up my Oculus Quest headset?](https://support.oculus.com/855551644803876/#faq_525406631321134)** for more details.
 

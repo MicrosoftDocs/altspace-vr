@@ -8,6 +8,9 @@ keywords: installation, microsoft store, steam
 
 # Windows Mixed Reality installation
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Microsoft Store
 
 To set up Windows Mixed Reality from the Microsoft Store:

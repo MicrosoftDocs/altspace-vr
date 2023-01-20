@@ -8,6 +8,9 @@ keywords: worlds, features
 
 # Managing worlds
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 You’re in luck! See our [World-Building Getting Started Guide](world-building-getting-started.md) to visit your first personal World. If you want to use advanced features or create other Worlds and Universes, this guide is for you. Limited World controls are available in VR and full controls are available on our website.
 
 ## Creating extra Worlds

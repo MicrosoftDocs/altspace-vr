@@ -10,6 +10,9 @@ keywords: events, terminology, console, multimedia, world editor, live stream, u
 
 # Creating an event
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ![Event in AltspaceVR](images/step-03-host-your-own-events.png)
 
 This is a step-by-step guide for creating events in AltspaceVR. It's highly recommended that you attend several events in AltspaceVR to get a feel for how they work. Check the [AltspaceVR Events Calendar](https://account.altvr.com/events) for a list of all our Main Events.

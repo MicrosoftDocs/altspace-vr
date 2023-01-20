@@ -8,6 +8,9 @@ keywords: world editor
 
 # Getting started with the World Editor
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The World Editor contains the tools and abilities you need to spawn, manipulate, and place objects and elements to construct a world. It's role-dependent, which means you can only access the World Editor in places that are yours to customize, like your home-space, events, or worlds. In these spaces, your World Editor appears on the lower right-hand corner of your field of view.
 
 ![World editor panel options](images/world-editor-img-01.png)

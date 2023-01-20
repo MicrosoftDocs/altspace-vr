@@ -8,6 +8,9 @@ keywords: skyboxes, troubleshooting
 
 # Uploading custom Skyboxes
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 A Skybox is a way to create a **background** for your World that makes the experience more immersive. There are different kinds of Skyboxes but we currently support **equirectangular**: 
 
 ![360 equirectangular view of a living room](images/custom-skyboxes-img-01.jpeg)

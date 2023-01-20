@@ -8,6 +8,9 @@ keywords: abilities, users, roles
 
 # Adding user abilities
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 You can’t fly in Events because it would likely be disruptive. However, in your Worlds, you can let people take off like the Wicked Witch of the East. Here’s how you can grant special abilities.
 
 ![World open in website with VR default contextual roles highlighted](images/contextual_roles.png)

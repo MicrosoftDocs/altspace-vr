@@ -7,7 +7,7 @@ brand: windows
 
 metadata:
   title: Welcome to AltspaceVR! # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: Explore the expanding world of VR events with AltspaceVR. # Required; article description that is displayed in search results. < 160 chars.
+  description: IMPORTANT NOTICE - AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr # Required; article description that is displayed in search results. < 160 chars.
   services: mixed-reality 
   ms.service: mixed-reality #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
@@ -25,9 +25,9 @@ highlightedContent:
       itemType: overview
       url: overview.md
     # Card
-    - title: Beginner's guide
-      itemType: get-started
-      url: explore/beginners-guide.md
+    - title: DOWNLOAD YOUR CONTENT
+      itemType: whats-new
+      url: download-my-data.md
     # Card
     - title: Hosting events 
       itemType: how-to-guide
@@ -36,10 +36,6 @@ highlightedContent:
     - title: Building worlds
       itemType: learn
       url: explore/beginners-guide.md#building-your-own-world
-    # Card
-    - title: Early access 
-      itemType: whats-new
-      url: world-building/early-access.md
     # Card
     - title: Troubleshooting 
       itemType: reference

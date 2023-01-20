@@ -8,6 +8,9 @@ keywords: help
 
 # Where can I get help?
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Friends don't let friends build worlds alone. Here are some ways to get help:
 
 * Search through this [Knowledge Base](../index.yml) and browse through the [world-building section](world-editor-getting-started.md), in particular. Create an account (Click "Sign In" at the top right, then "Sign Up") and Follow this section to get alerted when new articles are published.

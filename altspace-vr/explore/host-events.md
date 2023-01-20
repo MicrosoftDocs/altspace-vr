@@ -10,6 +10,9 @@ keywords: AltspaceVR, event hosting, host guide, events, virtual meetup, virtual
 
 # Hosting events in AltspaceVR
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ![AltspaceVR banner image](images/altspace-vr-banner.png)
 
 AltspaceVR is the premier virtual platform for hosting events, client meetings, keynotes, stand-ups, or simply providing a watercooler-style space for your team. There are many ways to use AltspaceVR for your needs today. Follow the steps here to get started.

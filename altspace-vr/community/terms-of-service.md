@@ -8,6 +8,9 @@ keywords: terms of service
 
 # Terms of service
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 **END USER LICENSE AGREEMENT AND TERMS OF SERVICE**
 
 **Effective Date: October 3, 2017**  

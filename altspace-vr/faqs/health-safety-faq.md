@@ -10,6 +10,9 @@ keywords: vr, AlspaceVR, troubleshooting, support, health, safety, nausea reduct
 
 # Frequently asked questions on health and safety
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Why do some people feel ill in VR?
 
 It's a widespread belief that all VR causes vertigo and nausea. This problem happens when your brain has difficulty adjusting to the discrepancy between your eyes and inner ear.   When your eyes detect motion and your ears communicate that you're standing still, some individuals' brains may react by inducing dizziness and nausea. Some people who are more susceptible to motion sickness may be more sensitive to this phenomenon, while others may not have an issue with it. 

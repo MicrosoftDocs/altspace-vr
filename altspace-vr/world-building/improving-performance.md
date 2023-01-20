@@ -8,6 +8,9 @@ keywords: performance, troubleshooting
 
 # Improving world performance
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 We want people to have a good experience so performance, or how well your World runs on VR headsets, matters immensely. Our World Building system is designed for great performance for most common use cases. If you're looking to maximize Presence, this guide is for you. Altspace aspires to support every hardware platform. While we encourage World Builders to push the limits, for public Worlds we recommend you target the Oculus Quest and any PC-based platform like Windows Mixed Reality, Oculus Rift/Rift S, or HTC Vive. To keep it simple, if your World runs well on a Quest, it's probably great for Altspace.
 
 ## Tools and Measurement

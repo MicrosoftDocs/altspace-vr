@@ -10,6 +10,9 @@ keywords: registration, account, account creation, account linking, microsoft ac
 
 # Creating and Linking Your AltspaceVR Account
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 [![Download and install AltspaceVR](images/download-altspace.png)](https://altvr.com/get-altspacevr/)
 
 ## **Best practice for initial creation of your AltspaceVR account:** ##

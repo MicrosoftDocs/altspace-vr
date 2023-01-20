@@ -10,6 +10,9 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 # User safety and moderation
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 This is a quick guide to AltspaceVR safety tools, where you can learn about the Safety Tools available to you.
 
 <br>

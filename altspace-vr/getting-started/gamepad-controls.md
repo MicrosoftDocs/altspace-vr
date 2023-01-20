@@ -10,6 +10,9 @@ keywords: xbox, xbox 360, gamepad, windows, controls
 
 # Using a Gamepad in AltspaceVR
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 AltspaceVR has built-in gamepad support for Windows and automatically recognizes Xbox 360 controllers. VR controls map to the Xbox 360 gamepad, including the teleport system, mouse cursor control, and page scrolling. You'll find a full list of controls and action mapping below.
 
 ## Gamepad controls
