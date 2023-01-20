@@ -10,6 +10,9 @@ keywords: vr, audio, troubleshooting, support
 
 # Frequently asked questions about audio
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Does my VR headset have a built-in mic?
 
 ### Oculus Rift/Rift S, Oculus Quest/Quest 2, Windows Mixed Reality and HTC Vive

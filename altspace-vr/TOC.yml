@@ -1,5 +1,7 @@
 - name: Welcome to AltspaceVR
   href: index.yml
+- name: DOWNLOAD YOUR CONTENT 
+  href: download-my-data.md
 - name: AltspaceVR overview
   href: overview.md
 - name: User safety and moderation

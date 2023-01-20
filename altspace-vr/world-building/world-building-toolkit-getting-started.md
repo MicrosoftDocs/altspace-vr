@@ -8,6 +8,9 @@ ms.topic: article
 
 # Introducing the AltspaceVR Uploader
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 > [!NOTE]
 > If you're trying to revive an old space, see the [upgrade guide](upgrading-old-unity-projects.md).
 

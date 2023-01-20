@@ -8,6 +8,9 @@ keywords: spawner, interactions, customizations
 
 # Using the Interactables Spawner
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The Interactables Spawner allows you to place interactable items in your event, world, or home-space. This feature is currently part of our [Early Access Program](../world-building/early-access.md) and won't be available unless you've opted in through your Main Menu.
 
 > [!NOTE]

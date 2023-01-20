@@ -8,6 +8,9 @@ keywords: world editor, unity uploader, forums
 
 # Getting started with AltspaceVR
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Welcome to the AltspaceVR developer forums! Explore the different ways you can add content to AltspaceVR in the following sections.
 
 ## Mixed Reality Extension (MRE) SDK

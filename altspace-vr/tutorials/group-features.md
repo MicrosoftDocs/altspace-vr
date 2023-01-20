@@ -10,6 +10,9 @@ keywords: groups, private events, patreon, eventbrite, troubleshooting
 
 # Using the Groups Feature to Create Private Events
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Our Groups Feature gives hosts the ability to create a VR space that is open to an approved list of guests. Hosts can manually add any AltspaceVR usernames/emails they’d like to grant access to their space. Here’s how you can use this feature to host events, meetings, and conferences:
 
 > [!NOTE]

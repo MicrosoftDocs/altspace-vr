@@ -8,6 +8,9 @@ keywords: world, sharing
 
 # Creating your first AltspaceVR world
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Welcome, World-Builder!
 
 This guide will help you create and share your first AltspaceVR World! The instructions below step you through creating a world in your browser. You can also create worlds using the AltspaceVR app in your headset.

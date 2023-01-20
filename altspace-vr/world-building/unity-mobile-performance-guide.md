@@ -8,6 +8,9 @@ keywords: world editor, performance, oculus, quest, unity, textures, lightmaps, 
 
 # AltspaceVR Mobile Performance Guide
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## **Main Points:**
 
 * **72 FPS** on Oculus Quest 1 and 2, is the target.

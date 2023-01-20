@@ -8,7 +8,10 @@ keywords: help, support
 
 # Open a support ticket
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Need a hand? Reach out to our Support Team!
 
 > [!div class="nextstepaction"] 
-> [Open a Support Ticket](https://altvr.com/support)
+> [How to contact our Support Team](https://altvr.com/support)

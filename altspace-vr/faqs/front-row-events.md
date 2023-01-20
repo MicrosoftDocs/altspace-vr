@@ -8,6 +8,9 @@ keywords: faq
 
 # What are FrontRow events? 
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Front Row Events allow any number of audience members to attend our most exciting events. Whether it's stand-up comedy or a musical concert, we want everyone to be able to participate and enjoy these events without having to wait in any lines. 
 
 Our Front Row technology allows the performer to be On-Air across as many VR venue instances as needed to support the number of interested attendants of that particular event. 

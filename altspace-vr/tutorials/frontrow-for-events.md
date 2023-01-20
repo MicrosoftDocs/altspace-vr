@@ -8,6 +8,9 @@ keywords: host tools, front row, event
 
 # Host tools for FrontRow events
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 This article is based on you having FrontRow enabled for your event. To enable FrontRow for your event, see this article: [Scaling Your Audiences with the FrontRow Feature](../faqs/scaling-audiences.md).
 
 If you'd like to learn about the Host Tools for a non-FrontRow event look here: [Host Tools Overview](host-tools-overview.md)

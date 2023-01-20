@@ -7,6 +7,8 @@ keywords: roles
 ---
 
 # Granting world roles
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
 
 Altspace has a Roles and Abilities system. Each person can have multiple roles and their roles can be different depending on where they are. Each role, in turn, gives you one or more abilities. For example, when you're in your own event, you automatically receive the **host** and **moderator** roles. With those two roles you can kick unruly users, be on stage, and maybe release the confetti.
 

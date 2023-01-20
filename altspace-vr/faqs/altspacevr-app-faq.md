@@ -10,6 +10,9 @@ keywords: vr, AltspaceVR, troubleshooting, support
 
 # Frequently asked questions about the AltspaceVR app
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Finding the AltspaceVR app version
 
 In troubleshooting an issue, you may be asked what version of the AltspaceVR app you're currently running.

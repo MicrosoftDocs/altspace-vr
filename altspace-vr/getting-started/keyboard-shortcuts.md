@@ -10,6 +10,9 @@ keywords: keyboard, shortcuts
 
 # Keyboard shortcuts
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ![Keyboard shortcuts](images\keyboard-shortcuts.svg)
 
 | Key | Action |

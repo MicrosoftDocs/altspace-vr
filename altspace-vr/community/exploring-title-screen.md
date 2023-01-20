@@ -10,6 +10,9 @@ keywords: title screen, features, tutorials, login, account, entry code, destina
 
 # Exploring the Title Screen
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The AltspaceVR Title Screen is your primary starting point for exploring the platform. From here, you can do things like login, explore the Main Menu, enter an event with a code, customize your avatar, and more. Below is an overview of the Title Screen and its functions. 
 
 ## Tutorial Features & login 

@@ -10,6 +10,9 @@ keywords: vr, AltspaceVR, troubleshooting, support, accounts, avatars
 
 # Frequently asked questions about accounts and avatars
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## How do nametags work?
 
 If you’d like to see another user’s nametag, select their avatar with your cursor, and their nametag will then display above.

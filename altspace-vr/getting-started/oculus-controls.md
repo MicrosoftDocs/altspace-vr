@@ -10,6 +10,9 @@ keywords: oculus, oculus quest, controls, permissions, hand gestures
 
 # Oculus Quest/Quest 2 controls and permissions
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Basic controls
 
 ![Oculus Quest/Quest 2 controls.](images/quest2-controls.svg)

@@ -8,6 +8,9 @@ keywords: requirements, head-mounted displays, oculus rift, htc vive, windows 2d
 
 # Minimum system requirements
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 We recommend the minimum system profiles below to get the full AltspaceVR experience. AltspaceVR supports the following head-mounted displays:
 
 * Oculus Rift CV1

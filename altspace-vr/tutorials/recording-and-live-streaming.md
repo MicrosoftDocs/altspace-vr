@@ -10,6 +10,9 @@ keywords: streaming, recording, video, audio, youtube, obs, live
 
 # Recording and live streaming
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Recording and Live Streaming your AltspaceVR experience to show others around the world is a great way to promote your event, AltspaceVR, and VR in general! Take a look below to see how to get started.
 
 In this article, you'll learn how to:

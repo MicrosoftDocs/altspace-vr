@@ -8,6 +8,9 @@ keywords: scaling, front row
 
 # Scaling your audiences with FrontRow feature
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## What is FrontRow?
 
 FrontRow is an AltspaceVR technology that allows your entire event to be 'mirrored' across multiple instances. FrontRow enables you to scale your audience beyond individual room caps and can be used to accommodate large audiences in a single event. Without FrontRow, your audience size will be limited to the room cap by your primary environment.

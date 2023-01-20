@@ -8,6 +8,9 @@ keywords: welcome, troubleshooting
 
 # Adding welcome messages
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 When you enter a World you may see a welcome message like this:
 
 ![New signin message for a world](images/welcome-img-01.png)

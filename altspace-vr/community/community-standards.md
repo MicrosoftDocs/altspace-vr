@@ -8,6 +8,9 @@ keywords: community, standards, harassments, warning
 
 # Community standards
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The AltspaceVR Community Standards are a set of principles that will allow for community members to experience a truly fantastic environment without the threat of defamation and intolerance, bullying, and harassment, lewd behavior, or the display of offensive content. The following addresses each area and Microsoft's expectation of user behavior while logged into the AltspaceVR service or while posting on social media pages and forums managed by Microsoft.
 
 ## Defamation and Intolerance
