@@ -202,7 +202,7 @@ Yes. The app will be available for download until Friday, March 10th, 2023.
 
 ### How can I learn more about Microsoft Mesh? 
 
-To learn more about Microsoft Mesh, visit <https://mesh.com>. 
+To learn more about Microsoft Mesh, visit <http://mesh.com>. 
 
 ## Contact support
 
