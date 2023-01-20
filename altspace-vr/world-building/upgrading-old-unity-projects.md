@@ -9,6 +9,9 @@ keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 Upgrading Old Unity Projects
 =============================
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Over the years, AltspaceVR has undergone several infrequent upgrades requiring users to change their content. If you find
 that a template or kit that you've uploaded in the past is not accessible in the latest version of AltspaceVR, follow
 this guide to get your content up and running again.

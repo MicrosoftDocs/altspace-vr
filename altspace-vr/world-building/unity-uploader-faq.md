@@ -8,6 +8,9 @@ keywords: help, faq
 
 # Unity Uploader help
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 **1. How awesome is this tool?**
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/cheyenne-mountain-gate-room-v1/player]

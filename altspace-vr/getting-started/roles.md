@@ -8,6 +8,9 @@ keywords: roles, events, worlds, groups, promotion
 
 # Roles in events, worlds, groups, and in AltspaceVR
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Roles are like the ‘Credits’ at the end of a movie. There’s the Executive Producer, the Director, the Actors, and even crowd control. They're all in charge of something different, all with an important role to play.
 
 ## Roles in events

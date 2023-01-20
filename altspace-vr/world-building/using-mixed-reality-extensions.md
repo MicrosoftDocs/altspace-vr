@@ -8,6 +8,9 @@ keywords: mixed reality, extensions, troubleshooting
 
 # Using a Mixed Reality Extension
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 [Mixed Reality Extensions](https://developer.altvr.com/) (MREs) are apps you can use in your Worlds from [helmets](https://account.altvr.com/mres/1173667287173955931) to a working [Stargate](https://account.altvr.com/mres/1152987031857529562). This is how community members with programming experience can extend Altspace and one-way World Builders can make their Worlds more interactive. While MREs can be used by anyone in a World, only people in the World Building Program can browse and spawn MREs in their Worlds. 
 
 1. Browse the MRE section of our [website](https://account.altvr.com/mres). By default you'll see your own MREs so select on **Altspace** to see official MREs and **Featured** to see MREs from the community. Get familiar with any MRE before you use it in your World. 

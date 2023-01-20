@@ -8,6 +8,9 @@ keywords: teleporter
 
 # Using the teleporter
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Traveling from one Event or World to another is a great way for you and the community to explore everything AltspaceVR has to offer.
 
 ## The short version

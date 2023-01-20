@@ -10,6 +10,9 @@ keywords: host tools, mute, message, stage blocking, audience participation
 
 # Host tools overview
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 When you create an event, you are the automatic Host of that event. The Host role grants you access to special features and abilities created specifically to make hosting a live virtual event simple and easy. Below is a detailed overview of these features and abilities, and other helpful hints for hosting events in AltspaceVR.
 
 <br>

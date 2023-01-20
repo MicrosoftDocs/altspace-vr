@@ -10,6 +10,9 @@ keywords: kits, uploading, troubleshooting
 
 # Uploading custom kits
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The World Editor has Kits containing Artifacts that you can spawn into your World. To create your own Kit, you have to create Unity AssetBundles and upload a .zip file containing a Unity Prefab for each Artifact and register each Artifact on our website. Fortunately, the community-driven Unity Uploader automates most of the workflow. Once uploaded, you can spawn objects from your own Kits in your Worlds and other users can automatically see them. Later, you can share your Kit with your friends or even with the entire Community by being featured.
 
 ## Prerequisites

@@ -10,6 +10,9 @@ keywords: avatar, mouse, keyboard, 2d, pc mode, controls
 
 # Avatar controls with mouse/keyboard in 2D PC mode
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 There are two different control schemes for 2D PC Mode using a mouse and keyboard:
 * New PC Controls, which is the default for new accounts
 * Classic PC Controls

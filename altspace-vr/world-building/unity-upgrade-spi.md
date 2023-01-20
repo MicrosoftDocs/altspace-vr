@@ -8,6 +8,9 @@ keywords: kits, worlds, unity, updating, shaders, uploader, troubleshooting
 
 # Unity 2020.3, Single-Pass Instancing, and You
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ## Moving to Unity 2020.3.9
 
 Starting today, AltspaceVR has upgraded to a recent version of Unity (2020.3.9). In addition to some performance improvements, this update future-proofs us for forthcoming features that we're excited to incorporate. This change should be compatible with all existing content. If it isn't, feel free to contact support: altvr.com/support

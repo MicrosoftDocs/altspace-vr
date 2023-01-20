@@ -8,6 +8,9 @@ keywords: early access
 
 # Accessing the latest features
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 The Early Access program gives you access to the latest features that are still in development and it's free. We’re working on things that may not be finished but we'd still like you to see. Why? We want to know what you think. Do you like them? Are they valuable to you? Are they annoying? Your feedback is valuable to us and will ultimately help make a better AltspaceVR. Many world building features are only available to users who are in Early Access--here's how you can opt in:
 
 ## Join the Early Access program from within your app

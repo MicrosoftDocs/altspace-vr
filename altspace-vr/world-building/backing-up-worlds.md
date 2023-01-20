@@ -10,6 +10,9 @@ keywords: saving
 
 # Backing up your worlds
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 A Backup is a “snapshot” or record of all the objects in a World at a specific point in time. Suppose you’re building your Dream House and one day you accidentally deleted the living room. If you had created a Backup of your World the day before, you could restore that particular backup, reset your World, and avoid a panic attack. Or perhaps you have a version of your cabin-in-the-woods for every season and you like to switch back and forth between them—you can do that with Backups. Each Backup is specific to a single World and contains not only the transforms (position, rotation, scale) but also other settings on the objects. There's no limit to the number of Backups you can create for a World.  
 
 ## What’s included in a Backup?

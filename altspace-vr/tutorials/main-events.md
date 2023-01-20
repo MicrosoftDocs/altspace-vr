@@ -8,6 +8,9 @@ keywords: events
 
 # Main events and maximizing event visibility
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 Building up and attracting an audience for your event can be intimidating, but don't worry. Here you'll find an overview of the calendar-listing and promotion process, so you can maximize your event's visibility.
 
 With events you have three options when it comes to visibility on the calendar:

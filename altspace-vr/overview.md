@@ -10,6 +10,9 @@ keywords: AltspaceVR, virtual meetup, virtual reality meetup, VR meetup, virtual
 
 # What is AltspaceVR
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 ![AltspaceVR banner image](images/vr-interactions.png)
 
 AltspaceVR is the leading platform for live mixed reality experiences. AltspaceVR allows artists, creators, brands, and businesses to create virtual events more easily. People from all over the world can use this social app to connect and collaborate in real time with a true sense of presence. Expressive avatars, engaging eye contact, spatial sound, and immersive virtual environments allow people to feel like they're together even when oceans apart. AltspaceVR is sitting at the intersection of experience, content, and community. It is the premier place for live concerts, conferences, comedy shows, festivals, tech talks, team meetings, remote collaboration, etc.  

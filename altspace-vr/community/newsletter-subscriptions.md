@@ -8,6 +8,9 @@ keywords: newsletter
 
 # Subscribing to our newsletter
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 We're glad to hear you're interested in receiving updates and news about AltspaceVR. Our weekly newsletter is the best to hear about upcoming events and new features. Our live events include stand-up comedy, Q&A sessions, and musical performances. See an event you'd like to attend? Select the "Interested" button in our email, and we'll make sure to send you a reminder before the event starts, so you don't miss out!
 
 We're constantly updating AltspaceVR and scheduling events just for you. 

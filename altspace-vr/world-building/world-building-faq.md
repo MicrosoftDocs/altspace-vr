@@ -8,6 +8,9 @@ keywords: help
 
 # World-building help
 
+>[!Important]
+>AltspaceVR is shutting down on March 10, 2023. For more information, please visit https://aka.ms/altvr.
+
 1. **What is a World? What is a Universe?**
 An Altspace "World" is a virtual place that people can join and hang out in. A "Universe" is a collection of Worlds. For example, the "Star Wars" Universe might contain the Worlds "Tatooine" and "Coruscant".
 
