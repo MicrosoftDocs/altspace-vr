@@ -47,7 +47,7 @@ Once you have downloaded all your Photos with the downloader, you will not be pr
 
 ### How to download your individual Photos 
 
-Log into <http://altvr.com> on your PC or Mac, select Photos from the top menu. This will take you to your Photos page: <https://account.altvr.com/photos>.  
+Log into <https://altvr.com> on your PC or Mac, select Photos from the top menu. This will take you to your Photos page: <https://account.altvr.com/photos>.  
 
 Select the Photo you want to download, select the Photo again, and the full-sized Photo will download from your browser. 
 
@@ -122,7 +122,7 @@ Follow the instructions above on [**How to download my available data**](#how-to
 
 ### How to see all your individual past Event info and metrics 
 
-Log into <http://altvr.com> on your computer, select **Events** from the top menu, then **My Events** and then **My Past Events**. This will take you to your My Past Events page at <https://account.altvr.com/events/my?state=finished>.  
+Log into <https://altvr.com> on your computer, select **Events** from the top menu, then **My Events** and then **My Past Events**. This will take you to your My Past Events page at <https://account.altvr.com/events/my?state=finished>.  
  
 Select the **Event** you want to look at, then scroll down the page and look on the left side of the page for **Metrics**. These stats include: **Interested**, **Attended** (unique people at your event), **Peak Concurrent Users**, **Joins** (total of all joins, including people joining the event multiple times) and **Overall Rating** (ratings for your event). 
 
@@ -202,7 +202,7 @@ Yes. The app will be available for download until Friday, March 10th, 2023.
 
 ### How can I learn more about Microsoft Mesh? 
 
-To learn more about Microsoft Mesh, visit <http://mesh.com>. 
+To learn more about Microsoft Mesh, visit <https://mesh.com>. 
 
 ## Contact support
 
