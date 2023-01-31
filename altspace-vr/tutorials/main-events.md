@@ -50,7 +50,7 @@ During the event-creation process, you can select "Add as Main Event" and automa
 | Kits Size (Mobile) | 0-5 MB | 6-20 MB | 21+ MB |
 | Photos | 0-10 | 11-20 | 21+ |
 | Teleporters | 0-10 | 11-20 | 21+ |
-| Template (Mobile) | 0-10 MB | 11-25 MB | 25+ MB |
+| Template (Mobile) | 0-25 MB | 25-50 MB | 50+ MB |
 | Skybox (Mobile) | 0-2 MB | 3-5 MB | 6+ MB |
 | Missing Kits |  |  | Any |
 | Missing Artifacts |  |  | Any |
