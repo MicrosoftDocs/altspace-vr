@@ -10,20 +10,355 @@
             "redirect_url": "/windows/mixed-reality/altspace-vr/getting-started/creating-and-linking-accounts/",
             "redirect_document_id": false
 		},
-            {
-                  "source_path": "altspace-vr/tutorials/host-tools-for-events.md",
-                  "redirect_url": "/windows/mixed-reality/altspace-vr/tutorials/frontrow-for-events",
-                  "redirect_document_id": false
-            },
-            {
-                  "source_path": "altspace-vr/community/community-helper-program.md",
-                  "redirect_url": "/windows/mixed-reality/altspace-vr/",
-                  "redirect_document_id": false
-            },
-            {
-                  "source_path": "altspace-vr/community/community-helper-guide.md",
-                  "redirect_url": "/windows/mixed-reality/altspace-vr/",
-                  "redirect_document_id": false
-            }
+        {
+            "source_path": "altspace-vr/tutorials/host-tools-for-events.md",
+            "redirect_url": "/windows/mixed-reality/altspace-vr/tutorials/frontrow-for-events",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/community-helper-program.md",
+            "redirect_url": "/windows/mixed-reality/altspace-vr/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/community-helper-guide.md",
+            "redirect_url": "/windows/mixed-reality/altspace-vr/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/download-my-data.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/index.yml",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/overview.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/user-safety.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/community-standards.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/creating-content.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/exploring-title-screen.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/feature-requests.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/filing-abuse-reports.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/newsletter-subscriptions.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/open-support-ticket.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/public-beta-build.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/software-license-terms.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/community/terms-of-service.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/explore/beginners-guide.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/explore/host-events.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/account-avatar-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/altspacevr-app-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/audio-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/front-row-events.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/health-safety-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/faqs/scaling-audiences.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/avatar-controls.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/creating-and-linking-accounts.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/gamepad-controls.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/htc-vive-pro-controls.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/keyboard-shortcuts.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/oculus-controls.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/oculus-installation.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/overview.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/roles.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/system-requirements.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/wmr-controls.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/getting-started/wmr-installation.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/includes/troubleshooting.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/creating-an-event.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/frontrow-for-events.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/group-features.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/host-tools-overview.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/interactable-spawner.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/main-events.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/multimedia-console.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/recording-and-live-streaming.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/recovering-deleted-events.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/teleporting.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/tutorials/web-projector-streaming.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/adding-custom-spawn-points.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/adding-user-abilities.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/adding-welcome-messages.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/backing-up-worlds.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/early-access.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/getting-help.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/granting-roles.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/importing-models.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/improving-performance.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/managing-worlds.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/unity-mobile-performance-guide.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/unity-upgrade-spi.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/unity-uploader-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/upgrading-old-unity-projects.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/uploading-custom-kits.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/uploading-custom-skyboxes.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/using-mixed-reality-extensions.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/world-building-faq.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/world-building-getting-started.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/world-building-toolkit-getting-started.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "altspace-vr/world-building/world-editor-getting-started.md",
+            "redirect_url": "https://altvr.com/",
+            "redirect_document_id": false
+        }
 	]
 }
